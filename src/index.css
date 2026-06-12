@@ -1,0 +1,154 @@
+@import "tailwindcss";
+
+/* --- CUSTOM FONTS SETUP --- */
+/* Ensure the path aligns with where your index.css is located relative to assets */
+
+
+/* --- 1. CUSTOM FONT FACE DECLARATIONS --- */
+
+/* Almarena Neue (Body Text) */
+@font-face {
+  font-family: 'Almarena Neue';
+  src: url('./assets/AlmarenaNeue-Regular-iF66afd734ef9a2.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Almarena Neue';
+  src: url('./assets/AlmarenaNeue-RegularItalic-iF66afd734f3c92.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Almarena Neue';
+  src: url('./assets/AlmarenaNeue-Bold-iF66afd734b3748.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Almarena Neue';
+  src: url('./assets/AlmarenaNeue-BoldItalic-iF66afd734b7c72.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Almarena Neue';
+  src: url('./assets/AlmarenaNeue-Black-iF66afd734a9f0e.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Almarena Neue';
+  src: url('./assets/AlmarenaNeue-BlackItalic-iF66afd734af400.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Almarena Neue Display (Headers & Brand Elements) */
+@font-face {
+  font-family: 'Almarena Neue Display';
+  src: url('./assets/AlmarenaNeueDisplay-Regular-iF66afd734ef9a2.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Almarena Neue Display';
+  src: url('./assets/AlmarenaNeueDisplay-Medium-iF66afd734e6b8e.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Almarena Neue Display';
+  src: url('./assets/AlmarenaNeueDisplay-SemiBold-iF66afd73503c4b.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Almarena Neue Display';
+  src: url('./assets/AlmarenaNeueDisplay-Bold-iF66afd734c41db.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Almarena Neue Display';
+  src: url('./assets/AlmarenaNeueDisplay-ExtraBold-iF66afd734cc909.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+
+/* Add other variations (Italic, Black, Thin) following the exact same pattern if you need them */
+
+
+/* --- LIGHT MODE & MOBILE SETUP --- */
+/* --- UPDATED DASHBOARD SETUP --- */
+@theme {
+  /* 1. Structural Spacing */
+  --spacing: 0.25rem; /* Base engine (1 = 4px) */
+   --spacing-layout-gap: 0.25rem; /* 4px (Equivalent to gap-1) */
+  --spacing-card-pad: 1rem;
+  --spacing-inner-gap: 0.5rem;   /* 8px */      /* 16px (Equivalent to p-4) */
+  --spacing-mobile-w: 392px; 
+  --spacing-mobile-h: 848px;
+
+  /* 2. Semantic Colors (Black & White Overlay Theme) */
+  --color-background-desktop: #E5E7EB; /* Light gray for outside the phone */
+  --color-background-app: #000000;     /* The core black background of the app */
+  
+  --color-surface: #FFFFFF;            /* The white overlay card */
+  --color-surface-hover: #F3F4F6;      /* Tap states and pill backgrounds */
+  --color-border: #E5E7EB;             /* Soft dividers */
+  
+  /* Text Colors */
+  --color-text-primary: #111827;       /* Main dark text */
+  --color-text-muted: #6B7280;         /* Secondary text */
+  --color-text-inverse: #FFFFFF;       /* Text on black backgrounds */
+
+  /* 3. Widget Specific Colors */
+  /* Sleep Widget */
+  --color-widget-sleep-bg: #FFC9A9;
+  --color-widget-sleep-chart: #E27D60;
+  --color-widget-sleep-accent: #b07f66; /* For the "h" and "min" text */
+
+  /* Stress Widget */
+  --color-widget-stress-bg: #D8C4FF;
+  --color-widget-stress-chart: #9E77ED;
+
+  /* Quiz Widget */
+  --color-widget-quiz-bg: #B9FBC0;
+
+  /* 4. Typography (Almarena Mapped precisely to your design) */
+  --font-sans: "Almarena Neue", sans-serif;
+  --font-display: "Almarena Neue Display", sans-serif;
+  
+  --text-xxs: 0.6875rem; /* 11px - For Mood Pills */
+  --text-xs: 0.75rem;    /* 12px - Welcome back, Card labels */
+  --text-sm: 0.875rem;   /* 14px - Date, Quiz buttons */
+  --text-base: 1rem;     /* 16px - Name, "min" text */
+  --text-md: 1.0625rem;  /* 17px - Quiz question text */
+  --text-xl: 1.25rem;    /* 20px */
+  --text-2xl: 1.5rem;    /* 24px - "h" text */
+  --text-3xl: 1.75rem;   /* 28px - "High" status */
+  --text-4xl: 2rem;      /* 32px - Sleep hours number */
+  --text-5xl: 2.25rem;   /* 36px - Main Greeting Header */
+
+  /* 5. Borders & Radii */
+  --radius-sm: 0.75rem;       /* 12px - Inner cards & overlay bottom */
+  --radius-md: 1rem;          /* 16px - Quiz buttons & Active Nav icon */
+  --radius-overlay: 2.125rem; /* 34px - Overlay top radius */
+  --radius-app: 2.5rem;       /* 40px - Outer app container */
+}
+
+
+/* --- CUSTOM UTILITIES --- */
+@layer utilities {
+  .scrollbar-hide {
+    /* IE and Edge */
+    -ms-overflow-style: none;
+    /* Firefox */
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
