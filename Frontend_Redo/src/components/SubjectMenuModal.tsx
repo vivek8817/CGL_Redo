@@ -1,7 +1,7 @@
 import React from 'react';
 import BottomSheet from './BottomSheet';
 import { useDispatch } from 'react-redux';
-import { resetSubjectProgress } from '../store/subjectsSlice';
+import  resetSubjectProgress  from '../store/subjectsSlice';
 
 interface Props {
   isOpen: boolean;

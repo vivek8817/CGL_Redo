@@ -1,11 +1,18 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
 import * as Popover from '@radix-ui/react-popover';
 import { AngryFace, HappyFace, NeutralFace } from '../components/Faces';
-import { type RootState } from '../store';
+import { type RootState, type AppDispatch } from '../store';
+import { fetchDashboard } from '../store/streakSlice';
 
 const CalendarScreen = () => {
-  const activityLog = useSelector((state: RootState) => state.streak.activityLog);
+  const dispatch = useDispatch<AppDispatch>();
+  const activityLog = useSelector((state: RootState) => state.streak.activityLog || {});
+  
+  useEffect(() => {
+    // Refresh the dashboard if they land here directly
+    dispatch(fetchDashboard());
+  }, [dispatch]);
   const today = new Date();
 
   // Generate days for the current month (Mocking June for the UI title, but using current month logic)
@@ -48,13 +55,10 @@ const CalendarScreen = () => {
     const log = activityLog[dateStr];
     if (log) {
       totalQuestionsThisMonth += log.questionsAttempted;
-      log.subjectsStudied.forEach(s => {
-        subjectCounts[s] = (subjectCounts[s] || 0) + 1;
-      });
     }
   });
 
-  const topSubject = Object.entries(subjectCounts).sort((a, b) => b[1] - a[1])[0]?.[0] || 'None';
+  const topSubject = 'Mixed Subjects'; // We no longer track subjectsStudied in the database schema
 
   const renderFace = (dateStr: string, isFuture: boolean) => {
     if (isFuture) return <span className="text-text-muted opacity-40 font-bold text-md cursor-default">---</span>;
@@ -135,18 +139,6 @@ const CalendarScreen = () => {
                                 {accuracy}%
                               </span>
                             </div>
-                            {log.subjectsStudied.length > 0 && (
-                              <div className="flex flex-col mt-1">
-                                <span className="text-xs font-bold text-text-muted mb-1">Subjects Studied</span>
-                                <div className="flex flex-wrap gap-1">
-                                  {log.subjectsStudied.map((sub, i) => (
-                                    <span key={i} className="px-2 py-1 bg-surface-hover rounded-sm text-xs font-bold text-text-primary">
-                                      {sub}
-                                    </span>
-                                  ))}
-                                </div>
-                              </div>
-                            )}
                           </>
                         ) : (
                           <div className="py-2 flex items-center justify-center gap-2 text-widget-sleep-chart opacity-80">

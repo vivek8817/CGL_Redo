@@ -23,7 +23,7 @@ const McqSchema: Schema = new Schema({
   text: { type: String, required: true },
   options: [OptionSchema],
   correctOptionId: { type: Number, required: true },
-  explanation: { type: String, required: true }
+  explanation: { type: String, default: "No explanation provided." }
 }, { timestamps: true });
 
 export default mongoose.model<IMcq>('Mcq', McqSchema);

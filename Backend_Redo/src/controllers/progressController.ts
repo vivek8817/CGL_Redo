@@ -100,6 +100,8 @@ export const getDashboard = async (
       username: user.username,
       email: user.email,
       bookmarks: user.bookmarks, // Now holds an array of actual MCQ objects
+      dailyActivity: user.dailyActivity,      // <--- ADD THIS LINE
+      chapterProgress: user.chapterProgress 
     };
 
     return res.status(200).json(userResponse);

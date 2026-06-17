@@ -40,24 +40,27 @@ const SubjectDetailScreen = () => {
     );
   }
 
-  const isNestedParent = 'subSubjects' in currentSubject && currentSubject.subSubjects;
+  const isNestedParent = currentSubject.isNested;
 
-  let totalMcqs = 0;
+  const chapterProgressList = useSelector((state: RootState) => state.streak.chapterProgress || []);
+
   let totalAttempted = 0;
   let totalWrong = 0;
+  let completedChapters = 0;
 
   const chaptersToUse: Chapter[] = isNestedParent 
-    ? currentSubject.subSubjects.flatMap((sub: any) => sub.chapters) 
+    ? currentSubject.subSubjects?.flatMap((sub: any) => sub.chapters || []) || []
     : currentSubject.chapters || [];
 
   chaptersToUse.forEach(c => {
-    totalMcqs += c.totalMcqs;
-    totalAttempted += c.attempted;
-    totalWrong += c.wrong;
+    const progress = chapterProgressList.find((cp: any) => cp.chapterId === c.id) || { attempted: 0, wrong: 0, progressLevel: 'Not Started' };
+    
+    totalAttempted += progress.attempted;
+    totalWrong += progress.wrong;
+    if (progress.progressLevel === 'Strong') completedChapters++;
   });
 
   const accuracy = totalAttempted > 0 ? Math.round(((totalAttempted - totalWrong) / totalAttempted) * 100) : 0;
-  const completedChapters = chaptersToUse.filter(c => c.progressLevel === 'Strong').length;
 
   return (
     <div className="flex-1 w-full bg-background-app flex flex-col relative shrink-0 h-full">
@@ -143,7 +146,8 @@ const SubjectDetailScreen = () => {
             {/* Chapter List */}
             <div className="flex flex-col gap-inner-gap">
               {chaptersToUse.map((chapter: Chapter) => {
-                const chapterAccuracy = chapter.attempted > 0 ? Math.round(((chapter.attempted - chapter.wrong) / chapter.attempted) * 100) : 0;
+                const progress = chapterProgressList.find((cp: any) => cp.chapterId === chapter.id) || { attempted: 0, wrong: 0, progressLevel: 'Not Started' };
+                const chapterAccuracy = progress.attempted > 0 ? Math.round(((progress.attempted - progress.wrong) / progress.attempted) * 100) : 0;
                 
                 return (
                   <div 
@@ -157,25 +161,25 @@ const SubjectDetailScreen = () => {
                       <div className="flex items-center gap-3 mt-1">
                         {/* Status Badge */}
                         <div className={`px-2 py-1 rounded-sm text-xxs font-bold ${
-                          chapter.progressLevel === 'Weak' ? 'bg-widget-sleep-bg/40 text-widget-sleep-chart' : 
-                          chapter.progressLevel === 'Improving' ? 'bg-widget-stress-bg/40 text-widget-stress-chart' :
-                          chapter.progressLevel === 'Strong' ? 'bg-widget-quiz-bg/60 text-[#0f5132]' :
+                          progress.progressLevel === 'Weak' ? 'bg-widget-sleep-bg/40 text-widget-sleep-chart' : 
+                          progress.progressLevel === 'Improving' ? 'bg-widget-stress-bg/40 text-widget-stress-chart' :
+                          progress.progressLevel === 'Strong' ? 'bg-widget-quiz-bg/60 text-[#0f5132]' :
                           'bg-surface-hover text-text-muted'
                         }`}>
-                          {chapter.progressLevel}
+                          {progress.progressLevel}
                         </div>
                         
                         {/* Wrong Count Badge */}
-                        {chapter.wrong > 0 && (
+                        {progress.wrong > 0 && (
                           <div className="flex items-center gap-1 text-widget-sleep-chart text-xs font-bold bg-widget-sleep-bg/20 px-2 py-1 rounded-sm">
                               <iconify-icon icon="solar:close-circle-bold" width="12"></iconify-icon>
-                              {chapter.wrong} Wrong
+                              {progress.wrong} Wrong
                           </div>
                         )}
                       </div>
 
                       {/* Accuracy Progress Bar if attempted */}
-                      {chapter.attempted > 0 && (
+                      {progress.attempted > 0 && (
                         <div className="w-full flex items-center gap-2 mt-2 opacity-80">
                           <div className="flex-1 h-1.5 bg-border rounded-full overflow-hidden">
                             <div className="h-full bg-text-primary rounded-full" style={{ width: `${chapterAccuracy}%` }}></div>

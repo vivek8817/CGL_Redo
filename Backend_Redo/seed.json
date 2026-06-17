@@ -145,85 +145,75 @@
     "id": "geography",
     "title": "Geography",
     "icon": "solar:earth-bold-duotone",
-    "isNested": true,
-    "subSubjects": [
+    "isNested": false,
+    "chapters": [
       {
-        "id": "geo-physical",
-        "title": "Physical Geography",
-        "chapters": [
-          {
-            "id": "geo-phys-1",
-            "title": "Universe and Solar System"
-          },
-          {
-            "id": "geo-phys-2",
-            "title": "Earth: Interior and Composition"
-          },
-          {
-            "id": "geo-phys-3",
-            "title": "Geomorphology: Rocks and Landforms"
-          },
-          {
-            "id": "geo-phys-4",
-            "title": "Climatology: Atmosphere and Weather"
-          },
-          {
-            "id": "geo-phys-5",
-            "title": "Oceanography: Oceans and Currents"
-          }
-        ]
+        "id": "geo-1",
+        "title": "Solar System"
       },
       {
-        "id": "geo-indian",
-        "title": "Indian Geography",
-        "chapters": [
-          {
-            "id": "geo-ind-1",
-            "title": "Location, Extent, and Physical Features"
-          },
-          {
-            "id": "geo-ind-2",
-            "title": "Drainage System (Rivers)"
-          },
-          {
-            "id": "geo-ind-3",
-            "title": "Climate, Vegetation, and Soil"
-          },
-          {
-            "id": "geo-ind-4",
-            "title": "Agriculture and Animal Husbandry"
-          },
-          {
-            "id": "geo-ind-5",
-            "title": "Minerals and Industries"
-          },
-          {
-            "id": "geo-ind-6",
-            "title": "Transport and Communication"
-          }
-        ]
+        "id": "geo-2",
+        "title": "FUNDAMENTALS OF EARTH"
       },
       {
-        "id": "geo-world",
-        "title": "World Geography",
-        "chapters": [
-          {
-            "id": "geo-world-1",
-            "title": "Continents and Major Countries"
-          },
-          {
-            "id": "geo-world-2",
-            "title": "Major Mountain Ranges and Peaks"
-          },
-          {
-            "id": "geo-world-3",
-            "title": "Important Rivers, Lakes, and Seas"
-          },
-          {
-            "id": "geo-world-4",
-            "title": "Economic Geography: Agriculture and Resources"
-          }
-        ]
+        "id": "geo-3",
+        "title": "EARTH'S INTERIOR & PLATE TECTONICS"
+      },
+      {
+        "id": "geo-4",
+        "title": "ROCKS, CONTINENT AND OCEANS"
+      },
+      {
+        "id": "geo-5",
+        "title": "GEOMORPHOLOGY & LANDFORMS"
+      },
+      {
+        "id": "geo-6",
+        "title": "ATMOSPHERE & WATER IN THE ATMOSPHERE"
+      },
+      {
+        "id": "geo-7",
+        "title": "WINDS, CLIMATE & OCEAN CURRENTS"
+      },
+      {
+        "id": "geo-8",
+        "title": "INDIA & ITS BOUNDARY"
+      },
+      {
+        "id": "geo-9",
+        "title": "HIMALAYAS & RELATED GEOGRAPHY"
+      },
+      {
+        "id": "geo-10",
+        "title": "Conservation Sites & Protected Areas of India"
+      },
+      {
+        "id": "geo-11",
+        "title": "SOIL AND AGRICULTURE - COMPLETE NOTES"
+      },
+      {
+        "id": "geo-12",
+        "title": "FORESTS & GRASSLANDS"
+      },
+      {
+        "id": "geo-13",
+        "title": "CLIMATE & MONSOON SYSTEM OF INDIA"
+      },
+      {
+        "id": "geo-14",
+        "title": "DAM SYSTEMS IN INDIA"
+      },
+      {
+        "id": "geo-15",
+        "title": "PENINSULAR RIVER SYSTEMS"
+      },
+      {
+        "id": "geo-16",
+        "title": "DRAINAGE SYSTEMS OF INDIA"
+      },
+      {
+        "id": "geo-17",
+        "title": "NORTHERN PLAINS OF INDIA"
       }
     ]
   },

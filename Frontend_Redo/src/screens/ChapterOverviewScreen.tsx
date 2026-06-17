@@ -10,6 +10,7 @@ const ChapterOverviewScreen = () => {
   const navigate = useNavigate();
   const { id } = useParams();
   const subjectsData = useSelector((state: RootState) => state.subjects.subjects);
+  const chapterProgressList = useSelector((state: RootState) => state.streak.chapterProgress || []);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   let currentChapter: Chapter | null = null;
@@ -90,19 +91,28 @@ const ChapterOverviewScreen = () => {
         <div className="grid grid-cols-3 gap-2 mt-6">
           <div className="flex flex-col bg-surface-hover rounded-sm p-3 border border-border/50">
             <iconify-icon icon="solar:document-text-bold" width="16" style={{ color: "var(--color-text-muted)" }} className="mb-1"></iconify-icon>
-            <span className="text-xl font-bold text-text-primary">{currentChapter.totalMcqs}</span>
+            <span className="text-xl font-bold text-text-primary">-</span>
             <span className="text-xxs font-bold text-text-muted uppercase tracking-wider">Total MCQs</span>
           </div>
-          <div className="flex flex-col bg-surface-hover rounded-sm p-3 border border-border/50">
-            <iconify-icon icon="solar:check-circle-bold" width="16" style={{ color: "var(--color-text-muted)" }} className="mb-1"></iconify-icon>
-            <span className="text-xl font-bold text-text-primary">{currentChapter.attempted}</span>
-            <span className="text-xxs font-bold text-text-muted uppercase tracking-wider">Attempted</span>
-          </div>
-          <div className="flex flex-col bg-widget-sleep-bg/20 rounded-sm p-3 border border-widget-sleep-chart/20">
-            <iconify-icon icon="solar:close-circle-bold" width="16" className="mb-1 text-widget-sleep-chart"></iconify-icon>
-            <span className="text-xl font-bold text-widget-sleep-chart">{currentChapter.wrong}</span>
-            <span className="text-xxs font-bold text-widget-sleep-chart uppercase tracking-wider">Wrong</span>
-          </div>
+          
+          {(() => {
+            const progress = chapterProgressList.find((cp: any) => cp.chapterId === currentChapter!.id) || { attempted: 0, wrong: 0, progressLevel: 'Not Started' };
+            const correct = progress.attempted > 0 ? progress.attempted - progress.wrong : 0;
+            return (
+              <>
+                <div className="flex flex-col bg-surface-hover rounded-sm p-3 border border-border/50">
+                  <iconify-icon icon="solar:check-circle-bold" width="16" style={{ color: "var(--color-text-muted)" }} className="mb-1"></iconify-icon>
+                  <span className="text-xl font-bold text-text-primary">{progress.attempted}</span>
+                  <span className="text-xxs font-bold text-text-muted uppercase tracking-wider">Attempted</span>
+                </div>
+                <div className="flex flex-col bg-surface-hover rounded-sm p-3 border border-border/50">
+                  <iconify-icon icon="solar:target-bold" width="16" style={{ color: "var(--color-text-muted)" }} className="mb-1"></iconify-icon>
+                  <span className="text-xl font-bold text-text-primary">{progress.attempted > 0 ? Math.round((correct / progress.attempted) * 100) : 0}%</span>
+                  <span className="text-xxs font-bold text-text-muted uppercase tracking-wider">Accuracy</span>
+                </div>
+              </>
+            );
+          })()}
         </div>
       </div>
 

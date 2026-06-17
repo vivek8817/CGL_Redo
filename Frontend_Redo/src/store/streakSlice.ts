@@ -1,85 +1,53 @@
-import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
+import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+import api from '../services/api';
 
-export interface DailyActivity {
-  date: string; // Format: YYYY-MM-DD
-  questionsAttempted: number;
-  correctAnswers: number;
-  subjectsStudied: string[];
-}
 
-const getTodayString = () => {
-  const d = new Date();
-  // Ensure we get local YYYY-MM-DD
-  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+
+
+// The new Thunk to fetch User Dashboard from your backend!
+export const fetchDashboard = createAsyncThunk('streak/fetchDashboard', async () => {
+  const response = await api.get('/progress/dashboard');
+  return response.data;
+});
+
+// We store activityLog as a record (dictionary) for easy calendar lookups
+const initialState: { activityLog: Record<string, any>, bookmarks: any[], chapterProgress: any[], loading: boolean } = {
+  activityLog: {},
+  bookmarks: [],
+  chapterProgress: [],
+  loading: false
 };
 
-// Seed some initial data so the calendar looks good initially
-const generateMockData = () => {
-  const log: Record<string, DailyActivity> = {};
-  const today = new Date();
-  
-  for (let i = 1; i <= 28; i++) {
-    const d = new Date(today.getFullYear(), today.getMonth(), i);
-    const dateStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
-    
-    // Don't mock future dates
-    if (d > today) continue;
-
-    // Randomize activity for past dates
-    const rand = Math.random();
-    if (rand > 0.3) {
-      // Present (>= 20 questions)
-      log[dateStr] = {
-        date: dateStr,
-        questionsAttempted: Math.floor(Math.random() * 30) + 20, // 20 to 49
-        correctAnswers: Math.floor(Math.random() * 20) + 10,
-        subjectsStudied: ['Physics', 'History']
-      };
-    } else if (rand > 0.1) {
-      // Mediocre (< 20 questions)
-      log[dateStr] = {
-        date: dateStr,
-        questionsAttempted: Math.floor(Math.random() * 15) + 1, // 1 to 15
-        correctAnswers: Math.floor(Math.random() * 5),
-        subjectsStudied: ['Biology']
-      };
-    }
-    // else Absent (no entry)
-  }
-  return log;
-};
-
-const initialState: { activityLog: Record<string, DailyActivity> } = {
-  activityLog: generateMockData()
-};
 
 export const streakSlice = createSlice({
   name: 'streak',
   initialState,
-  reducers: {
-    logActivity: (state, action: PayloadAction<{ attempted: number; correct: number; subjectTitle: string }>) => {
-      const { attempted, correct, subjectTitle } = action.payload;
-      const today = getTodayString();
-
-      if (!state.activityLog[today]) {
-        state.activityLog[today] = {
-          date: today,
-          questionsAttempted: 0,
-          correctAnswers: 0,
-          subjectsStudied: []
-        };
-      }
-
-      const todayActivity = state.activityLog[today];
-      todayActivity.questionsAttempted += attempted;
-      todayActivity.correctAnswers += correct;
-      
-      if (!todayActivity.subjectsStudied.includes(subjectTitle)) {
-        todayActivity.subjectsStudied.push(subjectTitle);
-      }
-    }
+  reducers: {},
+  extraReducers: (builder) => {
+    builder
+      .addCase(fetchDashboard.pending, (state) => {
+        state.loading = true;
+      })
+      .addCase(fetchDashboard.fulfilled, (state, action) => {
+        state.loading = false;
+        
+        // The backend gives us an Array of activities. 
+        // We convert it into a Record mapped by the 'date' string so the Calendar can easily read it!
+        const logMap: Record<string, any> = {};
+        if (action.payload.dailyActivity) {
+          action.payload.dailyActivity.forEach((activity: any) => {
+            logMap[activity.date] = {
+              date: activity.date,
+              questionsAttempted: activity.attempted,
+              correctAnswers: activity.correct,
+            };
+          });
+        }
+        state.activityLog = logMap;
+        state.bookmarks = action.payload.bookmarks || [];
+        state.chapterProgress = action.payload.chapterProgress || [];
+      });
   }
 });
 
-export const { logActivity } = streakSlice.actions;
 export default streakSlice.reducer;

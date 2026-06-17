@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux';
 import { type RootState } from '../store';
 
 const BookmarksScreen = () => {
-  const bookmarks = useSelector((state: RootState) => state.subjects.bookmarks);
+  const bookmarks = useSelector((state: RootState) => state.streak.bookmarks || []);
   const [expandedIds, setExpandedIds] = useState<Record<string, boolean>>({});
 
   const toggleExpand = (id: string) => {
@@ -56,7 +56,8 @@ const BookmarksScreen = () => {
         ) : (
           <div className="flex flex-col gap-inner-gap mt-1">
             {bookmarks.map(bm => {
-              const uniqueId = `${bm.chapterId}-${bm.mcqId}`;
+              // Now that bookmarks are populated MCQ documents from MongoDB, we use their real _id
+              const uniqueId = bm._id;
               const isExpanded = expandedIds[uniqueId];
 
               return (
@@ -66,25 +67,20 @@ const BookmarksScreen = () => {
                   className="bg-surface rounded-sm p-card-pad flex flex-col gap-2 shadow-sm relative active:scale-[0.98] transition-transform cursor-pointer"
                 >
                   <div className="flex justify-between items-center">
-                    <span className="text-xs font-bold text-text-muted">{bm.subjectTitle} • MCQ</span>
+                    <span className="text-xs font-bold text-text-muted">Saved Concept</span>
                     <iconify-icon icon="solar:bookmark-bold" width="16" style={{ color: "var(--color-text-primary)" }}></iconify-icon>
                   </div>
                   
                   <h3 className={`text-base font-bold text-text-primary leading-tight ${isExpanded ? '' : 'line-clamp-2'}`}>
-                    {bm.mcqText}
+                    {bm.text}
                   </h3>
                   
                   {isExpanded && (
                     <div className="mt-3 flex flex-col gap-3 animate-in fade-in slide-in-from-top-2 duration-200">
-                      <div className="p-3 bg-widget-quiz-bg/20 rounded-sm border border-widget-quiz-bg/50">
-                        <span className="text-xs font-bold text-[#0f5132] uppercase tracking-wider block mb-1">Correct Answer</span>
-                        <span className="text-sm font-bold text-text-primary">{bm.correctAnswerText}</span>
-                      </div>
-                      
-                      <div className="p-3 bg-surface-hover rounded-sm">
-                        <div className="flex items-center gap-1 text-text-primary mb-1">
+                      <div className="p-3 bg-surface-hover rounded-sm border border-border">
+                        <div className="flex items-center gap-1 text-[#0f5132] mb-1">
                           <iconify-icon icon="solar:info-circle-bold" width="16"></iconify-icon>
-                          <span className="text-xs font-bold uppercase tracking-wider">Explanation</span>
+                          <span className="text-xs font-bold uppercase tracking-wider">Concept / Explanation</span>
                         </div>
                         <p className="text-sm font-semibold text-text-muted leading-relaxed">
                           {bm.explanation}
@@ -92,8 +88,6 @@ const BookmarksScreen = () => {
                       </div>
                     </div>
                   )}
-
-                  <span className="text-xs font-semibold text-text-muted opacity-60 mt-1">{formatTimeAgo(bm.timestamp)}</span>
                 </div>
               );
             })}
