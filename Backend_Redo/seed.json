@@ -1,0 +1,454 @@
+[
+  {
+    "id": "history",
+    "title": "History",
+    "icon": "solar:hourglass-bold",
+    "isNested": true,
+    "subSubjects": [
+      {
+        "id": "hist-ancient",
+        "title": "Ancient India",
+        "chapters": [
+          {
+            "id": "hist-anc-1",
+            "title": "Prehistoric Period: Paleolithic, Mesolithic, and Neolithic"
+          },
+          {
+            "id": "hist-anc-2",
+            "title": "Chalcolithic Period: The Copper Age"
+          },
+          {
+            "id": "hist-anc-3",
+            "title": "Indus Valley Civilization: Harappan Civilization"
+          },
+          {
+            "id": "hist-anc-4",
+            "title": "Early Vedic Period: Rigvedic Age"
+          },
+          {
+            "id": "hist-anc-5",
+            "title": "Later Vedic Period"
+          },
+          {
+            "id": "hist-anc-6",
+            "title": "Vedic Literature: Vedas, Upanishads, and Vedangas"
+          },
+          {
+            "id": "hist-anc-7",
+            "title": "Rise of Buddhism"
+          },
+          {
+            "id": "hist-anc-8",
+            "title": "Rise of Jainism"
+          },
+          {
+            "id": "hist-anc-9",
+            "title": "16 Mahajanapadas & the Rise of Magadha"
+          },
+          {
+            "id": "hist-anc-10",
+            "title": "Early Dynasties: Haryanka, Shishunaga, and Nanda"
+          },
+          {
+            "id": "hist-anc-11",
+            "title": "Foreign Invasions: Iranian and Macedonian"
+          },
+          {
+            "id": "hist-anc-12",
+            "title": "Mauryan Empire: Administration, Ashoka's Edicts, and Art"
+          },
+          {
+            "id": "hist-anc-13",
+            "title": "Post-Mauryan Native Dynasties: Shunga, Kanva, and Satavahana"
+          },
+          {
+            "id": "hist-anc-14",
+            "title": "Post-Mauryan Foreign Dynasties: Indo-Greeks, Shakas"
+          },
+          {
+            "id": "hist-anc-15",
+            "title": "Sangam Age: Cheras, Cholas, Pandyas"
+          },
+          {
+            "id": "hist-anc-16",
+            "title": "Gupta Empire: The Golden Age"
+          },
+          {
+            "id": "hist-anc-17",
+            "title": "Post-Gupta Period & Harshavardhana Dynasty"
+          }
+        ]
+      },
+      {
+        "id": "hist-medieval",
+        "title": "Medieval India",
+        "chapters": [
+          {
+            "id": "hist-med-1",
+            "title": "Delhi Sultanate: Origins & Period (1206–1526)"
+          },
+          {
+            "id": "hist-med-2",
+            "title": "Vijayanagara Empire: 1336–1565 AD"
+          },
+          {
+            "id": "hist-med-3",
+            "title": "Mughal Empire: Origins & Foundation"
+          },
+          {
+            "id": "hist-med-4",
+            "title": "Mughal Empire Summary: 1600–1857"
+          },
+          {
+            "id": "hist-med-5",
+            "title": "Maratha State: 1674–1720"
+          },
+          {
+            "id": "hist-med-6",
+            "title": "Cultural Movements: Bhakti & Sufi Movements"
+          }
+        ]
+      },
+      {
+        "id": "hist-modern",
+        "title": "Modern India",
+        "chapters": [
+          {
+            "id": "hist-mod-1",
+            "title": "Advent of Europeans in India"
+          },
+          {
+            "id": "hist-mod-2",
+            "title": "Expansion of British Power"
+          },
+          {
+            "id": "hist-mod-3",
+            "title": "Economic Impact of British Rule"
+          },
+          {
+            "id": "hist-mod-4",
+            "title": "Socio-Religious Reform Movements"
+          },
+          {
+            "id": "hist-mod-5",
+            "title": "The Revolt of 1857"
+          },
+          {
+            "id": "hist-mod-6",
+            "title": "Indian National Movement (1885-1947)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "geography",
+    "title": "Geography",
+    "icon": "solar:earth-bold-duotone",
+    "isNested": true,
+    "subSubjects": [
+      {
+        "id": "geo-physical",
+        "title": "Physical Geography",
+        "chapters": [
+          {
+            "id": "geo-phys-1",
+            "title": "Universe and Solar System"
+          },
+          {
+            "id": "geo-phys-2",
+            "title": "Earth: Interior and Composition"
+          },
+          {
+            "id": "geo-phys-3",
+            "title": "Geomorphology: Rocks and Landforms"
+          },
+          {
+            "id": "geo-phys-4",
+            "title": "Climatology: Atmosphere and Weather"
+          },
+          {
+            "id": "geo-phys-5",
+            "title": "Oceanography: Oceans and Currents"
+          }
+        ]
+      },
+      {
+        "id": "geo-indian",
+        "title": "Indian Geography",
+        "chapters": [
+          {
+            "id": "geo-ind-1",
+            "title": "Location, Extent, and Physical Features"
+          },
+          {
+            "id": "geo-ind-2",
+            "title": "Drainage System (Rivers)"
+          },
+          {
+            "id": "geo-ind-3",
+            "title": "Climate, Vegetation, and Soil"
+          },
+          {
+            "id": "geo-ind-4",
+            "title": "Agriculture and Animal Husbandry"
+          },
+          {
+            "id": "geo-ind-5",
+            "title": "Minerals and Industries"
+          },
+          {
+            "id": "geo-ind-6",
+            "title": "Transport and Communication"
+          }
+        ]
+      },
+      {
+        "id": "geo-world",
+        "title": "World Geography",
+        "chapters": [
+          {
+            "id": "geo-world-1",
+            "title": "Continents and Major Countries"
+          },
+          {
+            "id": "geo-world-2",
+            "title": "Major Mountain Ranges and Peaks"
+          },
+          {
+            "id": "geo-world-3",
+            "title": "Important Rivers, Lakes, and Seas"
+          },
+          {
+            "id": "geo-world-4",
+            "title": "Economic Geography: Agriculture and Resources"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "polity",
+    "title": "Polity",
+    "icon": "solar:scales-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      {
+        "id": "pol-1",
+        "title": "Historical Background and Making of the Constitution"
+      },
+      {
+        "id": "pol-2",
+        "title": "Salient Features, Preamble, and Sources"
+      },
+      {
+        "id": "pol-3",
+        "title": "Union and its Territory, Citizenship"
+      },
+      {
+        "id": "pol-4",
+        "title": "Fundamental Rights"
+      },
+      {
+        "id": "pol-5",
+        "title": "Directive Principles of State Policy (DPSP)"
+      },
+      {
+        "id": "pol-6",
+        "title": "Fundamental Duties"
+      },
+      {
+        "id": "pol-7",
+        "title": "Union Executive: President, VP, PM, Council of Ministers"
+      },
+      {
+        "id": "pol-8",
+        "title": "Union Legislature: Parliament (Lok Sabha & Rajya Sabha)"
+      },
+      {
+        "id": "pol-9",
+        "title": "State Executive and Legislature"
+      },
+      {
+        "id": "pol-10",
+        "title": "Judiciary: Supreme Court and High Courts"
+      },
+      {
+        "id": "pol-11",
+        "title": "Local Government: Panchayati Raj and Municipalities"
+      },
+      {
+        "id": "pol-12",
+        "title": "Constitutional and Non-Constitutional Bodies"
+      },
+      {
+        "id": "pol-13",
+        "title": "Important Amendments and Articles"
+      }
+    ]
+  },
+  {
+    "id": "biology",
+    "title": "Biology",
+    "icon": "solar:test-tube-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      {
+        "id": "bio-1",
+        "title": "Cell: Structure and Functions"
+      },
+      {
+        "id": "bio-2",
+        "title": "Classification of Organisms"
+      },
+      {
+        "id": "bio-3",
+        "title": "Human Body Systems"
+      },
+      {
+        "id": "bio-4",
+        "title": "Nutrition and Vitamins"
+      },
+      {
+        "id": "bio-5",
+        "title": "Diseases and Defense Mechanism"
+      },
+      {
+        "id": "bio-6",
+        "title": "Genetics and Evolution"
+      },
+      {
+        "id": "bio-7",
+        "title": "Botany: Plant Morphology and Physiology"
+      }
+    ]
+  },
+  {
+    "id": "physics",
+    "title": "Physics",
+    "icon": "solar:atom-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      {
+        "id": "phy-1",
+        "title": "Units and Measurements"
+      },
+      {
+        "id": "phy-2",
+        "title": "Motion, Force, and Laws of Motion"
+      },
+      {
+        "id": "phy-3",
+        "title": "Work, Energy, and Power"
+      },
+      {
+        "id": "phy-4",
+        "title": "Gravitation"
+      },
+      {
+        "id": "phy-5",
+        "title": "Properties of Matter"
+      },
+      {
+        "id": "phy-6",
+        "title": "Heat and Thermodynamics"
+      },
+      {
+        "id": "phy-7",
+        "title": "Sound and Wave Motion"
+      },
+      {
+        "id": "phy-8",
+        "title": "Light and Optics"
+      },
+      {
+        "id": "phy-9",
+        "title": "Electricity and Magnetism"
+      },
+      {
+        "id": "phy-10",
+        "title": "Modern Physics and Discoveries"
+      }
+    ]
+  },
+  {
+    "id": "chemistry",
+    "title": "Chemistry",
+    "icon": "solar:flask-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      {
+        "id": "chem-1",
+        "title": "Matter and its States"
+      },
+      {
+        "id": "chem-2",
+        "title": "Atomic Structure"
+      },
+      {
+        "id": "chem-3",
+        "title": "Periodic Table and Properties"
+      },
+      {
+        "id": "chem-4",
+        "title": "Chemical Bonding and Reactions"
+      },
+      {
+        "id": "chem-5",
+        "title": "Acids, Bases, and Salts"
+      },
+      {
+        "id": "chem-6",
+        "title": "Metals and Non-Metals"
+      },
+      {
+        "id": "chem-7",
+        "title": "Carbon and its Compounds"
+      },
+      {
+        "id": "chem-8",
+        "title": "Everyday Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "economics",
+    "title": "Economics",
+    "icon": "solar:chart-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      {
+        "id": "eco-1",
+        "title": "Basic Concepts of Economics"
+      },
+      {
+        "id": "eco-2",
+        "title": "National Income"
+      },
+      {
+        "id": "eco-3",
+        "title": "Economic Planning in India (NITI Aayog & Five Year Plans)"
+      },
+      {
+        "id": "eco-4",
+        "title": "Money and Banking (RBI & Functions)"
+      },
+      {
+        "id": "eco-5",
+        "title": "Inflation and Deflation"
+      },
+      {
+        "id": "eco-6",
+        "title": "Public Finance, Budget, and Taxation"
+      },
+      {
+        "id": "eco-7",
+        "title": "International Organizations (IMF, WB, WTO)"
+      },
+      {
+        "id": "eco-8",
+        "title": "Poverty and Unemployment"
+      }
+    ]
+  }
+]
