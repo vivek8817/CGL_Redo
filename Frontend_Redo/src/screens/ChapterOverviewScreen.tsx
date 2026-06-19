@@ -19,16 +19,20 @@ const ChapterOverviewScreen = () => {
   let subSubjectName = '';
 
   for (const subject of subjectsData) {
-    if (subject.chapters) {
+    // 1. Search in main chapters first (if they exist and have items)
+    if (subject.chapters && subject.chapters.length > 0) {
       const found = subject.chapters.find(c => c.id === id);
       if (found) {
         currentChapter = found;
         subjectName = subject.title;
         break;
       }
-    } else if (subject.subSubjects) {
+    }
+    
+    // 2. IMPORTANT: Use a separate 'if' instead of 'else if', OR just check if currentChapter is still null
+    if (!currentChapter && subject.subSubjects && subject.subSubjects.length > 0) {
       for (const sub of subject.subSubjects) {
-        const found = sub.chapters.find(c => c.id === id);
+        const found = sub.chapters?.find(c => c.id === id);
         if (found) {
           currentChapter = found;
           subjectName = subject.title;
@@ -37,6 +41,7 @@ const ChapterOverviewScreen = () => {
         }
       }
     }
+    
     if (currentChapter) break;
   }
 

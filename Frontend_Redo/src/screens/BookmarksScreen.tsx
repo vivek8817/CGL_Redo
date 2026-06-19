@@ -1,12 +1,21 @@
-import React, { useState } from "react";
-import { useSelector } from "react-redux";
-import { type RootState } from "../store";
+import  { useState, useEffect } from "react";
+import { useSelector, useDispatch } from "react-redux";
+import { type RootState, type AppDispatch } from "../store";
+import { fetchDashboard } from "../store/streakSlice";
 
 const BookmarksScreen = () => {
+  const dispatch = useDispatch<AppDispatch>();
   const bookmarks = useSelector(
     (state: RootState) => state.streak.bookmarks || [],
   );
+  
+  // ADD THIS BLOCK: Fetch bookmarks immediately if the screen is loaded directly
+  useEffect(() => {
+    dispatch(fetchDashboard());
+  }, [dispatch]);
+
   const [expandedIds, setExpandedIds] = useState<Record<string, boolean>>({});
+
 
   const toggleExpand = (id: string) => {
     setExpandedIds((prev) => ({

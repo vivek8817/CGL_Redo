@@ -2,6 +2,7 @@ import React from 'react';
 import BottomSheet from './BottomSheet';
 import { useDispatch } from 'react-redux';
 import  resetChapterProgress  from '../store/subjectsSlice';
+import { resetProgress } from '../store/streakSlice';
 
 interface Props {
   isOpen: boolean;
@@ -12,10 +13,11 @@ interface Props {
 const ChapterMenuModal: React.FC<Props> = ({ isOpen, onClose, chapterId }) => {
   const dispatch = useDispatch();
 
-  const handleReset = () => {
-    dispatch(resetChapterProgress(chapterId));
+    const handleReset = () => {
+    dispatch(resetProgress([chapterId])); // Pass as an array
     onClose();
   };
+
 
   return (
     <BottomSheet isOpen={isOpen} onClose={onClose} title="Chapter Options">

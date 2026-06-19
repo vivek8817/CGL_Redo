@@ -10,6 +10,15 @@ export const fetchDashboard = createAsyncThunk('streak/fetchDashboard', async ()
   return response.data;
 });
 
+export const resetProgress = createAsyncThunk(
+  'streak/resetProgress', 
+  async (chapterIds: string[]) => {
+    const response = await api.post('/progress/reset', { chapterIds });
+    return response.data;
+  }
+);
+
+
 // We store activityLog as a record (dictionary) for easy calendar lookups
 const initialState: { activityLog: Record<string, any>, bookmarks: any[], chapterProgress: any[], loading: boolean } = {
   activityLog: {},
@@ -46,8 +55,14 @@ export const streakSlice = createSlice({
         state.activityLog = logMap;
         state.bookmarks = action.payload.bookmarks || [];
         state.chapterProgress = action.payload.chapterProgress || [];
+      })
+      .addCase(resetProgress.fulfilled, (state, action) => {
+        state.chapterProgress = action.payload.chapterProgress || [];
       });
+
   }
 });
+
+
 
 export default streakSlice.reducer;

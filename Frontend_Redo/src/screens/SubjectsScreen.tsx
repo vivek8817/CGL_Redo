@@ -1,10 +1,21 @@
+import { useEffect } from 'react';
 import { useNavigate } from 'react-router';
-import { useSelector } from 'react-redux';
-import {type RootState } from '../store';
+import { useSelector, useDispatch } from 'react-redux';
+import { type RootState, type AppDispatch } from '../store';
+import { fetchSyllabus } from '../store/subjectsSlice';
 
 const SubjectsScreen = () => {
   const navigate = useNavigate();
+  const dispatch = useDispatch<AppDispatch>();
   const subjectsData = useSelector((state: RootState) => state.subjects.subjects);
+  const status = useSelector((state: RootState) => state.subjects.status);
+  // ADD THIS BLOCK: Fetch syllabus immediately if the screen is loaded directly
+  useEffect(() => {
+    if (status === 'idle') {
+      dispatch(fetchSyllabus());
+    }
+  }, [status, dispatch]);
+
 
   const getSubjectStats = (subject: any) => {
     const chapters = subject.chapters || (subject.subSubjects?.flatMap((s: any) => s.chapters) || []);
