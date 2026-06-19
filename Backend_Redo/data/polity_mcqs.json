@@ -1,0 +1,8368 @@
+[
+  {
+    "chapterId": "polity-1",
+    "text": "Who was the first person to demand a Constituent Assembly for India in 1934?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": 2,
+        "text": "M.N. Roy"
+      },
+      {
+        "id": 3,
+        "text": "B.R. Ambedkar"
+      },
+      {
+        "id": 4,
+        "text": "Sardar Patel"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "When did the Indian National Congress first officially demand a Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1934"
+      },
+      {
+        "id": 2,
+        "text": "1940"
+      },
+      {
+        "id": 3,
+        "text": "1935"
+      },
+      {
+        "id": 4,
+        "text": "1942"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Which of the following constitutional offers was made by the British in 1942?",
+    "options": [
+      {
+        "id": 1,
+        "text": "August Offer"
+      },
+      {
+        "id": 2,
+        "text": "Wavell Plan"
+      },
+      {
+        "id": 3,
+        "text": "Cabinet Mission"
+      },
+      {
+        "id": 4,
+        "text": "Cripps Mission"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Which constitutional proposal was accepted by both INC and the Muslim League?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Wavell Plan"
+      },
+      {
+        "id": 2,
+        "text": "Cripps Mission"
+      },
+      {
+        "id": 3,
+        "text": "Cabinet Mission Plan"
+      },
+      {
+        "id": 4,
+        "text": "August Offer"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who among the following was not a member of the Cabinet Mission?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lord Pethick-Lawrence"
+      },
+      {
+        "id": 2,
+        "text": "A.V. Alexander"
+      },
+      {
+        "id": 3,
+        "text": "Stafford Cripps"
+      },
+      {
+        "id": 4,
+        "text": "Lord Mountbatten"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who referred to Gandhi as “the ambition of the greatest man of our generation has been to wipe every tear from every eye”?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajendra Prasad"
+      },
+      {
+        "id": 2,
+        "text": "B.R. Ambedkar"
+      },
+      {
+        "id": 3,
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": 4,
+        "text": "Sardar Patel"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "What was the role of Liaquat Ali Khan in the Interim Government?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Defence"
+      },
+      {
+        "id": 2,
+        "text": "Finance"
+      },
+      {
+        "id": 3,
+        "text": "Home Affairs"
+      },
+      {
+        "id": 4,
+        "text": "Law"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "How many total seats were allotted in the Constituent Assembly as per the Cabinet Mission Plan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "296"
+      },
+      {
+        "id": 2,
+        "text": "389"
+      },
+      {
+        "id": 3,
+        "text": "308"
+      },
+      {
+        "id": 4,
+        "text": "350"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "What was the basis of seat allocation in the Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1 seat per 5 lakh population"
+      },
+      {
+        "id": 2,
+        "text": "1 seat per state"
+      },
+      {
+        "id": 3,
+        "text": "1 seat per million population"
+      },
+      {
+        "id": 4,
+        "text": "Equal for all states"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Which method was used for electing members to the Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Direct elections"
+      },
+      {
+        "id": 2,
+        "text": "Nominations"
+      },
+      {
+        "id": 3,
+        "text": "Indirect elections through STV"
+      },
+      {
+        "id": 4,
+        "text": "Lottery system"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "When was the first session of the Constituent Assembly held?",
+    "options": [
+      {
+        "id": 1,
+        "text": "26 Jan 1950"
+      },
+      {
+        "id": 2,
+        "text": "9 Dec 1946"
+      },
+      {
+        "id": 3,
+        "text": "26 Nov 1949"
+      },
+      {
+        "id": 4,
+        "text": "21 Feb 1948"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "On which date was the final draft of the Constitution presented to the Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "26 Nov 1949"
+      },
+      {
+        "id": 2,
+        "text": "21 Feb 1948"
+      },
+      {
+        "id": 3,
+        "text": "4 Nov 1948"
+      },
+      {
+        "id": 4,
+        "text": "24 Jan 1950"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who was the chairman of the Drafting Committee?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajendra Prasad"
+      },
+      {
+        "id": 2,
+        "text": "B.N. Rau"
+      },
+      {
+        "id": 3,
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": 4,
+        "text": "B.R. Ambedkar"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "How many original articles did the Indian Constitution contain when adopted?",
+    "options": [
+      {
+        "id": 1,
+        "text": "448"
+      },
+      {
+        "id": 2,
+        "text": "395"
+      },
+      {
+        "id": 3,
+        "text": "300"
+      },
+      {
+        "id": 4,
+        "text": "276"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "How many parts were there in the original Constitution of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "22"
+      },
+      {
+        "id": 2,
+        "text": "25"
+      },
+      {
+        "id": 3,
+        "text": "20"
+      },
+      {
+        "id": 4,
+        "text": "12"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who was the head of the Fundamental Rights Sub-Committee?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sardar Patel"
+      },
+      {
+        "id": 2,
+        "text": "H.C. Mukherjee"
+      },
+      {
+        "id": 3,
+        "text": "J.B. Kripalani"
+      },
+      {
+        "id": 4,
+        "text": "Gopinath Bordoloi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who was the temporary president of the Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajendra Prasad"
+      },
+      {
+        "id": 2,
+        "text": "Sachchidananda Sinha"
+      },
+      {
+        "id": 3,
+        "text": "B.R. Ambedkar"
+      },
+      {
+        "id": 4,
+        "text": "H.C. Mukherjee"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who acted as the Legal Advisor to the Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "S.N. Mukherjee"
+      },
+      {
+        "id": 2,
+        "text": "B.N. Rau"
+      },
+      {
+        "id": 3,
+        "text": "T.T. Krishnamachari"
+      },
+      {
+        "id": 4,
+        "text": "Alladi Krishnaswami"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "What was the total number of members who signed the Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "300"
+      },
+      {
+        "id": 2,
+        "text": "299"
+      },
+      {
+        "id": 3,
+        "text": "284"
+      },
+      {
+        "id": 4,
+        "text": "289"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "What is the national symbol of the Indian Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lion"
+      },
+      {
+        "id": 2,
+        "text": "Elephant"
+      },
+      {
+        "id": 3,
+        "text": "Lotus"
+      },
+      {
+        "id": 4,
+        "text": "Wheel"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "What was the total cost incurred in drafting the Indian Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "₹1 crore"
+      },
+      {
+        "id": 2,
+        "text": "₹1.5 crore"
+      },
+      {
+        "id": 3,
+        "text": "₹64 lakh"
+      },
+      {
+        "id": 4,
+        "text": "₹50 lakh"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who was responsible for calligraphy in English for the Indian Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vasant Krishan Vaidya"
+      },
+      {
+        "id": 2,
+        "text": "Prem Behari Narain Raizada"
+      },
+      {
+        "id": 3,
+        "text": "Nand Lal Bose"
+      },
+      {
+        "id": 4,
+        "text": "S.N. Mukherjee"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who headed the Union Powers Committee in the Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sardar Patel"
+      },
+      {
+        "id": 2,
+        "text": "B.R. Ambedkar"
+      },
+      {
+        "id": 3,
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": 4,
+        "text": "J.B. Kripalani"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Which committee was headed by H.C. Mukherjee?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Minorities Sub-committee"
+      },
+      {
+        "id": 2,
+        "text": "Fundamental Rights"
+      },
+      {
+        "id": 3,
+        "text": "Provincial Constitution"
+      },
+      {
+        "id": 4,
+        "text": "Drafting Committee"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "When was the Constitution enforced?",
+    "options": [
+      {
+        "id": 1,
+        "text": "26 Nov 1949"
+      },
+      {
+        "id": 2,
+        "text": "14 Aug 1947"
+      },
+      {
+        "id": 3,
+        "text": "24 Jan 1950"
+      },
+      {
+        "id": 4,
+        "text": "26 Jan 1950"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Which of the following is not a function of the Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Adopt National Flag"
+      },
+      {
+        "id": 2,
+        "text": "Conduct 1st General Election"
+      },
+      {
+        "id": 3,
+        "text": "Ratify Commonwealth Membership"
+      },
+      {
+        "id": 4,
+        "text": "Act as Provisional Parliament"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Who wrote the national anthem “Jana Gana Mana”?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bankim Chandra Chatterjee"
+      },
+      {
+        "id": 2,
+        "text": "Rabindranath Tagore"
+      },
+      {
+        "id": 3,
+        "text": "Subhash Chandra Bose"
+      },
+      {
+        "id": 4,
+        "text": "Sardar Patel"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Which committee was headed by Nalini Ranjan Sarkar?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Draft Examination"
+      },
+      {
+        "id": 2,
+        "text": "Financial Provisions"
+      },
+      {
+        "id": 3,
+        "text": "Citizenship"
+      },
+      {
+        "id": 4,
+        "text": "Press Gallery"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "Which member of the Drafting Committee was replaced by T.T. Krishnamachari?",
+    "options": [
+      {
+        "id": 1,
+        "text": "B.L. Mitter"
+      },
+      {
+        "id": 2,
+        "text": "D.P. Khaitan"
+      },
+      {
+        "id": 3,
+        "text": "Mohammad Saadulla"
+      },
+      {
+        "id": 4,
+        "text": "K.M. Munshi"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-1",
+    "text": "What is the current number of Schedules in the Constitution (as of 2025)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "8"
+      },
+      {
+        "id": 2,
+        "text": "10"
+      },
+      {
+        "id": 3,
+        "text": "12"
+      },
+      {
+        "id": 4,
+        "text": "14"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which country has the longest written Constitution in the world?",
+    "options": [
+      {
+        "id": 1,
+        "text": "USA"
+      },
+      {
+        "id": 2,
+        "text": "India"
+      },
+      {
+        "id": 3,
+        "text": "UK"
+      },
+      {
+        "id": 4,
+        "text": "Australian"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "How many Articles were there in the original Indian Constitution adopted in 1949?",
+    "options": [
+      {
+        "id": 1,
+        "text": "450"
+      },
+      {
+        "id": 2,
+        "text": "370"
+      },
+      {
+        "id": 3,
+        "text": "395"
+      },
+      {
+        "id": 4,
+        "text": "420"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "As of 2025, how many Schedules are there in the Indian Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "10"
+      },
+      {
+        "id": 2,
+        "text": "11"
+      },
+      {
+        "id": 3,
+        "text": "8"
+      },
+      {
+        "id": 4,
+        "text": "12"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which Part of the Constitution was deleted?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Part VI"
+      },
+      {
+        "id": 2,
+        "text": "Part VII"
+      },
+      {
+        "id": 3,
+        "text": "Part XIVA"
+      },
+      {
+        "id": 4,
+        "text": "Part IVA"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "In which part were Fundamental Duties added?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Part III"
+      },
+      {
+        "id": 2,
+        "text": "Part IX"
+      },
+      {
+        "id": 3,
+        "text": "Part IVA"
+      },
+      {
+        "id": 4,
+        "text": "Part VI"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which of the following is an example of an unwritten constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "USA"
+      },
+      {
+        "id": 2,
+        "text": "India"
+      },
+      {
+        "id": 3,
+        "text": "UK"
+      },
+      {
+        "id": 4,
+        "text": "Canada"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "What is a key feature of a written constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "It is passed by conventions"
+      },
+      {
+        "id": 2,
+        "text": "It is not documented"
+      },
+      {
+        "id": 3,
+        "text": "It is systematically codified"
+      },
+      {
+        "id": 4,
+        "text": "It is flexible to amend"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Who described Indian federalism as \"Quasi-federal\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Morris Jones"
+      },
+      {
+        "id": 2,
+        "text": "Granville Austin"
+      },
+      {
+        "id": 3,
+        "text": "K.C. Wheare"
+      },
+      {
+        "id": 4,
+        "text": "B.R. Ambedkar"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "The term \"Bargaining Federalism\" was used by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "K.C. Wheare"
+      },
+      {
+        "id": 2,
+        "text": "Granville Austin"
+      },
+      {
+        "id": 3,
+        "text": "Morris Jones"
+      },
+      {
+        "id": 4,
+        "text": "Rajendra Prasad"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Under the federal features of the Constitution, which of the following is included?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Single Constitution"
+      },
+      {
+        "id": 2,
+        "text": "Bicameralism"
+      },
+      {
+        "id": 3,
+        "text": "All India Services"
+      },
+      {
+        "id": 4,
+        "text": "Emergency Provisions"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which of the following is a unitary feature of the Indian Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bicameral legislature"
+      },
+      {
+        "id": 2,
+        "text": "Division of powers"
+      },
+      {
+        "id": 3,
+        "text": "Dual government"
+      },
+      {
+        "id": 4,
+        "text": "Emergency provisions"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Who is the real executive head in the Indian Parliamentary System?",
+    "options": [
+      {
+        "id": 1,
+        "text": "President"
+      },
+      {
+        "id": 2,
+        "text": "Governor"
+      },
+      {
+        "id": 3,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 4,
+        "text": "Chief Justice"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "The concept of Collective Responsibility is associated with which body?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Judiciary"
+      },
+      {
+        "id": 2,
+        "text": "Council of Ministers"
+      },
+      {
+        "id": 3,
+        "text": "Parliament"
+      },
+      {
+        "id": 4,
+        "text": "Governors"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "In the doctrine of Separation of Powers, who interprets the laws?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Executive"
+      },
+      {
+        "id": 2,
+        "text": "Parliament"
+      },
+      {
+        "id": 3,
+        "text": "Judiciary"
+      },
+      {
+        "id": 4,
+        "text": "President"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "The Fundamental Rights are referred to as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Backbone of Constitution"
+      },
+      {
+        "id": 2,
+        "text": "Directive Principles"
+      },
+      {
+        "id": 3,
+        "text": "Conscience of the Constitution"
+      },
+      {
+        "id": 4,
+        "text": "Pillars of Law"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "What does Positive Secularism in India mean?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Complete separation of State and religion"
+      },
+      {
+        "id": 2,
+        "text": "State can promote any religion"
+      },
+      {
+        "id": 3,
+        "text": "State can regulate religion in public interest"
+      },
+      {
+        "id": 4,
+        "text": "State has an official religion"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Schedule 1 of the Constitution deals with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Languages"
+      },
+      {
+        "id": 2,
+        "text": "Territories and UTs"
+      },
+      {
+        "id": 3,
+        "text": "Rajya Sabha seats"
+      },
+      {
+        "id": 4,
+        "text": "Panchayats"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Schedule 2 deals with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Anti-defection"
+      },
+      {
+        "id": 2,
+        "text": "Affirmations and oaths"
+      },
+      {
+        "id": 3,
+        "text": "Emoluments"
+      },
+      {
+        "id": 4,
+        "text": "Land reforms"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "What does Schedule 3 of the Constitution contain?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajya Sabha seat allocation"
+      },
+      {
+        "id": 2,
+        "text": "Affirmations and oaths"
+      },
+      {
+        "id": 3,
+        "text": "Language list"
+      },
+      {
+        "id": 4,
+        "text": "Scheduled tribes"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which Schedule is associated with Rajya Sabha seat allocation?",
+    "options": [
+      {
+        "id": 1,
+        "text": "4"
+      },
+      {
+        "id": 2,
+        "text": "3"
+      },
+      {
+        "id": 3,
+        "text": "5"
+      },
+      {
+        "id": 4,
+        "text": "2"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Scheduled Areas and Tribes are listed in which Schedule?",
+    "options": [
+      {
+        "id": 1,
+        "text": "4"
+      },
+      {
+        "id": 2,
+        "text": "5"
+      },
+      {
+        "id": 3,
+        "text": "6"
+      },
+      {
+        "id": 4,
+        "text": "7"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Schedule 6 includes tribal areas of which group of states?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Himachal, Uttarakhand"
+      },
+      {
+        "id": 2,
+        "text": "Gujarat, Jharkhand"
+      },
+      {
+        "id": 3,
+        "text": "Assam, Meghalaya, Mizoram, Tripura"
+      },
+      {
+        "id": 4,
+        "text": "Odisha, Chhattisgarh, Rajasthan"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which Schedule outlines the division of powers in Indian federalism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "6"
+      },
+      {
+        "id": 2,
+        "text": "7"
+      },
+      {
+        "id": 3,
+        "text": "8"
+      },
+      {
+        "id": 4,
+        "text": "5"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "How many languages are listed in the 8th Schedule currently?",
+    "options": [
+      {
+        "id": 1,
+        "text": "14"
+      },
+      {
+        "id": 2,
+        "text": "21"
+      },
+      {
+        "id": 3,
+        "text": "22"
+      },
+      {
+        "id": 4,
+        "text": "24"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which Amendment renamed Oriya to Odia in the 8th Schedule?",
+    "options": [
+      {
+        "id": 1,
+        "text": "71st"
+      },
+      {
+        "id": 2,
+        "text": "96th"
+      },
+      {
+        "id": 3,
+        "text": "21st"
+      },
+      {
+        "id": 4,
+        "text": "42nd"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which language was added through the 21st Amendment Act?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Santhali"
+      },
+      {
+        "id": 2,
+        "text": "Bodo"
+      },
+      {
+        "id": 3,
+        "text": "Sindhi"
+      },
+      {
+        "id": 4,
+        "text": "Maithili"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "The First Amendment Act (1951) added which Schedule?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Schedule 10"
+      },
+      {
+        "id": 2,
+        "text": "Schedule 11"
+      },
+      {
+        "id": 3,
+        "text": "Schedule 9"
+      },
+      {
+        "id": 4,
+        "text": "Schedule 12"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "The Anti-Defection Law is in which Schedule?",
+    "options": [
+      {
+        "id": 1,
+        "text": "10"
+      },
+      {
+        "id": 2,
+        "text": "9"
+      },
+      {
+        "id": 3,
+        "text": "11"
+      },
+      {
+        "id": 4,
+        "text": "12"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Schedule 11 deals with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Judiciary"
+      },
+      {
+        "id": 2,
+        "text": "Panchayats"
+      },
+      {
+        "id": 3,
+        "text": "Forests"
+      },
+      {
+        "id": 4,
+        "text": "Land reforms"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which of these functions fall under Schedule 12?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Law & Order"
+      },
+      {
+        "id": 2,
+        "text": "Municipalities"
+      },
+      {
+        "id": 3,
+        "text": "Railways"
+      },
+      {
+        "id": 4,
+        "text": "Agriculture"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which subject was not transferred from the State to the Concurrent list by the 42nd Amendment?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Forests"
+      },
+      {
+        "id": 2,
+        "text": "Education"
+      },
+      {
+        "id": 3,
+        "text": "Agriculture"
+      },
+      {
+        "id": 4,
+        "text": "Protection of wild animals"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which Article deals with the Amendment of the Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 360"
+      },
+      {
+        "id": 2,
+        "text": "Article 368"
+      },
+      {
+        "id": 3,
+        "text": "Article 356"
+      },
+      {
+        "id": 4,
+        "text": "Article 370"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Which type of majority is not required for all constitutional amendments?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Simple"
+      },
+      {
+        "id": 2,
+        "text": "Special"
+      },
+      {
+        "id": 3,
+        "text": "Special with ratification"
+      },
+      {
+        "id": 4,
+        "text": "Unanimous"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Who did the English calligraphy of the original Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nand Lal Bose"
+      },
+      {
+        "id": 2,
+        "text": "Prem Behari Narain Raizada"
+      },
+      {
+        "id": 3,
+        "text": "S.N. Mukherjee"
+      },
+      {
+        "id": 4,
+        "text": "Vasant Krishan Vaidya"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-2",
+    "text": "Who did the Hindi calligraphy of the Indian Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prem Behari Narain Raizada"
+      },
+      {
+        "id": 2,
+        "text": "Nand Lal Bose"
+      },
+      {
+        "id": 3,
+        "text": "Vasant Krishan Vaidya"
+      },
+      {
+        "id": 4,
+        "text": "B.N. Rau"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Who introduced the Objective Resolution that became the basis of the Preamble?",
+    "options": [
+      {
+        "id": 1,
+        "text": "B.R. Ambedkar"
+      },
+      {
+        "id": 2,
+        "text": "K.M. Munshi"
+      },
+      {
+        "id": 3,
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": 4,
+        "text": "Sardar Patel"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "When was the Objective Resolution adopted by the Constituent Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "26 Jan 1950"
+      },
+      {
+        "id": 2,
+        "text": "22 Jan 1947"
+      },
+      {
+        "id": 3,
+        "text": "13 Dec 1946"
+      },
+      {
+        "id": 4,
+        "text": "15 Aug 1947"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Who described the Preamble as the \"Identity card of the Constitution\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "K.M. Munshi"
+      },
+      {
+        "id": 2,
+        "text": "B.R. Ambedkar"
+      },
+      {
+        "id": 3,
+        "text": "N.A. Palkhivala"
+      },
+      {
+        "id": 4,
+        "text": "Rajendra Prasad"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which of the following is not a purpose of the Preamble?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Grant powers"
+      },
+      {
+        "id": 2,
+        "text": "Declare values"
+      },
+      {
+        "id": 3,
+        "text": "State philosophy"
+      },
+      {
+        "id": 4,
+        "text": "Aid interpretation"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which country inspired the terms \"Liberty, Equality, Fraternity\" in the Preamble?",
+    "options": [
+      {
+        "id": 1,
+        "text": "UK"
+      },
+      {
+        "id": 2,
+        "text": "Russia"
+      },
+      {
+        "id": 3,
+        "text": "France"
+      },
+      {
+        "id": 4,
+        "text": "USA"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What is the meaning of the term \"Republic\" in the Indian context?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Power is shared with the monarchy"
+      },
+      {
+        "id": 2,
+        "text": "Head of State is elected"
+      },
+      {
+        "id": 3,
+        "text": "All citizens must vote"
+      },
+      {
+        "id": 4,
+        "text": "Constitution is unwritten"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What was added to the Preamble through the 42nd Constitutional Amendment Act (1976)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Federalism"
+      },
+      {
+        "id": 2,
+        "text": "Fraternity"
+      },
+      {
+        "id": 3,
+        "text": "Socialist, Secular, Integrity"
+      },
+      {
+        "id": 4,
+        "text": "Republic, Liberty"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "The Preamble is considered a part of the Constitution due to which landmark case?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Golaknath Case"
+      },
+      {
+        "id": 2,
+        "text": "Minerva Mills Case"
+      },
+      {
+        "id": 3,
+        "text": "Kesavananda Bharati Case"
+      },
+      {
+        "id": 4,
+        "text": "Berubari Union Case"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which of the following values is not explicitly mentioned in the Preamble?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Liberty"
+      },
+      {
+        "id": 2,
+        "text": "Sovereignty"
+      },
+      {
+        "id": 3,
+        "text": "Integrity"
+      },
+      {
+        "id": 4,
+        "text": "Dignity"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What kind of majority is required to pass laws under Articles 2 and 3?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Special Majority"
+      },
+      {
+        "id": 2,
+        "text": "2/3 Majority"
+      },
+      {
+        "id": 3,
+        "text": "Unanimous"
+      },
+      {
+        "id": 4,
+        "text": "Simple Majority"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What does Article 1 of the Constitution declare India as?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Federal Republic"
+      },
+      {
+        "id": 2,
+        "text": "Confederation"
+      },
+      {
+        "id": 3,
+        "text": "Union of States"
+      },
+      {
+        "id": 4,
+        "text": "Democratic Republic"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What is unique about the Union of India as per Article 1?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Union and States are both indestructible"
+      },
+      {
+        "id": 2,
+        "text": "Union is destructible"
+      },
+      {
+        "id": 3,
+        "text": "Union is indestructible, States are not"
+      },
+      {
+        "id": 4,
+        "text": "States are sovereign"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which Article deals with the formation of new states or alteration of boundaries?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 2"
+      },
+      {
+        "id": 2,
+        "text": "Article 3"
+      },
+      {
+        "id": 3,
+        "text": "Article 4"
+      },
+      {
+        "id": 4,
+        "text": "Article 1"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What is required for passing a bill under Article 3?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Supreme Court’s recommendation"
+      },
+      {
+        "id": 2,
+        "text": "President’s recommendation"
+      },
+      {
+        "id": 3,
+        "text": "State Governor’s approval"
+      },
+      {
+        "id": 4,
+        "text": "PMO's approval"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What was the purpose of the 100th Constitutional Amendment (2014)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sikkim Statehood"
+      },
+      {
+        "id": 2,
+        "text": "Telangana Formation"
+      },
+      {
+        "id": 3,
+        "text": "India-Bangladesh Land Boundary Agreement"
+      },
+      {
+        "id": 4,
+        "text": "GST Implementation"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which princely state was integrated through referendum?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hyderabad"
+      },
+      {
+        "id": 2,
+        "text": "Junagarh"
+      },
+      {
+        "id": 3,
+        "text": "Kashmir"
+      },
+      {
+        "id": 4,
+        "text": "Travancore"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Operation Polo (1948) led to the integration of which princely state?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Junagarh"
+      },
+      {
+        "id": 2,
+        "text": "Kashmir"
+      },
+      {
+        "id": 3,
+        "text": "Hyderabad"
+      },
+      {
+        "id": 4,
+        "text": "Bhopal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which princely state signed an Instrument of Accession to join India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Junagarh"
+      },
+      {
+        "id": 2,
+        "text": "Kashmir"
+      },
+      {
+        "id": 3,
+        "text": "Hyderabad"
+      },
+      {
+        "id": 4,
+        "text": "Mysore"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "The Dhar Committee (1948) recommended reorganization of states based on:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Language"
+      },
+      {
+        "id": 2,
+        "text": "Religion"
+      },
+      {
+        "id": 3,
+        "text": "Administrative convenience"
+      },
+      {
+        "id": 4,
+        "text": "Historical boundaries"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "The JVP Committee (1949) recommended:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Formation of linguistic states"
+      },
+      {
+        "id": 2,
+        "text": "No linguistic states"
+      },
+      {
+        "id": 3,
+        "text": "Formation of UTs"
+      },
+      {
+        "id": 4,
+        "text": "Division by religion"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which event triggered the demand for Andhra Pradesh as a linguistic state?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fazl Ali Report"
+      },
+      {
+        "id": 2,
+        "text": "JVP Committee"
+      },
+      {
+        "id": 3,
+        "text": "Death of Potti Sriramulu"
+      },
+      {
+        "id": 4,
+        "text": "Formation of Tamil Nadu"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which was the first linguistic state formed in India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 2,
+        "text": "Andhra Pradesh"
+      },
+      {
+        "id": 3,
+        "text": "Maharashtra"
+      },
+      {
+        "id": 4,
+        "text": "Gujarat"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "The State Reorganisation Act, 1956 led to the creation of how many states and UTs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "10 states, 4 UTs"
+      },
+      {
+        "id": 2,
+        "text": "14 states, 6 UTs"
+      },
+      {
+        "id": 3,
+        "text": "16 states, 2 UTs"
+      },
+      {
+        "id": 4,
+        "text": "20 states, 5 UTs"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which state was granted full statehood through the 36th Amendment (1975)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Arunachal Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Goa"
+      },
+      {
+        "id": 3,
+        "text": "Sikkim"
+      },
+      {
+        "id": 4,
+        "text": "Tripura"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which Committee rejected the idea of \"one language-one state\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "JVP Committee"
+      },
+      {
+        "id": 2,
+        "text": "Dhar Committee"
+      },
+      {
+        "id": 3,
+        "text": "Fazl Ali Commission"
+      },
+      {
+        "id": 4,
+        "text": "Sarkaria Commission"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "In which year was Nagaland created as a state?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1966"
+      },
+      {
+        "id": 2,
+        "text": "1963"
+      },
+      {
+        "id": 3,
+        "text": "1971"
+      },
+      {
+        "id": 4,
+        "text": "1956"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which states were created in the year 2000?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Uttarakhand, Jharkhand, Chhattisgarh"
+      },
+      {
+        "id": 2,
+        "text": "Telangana, Mizoram, Tripura"
+      },
+      {
+        "id": 3,
+        "text": "Sikkim, Nagaland, Haryana"
+      },
+      {
+        "id": 4,
+        "text": "Manipur, Tripura, Meghalaya"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which Article defines Citizenship at the commencement of the Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 5"
+      },
+      {
+        "id": 2,
+        "text": "Article 6"
+      },
+      {
+        "id": 3,
+        "text": "Article 8"
+      },
+      {
+        "id": 4,
+        "text": "Article 11"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which Article deals with the rights of migrants from Pakistan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 5"
+      },
+      {
+        "id": 2,
+        "text": "Article 6"
+      },
+      {
+        "id": 3,
+        "text": "Article 7"
+      },
+      {
+        "id": 4,
+        "text": "Article 8"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which Article gives the Parliament power to make citizenship laws?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 9"
+      },
+      {
+        "id": 2,
+        "text": "Article 10"
+      },
+      {
+        "id": 3,
+        "text": "Article 11"
+      },
+      {
+        "id": 4,
+        "text": "Article 8"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which Article provides for loss of Indian citizenship if one acquires foreign citizenship?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 9"
+      },
+      {
+        "id": 2,
+        "text": "Article 8"
+      },
+      {
+        "id": 3,
+        "text": "Article 7"
+      },
+      {
+        "id": 4,
+        "text": "Article 6"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Under the Citizenship Act, 1955, how many methods are there for acquiring Indian citizenship?",
+    "options": [
+      {
+        "id": 1,
+        "text": "3"
+      },
+      {
+        "id": 2,
+        "text": "4"
+      },
+      {
+        "id": 3,
+        "text": "5"
+      },
+      {
+        "id": 4,
+        "text": "6"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What is the minimum residency period for citizenship by naturalization under normal law?",
+    "options": [
+      {
+        "id": 1,
+        "text": "7 years"
+      },
+      {
+        "id": 2,
+        "text": "10 years"
+      },
+      {
+        "id": 3,
+        "text": "12 years"
+      },
+      {
+        "id": 4,
+        "text": "5 years"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Citizenship by registration requires a person to stay in India for how many years?",
+    "options": [
+      {
+        "id": 1,
+        "text": "5"
+      },
+      {
+        "id": 2,
+        "text": "6"
+      },
+      {
+        "id": 3,
+        "text": "7"
+      },
+      {
+        "id": 4,
+        "text": "8"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Citizenship by incorporation occurs when:",
+    "options": [
+      {
+        "id": 1,
+        "text": "A person marries an Indian"
+      },
+      {
+        "id": 2,
+        "text": "Person is born in India"
+      },
+      {
+        "id": 3,
+        "text": "A territory becomes part of India"
+      },
+      {
+        "id": 4,
+        "text": "Government grants asylum"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which is not a method of loss of citizenship under Indian law?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Renunciation"
+      },
+      {
+        "id": 2,
+        "text": "Deprivation"
+      },
+      {
+        "id": 3,
+        "text": "Termination"
+      },
+      {
+        "id": 4,
+        "text": "Resignation"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Citizenship (Amendment) Act, 2019 provides naturalization benefits to immigrants from which countries?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nepal, Bhutan, Myanmar"
+      },
+      {
+        "id": 2,
+        "text": "Afghanistan, Pakistan, Bangladesh"
+      },
+      {
+        "id": 3,
+        "text": "Sri Lanka, China, Nepal"
+      },
+      {
+        "id": 4,
+        "text": "Iraq, Iran, Kuwait"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "Which religious group is not included in the CAA 2019 beneficiaries?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hindus"
+      },
+      {
+        "id": 2,
+        "text": "Sikhs"
+      },
+      {
+        "id": 3,
+        "text": "Christians"
+      },
+      {
+        "id": 4,
+        "text": "Muslims"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "What is the revised residency requirement for citizenship under CAA 2019?",
+    "options": [
+      {
+        "id": 1,
+        "text": "5 years"
+      },
+      {
+        "id": 2,
+        "text": "7 years"
+      },
+      {
+        "id": 3,
+        "text": "6 years"
+      },
+      {
+        "id": 4,
+        "text": "10 years"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-3",
+    "text": "The concept of Single Citizenship in India is borrowed from which country?",
+    "options": [
+      {
+        "id": 1,
+        "text": "USA"
+      },
+      {
+        "id": 2,
+        "text": "Australia"
+      },
+      {
+        "id": 3,
+        "text": "UK"
+      },
+      {
+        "id": 4,
+        "text": "France"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Fundamental Rights in India are primarily inspired by which of the following?",
+    "options": [
+      {
+        "id": 1,
+        "text": "French Revolution"
+      },
+      {
+        "id": 2,
+        "text": "UN Charter"
+      },
+      {
+        "id": 3,
+        "text": "U.S. Bill of Rights"
+      },
+      {
+        "id": 4,
+        "text": "Canadian Charter of Rights"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Fundamental Rights in India are:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Absolute and permanent"
+      },
+      {
+        "id": 2,
+        "text": "Non-justiciable"
+      },
+      {
+        "id": 3,
+        "text": "Subject to reasonable restrictions"
+      },
+      {
+        "id": 4,
+        "text": "Available only during a national emergency"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which Article defines the term \"State\" for the purpose of Fundamental Rights?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 13"
+      },
+      {
+        "id": 2,
+        "text": "Article 14"
+      },
+      {
+        "id": 3,
+        "text": "Article 12"
+      },
+      {
+        "id": 4,
+        "text": "Article 32"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Judicial Review under Article 13 includes which of the following?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Only laws made by Parliament"
+      },
+      {
+        "id": 2,
+        "text": "All pre-constitutional and post-constitutional laws"
+      },
+      {
+        "id": 3,
+        "text": "Only ordinances"
+      },
+      {
+        "id": 4,
+        "text": "Only executive orders"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which Article ensures equality before law and equal protection of the laws?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 13"
+      },
+      {
+        "id": 2,
+        "text": "Article 14"
+      },
+      {
+        "id": 3,
+        "text": "Article 15"
+      },
+      {
+        "id": 4,
+        "text": "Article 16"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Article 17 deals with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Equal pay for equal work"
+      },
+      {
+        "id": 2,
+        "text": "Abolition of titles"
+      },
+      {
+        "id": 3,
+        "text": "Abolition of untouchability"
+      },
+      {
+        "id": 4,
+        "text": "Rights of minorities"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "The abolition of titles under Article 18 does not apply to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Military distinctions"
+      },
+      {
+        "id": 2,
+        "text": "Academic honors"
+      },
+      {
+        "id": 3,
+        "text": "Civilian awards"
+      },
+      {
+        "id": 4,
+        "text": "Both A and B"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 14"
+      },
+      {
+        "id": 2,
+        "text": "Article 15"
+      },
+      {
+        "id": 3,
+        "text": "Article 16"
+      },
+      {
+        "id": 4,
+        "text": "Article 19"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Reservation in promotion was disallowed by which landmark case?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Menaka Gandhi v. Union of India"
+      },
+      {
+        "id": 2,
+        "text": "Golaknath v. State of Punjab"
+      },
+      {
+        "id": 3,
+        "text": "Indra Sawhney v. Union of India"
+      },
+      {
+        "id": 4,
+        "text": "Shreya Singhal v. Union of India"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Article 19 provides how many freedoms?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Five"
+      },
+      {
+        "id": 2,
+        "text": "Six"
+      },
+      {
+        "id": 3,
+        "text": "Seven"
+      },
+      {
+        "id": 4,
+        "text": "Four"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which of the following is NOT a freedom guaranteed under Article 19(1)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Freedom of profession"
+      },
+      {
+        "id": 2,
+        "text": "Freedom to form associations"
+      },
+      {
+        "id": 3,
+        "text": "Freedom to reside and settle"
+      },
+      {
+        "id": 4,
+        "text": "Freedom of religion"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Right to Education (6–14 years) is provided under:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 19"
+      },
+      {
+        "id": 2,
+        "text": "Article 21A"
+      },
+      {
+        "id": 3,
+        "text": "Article 45"
+      },
+      {
+        "id": 4,
+        "text": "Article 29"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "The Right to Privacy was declared a fundamental right under:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Menaka Gandhi case"
+      },
+      {
+        "id": 2,
+        "text": "Kesavananda Bharati case"
+      },
+      {
+        "id": 3,
+        "text": "Puttaswamy case"
+      },
+      {
+        "id": 4,
+        "text": "Keshav Singh case"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "“No person shall be deprived of his life or personal liberty except according to procedure established by law” is mentioned in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 19"
+      },
+      {
+        "id": 2,
+        "text": "Article 21"
+      },
+      {
+        "id": 3,
+        "text": "Article 22"
+      },
+      {
+        "id": 4,
+        "text": "Article 20"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which Article provides protection from double jeopardy and self-incrimination?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 21"
+      },
+      {
+        "id": 2,
+        "text": "Article 20"
+      },
+      {
+        "id": 3,
+        "text": "Article 23"
+      },
+      {
+        "id": 4,
+        "text": "Article 24"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "The Right against Exploitation covers which of the following?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Right to speech"
+      },
+      {
+        "id": 2,
+        "text": "Right to move freely"
+      },
+      {
+        "id": 3,
+        "text": "Abolition of child labor in hazardous jobs"
+      },
+      {
+        "id": 4,
+        "text": "Right to property"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which Article prohibits human trafficking?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 22"
+      },
+      {
+        "id": 2,
+        "text": "Article 23"
+      },
+      {
+        "id": 3,
+        "text": "Article 24"
+      },
+      {
+        "id": 4,
+        "text": "Article 25"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Article 25 ensures:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Freedom to acquire property"
+      },
+      {
+        "id": 2,
+        "text": "Freedom of conscience and religion"
+      },
+      {
+        "id": 3,
+        "text": "Right to equality"
+      },
+      {
+        "id": 4,
+        "text": "Right to education"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which article provides that no tax shall be used for promotion of religion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 25"
+      },
+      {
+        "id": 2,
+        "text": "Article 26"
+      },
+      {
+        "id": 3,
+        "text": "Article 27"
+      },
+      {
+        "id": 4,
+        "text": "Article 28"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Religious instruction is prohibited in government-aided educational institutions under:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 26"
+      },
+      {
+        "id": 2,
+        "text": "Article 27"
+      },
+      {
+        "id": 3,
+        "text": "Article 28"
+      },
+      {
+        "id": 4,
+        "text": "Article 30"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Cultural and Educational Rights are granted under which Articles?",
+    "options": [
+      {
+        "id": 1,
+        "text": "19–22"
+      },
+      {
+        "id": 2,
+        "text": "25–28"
+      },
+      {
+        "id": 3,
+        "text": "29–30"
+      },
+      {
+        "id": 4,
+        "text": "12–13"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Minorities have the right to establish and administer educational institutions under:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 14"
+      },
+      {
+        "id": 2,
+        "text": "Article 21A"
+      },
+      {
+        "id": 3,
+        "text": "Article 30"
+      },
+      {
+        "id": 4,
+        "text": "Article 23"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which Fundamental Right is called the “Heart and Soul of the Constitution” by Dr. B.R. Ambedkar?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Right to Education"
+      },
+      {
+        "id": 2,
+        "text": "Right to Equality"
+      },
+      {
+        "id": 3,
+        "text": "Right to Freedom"
+      },
+      {
+        "id": 4,
+        "text": "Right to Constitutional Remedies"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "The writ that compels a public authority to perform its duty is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Habeas Corpus"
+      },
+      {
+        "id": 2,
+        "text": "Mandamus"
+      },
+      {
+        "id": 3,
+        "text": "Certiorari"
+      },
+      {
+        "id": 4,
+        "text": "Prohibition"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which writ means \"to produce the body\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prohibition"
+      },
+      {
+        "id": 2,
+        "text": "Mandamus"
+      },
+      {
+        "id": 3,
+        "text": "Habeas Corpus"
+      },
+      {
+        "id": 4,
+        "text": "Quo Warranto"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Under Article 226, High Courts can issue writs for:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Only Fundamental Rights"
+      },
+      {
+        "id": 2,
+        "text": "Only Legal Rights"
+      },
+      {
+        "id": 3,
+        "text": "Both FRs and Legal Rights"
+      },
+      {
+        "id": 4,
+        "text": "Neither"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "The Article that allows Parliament to restrict rights of armed forces is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 32"
+      },
+      {
+        "id": 2,
+        "text": "Article 33"
+      },
+      {
+        "id": 3,
+        "text": "Article 34"
+      },
+      {
+        "id": 4,
+        "text": "Article 35"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Suspension of Fundamental Rights during martial law is governed by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 32"
+      },
+      {
+        "id": 2,
+        "text": "Article 33"
+      },
+      {
+        "id": 3,
+        "text": "Article 34"
+      },
+      {
+        "id": 4,
+        "text": "Article 35"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Article 35 provides that laws to give effect to FRs can be made by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Any court"
+      },
+      {
+        "id": 2,
+        "text": "State legislatures"
+      },
+      {
+        "id": 3,
+        "text": "Parliament only"
+      },
+      {
+        "id": 4,
+        "text": "President"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-4",
+    "text": "Which Articles are available only to citizens and not to foreigners?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Articles 14, 15, 19, 21"
+      },
+      {
+        "id": 2,
+        "text": "Articles 15, 16, 19, 29, 30"
+      },
+      {
+        "id": 3,
+        "text": "Articles 21, 22, 24, 32"
+      },
+      {
+        "id": 4,
+        "text": "Articles 14, 17, 21, 32"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "DPSPs in the Indian Constitution are borrowed from which country? ○ A) USA ○ B) USSR ○ C) Ireland ○ D) UK",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which Part of the Indian Constitution deals with DPSPs? ○ A) Part II ○ B) Part III ○ C) Part IV ○ D) Part IVA",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "The Directive Principles aim to establish what type of state? ○ A) Socialist State ○ B) Capitalist State ○ C) Welfare State ○ D) Secular State",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which Article states that DPSPs are non-justiciable? ○ A) Article 36 ○ B) Article 37 ○ C) Article 38 ○ D) Article 39",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Who described DPSPs as the “Conscience of the Constitution”? ○ A) K.C. Wheare ○ B) Granville Austin ○ C) B.N. Rau ○ D) K.T. Shah",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which Article ensures the promotion of international peace and security? ○ A) Article 50 ○ B) Article 48A ○ C) Article 51 ○ D) Article 49",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "What is the significance of Article 39A? ○ A) Equal pay for equal work ○ B) Free legal aid ○ C) Right to work ○ D) Environmental protection",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which Article directs the State to promote the welfare of people by securing social order? ○ A) Article 37 ○ B) Article 38 ○ C) Article 41 ○ D) Article 39",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which article provides for a Uniform Civil Code? ○ A) Article 43 ○ B) Article 44 ○ C) Article 45 ○ D) Article 40",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "The Article related to protection and improvement of the environment is: ○ A) Article 45 ○ B) Article 48A ○ C) Article 46 ○ D) Article 47",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Article 40 pertains to: ○ A) Right to work ○ B) Village Panchayats ○ C) Education ○ D) Livelihood",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which amendment added Article 39A? ○ A) 44th Amendment ○ B) 42nd Amendment ○ C) 86th Amendment ○ D) 73rd Amendment",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "The 97th Constitutional Amendment added which Article? ○ A) Article 43B ○ B) Article 39A ○ C) Article 45 ○ D) Article 41",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which article focuses on just and humane conditions of work and maternity benefits? ○ A) Article 41 ○ B) Article 42 ○ C) Article 47 ○ D) Article 46",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which DPSP provision relates to protection of monuments? ○ A) Article 44 ○ B) Article 49 ○ C) Article 50 ○ D) Article 45",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which article directs the state to take steps to separate the judiciary from the executive? ○ A) Article 49 ○ B) Article 50 ○ C) Article 51 ○ D) Article 48A",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "The 86th Constitutional Amendment shifted the focus of Article 45 to: ○ A) Elderly care ○ B) Vocational education ○ C) Early childhood care (0–6 years) ○ D) Technical education",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Gandhian Principles under DPSP include all except: ○ A) Village Panchayats ○ B) Workers’ management ○ C) Prohibition of intoxicants ○ D) Promotion of cottage industries",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "What does Article 43A promote? ○ A) Equal wages ○ B) Workers' participation in management ○ C) Right to shelter ○ D) Environmental awareness",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "In the Minerva Mills Case, the Supreme Court held that: ○ A) DPSPs override FRs ○ B) FRs can’t be amended ○ C) Balance between DPSP and FRs is essential ○ D) DPSPs are not part of the Constitution",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which landmark case introduced the Basic Structure doctrine? ○ A) Golak Nath Case ○ B) Minerva Mills Case ○ C) Champakam Dorairajan Case ○ D) Kesavananda Bharati Case",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "What does the 25th Constitutional Amendment state about Articles 39(b) and 39(c)? ○ A) Subject to judicial review ○ B) Not challengeable under Articles 14 & 19 ○ C) Removed from Constitution ○ D) Enforceable by court 📕 Fundamental Duties (FDs)",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Fundamental Duties were added by which Constitutional Amendment? ○ A) 42nd ○ B) 44th ○ C) 86th ○ D) 97th",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Fundamental Duties are inspired by which Constitution? ○ A) Irish ○ B) USA ○ C) UK ○ D) USSR",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "The 11th Fundamental Duty, added by the 86th Amendment, refers to: ○ A) Respect for the Constitution ○ B) Promote harmony ○ C) Duty to educate children ○ D) Preserve heritage",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Who is the Fundamental Duties chapter applicable to? ○ A) All persons ○ B) Only Indian citizens ○ C) Government officials ○ D) Foreign nationals",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "How many Fundamental Duties are there currently? ○ A) 10 ○ B) 11 ○ C) 12 ○ D) 9",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which clause of Article 51A directs citizens to protect the environment? ○ A) Clause f ○ B) Clause h ○ C) Clause g ○ D) Clause j",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "What did the Swaran Singh Committee not recommend? ○ A) Duty to pay taxes ○ B) Punishment provisions ○ C) Education as a duty ○ D) Promotion of harmony",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which law is connected with protecting national symbols? ○ A) UAPA ○ B) National Honour Act ○ C) IPC ○ D) Forest Conservation Act",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which Act corresponds to the FD of protecting wildlife? ○ A) IPC ○ B) Representation of People Act ○ C) Forest Conservation Act ○ D) Wildlife Protection Act",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which committee recommended the inclusion of Fundamental Duties? ○ A) Kothari Committee ○ B) Sarkaria Commission ○ C) Swaran Singh Committee ○ D) Justice Verma Committee",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "What is the nature of Fundamental Duties? ○ A) Enforceable by law ○ B) Optional moral values ○ C) Statutory and non-justiciable ○ D) Legally binding with penalties",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which law supports the FD related to promoting democracy? ○ A) Forest Conservation Act ○ B) Representation of People Act ○ C) IPC ○ D) National Honour Act",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-5",
+    "text": "Which Fundamental Duty relates to promoting scientific temper? ○ A) Clause g ○ B) Clause i ○ C) Clause h ○ D) Clause j",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Which article provides for the existence of a President of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 50"
+      },
+      {
+        "id": 2,
+        "text": "Article 52"
+      },
+      {
+        "id": 3,
+        "text": "Article 54"
+      },
+      {
+        "id": 4,
+        "text": "Article 53"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the nature of the Indian President’s executive role?",
+    "options": [
+      {
+        "id": 1,
+        "text": "De facto head"
+      },
+      {
+        "id": 2,
+        "text": "Judicial head"
+      },
+      {
+        "id": 3,
+        "text": "Titular head"
+      },
+      {
+        "id": 4,
+        "text": "Constitutional monarch"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The President of India is elected through:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Direct election by citizens"
+      },
+      {
+        "id": 2,
+        "text": "Electoral College including nominated members"
+      },
+      {
+        "id": 3,
+        "text": "Electoral College excluding nominated members"
+      },
+      {
+        "id": 4,
+        "text": "Rajya Sabha alone"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What voting system is used in the Presidential elections?",
+    "options": [
+      {
+        "id": 1,
+        "text": "First-past-the-post"
+      },
+      {
+        "id": 2,
+        "text": "Absolute majority"
+      },
+      {
+        "id": 3,
+        "text": "Proportional representation with STV"
+      },
+      {
+        "id": 4,
+        "text": "Proportional representation with cumulative voting"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Who among the following is excluded from voting in the Presidential election?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Elected MLAs"
+      },
+      {
+        "id": 2,
+        "text": "Elected MPs"
+      },
+      {
+        "id": 3,
+        "text": "Nominated MPs"
+      },
+      {
+        "id": 4,
+        "text": "Elected MLAs of Delhi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Who administers the oath of office to the President of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 2,
+        "text": "Speaker of Lok Sabha"
+      },
+      {
+        "id": 3,
+        "text": "Chief Justice of India"
+      },
+      {
+        "id": 4,
+        "text": "Vice President"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Which Article of the Constitution deals with the impeachment of the President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 59"
+      },
+      {
+        "id": 2,
+        "text": "Article 60"
+      },
+      {
+        "id": 3,
+        "text": "Article 61"
+      },
+      {
+        "id": 4,
+        "text": "Article 63"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the required majority for passing the impeachment resolution in either House?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Simple majority"
+      },
+      {
+        "id": 2,
+        "text": "Absolute majority"
+      },
+      {
+        "id": 3,
+        "text": "2/3rd of members present and voting"
+      },
+      {
+        "id": 4,
+        "text": "2/3rd of total membership"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Who participates in the impeachment but not in the election of the President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Elected MPs"
+      },
+      {
+        "id": 2,
+        "text": "Nominated MPs"
+      },
+      {
+        "id": 3,
+        "text": "Elected MLAs"
+      },
+      {
+        "id": 4,
+        "text": "Nominated MLAs"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the security deposit amount required for Presidential nomination?",
+    "options": [
+      {
+        "id": 1,
+        "text": "₹5,000"
+      },
+      {
+        "id": 2,
+        "text": "₹10,000"
+      },
+      {
+        "id": 3,
+        "text": "₹15,000"
+      },
+      {
+        "id": 4,
+        "text": "₹20,000"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Which of the following is not a qualification for becoming President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Minimum age of 35"
+      },
+      {
+        "id": 2,
+        "text": "Must be qualified for Lok Sabha"
+      },
+      {
+        "id": 3,
+        "text": "Must be a government employee"
+      },
+      {
+        "id": 4,
+        "text": "Must not hold any office of profit"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Under what Article can the President grant pardon in a court-martial case?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 74"
+      },
+      {
+        "id": 2,
+        "text": "Article 161"
+      },
+      {
+        "id": 3,
+        "text": "Article 123"
+      },
+      {
+        "id": 4,
+        "text": "Article 72"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The President can remit, commute, or reprieve a death sentence under:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 51"
+      },
+      {
+        "id": 2,
+        "text": "Article 124"
+      },
+      {
+        "id": 3,
+        "text": "Article 72"
+      },
+      {
+        "id": 4,
+        "text": "Article 62"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The ground for impeachment of the President is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Treason"
+      },
+      {
+        "id": 2,
+        "text": "Violation of Constitution"
+      },
+      {
+        "id": 3,
+        "text": "Corruption"
+      },
+      {
+        "id": 4,
+        "text": "Mental incapacity"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the minimum number of proposers and seconders required for Presidential nomination?",
+    "options": [
+      {
+        "id": 1,
+        "text": "10 proposers and 10 seconders"
+      },
+      {
+        "id": 2,
+        "text": "20 proposers and 10 seconders"
+      },
+      {
+        "id": 3,
+        "text": "50 proposers and 50 seconders"
+      },
+      {
+        "id": 4,
+        "text": "25 proposers and 25 seconders"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Who becomes Acting President if both President and Vice President’s offices are vacant?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 2,
+        "text": "Speaker of Lok Sabha"
+      },
+      {
+        "id": 3,
+        "text": "Chief Justice of India"
+      },
+      {
+        "id": 4,
+        "text": "Cabinet Secretary"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Which judgment stated that the President’s pardoning power is subject to judicial review?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A.K. Gopalan v. State of Madras"
+      },
+      {
+        "id": 2,
+        "text": "Golak Nath v. State of Punjab"
+      },
+      {
+        "id": 3,
+        "text": "Kehar Singh v. Union of India"
+      },
+      {
+        "id": 4,
+        "text": "Minerva Mills v. Union of India"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Under Article 59, which of the following is a condition of the President’s office?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Can be a Member of Parliament"
+      },
+      {
+        "id": 2,
+        "text": "Cannot hold office of profit"
+      },
+      {
+        "id": 3,
+        "text": "Salary can be reduced by Parliament"
+      },
+      {
+        "id": 4,
+        "text": "Must be above 40 years"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Who is the Supreme Commander of the Indian Armed Forces?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 2,
+        "text": "Defence Minister"
+      },
+      {
+        "id": 3,
+        "text": "President"
+      },
+      {
+        "id": 4,
+        "text": "Home Minister"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the maximum number of terms a person can be elected as President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "One"
+      },
+      {
+        "id": 2,
+        "text": "Two"
+      },
+      {
+        "id": 3,
+        "text": "Three"
+      },
+      {
+        "id": 4,
+        "text": "Unlimited"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Which Article provides for the office of the Vice President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 61"
+      },
+      {
+        "id": 2,
+        "text": "Article 63"
+      },
+      {
+        "id": 3,
+        "text": "Article 67"
+      },
+      {
+        "id": 4,
+        "text": "Article 69"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The Vice President is elected by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Elected MPs only"
+      },
+      {
+        "id": 2,
+        "text": "Both MPs and MLAs"
+      },
+      {
+        "id": 3,
+        "text": "All citizens directly"
+      },
+      {
+        "id": 4,
+        "text": "Both elected and nominated MPs"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the voting method used in Vice Presidential elections?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Simple majority"
+      },
+      {
+        "id": 2,
+        "text": "Direct vote"
+      },
+      {
+        "id": 3,
+        "text": "Proportional representation with STV"
+      },
+      {
+        "id": 4,
+        "text": "First-past-the-post"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The Vice President acts as President when:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lok Sabha is dissolved"
+      },
+      {
+        "id": 2,
+        "text": "Prime Minister resigns"
+      },
+      {
+        "id": 3,
+        "text": "President is absent"
+      },
+      {
+        "id": 4,
+        "text": "Chief Justice is unavailable"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Who administers the oath of office to the Vice President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Speaker of Lok Sabha"
+      },
+      {
+        "id": 2,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 3,
+        "text": "President of India"
+      },
+      {
+        "id": 4,
+        "text": "Chief Justice of India"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "A resolution to remove the Vice President must be initiated in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lok Sabha"
+      },
+      {
+        "id": 2,
+        "text": "Both Houses simultaneously"
+      },
+      {
+        "id": 3,
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": 4,
+        "text": "Supreme Court"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the nomination requirement for Vice Presidential election?",
+    "options": [
+      {
+        "id": 1,
+        "text": "50 proposers and 50 seconders"
+      },
+      {
+        "id": 2,
+        "text": "10 proposers and 10 seconders"
+      },
+      {
+        "id": 3,
+        "text": "20 proposers and 20 seconders"
+      },
+      {
+        "id": 4,
+        "text": "25 proposers and 25 seconders"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The Vice President can be re-elected for:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Only one more term"
+      },
+      {
+        "id": 2,
+        "text": "A maximum of two terms"
+      },
+      {
+        "id": 3,
+        "text": "Unlimited terms"
+      },
+      {
+        "id": 4,
+        "text": "Only once after 5 years gap"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "In case of a Vice Presidential vacancy, election must be held within:",
+    "options": [
+      {
+        "id": 1,
+        "text": "30 days"
+      },
+      {
+        "id": 2,
+        "text": "60 days"
+      },
+      {
+        "id": 3,
+        "text": "90 days"
+      },
+      {
+        "id": 4,
+        "text": "120 days"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Who is the longest serving Vice President of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "V.V. Giri"
+      },
+      {
+        "id": 2,
+        "text": "M. Hidayatullah"
+      },
+      {
+        "id": 3,
+        "text": "Hamid Ansari"
+      },
+      {
+        "id": 4,
+        "text": "S. Radhakrishnan"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The Vice President is ex-officio:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Member of Lok Sabha"
+      },
+      {
+        "id": 2,
+        "text": "Chairperson of Supreme Court"
+      },
+      {
+        "id": 3,
+        "text": "Chairman of Rajya Sabha"
+      },
+      {
+        "id": 4,
+        "text": "Head of Election Commission"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Election disputes related to the Vice President are handled by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Election Commission"
+      },
+      {
+        "id": 2,
+        "text": "Supreme Court"
+      },
+      {
+        "id": 3,
+        "text": "Parliament"
+      },
+      {
+        "id": 4,
+        "text": "Rajya Sabha"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "What is the qualification to contest for Vice President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Must be qualified for Lok Sabha"
+      },
+      {
+        "id": 2,
+        "text": "Must be qualified for Rajya Sabha"
+      },
+      {
+        "id": 3,
+        "text": "Must be over 40 years"
+      },
+      {
+        "id": 4,
+        "text": "Must have served as MP"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "The oath of the Vice President is mentioned in which Article?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 65"
+      },
+      {
+        "id": 2,
+        "text": "Article 66"
+      },
+      {
+        "id": 3,
+        "text": "Article 69"
+      },
+      {
+        "id": 4,
+        "text": "Article 71"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-6",
+    "text": "Which Vice President acted as President three times?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sarvepalli Radhakrishnan"
+      },
+      {
+        "id": 2,
+        "text": "Mohammad Hidayatullah"
+      },
+      {
+        "id": 3,
+        "text": "Zakir Hussain"
+      },
+      {
+        "id": 4,
+        "text": "Krishan Kant"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Under which Article is the Council of Ministers headed by the Prime Minister to aid and advise the President? ○ A) Article 75 ○ B) Article 78 ○ C) Article 74 ○ D) Article 76",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The duties of the Prime Minister to the President are mentioned in: ○ A) Article 75 ○ B) Article 78 ○ C) Article 76 ○ D) Article 77",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Article 76 of the Indian Constitution deals with: ○ A) Conduct of Government Business ○ B) Council of Ministers ○ C) Attorney General of India ○ D) Speaker of Lok Sabha",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Who appoints the Prime Minister of India? ○ A) Lok Sabha ○ B) Rajya Sabha ○ C) Chief Justice of India ○ D) President of India",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Which article governs the conduct of government business? ○ A) Article 77 ○ B) Article 76 ○ C) Article 75 ○ D) Article 78 🧑‍⚖️ Prime Minister – Role & Powers",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The Prime Minister is considered the: ○ A) Nominal head of the government ○ B) Head of the Judiciary ○ C) De facto head of the government ○ D) Head of the State",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The Prime Minister must be: ○ A) Directly elected by citizens ○ B) Elected only from Lok Sabha ○ C) A member of either House of Parliament ○ D) A member of Rajya Sabha only",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "If a non-MP is appointed as PM, he/she must become an MP within: ○ A) 3 months ○ B) 6 months ○ C) 1 year ○ D) No time limit",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The PM must enjoy the confidence of which House? ○ A) Rajya Sabha ○ B) Lok Sabha ○ C) Both Houses ○ D) President",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The Prime Minister acts as a link between: ○ A) Lok Sabha and Judiciary ○ B) President and Judiciary ○ C) President and Council of Ministers ○ D) President and Parliament 🧠 PM – Powers, Tenure, Responsibilities",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The PM holds office: ○ A) For a fixed 5-year term ○ B) Until resignation only ○ C) During the pleasure of the President ○ D) Based on Supreme Court recommendation",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "PM’s salary and allowances are determined by: ○ A) Finance Ministry ○ B) President ○ C) Parliament ○ D) Cabinet Secretariat",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Who administers the oath of office to the PM? ○ A) Chief Justice of India ○ B) Vice President ○ C) President ○ D) Speaker of Lok Sabha",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Which of the following is NOT an executive function of the PM? ○ A) Allocating portfolios ○ B) Representing CoM before President ○ C) Summoning Parliament ○ D) Coordinating work of Ministers",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Advising the President to summon or dissolve Parliament is a: ○ A) Political power ○ B) Legislative power ○ C) Executive power ○ D) Judicial power 👥 Council of Ministers (CoM)",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The 91st Constitutional Amendment Act, 2003 limits the size of CoM to: ○ A) 10% of Rajya Sabha ○ B) 10% of Lok Sabha ○ C) 15% of Lok Sabha ○ D) 20% of Lok Sabha",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Which of the following categories is NOT a part of the CoM in practice? ○ A) Cabinet Ministers ○ B) Deputy Governors ○ C) Ministers of State ○ D) Ministers of State (Independent Charge)",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Ministers are individually responsible to: ○ A) Parliament ○ B) Lok Sabha ○ C) Rajya Sabha ○ D) President",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Collective responsibility of CoM is towards: ○ A) Rajya Sabha ○ B) Judiciary ○ C) Lok Sabha ○ D) President",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Resignation or death of PM leads to: ○ A) Resignation of Lok Sabha ○ B) Dissolution of Rajya Sabha ○ C) Dissolution of entire CoM ○ D) Dissolution of Parliament 📉 Loss of Confidence / Resignation",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "What happens if the Prime Minister loses majority in the Lok Sabha? ○ A) Dismissal by President ○ B) Re-election ○ C) PM must resign ○ D) Automatic dissolution of Parliament",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "First PM to resign voluntarily: ○ A) Lal Bahadur Shastri ○ B) Morarji Desai ○ C) Atal Bihari Vajpayee ○ D) Rajiv Gandhi 📜 Attorney General of India (AGI)",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Who appoints the Attorney General of India? ○ A) Lok Sabha ○ B) Prime Minister ○ C) Chief Justice ○ D) President",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The Attorney General must be qualified to become: ○ A) High Court Judge ○ B) Supreme Court Judge ○ C) MP ○ D) Union Minister",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Which statement is true about the Attorney General? ○ A) Full-time government servant ○ B) Cannot practice private law ○ C) Holds office for 5 years ○ D) Can appear in any court",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The Solicitor General of India: ○ A) Is a constitutional post ○ B) Is higher than AG ○ C) Is a statutory post ○ D) Cannot appear in Supreme Court",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Who was India’s first Attorney General? ○ A) M.C. Chagla ○ B) Tushar Mehta ○ C) M.C. Setalvad ○ D) Nani Palkhiwala",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The Attorney General holds office: ○ A) During the pleasure of the President ○ B) For a fixed 3-year term ○ C) Until the next election ○ D) Until retirement age of 65 🗂️ Miscellaneous & Institutional Roles",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "The Prime Minister is the chairperson of all the following bodies, EXCEPT: ○ A) NITI Aayog ○ B) Inter-State Council ○ C) National Integration Council ○ D) Election Commission",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-7",
+    "text": "Which Article provides for authentication of government orders in the name of the President? ○ A) Article 75 ○ B) Article 78 ○ C) Article 77 ○ D) Article 76",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which Article of the Indian Constitution defines the composition of Parliament? ○ A. Article 74 ○ B. Article 80 ○ C. Article 79 ○ D. Article 81",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who is an integral part of the Parliament of India? ○ A. Speaker of Lok Sabha ○ B. Chief Justice of India ○ C. Prime Minister ○ D. President of India",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What is the maximum strength of the Lok Sabha as per the Constitution? ○ A. 545 ○ B. 552 ○ C. 550 ○ D. 548",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which electoral system is used for Lok Sabha elections? ○ A. Proportional Representation ○ B. Single Transferable Vote ○ C. First-Past-The-Post ○ D. Alternative Vote",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What is the minimum age to become a member of Lok Sabha? ○ A. 21 ○ B. 25 ○ C. 30 ○ D. 35",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "The Anglo-Indian seats in Lok Sabha were abolished by which Constitutional Amendment? ○ A. 101st ○ B. 104th ○ C. 102nd ○ D. 103rd",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who is the presiding officer of the Lok Sabha? ○ A. Vice President ○ B. President ○ C. Speaker ○ D. Prime Minister",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What is the minimum age required to be a member of the Rajya Sabha? ○ A. 21 ○ B. 25 ○ C. 30 ○ D. 35",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "How many members can be nominated to the Rajya Sabha by the President? ○ A. 10 ○ B. 12 ○ C. 14 ○ D. 15",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Rajya Sabha represents: ○ A. Judiciary ○ B. States and Union Territories ○ C. The Cabinet ○ D. People directly",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What is the method of election to the Rajya Sabha? ○ A. Direct election ○ B. STV by Legislatures ○ C. Lottery ○ D. Proportional Representation by citizens",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which of the following statements about Rajya Sabha is true? ○ A. It can be dissolved every 6 years ○ B. It has a fixed 5-year term ○ C. It is a continuing body ○ D. It is dissolved during National Emergency",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who is the ex-officio Chairman of the Rajya Sabha? ○ A. President ○ B. Prime Minister ○ C. Speaker ○ D. Vice President",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which country’s electoral system influenced India's Lok Sabha election system? ○ A. UK ○ B. USA ○ C. South Africa ○ D. Germany",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "The nomination system in Indian Parliament is borrowed from: ○ A. UK ○ B. France ○ C. Ireland ○ D. Canada",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which Article deals with the delimitation of constituencies? ○ A. Article 80 ○ B. Article 82 ○ C. Article 84 ○ D. Article 86",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "The Delimitation Commission is formed after how many years? ○ A. 5 years ○ B. 10 years ○ C. 15 years ○ D. 20 years",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "The 42nd and 84th Amendments froze delimitation until which year? ○ A. 2021 ○ B. 2024 ○ C. 2026 ○ D. 2030",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who headed the J&K Delimitation Commission formed in 2020? ○ A. Justice A.K. Patnaik ○ B. Justice R.F. Nariman ○ C. Justice Ranjana Prakash Desai ○ D. Justice Deepak Gupta",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What is the term of the Rajya Sabha members? ○ A. 5 years ○ B. 6 years ○ C. 4 years ○ D. 7 years",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Lok Sabha can be extended during National Emergency by: ○ A. 3 years ○ B. 2 years ○ C. 1 year ○ D. Indefinitely",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which Article defines the qualifications for MPs? ○ A. Article 82 ○ B. Article 84 ○ C. Article 86 ○ D. Article 89",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who summons the sessions of Parliament? ○ A. Prime Minister ○ B. Speaker ○ C. President ○ D. Chief Justice",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What is the maximum gap allowed between two sessions of Parliament? ○ A. 3 months ○ B. 4 months ○ C. 5 months ○ D. 6 months",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "\"Adjournment sine die\" refers to: ○ A. End of Parliament ○ B. End of a session with no set date ○ C. End of the House ○ D. Adjournment due to Emergency",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "When does the Question Hour occur in Parliament? ○ A. 9 AM–10 AM ○ B. 10 AM–11 AM ○ C. 11 AM–12 PM ○ D. 12 PM–1 PM",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which session is held between July and August? ○ A. Budget Session ○ B. Winter Session ○ C. Monsoon Session ○ D. Special Session",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Under Article 87, the President gives a special address: ○ A. Only during Budget ○ B. After dissolution ○ C. First session after election & each year ○ D. During winter session",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What follows the President’s special address under Article 87? ○ A. Vote of No Confidence ○ B. Zero Hour ○ C. Motion of Thanks ○ D. Dissolution",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who can speak and participate in Parliament without being a member? ○ A. Prime Minister ○ B. President ○ C. Ministers and Attorney General ○ D. Judges",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who is the Deputy Chairman of Rajya Sabha elected by? ○ A. President ○ B. Lok Sabha ○ C. Rajya Sabha ○ D. Prime Minister",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which article provides for the casting vote of the Chairman in Rajya Sabha? ○ A. Article 89 ○ B. Article 90 ○ C. Article 91 ○ D. Article 92",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Who was the first Speaker of Lok Sabha? ○ A. G.V. Mavalankar ○ B. M.A. Ayyangar ○ C. Neelam Sanjiva Reddy ○ D. Rabi Ray",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Which of the following is true about the Deputy Speaker since 2019? ○ A. Has been vacant ○ B. Always from ruling party ○ C. Holds casting vote ○ D. Appointed by President",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "On what majority can the Speaker of Lok Sabha be removed? ○ A. Simple majority ○ B. Absolute majority ○ C. Special majority ○ D. Effective majority",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Under Article 99, who administers oath to MPs post-elections? ○ A. Speaker ○ B. President ○ C. Protem Speaker ○ D. Chief Justice",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "The theme of the Rajya Sabha chamber in the new Parliament is: ○ A. Tiger ○ B. Lotus ○ C. Banyan Tree ○ D. Peacock",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "What is the national bird featured in the Lok Sabha chamber theme? ○ A. Parrot ○ B. Swan ○ C. Peacock ○ D. Sparrow",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Article 98 deals with: ○ A. Election of Speaker ○ B. Salaries of MPs ○ C. Parliament Secretariat ○ D. Oath taking",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-8",
+    "text": "Salaries of the Speaker and Deputy Speaker are decided by: ○ A. President ○ B. Prime Minister ○ C. Parliament ○ D. Finance Commission",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "According to Article 100, what is the minimum quorum required in either House of Parliament?",
+    "options": [
+      {
+        "id": 1,
+        "text": "20% of total members"
+      },
+      {
+        "id": 2,
+        "text": "25% of total members"
+      },
+      {
+        "id": 3,
+        "text": "10% of total members"
+      },
+      {
+        "id": 4,
+        "text": "15% of total members"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Under what condition does the Speaker or Chairman vote in the House?",
+    "options": [
+      {
+        "id": 1,
+        "text": "On every bill"
+      },
+      {
+        "id": 2,
+        "text": "On financial matters"
+      },
+      {
+        "id": 3,
+        "text": "In case of a tie"
+      },
+      {
+        "id": 4,
+        "text": "When nominated"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "What happens if the quorum is not met in the House?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The bill is cancelled"
+      },
+      {
+        "id": 2,
+        "text": "Voting continues"
+      },
+      {
+        "id": 3,
+        "text": "Meeting is suspended"
+      },
+      {
+        "id": 4,
+        "text": "All members are penalized"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Under Article 101, what is the result of being absent from Parliament for 60 days without permission?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Salary deduction"
+      },
+      {
+        "id": 2,
+        "text": "Criminal penalty"
+      },
+      {
+        "id": 3,
+        "text": "Seat is declared vacant"
+      },
+      {
+        "id": 4,
+        "text": "Suspension from voting"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "A person cannot be a member of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Both Lok Sabha and Rajya Sabha at the same time"
+      },
+      {
+        "id": 2,
+        "text": "Parliament and State Legislature simultaneously"
+      },
+      {
+        "id": 3,
+        "text": "Both A and B"
+      },
+      {
+        "id": 4,
+        "text": "Legislative Assembly and Council at the same time"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which article provides grounds for disqualification of MPs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 101"
+      },
+      {
+        "id": 2,
+        "text": "Article 103"
+      },
+      {
+        "id": 3,
+        "text": "Article 102"
+      },
+      {
+        "id": 4,
+        "text": "Article 105"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Under the 10th Schedule, what disqualifies an MP for defection?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Voting as per party whip"
+      },
+      {
+        "id": 2,
+        "text": "Voluntarily giving up party membership"
+      },
+      {
+        "id": 3,
+        "text": "Refusing to take oath"
+      },
+      {
+        "id": 4,
+        "text": "Not attending sessions"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "What is the exception to disqualification under anti-defection law?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Joining a regional party"
+      },
+      {
+        "id": 2,
+        "text": "Resignation from Parliament"
+      },
+      {
+        "id": 3,
+        "text": "Merger with 2/3rd members"
+      },
+      {
+        "id": 4,
+        "text": "Suspension from the House"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Who decides on disqualification under the 10th Schedule?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Supreme Court"
+      },
+      {
+        "id": 2,
+        "text": "Speaker"
+      },
+      {
+        "id": 3,
+        "text": "Election Commission"
+      },
+      {
+        "id": 4,
+        "text": "President"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "The Kihoto Hollohan case is related to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Anti-corruption law"
+      },
+      {
+        "id": 2,
+        "text": "President’s impeachment"
+      },
+      {
+        "id": 3,
+        "text": "Judicial review of anti-defection decisions"
+      },
+      {
+        "id": 4,
+        "text": "Reservation policy"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Article 103 authorizes who to decide disqualification of MPs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Speaker"
+      },
+      {
+        "id": 2,
+        "text": "Election Commission"
+      },
+      {
+        "id": 3,
+        "text": "President"
+      },
+      {
+        "id": 4,
+        "text": "Vice President"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "What is the penalty for sitting and voting while disqualified?",
+    "options": [
+      {
+        "id": 1,
+        "text": "₹100 per day"
+      },
+      {
+        "id": 2,
+        "text": "₹1,000 per day"
+      },
+      {
+        "id": 3,
+        "text": "₹500 per day"
+      },
+      {
+        "id": 4,
+        "text": "₹5,000 per session"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Under Article 105, MPs enjoy which immunity?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Immunity from income tax"
+      },
+      {
+        "id": 2,
+        "text": "Freedom of speech in Parliament"
+      },
+      {
+        "id": 3,
+        "text": "Diplomatic immunity"
+      },
+      {
+        "id": 4,
+        "text": "Exemption from traffic rules"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "MPs cannot be arrested under civil cases during how many days before/after a session?",
+    "options": [
+      {
+        "id": 1,
+        "text": "30 days"
+      },
+      {
+        "id": 2,
+        "text": "10 days"
+      },
+      {
+        "id": 3,
+        "text": "20 days"
+      },
+      {
+        "id": 4,
+        "text": "40 days"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Who decides the salaries and allowances of MPs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Finance Commission"
+      },
+      {
+        "id": 2,
+        "text": "Speaker"
+      },
+      {
+        "id": 3,
+        "text": "Parliament"
+      },
+      {
+        "id": 4,
+        "text": "President"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Under Article 107, what causes a bill to lapse?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Adjournment of Parliament"
+      },
+      {
+        "id": 2,
+        "text": "Prorogation of either House"
+      },
+      {
+        "id": 3,
+        "text": "Dissolution of Lok Sabha"
+      },
+      {
+        "id": 4,
+        "text": "Change in party in power"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Joint sitting of Parliament under Article 108 is held for:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Money bills"
+      },
+      {
+        "id": 2,
+        "text": "Constitutional amendment bills"
+      },
+      {
+        "id": 3,
+        "text": "Ordinary bills"
+      },
+      {
+        "id": 4,
+        "text": "Financial bills"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Who presides over a joint sitting of Parliament?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vice President"
+      },
+      {
+        "id": 2,
+        "text": "President"
+      },
+      {
+        "id": 3,
+        "text": "Speaker of Lok Sabha"
+      },
+      {
+        "id": 4,
+        "text": "Chief Justice of India"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Rajya Sabha can delay an ordinary bill by how long before a joint sitting is called?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1 year"
+      },
+      {
+        "id": 2,
+        "text": "1 month"
+      },
+      {
+        "id": 3,
+        "text": "3 months"
+      },
+      {
+        "id": 4,
+        "text": "6 months"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Under Article 109, Money Bills originate in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": 2,
+        "text": "President’s Office"
+      },
+      {
+        "id": 3,
+        "text": "Prime Minister’s Office"
+      },
+      {
+        "id": 4,
+        "text": "Lok Sabha"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Rajya Sabha must return a Money Bill within:",
+    "options": [
+      {
+        "id": 1,
+        "text": "30 days"
+      },
+      {
+        "id": 2,
+        "text": "10 days"
+      },
+      {
+        "id": 3,
+        "text": "14 days"
+      },
+      {
+        "id": 4,
+        "text": "7 days"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Who decides whether a bill is a Money Bill?",
+    "options": [
+      {
+        "id": 1,
+        "text": "President"
+      },
+      {
+        "id": 2,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 3,
+        "text": "Speaker of Lok Sabha"
+      },
+      {
+        "id": 4,
+        "text": "Attorney General"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which of the following is not a characteristic of Money Bills?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tax imposition"
+      },
+      {
+        "id": 2,
+        "text": "Consolidated Fund matters"
+      },
+      {
+        "id": 3,
+        "text": "Impeachment of the President"
+      },
+      {
+        "id": 4,
+        "text": "Audit matters"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which veto can the President exercise by not acting on a bill at all?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Absolute veto"
+      },
+      {
+        "id": 2,
+        "text": "Pocket veto"
+      },
+      {
+        "id": 3,
+        "text": "Suspensive veto"
+      },
+      {
+        "id": 4,
+        "text": "Line-item veto"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "A Money Bill sent to the President:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Can be vetoed"
+      },
+      {
+        "id": 2,
+        "text": "Can be returned"
+      },
+      {
+        "id": 3,
+        "text": "Can be passed without approval"
+      },
+      {
+        "id": 4,
+        "text": "Cannot be returned"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "The budget is referred to in the Constitution as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Financial plan"
+      },
+      {
+        "id": 2,
+        "text": "Fiscal report"
+      },
+      {
+        "id": 3,
+        "text": "Annual Financial Statement"
+      },
+      {
+        "id": 4,
+        "text": "Economic Strategy Document"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Expenditures like salaries of judges and President are:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Votable"
+      },
+      {
+        "id": 2,
+        "text": "Discretionary"
+      },
+      {
+        "id": 3,
+        "text": "Charged"
+      },
+      {
+        "id": 4,
+        "text": "Deferred"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Who votes on Demands for Grants?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": 2,
+        "text": "President"
+      },
+      {
+        "id": 3,
+        "text": "Lok Sabha"
+      },
+      {
+        "id": 4,
+        "text": "Joint Committee"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "The Appropriation Bill authorizes withdrawal from:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Public Account"
+      },
+      {
+        "id": 2,
+        "text": "Contingency Fund"
+      },
+      {
+        "id": 3,
+        "text": "Consolidated Fund"
+      },
+      {
+        "id": 4,
+        "text": "Treasury"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "A Policy Cut motion proposes:",
+    "options": [
+      {
+        "id": 1,
+        "text": "No change in grant"
+      },
+      {
+        "id": 2,
+        "text": "₹1 cut to show disapproval of policy"
+      },
+      {
+        "id": 3,
+        "text": "₹100 cut"
+      },
+      {
+        "id": 4,
+        "text": "Entire grant rejection"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which Article defines Financial Bills?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 109"
+      },
+      {
+        "id": 2,
+        "text": "Article 110"
+      },
+      {
+        "id": 3,
+        "text": "Article 117"
+      },
+      {
+        "id": 4,
+        "text": "Article 107"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which Article empowers each House to frame its own rules?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 120"
+      },
+      {
+        "id": 2,
+        "text": "Article 118"
+      },
+      {
+        "id": 3,
+        "text": "Article 121"
+      },
+      {
+        "id": 4,
+        "text": "Article 123"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Under Article 120, Parliament’s language can include mother tongues:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Always"
+      },
+      {
+        "id": 2,
+        "text": "With Speaker’s permission"
+      },
+      {
+        "id": 3,
+        "text": "With PM’s approval"
+      },
+      {
+        "id": 4,
+        "text": "With President’s approval"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which Article prohibits discussion of judges' conduct?",
+    "options": [
+      {
+        "id": 1,
+        "text": "121"
+      },
+      {
+        "id": 2,
+        "text": "119"
+      },
+      {
+        "id": 3,
+        "text": "107"
+      },
+      {
+        "id": 4,
+        "text": "122"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Article 122 ensures:",
+    "options": [
+      {
+        "id": 1,
+        "text": "President’s power to dissolve Parliament"
+      },
+      {
+        "id": 2,
+        "text": "Courts can’t inquire into parliamentary proceedings"
+      },
+      {
+        "id": 3,
+        "text": "Rajya Sabha’s superiority"
+      },
+      {
+        "id": 4,
+        "text": "Lok Sabha override powers"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Ordinance-making power is defined under:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 117"
+      },
+      {
+        "id": 2,
+        "text": "Article 108"
+      },
+      {
+        "id": 3,
+        "text": "Article 123"
+      },
+      {
+        "id": 4,
+        "text": "Article 119"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "An Ordinance must be placed before Parliament within:",
+    "options": [
+      {
+        "id": 1,
+        "text": "3 months"
+      },
+      {
+        "id": 2,
+        "text": "6 months"
+      },
+      {
+        "id": 3,
+        "text": "6 weeks"
+      },
+      {
+        "id": 4,
+        "text": "2 weeks"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Maximum validity of an ordinance:",
+    "options": [
+      {
+        "id": 1,
+        "text": "6 weeks"
+      },
+      {
+        "id": 2,
+        "text": "6 months"
+      },
+      {
+        "id": 3,
+        "text": "6 months + 6 weeks"
+      },
+      {
+        "id": 4,
+        "text": "1 year"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which case is related to misuse of ordinance power?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kihoto Hollohan"
+      },
+      {
+        "id": 2,
+        "text": "Golaknath"
+      },
+      {
+        "id": 3,
+        "text": "D.C. Wadhwa"
+      },
+      {
+        "id": 4,
+        "text": "Kesavananda Bharati"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Which fund is controlled by Parliament and consists of taxes and loans?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Contingency Fund"
+      },
+      {
+        "id": 2,
+        "text": "Public Account"
+      },
+      {
+        "id": 3,
+        "text": "Consolidated Fund"
+      },
+      {
+        "id": 4,
+        "text": "Prime Minister’s Relief Fund"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Deposits and remittances are stored in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Public Account"
+      },
+      {
+        "id": 2,
+        "text": "Consolidated Fund"
+      },
+      {
+        "id": 3,
+        "text": "Emergency Fund"
+      },
+      {
+        "id": 4,
+        "text": "PM CARES Fund"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-9",
+    "text": "Emergency expenditures are met from:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Public Account"
+      },
+      {
+        "id": 2,
+        "text": "Revenue Surplus"
+      },
+      {
+        "id": 3,
+        "text": "Consolidated Fund"
+      },
+      {
+        "id": 4,
+        "text": "Contingency Fund"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Under Article 153, who is the executive head of a state? ○ A. Chief Minister ○ B. President ○ C. Governor ○ D. Speaker",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Which Article vests executive power of the state in the Governor? ○ A. 160 ○ B. 154 ○ C. 156 ○ D. 158",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "The Governor is appointed by: ○ A. Prime Minister ○ B. Parliament ○ C. President ○ D. Chief Justice of India",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "What is the minimum age required to become a Governor? ○ A. 30 ○ B. 35 ○ C. 40 ○ D. 25",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Which amendment allows one person to serve as Governor for multiple states? ○ A. 1st ○ B. 42nd ○ C. 44th ○ D. 7th",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who administers the oath to the Governor? ○ A. President ○ B. Chief Justice of India ○ C. Chief Justice of High Court ○ D. Chief Minister",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "The Governor’s power of pardon does NOT apply to: ○ A. Offences under IPC ○ B. Court-martial ○ C. State laws ○ D. Commutations",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who appoints the Chief Minister of a state? ○ A. President ○ B. Speaker ○ C. Governor ○ D. Legislative Assembly",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "The Council of Ministers is: ○ A. Individually responsible to Governor ○ B. Collectively responsible to Governor ○ C. Collectively responsible to Legislative Assembly ○ D. Accountable to High Court",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "A minister ceases to hold office if not a legislator for: ○ A. 3 months ○ B. 6 months ○ C. 12 months ○ D. 1 month",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who appoints the Advocate-General of a state? ○ A. Chief Minister ○ B. High Court ○ C. Governor ○ D. Law Minister",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "How many states in India have a bicameral legislature? ○ A. 4 ○ B. 5 ○ C. 6 ○ D. 7",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Which of the following states has a bicameral legislature? ○ A. Gujarat ○ B. Odisha ○ C. Telangana ○ D. Tamil Nadu",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "What is the minimum strength of a State Legislative Assembly? ○ A. 40 ○ B. 50 ○ C. 30 ○ D. 60",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "The maximum strength of a State Legislative Assembly is: ○ A. 500 ○ B. 545 ○ C. 400 ○ D. 450",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "The size of the Legislative Council must not exceed: ○ A. Half of Assembly ○ B. One-fourth of Assembly ○ C. One-third of Assembly ○ D. Two-thirds of Assembly",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who nominates members to the Legislative Council for special expertise? ○ A. President ○ B. Governor ○ C. Speaker ○ D. Chief Minister",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "What is the tenure of the Legislative Assembly? ○ A. 3 years ○ B. 4 years ○ C. 5 years ○ D. 6 years",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "What fraction of the Legislative Council retires every 2 years? ○ A. 1/2 ○ B. 1/3 ○ C. 1/4 ○ D. 1/5",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Minimum age for membership in State Legislative Assembly is: ○ A. 21 ○ B. 30 ○ C. 25 ○ D. 35",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who can summon, prorogue, and dissolve the State Assembly? ○ A. Speaker ○ B. Chief Minister ○ C. Governor ○ D. President",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "The interval between two Assembly sessions cannot exceed: ○ A. 3 months ○ B. 4 months ○ C. 5 months ○ D. 6 months",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who addresses the State Legislature at the first session of the year? ○ A. Speaker ○ B. Governor ○ C. Chief Minister ○ D. President",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who cannot vote in State Legislature proceedings? ○ A. Ministers ○ B. Advocate-General ○ C. MLAs ○ D. Members of Council",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who presides over the Assembly in the absence of the Speaker and Deputy Speaker? ○ A. Chief Minister ○ B. Governor ○ C. A member appointed by the House ○ D. Chairman",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Removal of the Speaker requires: ○ A. Simple majority ○ B. Effective majority ○ C. 2/3rd majority ○ D. Special majority",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Quorum in a State Legislature requires: ○ A. 20% of members ○ B. 15% of members ○ C. 10% of members ○ D. 25% of members",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "A seat becomes vacant if a member is absent without permission for: ○ A. 30 days ○ B. 60 days ○ C. 90 days ○ D. 45 days",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Disqualification of state legislators on defection is governed by: ○ A. Article 102 ○ B. Article 191 ○ C. Tenth Schedule ○ D. Eleventh Schedule",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Which of the following can only be introduced in the Legislative Assembly? ○ A. Ordinary Bill ○ B. Financial Bill ○ C. Money Bill ○ D. Constitutional Amendment Bill",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "What is the time limit for the Council to return a Money Bill with recommendations? ○ A. 7 days ○ B. 14 days ○ C. 21 days ○ D. 1 month",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "If the Council fails to return a Money Bill in 14 days: ○ A. Bill is deemed rejected ○ B. Reintroduced in next session ○ C. Deemed passed by Assembly ○ D. Sent to President",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Which of the following vetoes is not applicable to State Money Bills? ○ A. Absolute veto ○ B. Suspensive veto ○ C. Pocket veto ○ D. Joint veto",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "What article gives the Governor ordinance-making power? ○ A. 123 ○ B. 213 ○ C. 356 ○ D. 356A",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Ordinance issued by Governor must be laid before legislature within: ○ A. 15 days ○ B. 30 days ○ C. 6 weeks ○ D. 2 months",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Maximum validity of a Governor’s ordinance is: ○ A. 3 months ○ B. 6 months ○ C. 6 months + 6 weeks ○ D. 12 months",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "State budget is introduced under which Article? ○ A. 202 ○ B. 112 ○ C. 265 ○ D. 266",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Who recommends introduction of Money Bills in the State Legislature? ○ A. Chief Minister ○ B. President ○ C. Finance Minister ○ D. Governor",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Under Article 211, what discussion is prohibited in State Legislature? ○ A. Defence matters ○ B. Judiciary conduct ○ C. Central subjects ○ D. Taxes",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-10",
+    "text": "Under Article 212, courts cannot: ○ A. Review laws ○ B. Inquire into legislative procedure ○ C. Pass orders on Speaker ○ D. Summon the Governor",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Under Article 352, a National Emergency can be declared on which of the following grounds?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Natural Disaster"
+      },
+      {
+        "id": 2,
+        "text": "Armed Rebellion"
+      },
+      {
+        "id": 3,
+        "text": "Epidemic"
+      },
+      {
+        "id": 4,
+        "text": "Political Unrest"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which amendment replaced “internal disturbance” with “armed rebellion” under Article 352?",
+    "options": [
+      {
+        "id": 1,
+        "text": "42nd Amendment"
+      },
+      {
+        "id": 2,
+        "text": "44th Amendment"
+      },
+      {
+        "id": 3,
+        "text": "73rd Amendment"
+      },
+      {
+        "id": 4,
+        "text": "86th Amendment"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Who recommends the proclamation of a National Emergency to the President?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 2,
+        "text": "Chief Justice of India"
+      },
+      {
+        "id": 3,
+        "text": "Council of Ministers"
+      },
+      {
+        "id": 4,
+        "text": "Union Cabinet"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "During a National Emergency, the life of the Lok Sabha can be extended:",
+    "options": [
+      {
+        "id": 1,
+        "text": "By 6 months at a time"
+      },
+      {
+        "id": 2,
+        "text": "Indefinitely"
+      },
+      {
+        "id": 3,
+        "text": "By 1 year at a time"
+      },
+      {
+        "id": 4,
+        "text": "Not beyond its term"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which Articles cannot be suspended during a National Emergency?",
+    "options": [
+      {
+        "id": 1,
+        "text": "14 and 15"
+      },
+      {
+        "id": 2,
+        "text": "16 and 19"
+      },
+      {
+        "id": 3,
+        "text": "20 and 21"
+      },
+      {
+        "id": 4,
+        "text": "25 and 26"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Article 358 pertains to the suspension of which fundamental right during emergency?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 14"
+      },
+      {
+        "id": 2,
+        "text": "Article 19"
+      },
+      {
+        "id": 3,
+        "text": "Article 21"
+      },
+      {
+        "id": 4,
+        "text": "Article 32"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The 1975 Emergency was declared under which ground?",
+    "options": [
+      {
+        "id": 1,
+        "text": "War"
+      },
+      {
+        "id": 2,
+        "text": "External Aggression"
+      },
+      {
+        "id": 3,
+        "text": "Armed Rebellion"
+      },
+      {
+        "id": 4,
+        "text": "Internal Disturbance"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which case ruled that the proclamation of National Emergency is subject to judicial review?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kesavananda Bharati Case"
+      },
+      {
+        "id": 2,
+        "text": "Golaknath Case"
+      },
+      {
+        "id": 3,
+        "text": "Minerva Mills Case"
+      },
+      {
+        "id": 4,
+        "text": "S.R. Bommai Case"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The first National Emergency in India was declared in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "1948"
+      },
+      {
+        "id": 2,
+        "text": "1950"
+      },
+      {
+        "id": 3,
+        "text": "1962"
+      },
+      {
+        "id": 4,
+        "text": "1971"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The President’s Rule (Article 356) is based on failure of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Federal Structure"
+      },
+      {
+        "id": 2,
+        "text": "Legislature Functioning"
+      },
+      {
+        "id": 3,
+        "text": "Constitutional Machinery"
+      },
+      {
+        "id": 4,
+        "text": "Financial Stability"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "How long can President's Rule continue with periodic extensions?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1 year"
+      },
+      {
+        "id": 2,
+        "text": "2 years"
+      },
+      {
+        "id": 3,
+        "text": "3 years"
+      },
+      {
+        "id": 4,
+        "text": "4 years"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The first instance of President’s Rule in India occurred in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bihar"
+      },
+      {
+        "id": 2,
+        "text": "Kerala"
+      },
+      {
+        "id": 3,
+        "text": "Punjab"
+      },
+      {
+        "id": 4,
+        "text": "West Bengal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which state has seen the highest number of President's Rule impositions?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bihar"
+      },
+      {
+        "id": 2,
+        "text": "Kerala"
+      },
+      {
+        "id": 3,
+        "text": "Manipur"
+      },
+      {
+        "id": 4,
+        "text": "Uttar Pradesh"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The S.R. Bommai Case primarily deals with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Suspension of Fundamental Rights"
+      },
+      {
+        "id": 2,
+        "text": "Abolition of Legislative Councils"
+      },
+      {
+        "id": 3,
+        "text": "Judicial Review of Emergency Proclamation"
+      },
+      {
+        "id": 4,
+        "text": "Land Reforms"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Under Financial Emergency (Article 360), who declares the emergency?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 2,
+        "text": "Finance Minister"
+      },
+      {
+        "id": 3,
+        "text": "President"
+      },
+      {
+        "id": 4,
+        "text": "Speaker of Lok Sabha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "What can the Centre do during a Financial Emergency?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Dismiss the State Assembly"
+      },
+      {
+        "id": 2,
+        "text": "Reduce judicial powers"
+      },
+      {
+        "id": 3,
+        "text": "Reduce government salaries"
+      },
+      {
+        "id": 4,
+        "text": "Change voting rights"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which Article ensures Centre’s duty to protect states against external aggression and internal disturbance?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 355"
+      },
+      {
+        "id": 2,
+        "text": "Article 352"
+      },
+      {
+        "id": 3,
+        "text": "Article 356"
+      },
+      {
+        "id": 4,
+        "text": "Article 360"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which of the following amendments is known as the Mini-Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "44th"
+      },
+      {
+        "id": 2,
+        "text": "73rd"
+      },
+      {
+        "id": 3,
+        "text": "42nd"
+      },
+      {
+        "id": 4,
+        "text": "86th"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The 86th Amendment added which new Article to the Constitution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "19A"
+      },
+      {
+        "id": 2,
+        "text": "21A"
+      },
+      {
+        "id": 3,
+        "text": "30A"
+      },
+      {
+        "id": 4,
+        "text": "15A"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The 103rd Amendment relates to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "GST"
+      },
+      {
+        "id": 2,
+        "text": "EWS Reservation"
+      },
+      {
+        "id": 3,
+        "text": "Electoral Bonds"
+      },
+      {
+        "id": 4,
+        "text": "Cooperative Societies"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The 101st Constitutional Amendment introduced:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Right to Education"
+      },
+      {
+        "id": 2,
+        "text": "10% EWS Quota"
+      },
+      {
+        "id": 3,
+        "text": "GST"
+      },
+      {
+        "id": 4,
+        "text": "Lokpal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which amendment removed the Anglo-Indian seat nomination in the legislature?",
+    "options": [
+      {
+        "id": 1,
+        "text": "100th"
+      },
+      {
+        "id": 2,
+        "text": "104th"
+      },
+      {
+        "id": 3,
+        "text": "105th"
+      },
+      {
+        "id": 4,
+        "text": "106th"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "To amend provisions relating to the federal structure, which of the following is required?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Simple Majority"
+      },
+      {
+        "id": 2,
+        "text": "Special Majority"
+      },
+      {
+        "id": 3,
+        "text": "Special Majority + Half States' Ratification"
+      },
+      {
+        "id": 4,
+        "text": "President’s sole approval"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Panchayati Raj was introduced through which Constitutional Amendment?",
+    "options": [
+      {
+        "id": 1,
+        "text": "42nd"
+      },
+      {
+        "id": 2,
+        "text": "44th"
+      },
+      {
+        "id": 3,
+        "text": "73rd"
+      },
+      {
+        "id": 4,
+        "text": "86th"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The proposed 106th Amendment aims to reserve what percentage of seats for women?",
+    "options": [
+      {
+        "id": 1,
+        "text": "25%"
+      },
+      {
+        "id": 2,
+        "text": "33%"
+      },
+      {
+        "id": 3,
+        "text": "50%"
+      },
+      {
+        "id": 4,
+        "text": "10%"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The Estimates Committee was formed in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "1947"
+      },
+      {
+        "id": 2,
+        "text": "1950"
+      },
+      {
+        "id": 3,
+        "text": "1952"
+      },
+      {
+        "id": 4,
+        "text": "1964"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Which of the following committees was created based on the Krishna Menon Committee Report?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Estimates Committee"
+      },
+      {
+        "id": 2,
+        "text": "Public Accounts Committee"
+      },
+      {
+        "id": 3,
+        "text": "Committee on Public Undertakings"
+      },
+      {
+        "id": 4,
+        "text": "DRSCs"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "The Public Accounts Committee examines reports from:",
+    "options": [
+      {
+        "id": 1,
+        "text": "RBI"
+      },
+      {
+        "id": 2,
+        "text": "Ministry of Finance"
+      },
+      {
+        "id": 3,
+        "text": "Comptroller and Auditor General"
+      },
+      {
+        "id": 4,
+        "text": "NITI Aayog"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "How many total Department Related Standing Committees (DRSCs) are there?",
+    "options": [
+      {
+        "id": 1,
+        "text": "20"
+      },
+      {
+        "id": 2,
+        "text": "24"
+      },
+      {
+        "id": 3,
+        "text": "30"
+      },
+      {
+        "id": 4,
+        "text": "15"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Who chairs the Private Members’ Bill Committee?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Speaker"
+      },
+      {
+        "id": 2,
+        "text": "President"
+      },
+      {
+        "id": 3,
+        "text": "Deputy Speaker"
+      },
+      {
+        "id": 4,
+        "text": "Minister of Parliamentary Affairs"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Article 358 deals with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Duty to protect states"
+      },
+      {
+        "id": 2,
+        "text": "Suspension of Article 19"
+      },
+      {
+        "id": 3,
+        "text": "Financial Emergency"
+      },
+      {
+        "id": 4,
+        "text": "Role of Parliament in emergencies"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Article 359 allows:",
+    "options": [
+      {
+        "id": 1,
+        "text": "President to dissolve State Assemblies"
+      },
+      {
+        "id": 2,
+        "text": "Centre to take over state finances"
+      },
+      {
+        "id": 3,
+        "text": "Suspension of Fundamental Rights (except 20 & 21)"
+      },
+      {
+        "id": 4,
+        "text": "Abolition of Fundamental Duties"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-11",
+    "text": "Article 365 empowers the Centre to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Impose Financial Emergency"
+      },
+      {
+        "id": 2,
+        "text": "Act if state defies directions of the Union"
+      },
+      {
+        "id": 3,
+        "text": "Dissolve Parliament"
+      },
+      {
+        "id": 4,
+        "text": "Review Judicial Verdicts"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "What is the current maximum strength of the Supreme Court of India including the Chief Justice?",
+    "options": [
+      {
+        "id": 1,
+        "text": "26"
+      },
+      {
+        "id": 2,
+        "text": "31"
+      },
+      {
+        "id": 3,
+        "text": "34"
+      },
+      {
+        "id": 4,
+        "text": "35"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Under which Article is a Supreme Court judge removed from office?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 125"
+      },
+      {
+        "id": 2,
+        "text": "Article 124(4)"
+      },
+      {
+        "id": 3,
+        "text": "Article 126"
+      },
+      {
+        "id": 4,
+        "text": "Article 128"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "What is the minimum age of retirement for a Supreme Court judge?",
+    "options": [
+      {
+        "id": 1,
+        "text": "60"
+      },
+      {
+        "id": 2,
+        "text": "62"
+      },
+      {
+        "id": 3,
+        "text": "65"
+      },
+      {
+        "id": 4,
+        "text": "68"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Who appoints judges to the Supreme Court of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chief Justice of India"
+      },
+      {
+        "id": 2,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 3,
+        "text": "President"
+      },
+      {
+        "id": 4,
+        "text": "Law Minister"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which of the following was the first case related to the Collegium System?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Keshavananda Bharati Case"
+      },
+      {
+        "id": 2,
+        "text": "S.R. Bommai Case"
+      },
+      {
+        "id": 3,
+        "text": "S.P. Gupta Case"
+      },
+      {
+        "id": 4,
+        "text": "Indira Sawhney Case"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "The 2nd Judges Case (1993) led to the creation of the Collegium System consisting of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "CJI + 2 senior judges"
+      },
+      {
+        "id": 2,
+        "text": "President + CJI"
+      },
+      {
+        "id": 3,
+        "text": "CJI + 4 senior judges"
+      },
+      {
+        "id": 4,
+        "text": "Prime Minister + CJI"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which case declared NJAC unconstitutional and restored the Collegium?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Golaknath Case"
+      },
+      {
+        "id": 2,
+        "text": "Minerva Mills Case"
+      },
+      {
+        "id": 3,
+        "text": "4th Judges Case (2015)"
+      },
+      {
+        "id": 4,
+        "text": "A.K. Gopalan Case"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article deals with the advisory jurisdiction of the Supreme Court?",
+    "options": [
+      {
+        "id": 1,
+        "text": "141"
+      },
+      {
+        "id": 2,
+        "text": "143"
+      },
+      {
+        "id": 3,
+        "text": "144"
+      },
+      {
+        "id": 4,
+        "text": "142"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article allows the Supreme Court to ensure \"complete justice\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "139"
+      },
+      {
+        "id": 2,
+        "text": "140"
+      },
+      {
+        "id": 3,
+        "text": "142"
+      },
+      {
+        "id": 4,
+        "text": "144"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Under which Article can the President appoint an acting Chief Justice of the Supreme Court?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 125"
+      },
+      {
+        "id": 2,
+        "text": "Article 126"
+      },
+      {
+        "id": 3,
+        "text": "Article 127"
+      },
+      {
+        "id": 4,
+        "text": "Article 128"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "The seat of the Supreme Court is in Delhi as per which Article?",
+    "options": [
+      {
+        "id": 1,
+        "text": "130"
+      },
+      {
+        "id": 2,
+        "text": "132"
+      },
+      {
+        "id": 3,
+        "text": "138"
+      },
+      {
+        "id": 4,
+        "text": "131"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article gives the Supreme Court original jurisdiction in Centre-State disputes?",
+    "options": [
+      {
+        "id": 1,
+        "text": "130"
+      },
+      {
+        "id": 2,
+        "text": "131"
+      },
+      {
+        "id": 3,
+        "text": "132"
+      },
+      {
+        "id": 4,
+        "text": "133"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article enables Parliament to enlarge the jurisdiction of the Supreme Court?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 136"
+      },
+      {
+        "id": 2,
+        "text": "Article 138"
+      },
+      {
+        "id": 3,
+        "text": "Article 135"
+      },
+      {
+        "id": 4,
+        "text": "Article 139"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Writ jurisdiction of the Supreme Court is provided under which Article?",
+    "options": [
+      {
+        "id": 1,
+        "text": "226"
+      },
+      {
+        "id": 2,
+        "text": "139"
+      },
+      {
+        "id": 3,
+        "text": "140"
+      },
+      {
+        "id": 4,
+        "text": "138"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "The High Courts were first established in which year?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1857"
+      },
+      {
+        "id": 2,
+        "text": "1862"
+      },
+      {
+        "id": 3,
+        "text": "1947"
+      },
+      {
+        "id": 4,
+        "text": "1950"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which High Court was the first to be established in India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bombay"
+      },
+      {
+        "id": 2,
+        "text": "Delhi"
+      },
+      {
+        "id": 3,
+        "text": "Calcutta"
+      },
+      {
+        "id": 4,
+        "text": "Madras"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Who was the first female judge of a High Court in India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fathima Beevi"
+      },
+      {
+        "id": 2,
+        "text": "Justice Leila Seth"
+      },
+      {
+        "id": 3,
+        "text": "Justice Anna Chandy"
+      },
+      {
+        "id": 4,
+        "text": "Justice Sujata Manohar"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "What is the retirement age of a High Court judge?",
+    "options": [
+      {
+        "id": 1,
+        "text": "60"
+      },
+      {
+        "id": 2,
+        "text": "62"
+      },
+      {
+        "id": 3,
+        "text": "65"
+      },
+      {
+        "id": 4,
+        "text": "68"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article defines the establishment of High Courts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "213"
+      },
+      {
+        "id": 2,
+        "text": "214"
+      },
+      {
+        "id": 3,
+        "text": "216"
+      },
+      {
+        "id": 4,
+        "text": "217"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Under which Article can a High Court issue writs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "131"
+      },
+      {
+        "id": 2,
+        "text": "136"
+      },
+      {
+        "id": 3,
+        "text": "226"
+      },
+      {
+        "id": 4,
+        "text": "227"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article allows a High Court to have jurisdiction over UTs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "228"
+      },
+      {
+        "id": 2,
+        "text": "230"
+      },
+      {
+        "id": 3,
+        "text": "229"
+      },
+      {
+        "id": 4,
+        "text": "231"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "A judge of the High Court is appointed by the President in consultation with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Governor and PM"
+      },
+      {
+        "id": 2,
+        "text": "CJI and CM"
+      },
+      {
+        "id": 3,
+        "text": "CJI, Governor, and CJ of the HC"
+      },
+      {
+        "id": 4,
+        "text": "Law Minister only"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "What is the source of salary for High Court judges?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Union Consolidated Fund"
+      },
+      {
+        "id": 2,
+        "text": "State Consolidated Fund"
+      },
+      {
+        "id": 3,
+        "text": "RBI Budget"
+      },
+      {
+        "id": 4,
+        "text": "Planning Commission"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "The transfer of High Court judges is governed by which Article?",
+    "options": [
+      {
+        "id": 1,
+        "text": "222"
+      },
+      {
+        "id": 2,
+        "text": "223"
+      },
+      {
+        "id": 3,
+        "text": "224"
+      },
+      {
+        "id": 4,
+        "text": "225"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article states that High Courts are courts of record?",
+    "options": [
+      {
+        "id": 1,
+        "text": "215"
+      },
+      {
+        "id": 2,
+        "text": "216"
+      },
+      {
+        "id": 3,
+        "text": "218"
+      },
+      {
+        "id": 4,
+        "text": "217"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article provides for superintendence of High Courts over subordinate courts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "227"
+      },
+      {
+        "id": 2,
+        "text": "228"
+      },
+      {
+        "id": 3,
+        "text": "229"
+      },
+      {
+        "id": 4,
+        "text": "230"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Who appoints the Comptroller & Auditor General (CAG) of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Parliament"
+      },
+      {
+        "id": 2,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 3,
+        "text": "President"
+      },
+      {
+        "id": 4,
+        "text": "Finance Minister"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Under which Article is the CAG appointed?",
+    "options": [
+      {
+        "id": 1,
+        "text": "147"
+      },
+      {
+        "id": 2,
+        "text": "148"
+      },
+      {
+        "id": 3,
+        "text": "149"
+      },
+      {
+        "id": 4,
+        "text": "151"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "The CAG's reports on Union finances are submitted to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Minister"
+      },
+      {
+        "id": 2,
+        "text": "Cabinet"
+      },
+      {
+        "id": 3,
+        "text": "President"
+      },
+      {
+        "id": 4,
+        "text": "Finance Commission"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Who lays the CAG’s report before the State Legislature?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chief Minister"
+      },
+      {
+        "id": 2,
+        "text": "Governor"
+      },
+      {
+        "id": 3,
+        "text": "Speaker"
+      },
+      {
+        "id": 4,
+        "text": "High Court"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "Which Article determines the duties and powers of the CAG?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 149"
+      },
+      {
+        "id": 2,
+        "text": "Article 150"
+      },
+      {
+        "id": 3,
+        "text": "Article 151"
+      },
+      {
+        "id": 4,
+        "text": "Article 148"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "The CAG audits expenditure from:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Only Central Govt accounts"
+      },
+      {
+        "id": 2,
+        "text": "Only State Govt accounts"
+      },
+      {
+        "id": 3,
+        "text": "Both Central and State Govt accounts"
+      },
+      {
+        "id": 4,
+        "text": "Only local bodies"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-12",
+    "text": "The format for accounts maintained by the Union and States is prescribed under:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Article 148"
+      },
+      {
+        "id": 2,
+        "text": "Article 149"
+      },
+      {
+        "id": 3,
+        "text": "Article 150"
+      },
+      {
+        "id": 4,
+        "text": "Article 151"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which committee first recommended the 3-tier Panchayati Raj system? ○ A) Ashok Mehta Committee ○ B) G.V.K. Rao Committee ○ C) Balwant Rai Mehta Committee ○ D) L.M. Singhvi Committee",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "When was the first Panchayati Raj system implemented in India? ○ A) 26 January 1950 ○ B) 2 October 1957 ○ C) 2 October 1959 ○ D) 15 August 1960",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "In which state was the first Panchayati Raj system launched? ○ A) Uttar Pradesh ○ B) Rajasthan ○ C) Gujarat ○ D) Maharashtra",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which committee recommended a 2-tier Panchayati Raj structure? ○ A) Balwant Rai Mehta Committee ○ B) Ashok Mehta Committee ○ C) Thungon Committee ○ D) Gadgil Committee",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which committee emphasized Panchayati Raj Institutions as institutions of self-government? ○ A) G.V.K. Rao Committee ○ B) L.M. Singhvi Committee ○ C) Ashok Mehta Committee ○ D) Gadgil Committee",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which committee recommended constitutional status for Panchayati Raj Institutions? ○ A) Balwant Rai Mehta Committee ○ B) Thungon Committee ○ C) L.M. Singhvi Committee ○ D) Ashok Mehta Committee",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "The Thungon Committee (1988) primarily focused on: ○ A) Financial devolution ○ B) Legal status ○ C) Administrative support ○ D) Gram Sabha empowerment",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "The 73rd Constitutional Amendment Act came into force in: ○ A) April 1992 ○ B) January 1993 ○ C) April 1993 ○ D) June 1994",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which schedule was added by the 73rd Constitutional Amendment? ○ A) 9th ○ B) 10th ○ C) 11th ○ D) 12th",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "How many subjects are listed in the 11th Schedule? ○ A) 18 ○ B) 20 ○ C) 25 ○ D) 29",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Panchayati Raj Day is celebrated on: ○ A) 26 January ○ B) 24 April ○ C) 2 October ○ D) 15 August",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Who was the Prime Minister when the 73rd Amendment came into effect? ○ A) Rajiv Gandhi ○ B) P.V. Narasimha Rao ○ C) Atal Bihari Vajpayee ○ D) Indira Gandhi",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "What is the minimum population required for the mandatory creation of Intermediate Panchayat? ○ A) 5 lakh ○ B) 10 lakh ○ C) 15 lakh ○ D) 20 lakh",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which article defines terms like Gram Sabha, Panchayat, etc.? ○ A) Article 243A ○ B) Article 243 ○ C) Article 243G ○ D) Article 243D",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Article 243C deals with: ○ A) Powers and functions of Panchayats ○ B) Reservation in Panchayats ○ C) Composition of Panchayats ○ D) State Finance Commission",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Minimum age for contesting Panchayat elections under Article 243F is: ○ A) 18 ○ B) 21 ○ C) 25 ○ D) 30",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which article allows reservation for women in Panchayats? ○ A) Article 243B ○ B) Article 243C ○ C) Article 243D ○ D) Article 243F",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "What is the tenure of a Panchayat under Article 243E? ○ A) 3 years ○ B) 4 years ○ C) 5 years ○ D) 6 years",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "The power to levy taxes by Panchayats is given under: ○ A) Article 243H ○ B) Article 243G ○ C) Article 243C ○ D) Article 243E",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "State Finance Commission is constituted under: ○ A) Article 243G ○ B) Article 243I ○ C) Article 243H ○ D) Article 243J",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which article ensures audit of Panchayat accounts? ○ A) Article 243I ○ B) Article 243K ○ C) Article 243J ○ D) Article 243H",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Elections to Panchayats are overseen by: ○ A) Election Commission of India ○ B) State Election Commission ○ C) Ministry of Panchayati Raj ○ D) Governor",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which article bars court interference in Panchayat elections? ○ A) Article 243N ○ B) Article 243O ○ C) Article 243K ○ D) Article 243F",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which states are exempt from Panchayati Raj provisions? ○ A) Arunachal Pradesh ○ B) Tripura ○ C) Nagaland ○ D) Assam",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "PESA Act extends the 73rd Amendment to: ○ A) Sixth Schedule Areas ○ B) Tribal villages only ○ C) Fifth Schedule Areas ○ D) Backward regions",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "The PESA Act is based on recommendations by: ○ A) Ashok Mehta ○ B) Bhuria Committee ○ C) Thungon Committee ○ D) Gadgil Committee",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "The 74th Amendment relates to: ○ A) Panchayats ○ B) Urban Local Bodies ○ C) Scheduled Tribes ○ D) Land Reforms",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which Schedule was added by the 74th Amendment? ○ A) 11th ○ B) 12th ○ C) 10th ○ D) 9th",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "How many subjects are listed in the 12th Schedule? ○ A) 11 ○ B) 18 ○ C) 20 ○ D) 29",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Nagar Panchayat is meant for: ○ A) Rural areas ○ B) Large cities ○ C) Transition areas ○ D) Coastal zones",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "All municipal body seats are filled by: ○ A) Nomination ○ B) Appointment ○ C) Direct election ○ D) Indirect election",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Who conducts elections to urban local bodies? ○ A) Election Commission of India ○ B) State Election Commission ○ C) Ministry of Housing and Urban Affairs ○ D) Governor",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Which of these is NOT a constitutional urban body? ○ A) Municipal Corporation ○ B) Cantonment Board ○ C) Nagar Panchayat ○ D) Municipal Council",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "The first Municipal Corporation in India was established in: ○ A) Bombay ○ B) Madras ○ C) Calcutta ○ D) Delhi",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "Who is known as the Father of Local Self-Government in India? ○ A) Lord Mayo ○ B) Lord Curzon ○ C) Lord Ripon ○ D) Lord Dalhousie",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-13",
+    "text": "What is Lord Ripon’s 1882 resolution often called? ○ A) Charter of Panchayats ○ B) Local Governance Act ○ C) Magna Carta of Local Self-Government ○ D) Urban Governance Code",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Which article of the Constitution deals with the Election Commission of India? ○ A) 315 ○ B) 324 ○ C) 280 ○ D) 76",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "How many members can the Election Commission of India have? ○ A) Only 1 CEC ○ B) 1 CEC + up to 3 ECs ○ C) 1 CEC + up to 2 ECs ○ D) 1 CEC + up to 5 ECs",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "What is the term of the Chief Election Commissioner? ○ A) 5 years or 60 years of age ○ B) 6 years or 65 years of age ○ C) 4 years or 64 years of age ○ D) 5 years or 62 years of age",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Which constitutional body acts as the watchdog of the merit system? ○ A) Election Commission ○ B) CAG ○ C) UPSC ○ D) Finance Commission",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who appoints members of the UPSC? ○ A) Prime Minister ○ B) President ○ C) Chief Justice of India ○ D) Vice President",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "What is the minimum required experience for half of the UPSC members? ○ A) 5 years in judiciary ○ B) 10 years in government service ○ C) 15 years in academics ○ D) 20 years in administration",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who removes the members of a State Public Service Commission? ○ A) Governor ○ B) President ○ C) Chief Justice ○ D) Prime Minister",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Under which Article is the Finance Commission constituted? ○ A) 324 ○ B) 315 ○ C) 280 ○ D) 148",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The recommendations of the Finance Commission are: ○ A) Legally binding ○ B) Enforced by Supreme Court ○ C) Binding only if Parliament approves ○ D) Not binding on the President",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The Comptroller and Auditor General (CAG) holds office for: ○ A) 5 years or till 65 years of age ○ B) 6 years or till 65 years of age ○ C) 6 years or till 60 years of age ○ D) Lifetime",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who is the highest law officer of India? ○ A) CJI ○ B) Attorney General ○ C) Solicitor General ○ D) Law Minister",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The Attorney General must be qualified to be: ○ A) Member of Parliament ○ B) High Court Judge ○ C) Supreme Court Judge ○ D) IAS Officer",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who appoints the Advocate General of a state? ○ A) President ○ B) Prime Minister ○ C) Governor ○ D) Chief Minister",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The post of Special Officer for Linguistic Minorities was added by which amendment? ○ A) 42nd ○ B) 44th ○ C) 101st ○ D) 7th",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Under which Article is the GST Council constituted? ○ A) 280 ○ B) 279A ○ C) 264 ○ D) 243",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who chairs the GST Council? ○ A) Prime Minister ○ B) RBI Governor ○ C) Union Finance Minister ○ D) President",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Which Commission was split from the National Commission for SCs? ○ A) National Commission for Women ○ B) National Commission for STs ○ C) National Commission for BCs ○ D) State Human Rights Commission",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The National Commission for STs was created by which amendment? ○ A) 86th ○ B) 89th ○ C) 91st ○ D) 102nd",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The National Commission for Backward Classes became a constitutional body via: ○ A) 86th Amendment ○ B) 101st Amendment ○ C) 102nd Amendment ○ D) 104th Amendment",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Which of the following is a statutory body? ○ A) NITI Aayog ○ B) NHRC ○ C) CBI ○ D) NDC",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The National Human Rights Commission was created under which act? ○ A) Human Welfare Act, 1990 ○ B) Civil Liberties Act, 1992 ○ C) Protection of Human Rights Act, 1993 ○ D) National Justice Act, 1994",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who can be appointed as Chairman of NHRC? ○ A) Sitting CJI ○ B) Retired Chief Justice of India ○ C) High Court Judge ○ D) Advocate General",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The Central Vigilance Commission was originally created in: ○ A) 2003 ○ B) 1993 ○ C) 1964 ○ D) 1955",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The Central Vigilance Commission became a statutory body through: ○ A) Executive resolution ○ B) Constitutional amendment ○ C) CVC Act, 2003 ○ D) RTI Act, 2005",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Which Act established the Central Information Commission? ○ A) CVC Act, 2003 ○ B) RTI Act, 2005 ○ C) Information Act, 2002 ○ D) Transparency Act, 2006",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "What is the term of office for the Chief Information Commissioner? ○ A) 6 years or 65 years ○ B) 5 years or 60 years ○ C) 5 years or 65 years ○ D) 4 years or 64 years",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Lokpal consists of how many members? ○ A) 4 ○ B) 6 ○ C) 8 ○ D) 9",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who is the current Chairperson of Lokpal? ○ A) Justice N.V. Ramana ○ B) Justice M.K. Khanwilkar ○ C) Justice S.A. Bobde ○ D) Justice D.Y. Chandrachud",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Lokayuktas are appointed: ○ A) By the President ○ B) Under the direction of Lokpal ○ C) Separately by each State ○ D) By Supreme Court",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who was the first Law Commission Chairman of independent India? ○ A) B.R. Ambedkar ○ B) Nani Palkhivala ○ C) M.C. Setalvad ○ D) K. Subba Rao",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The National Commission for Women was established in: ○ A) 1985 ○ B) 1990 ○ C) 1993 ○ D) 2005",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Which body was created under the CPCR Act, 2005? ○ A) NCW ○ B) CIC ○ C) NCPCR ○ D) NHRC",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The CBI derives legal power from: ○ A) Executive Order alone ○ B) Lokpal Act ○ C) Delhi Special Police Establishment Act ○ D) RTI Act",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "The NITI Aayog was established in: ○ A) 2014 ○ B) 2015 ○ C) 2016 ○ D) 2017",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "Who chairs the NITI Aayog? ○ A) Finance Minister ○ B) President ○ C) Prime Minister ○ D) Planning Minister",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-14",
+    "text": "When was the National Development Council (NDC) created? ○ A) 1952 ○ B) 1963 ○ C) 1955 ○ D) 1947",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act marked the beginning of central administration in British India? ○ A. Pitt’s India Act, 1784 ○ B. Regulating Act, 1773 ○ C. Charter Act, 1813 ○ D. Government of India Act, 1858",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Who became the first Governor-General of Bengal under the Regulating Act of 1773? ○ A. Lord Cornwallis ○ B. Lord Dalhousie ○ C. Warren Hastings ○ D. William Bentinck",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "What significant judicial body was established in Calcutta in 1774? ○ A. High Court ○ B. Supreme Court ○ C. Federal Court ○ D. Privy Council",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act first introduced the concept of dual control in Indian administration? ○ A. Government of India Act, 1858 ○ B. Pitt’s India Act, 1784 ○ C. Regulating Act, 1773 ○ D. Charter Act, 1833",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The Amending Act of 1781 clarified the jurisdiction of which institution? ○ A. Federal Court ○ B. Supreme Court at Calcutta ○ C. Privy Council ○ D. High Court of Bengal",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act ended the East India Company’s trade monopoly except for tea and trade with China? ○ A. Charter Act, 1833 ○ B. Charter Act, 1813 ○ C. Charter Act, 1853 ○ D. Pitt’s India Act, 1784",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Charter Act proposed open competition for civil services? ○ A. Charter Act, 1793 ○ B. Charter Act, 1813 ○ C. Charter Act, 1833 ○ D. Charter Act, 1853",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Who was the first Indian to qualify for the civil services through open competition? ○ A. Dadabhai Naoroji ○ B. Surendranath Banerjee ○ C. Satyendranath Tagore ○ D. C. Rajagopalachari",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The title of \"Governor-General of India\" was first used after which Act? ○ A. Pitt’s India Act ○ B. Charter Act, 1833 ○ C. Government of India Act, 1858 ○ D. Indian Councils Act, 1909",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act formally ended the East India Company's commercial activities? ○ A. Charter Act, 1853 ○ B. Charter Act, 1813 ○ C. Charter Act, 1833 ○ D. Pitt’s India Act",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The Government of India Act, 1858, created which post to represent the Crown? ○ A. Prime Minister ○ B. Viceroy ○ C. Governor ○ D. Chief Commissioner",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The Secretary of State for India was assisted by how many members in the India Council? ○ A. 10 ○ B. 12 ○ C. 15 ○ D. 18",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act introduced the Portfolio System in India? ○ A. Indian Councils Act, 1861 ○ B. Indian Councils Act, 1909 ○ C. Government of India Act, 1919 ○ D. Charter Act, 1833",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act introduced Separate Electorates for Muslims? ○ A. Indian Councils Act, 1909 ○ B. Indian Councils Act, 1861 ○ C. Government of India Act, 1919 ○ D. Charter Act, 1853",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The Government of India Act, 1919 introduced which of the following administrative systems? ○ A. Portfolio system ○ B. Dual government ○ C. Dyarchy in provinces ○ D. Federal court system",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act recommended the establishment of the Public Service Commission? ○ A. Government of India Act, 1935 ○ B. Indian Councils Act, 1909 ○ C. Government of India Act, 1919 ○ D. Regulating Act, 1773",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "In which year was the Federal Court of India established? ○ A. 1935 ○ B. 1937 ○ C. 1942 ○ D. 1947",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The Reserve Bank of India was established under which Act? ○ A. Government of India Act, 1919 ○ B. Government of India Act, 1935 ○ C. Indian Independence Act, 1947 ○ D. Charter Act, 1853",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act first provided for the division of powers via Federal, Provincial, and Concurrent Lists? ○ A. Government of India Act, 1858 ○ B. Government of India Act, 1919 ○ C. Government of India Act, 1935 ○ D. Indian Independence Act, 1947",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The Indian Independence Act, 1947, abolished which key British office? ○ A. Secretary of State for India ○ B. Viceroy ○ C. Governor-General ○ D. Commander-in-Chief",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Which Act officially ended British rule in India? ○ A. Government of India Act, 1935 ○ B. Government of India Act, 1919 ○ C. Indian Independence Act, 1947 ○ D. Indian Councils Act, 1909",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Who was the first Indian to become Governor-General of independent India? ○ A. Rajendra Prasad ○ B. Vallabhbhai Patel ○ C. Jawaharlal Nehru ○ D. C. Rajagopalachari",
+    "options": [],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Under which Act did the title change from \"Governor-General\" to \"Viceroy\"? ○ A. Government of India Act, 1858 ○ B. Indian Independence Act, 1947 ○ C. Charter Act, 1833 ○ D. Pitt’s India Act, 1784",
+    "options": [],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "The “dual government” system introduced in 1784 referred to control by: ○ A. Parliament and the Crown ○ B. Governor-General and Provincial Governors ○ C. Court of Directors and Board of Control ○ D. Viceroy and Secretary of State",
+    "options": [],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "polity-15",
+    "text": "Who was the first Chief Justice of the Supreme Court at Calcutta (1774)? ○ A. William Bentinck ○ B. Elijah Impey ○ C. Charles Cornwallis ○ D. Thomas Macaulay",
+    "options": [],
+    "correctOptionId": 2,
+    "explanation": ""
+  }
+]

@@ -20,7 +20,7 @@
         "text": "Stephen Hawking"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -44,7 +44,7 @@
         "text": "3.8 billion"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -68,7 +68,7 @@
         "text": "Aryabhata"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -92,7 +92,7 @@
         "text": "Astrology"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -116,7 +116,7 @@
         "text": "Orion"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -140,7 +140,7 @@
         "text": "Centauri"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -164,7 +164,7 @@
         "text": "Chamberlin"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -188,7 +188,7 @@
         "text": "Galle"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -212,7 +212,7 @@
         "text": "Solar Flare Hypothesis"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -260,7 +260,7 @@
         "text": "10"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -284,7 +284,7 @@
         "text": "Solar Flare Zone"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -308,7 +308,7 @@
         "text": "Orion Belt"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -332,7 +332,7 @@
         "text": "Mars"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -356,7 +356,7 @@
         "text": "Without rings"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -380,7 +380,7 @@
         "text": "60%"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -404,7 +404,7 @@
         "text": "7000 K"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -428,7 +428,7 @@
         "text": "5 min 45 sec"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -452,7 +452,7 @@
         "text": "Corona"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -476,7 +476,7 @@
         "text": "HelioSat"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -500,7 +500,7 @@
         "text": "7.4 lakh km"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -524,7 +524,7 @@
         "text": "3 sec"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -548,7 +548,7 @@
         "text": "Opposite side"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -596,7 +596,7 @@
         "text": "Moon’s Equator"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -620,7 +620,7 @@
         "text": "Mars"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -644,7 +644,7 @@
         "text": "Randomly"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -668,7 +668,7 @@
         "text": "Saturn"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -692,7 +692,7 @@
         "text": "Mercury"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -716,7 +716,7 @@
         "text": "Saturn"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -740,7 +740,7 @@
         "text": "Neptune"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -764,7 +764,7 @@
         "text": "Jupiter"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -812,7 +812,7 @@
         "text": "Mars"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -836,7 +836,7 @@
         "text": "Oxygen"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -860,7 +860,7 @@
         "text": "Ceres"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -884,7 +884,7 @@
         "text": "Ganymede"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -908,7 +908,7 @@
         "text": "Makemake"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -932,7 +932,7 @@
         "text": "Asteroids"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -956,7 +956,7 @@
         "text": "Thermosphere"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -980,7 +980,7 @@
         "text": "86 years"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -1004,7 +1004,7 @@
         "text": "Betelgeuse"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -1028,7 +1028,7 @@
         "text": "Andromeda"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -1052,7 +1052,7 @@
         "text": "Lyra"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -1076,7 +1076,7 @@
         "text": "Southern Cross"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -1100,7 +1100,7 @@
         "text": "A supernova remnant"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -1124,7 +1124,7 @@
         "text": "Planetary alignment"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -1148,7 +1148,7 @@
         "text": "Gravity-dense region"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -1196,11 +1196,11 @@
         "text": "Zakir Hussain"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Who invented the technique of radioactive dating to estimate Earth’s age?",
     "options": [
       {
@@ -1220,11 +1220,11 @@
         "text": "Alfred Wegener"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Carbon-14 dating is primarily used for:",
     "options": [
       {
@@ -1244,11 +1244,11 @@
         "text": "Dating oceans"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "The Earth’s shape is best described as:",
     "options": [
       {
@@ -1268,11 +1268,11 @@
         "text": "Circular disk"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "What causes the bulge at the equator of the Earth?",
     "options": [
       {
@@ -1292,11 +1292,11 @@
         "text": "Centrifugal force due to rotation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "What is the polar radius of the Earth?",
     "options": [
       {
@@ -1316,11 +1316,11 @@
         "text": "6400 km"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "The Earth completes one full rotation in:",
     "options": [
       {
@@ -1340,11 +1340,11 @@
         "text": "25 hours"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "In which direction does the Earth rotate?",
     "options": [
       {
@@ -1364,11 +1364,11 @@
         "text": "West to East"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Which part of Earth experiences the maximum rotational speed?",
     "options": [
       {
@@ -1388,11 +1388,11 @@
         "text": "Arctic Circle"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "What is the shape of Earth’s orbit around the Sun?",
     "options": [
       {
@@ -1412,11 +1412,11 @@
         "text": "Irregular"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Earth's revolution speed is approximately:",
     "options": [
       {
@@ -1436,11 +1436,11 @@
         "text": "30.8 km/sec"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "During which date is the Earth closest to the Sun?",
     "options": [
       {
@@ -1460,11 +1460,11 @@
         "text": "22nd December"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "The farthest point of Earth from the Sun is called:",
     "options": [
       {
@@ -1484,11 +1484,11 @@
         "text": "Apex"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Latitude lines are:",
     "options": [
       {
@@ -1508,11 +1508,11 @@
         "text": "Spiral lines"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "What is the approximate distance of 1° of latitude?",
     "options": [
       {
@@ -1532,11 +1532,11 @@
         "text": "91 km"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Which is the largest latitude?",
     "options": [
       {
@@ -1556,11 +1556,11 @@
         "text": "Arctic Circle"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "How many total latitudes exist on Earth?",
     "options": [
       {
@@ -1580,11 +1580,11 @@
         "text": "90"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Which of the following lies at 23° 26′ 22″ N?",
     "options": [
       {
@@ -1604,11 +1604,11 @@
         "text": "Equator"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Which of the following is NOT a longitude?",
     "options": [
       {
@@ -1628,11 +1628,11 @@
         "text": "180° line"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "What is the angular distance of the International Date Line?",
     "options": [
       {
@@ -1652,11 +1652,11 @@
         "text": "270°"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Which of these countries is NOT crossed by the Prime Meridian?",
     "options": [
       {
@@ -1676,11 +1676,11 @@
         "text": "Spain"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Earth rotates 360° in 24 hours. Therefore, 1 hour corresponds to how many degrees?",
     "options": [
       {
@@ -1700,11 +1700,11 @@
         "text": "30°"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "How much time difference does 1° longitude make?",
     "options": [
       {
@@ -1724,11 +1724,11 @@
         "text": "10 minutes"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Time increases as we move:",
     "options": [
       {
@@ -1748,11 +1748,11 @@
         "text": "Southward"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "On 21st June, which of the following occurs?",
     "options": [
       {
@@ -1772,11 +1772,11 @@
         "text": "Vernal Equinox"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Which latitude receives direct sunlight on 22nd December?",
     "options": [
       {
@@ -1796,11 +1796,11 @@
         "text": "Arctic Circle"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Equal day and night occur on:",
     "options": [
       {
@@ -1820,11 +1820,11 @@
         "text": "Perihelion"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "Which of these is caused by Earth’s axial tilt and revolution?",
     "options": [
       {
@@ -1844,11 +1844,11 @@
         "text": "Lunar phases"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-1",
     "text": "The Northern and Southern Hemispheres are divided by:",
     "options": [
       {
@@ -1868,11 +1868,635 @@
         "text": "Arctic Circle"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
+    "text": "Who invented the technique of radioactive dating to estimate Earth’s age?",
+    "options": [
+      {
+        "id": 1,
+        "text": "James Hutton"
+      },
+      {
+        "id": 2,
+        "text": "Ernest Rutherford"
+      },
+      {
+        "id": 3,
+        "text": "Charles Lyell"
+      },
+      {
+        "id": 4,
+        "text": "Alfred Wegener"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Carbon-14 dating is primarily used for:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Dating the Earth’s core"
+      },
+      {
+        "id": 2,
+        "text": "Dating youngest rocks"
+      },
+      {
+        "id": 3,
+        "text": "Dating metallic ores"
+      },
+      {
+        "id": 4,
+        "text": "Dating oceans"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "The Earth’s shape is best described as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Perfect sphere"
+      },
+      {
+        "id": 2,
+        "text": "Flattened sphere"
+      },
+      {
+        "id": 3,
+        "text": "Oblate spheroid"
+      },
+      {
+        "id": 4,
+        "text": "Circular disk"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "What causes the bulge at the equator of the Earth?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Gravity"
+      },
+      {
+        "id": 2,
+        "text": "Earthquakes"
+      },
+      {
+        "id": 3,
+        "text": "Solar radiation"
+      },
+      {
+        "id": 4,
+        "text": "Centrifugal force due to rotation"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "The Earth completes one full rotation in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "24 hours"
+      },
+      {
+        "id": 2,
+        "text": "23 hrs 56 mins 4 sec"
+      },
+      {
+        "id": 3,
+        "text": "22 hours"
+      },
+      {
+        "id": 4,
+        "text": "25 hours"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "In which direction does the Earth rotate?",
+    "options": [
+      {
+        "id": 1,
+        "text": "East to West"
+      },
+      {
+        "id": 2,
+        "text": "North to South"
+      },
+      {
+        "id": 3,
+        "text": "South to North"
+      },
+      {
+        "id": 4,
+        "text": "West to East"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Which part of Earth experiences the maximum rotational speed?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tropic of Cancer"
+      },
+      {
+        "id": 2,
+        "text": "Poles"
+      },
+      {
+        "id": 3,
+        "text": "Equator"
+      },
+      {
+        "id": 4,
+        "text": "Arctic Circle"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "What is the shape of Earth’s orbit around the Sun?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Circular"
+      },
+      {
+        "id": 2,
+        "text": "Spiral"
+      },
+      {
+        "id": 3,
+        "text": "Elliptical"
+      },
+      {
+        "id": 4,
+        "text": "Irregular"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "During which date is the Earth closest to the Sun?",
+    "options": [
+      {
+        "id": 1,
+        "text": "4th July"
+      },
+      {
+        "id": 2,
+        "text": "21st March"
+      },
+      {
+        "id": 3,
+        "text": "3rd January"
+      },
+      {
+        "id": 4,
+        "text": "22nd December"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "The farthest point of Earth from the Sun is called:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Perihelion"
+      },
+      {
+        "id": 2,
+        "text": "Aphelion"
+      },
+      {
+        "id": 3,
+        "text": "Zenith"
+      },
+      {
+        "id": 4,
+        "text": "Apex\n\n\n\n📍 Latitude & Longitude"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Latitude lines are:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vertical lines from pole to pole"
+      },
+      {
+        "id": 2,
+        "text": "Diagonal lines"
+      },
+      {
+        "id": 3,
+        "text": "Horizontal lines from east to west"
+      },
+      {
+        "id": 4,
+        "text": "Spiral lines"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "What is the approximate distance of 1° of latitude?",
+    "options": [
+      {
+        "id": 1,
+        "text": "100 km"
+      },
+      {
+        "id": 2,
+        "text": "121 km"
+      },
+      {
+        "id": 3,
+        "text": "111 km"
+      },
+      {
+        "id": 4,
+        "text": "91 km"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Which is the largest latitude?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tropic of Cancer"
+      },
+      {
+        "id": 2,
+        "text": "Tropic of Capricorn"
+      },
+      {
+        "id": 3,
+        "text": "Equator"
+      },
+      {
+        "id": 4,
+        "text": "Arctic Circle"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "How many total latitudes exist on Earth?",
+    "options": [
+      {
+        "id": 1,
+        "text": "180"
+      },
+      {
+        "id": 2,
+        "text": "181"
+      },
+      {
+        "id": 3,
+        "text": "360"
+      },
+      {
+        "id": 4,
+        "text": "90"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Which of the following lies at 23° 26′ 22″ N?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tropic of Capricorn"
+      },
+      {
+        "id": 2,
+        "text": "Tropic of Cancer"
+      },
+      {
+        "id": 3,
+        "text": "Arctic Circle"
+      },
+      {
+        "id": 4,
+        "text": "Equator"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Which of the following is NOT a longitude?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Meridian"
+      },
+      {
+        "id": 2,
+        "text": "International Date Line"
+      },
+      {
+        "id": 3,
+        "text": "Equator"
+      },
+      {
+        "id": 4,
+        "text": "180° line"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "What is the angular distance of the International Date Line?",
+    "options": [
+      {
+        "id": 1,
+        "text": "0°"
+      },
+      {
+        "id": 2,
+        "text": "90°"
+      },
+      {
+        "id": 3,
+        "text": "180°"
+      },
+      {
+        "id": 4,
+        "text": "270°"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Which of these countries is NOT crossed by the Prime Meridian?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ghana"
+      },
+      {
+        "id": 2,
+        "text": "Algeria"
+      },
+      {
+        "id": 3,
+        "text": "India"
+      },
+      {
+        "id": 4,
+        "text": "Spain\n\n\n\n⏰ Time & Seasons"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Earth rotates 360° in 24 hours. Therefore, 1 hour corresponds to how many degrees?",
+    "options": [
+      {
+        "id": 1,
+        "text": "10°"
+      },
+      {
+        "id": 2,
+        "text": "20°"
+      },
+      {
+        "id": 3,
+        "text": "15°"
+      },
+      {
+        "id": 4,
+        "text": "30°"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "How much time difference does 1° longitude make?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1 minute"
+      },
+      {
+        "id": 2,
+        "text": "4 minutes"
+      },
+      {
+        "id": 3,
+        "text": "15 minutes"
+      },
+      {
+        "id": 4,
+        "text": "10 minutes"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Time increases as we move:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Northward"
+      },
+      {
+        "id": 2,
+        "text": "Westward"
+      },
+      {
+        "id": 3,
+        "text": "Eastward"
+      },
+      {
+        "id": 4,
+        "text": "Southward\n\n\n\n☀️ Solstices & Equinoxes"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "On 21st June, which of the following occurs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Winter Solstice"
+      },
+      {
+        "id": 2,
+        "text": "Autumnal Equinox"
+      },
+      {
+        "id": 3,
+        "text": "Summer Solstice"
+      },
+      {
+        "id": 4,
+        "text": "Vernal Equinox"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Which latitude receives direct sunlight on 22nd December?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tropic of Cancer"
+      },
+      {
+        "id": 2,
+        "text": "Tropic of Capricorn"
+      },
+      {
+        "id": 3,
+        "text": "Equator"
+      },
+      {
+        "id": 4,
+        "text": "Arctic Circle"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Equal day and night occur on:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Summer solstice"
+      },
+      {
+        "id": 2,
+        "text": "Equinoxes"
+      },
+      {
+        "id": 3,
+        "text": "Winter solstice"
+      },
+      {
+        "id": 4,
+        "text": "Perihelion"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "Which of these is caused by Earth’s axial tilt and revolution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Earthquakes"
+      },
+      {
+        "id": 2,
+        "text": "Time zones"
+      },
+      {
+        "id": 3,
+        "text": "Seasons"
+      },
+      {
+        "id": 4,
+        "text": "Lunar phases\n\n\n\n🌐 Hemisphere Division"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
+    "text": "The Northern and Southern Hemispheres are divided by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime Meridian"
+      },
+      {
+        "id": 2,
+        "text": "Equator"
+      },
+      {
+        "id": 3,
+        "text": "Tropic of Cancer"
+      },
+      {
+        "id": 4,
+        "text": "Arctic Circle"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-2",
     "text": "What divides the Eastern and Western Hemispheres?",
     "options": [
       {
@@ -1889,14 +2513,14 @@
       },
       {
         "id": 4,
-        "text": "Arctic and Antarctic Circles"
+        "text": "Arctic and Antarctic Circles\n\n\n\n🌑 Eclipses"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "Which of the following is the correct sequence for a Solar Eclipse?",
     "options": [
       {
@@ -1916,11 +2540,11 @@
         "text": "Sun – Earth – Moon"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "Solar eclipses happen during:",
     "options": [
       {
@@ -1940,11 +2564,11 @@
         "text": "Supermoon"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "In a Lunar Eclipse, what blocks sunlight?",
     "options": [
       {
@@ -1964,11 +2588,11 @@
         "text": "Mars"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "A \"Red Moon\" during a lunar eclipse is due to:",
     "options": [
       {
@@ -1988,11 +2612,11 @@
         "text": "Reflection"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "What defines a Blue Moon?",
     "options": [
       {
@@ -2012,11 +2636,11 @@
         "text": "Moon at farthest point from Earth"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "What is a Supermoon?",
     "options": [
       {
@@ -2033,14 +2657,14 @@
       },
       {
         "id": 4,
-        "text": "Blue-colored moon"
+        "text": "Blue-colored moon\n\n\n\n🔄 Forces on Earth"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "What is centripetal force?",
     "options": [
       {
@@ -2060,11 +2684,11 @@
         "text": "Gravitational pull from Sun"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "What is centrifugal force responsible for?",
     "options": [
       {
@@ -2081,14 +2705,14 @@
       },
       {
         "id": 4,
-        "text": "Earth’s revolution"
+        "text": "Earth’s revolution\n\n\n\n📍 Coordinates – Example"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-4",
+    "chapterId": "geo-2",
     "text": "The coordinates 34° 36′ 13″ S and 58° 22′ 54″ W belong to:",
     "options": [
       {
@@ -2108,7 +2732,7 @@
         "text": "Nairobi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2132,7 +2756,7 @@
         "text": "Magnetic field"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2156,7 +2780,7 @@
         "text": "Meteorites"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2180,7 +2804,7 @@
         "text": "Soil samples"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2204,7 +2828,7 @@
         "text": "Nickel & Chromium"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2228,7 +2852,7 @@
         "text": "700 km"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2252,7 +2876,7 @@
         "text": "Inner core"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2276,7 +2900,7 @@
         "text": "Gaseous"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2300,7 +2924,7 @@
         "text": "Outer Core"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -2324,7 +2948,7 @@
         "text": "0–70 km"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2345,10 +2969,10 @@
       },
       {
         "id": 4,
-        "text": "Gutenberg"
+        "text": "Gutenberg\n\n🌋 Earthquakes & Seismic Waves"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -2372,7 +2996,7 @@
         "text": "Core"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2396,7 +3020,7 @@
         "text": "Rift"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2444,7 +3068,7 @@
         "text": "Radio Waves"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2468,7 +3092,7 @@
         "text": "Body Waves"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2492,7 +3116,7 @@
         "text": "Richter"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2516,7 +3140,7 @@
         "text": "Temperature of magma"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2540,7 +3164,7 @@
         "text": "Magnetic effect"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2564,7 +3188,7 @@
         "text": "They travel in circular paths"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2585,10 +3209,10 @@
       },
       {
         "id": 4,
-        "text": "Deflection by magma"
+        "text": "Deflection by magma\n\n🌐 Plates & Plate Boundaries"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2612,7 +3236,7 @@
         "text": "Mantle only"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2636,7 +3260,7 @@
         "text": "11"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2660,7 +3284,7 @@
         "text": "African Plate"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2684,7 +3308,7 @@
         "text": "Sliding"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2708,7 +3332,7 @@
         "text": "Subduction zones"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2732,7 +3356,7 @@
         "text": "Oceanic trenches"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2756,7 +3380,7 @@
         "text": "Mediterranean Sea"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2780,7 +3404,7 @@
         "text": "Ocean waves"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -2804,7 +3428,7 @@
         "text": "Outer atmospheric layer"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -2828,11 +3452,11 @@
         "text": "It stays stationary"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What is the study of rocks known as?",
     "options": [
       {
@@ -2852,11 +3476,11 @@
         "text": "Lithology"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which type of rock is referred to as the \"Mother Rock\"?",
     "options": [
       {
@@ -2876,11 +3500,11 @@
         "text": "Fossiliferous"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which of the following is an intrusive igneous rock?",
     "options": [
       {
@@ -2900,11 +3524,11 @@
         "text": "Obsidian"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What kind of lava is associated with shield volcanoes?",
     "options": [
       {
@@ -2924,11 +3548,11 @@
         "text": "Low viscosity lava"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which landform is formed horizontally from cooled magma?",
     "options": [
       {
@@ -2948,11 +3572,11 @@
         "text": "Caldera"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which type of rock is typically layered and contains fossils?",
     "options": [
       {
@@ -2972,11 +3596,11 @@
         "text": "Volcanic"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Chalk and limestone are examples of which type of sedimentary rock?",
     "options": [
       {
@@ -2996,11 +3620,11 @@
         "text": "Igneous"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which rock forms from the metamorphism of shale?",
     "options": [
       {
@@ -3020,11 +3644,11 @@
         "text": "Gneiss"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which of the following shows alternate dark and light colored bands?",
     "options": [
       {
@@ -3044,11 +3668,11 @@
         "text": "Basalt"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which of these correctly represents the rock cycle?",
     "options": [
       {
@@ -3068,11 +3692,11 @@
         "text": "Sedimentary → Metamorphic → Igneous → Sedimentary"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Who proposed the Continental Drift Theory?",
     "options": [
       {
@@ -3092,11 +3716,11 @@
         "text": "John Tuzo Wilson"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What was the name of the single supercontinent?",
     "options": [
       {
@@ -3116,11 +3740,11 @@
         "text": "Angara Land"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What was the single global ocean surrounding Pangaea called?",
     "options": [
       {
@@ -3144,7 +3768,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which scientist proposed the theory of Seafloor Spreading?",
     "options": [
       {
@@ -3164,11 +3788,11 @@
         "text": "Eduard Suess"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What forms at the subduction zone?",
     "options": [
       {
@@ -3188,11 +3812,11 @@
         "text": "Continental shelves"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which continent is second in terms of both area and population?",
     "options": [
       {
@@ -3212,11 +3836,11 @@
         "text": "North America"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which ocean is known for being the smallest and coldest?",
     "options": [
       {
@@ -3236,11 +3860,11 @@
         "text": "Atlantic"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which sea is borderless and full of Sargassum algae?",
     "options": [
       {
@@ -3260,11 +3884,11 @@
         "text": "Sargasso Sea"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What is a flat-topped seamount called?",
     "options": [
       {
@@ -3288,7 +3912,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What feature is formed by a ring-shaped coral reef?",
     "options": [
       {
@@ -3308,11 +3932,11 @@
         "text": "Caldera"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which algae live in a symbiotic relationship with corals?",
     "options": [
       {
@@ -3332,11 +3956,11 @@
         "text": "Ulothrix"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "What temperature range is suitable for coral growth?",
     "options": [
       {
@@ -3356,11 +3980,11 @@
         "text": "25°C–35°C"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which reef is the largest coral system in the world?",
     "options": [
       {
@@ -3380,11 +4004,11 @@
         "text": "Caribbean Reef"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which oceanic feature is the longest landform?",
     "options": [
       {
@@ -3404,11 +4028,11 @@
         "text": "Trench"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-4",
     "text": "Which process forms sedimentary rocks from sediments?",
     "options": [
       {
@@ -3428,11 +4052,11 @@
         "text": "Crystallization"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which of the following best defines Geomorphology?",
     "options": [
       {
@@ -3452,11 +4076,11 @@
         "text": "Study of natural vegetation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which of the following is an example of an endogenic process?",
     "options": [
       {
@@ -3476,11 +4100,11 @@
         "text": "Deposition"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "What is the main energy source for exogenic forces?",
     "options": [
       {
@@ -3500,11 +4124,11 @@
         "text": "Volcanoes"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Diastrophism is related to:",
     "options": [
       {
@@ -3524,11 +4148,11 @@
         "text": "Coral bleaching"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which process is responsible for the formation of the Himalayas?",
     "options": [
       {
@@ -3548,11 +4172,11 @@
         "text": "Weathering"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which process involves vertical uplift or subsidence of a large part of the Earth’s crust?",
     "options": [
       {
@@ -3572,11 +4196,11 @@
         "text": "Earthquake"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which of the following is caused by sudden release of energy in the Earth's crust?",
     "options": [
       {
@@ -3596,11 +4220,11 @@
         "text": "Deposition"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which denudational process is driven by gravity?",
     "options": [
       {
@@ -3620,11 +4244,11 @@
         "text": "Mass movement"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Exfoliation occurs due to:",
     "options": [
       {
@@ -3644,11 +4268,11 @@
         "text": "Plant root action"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which is a slow type of mass movement?",
     "options": [
       {
@@ -3668,11 +4292,11 @@
         "text": "Soil creep"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which feature is found in the youthful stage of a river?",
     "options": [
       {
@@ -3692,11 +4316,11 @@
         "text": "Delta"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "The Jhelum river is unique because it meanders during:",
     "options": [
       {
@@ -3716,11 +4340,11 @@
         "text": "All stages"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which of the following is an erosional feature formed by glaciers?",
     "options": [
       {
@@ -3740,11 +4364,11 @@
         "text": "Outwash plains"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which feature is formed when seawater floods a glacial valley?",
     "options": [
       {
@@ -3764,11 +4388,11 @@
         "text": "Horn"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "What are stalactites?",
     "options": [
       {
@@ -3788,11 +4412,11 @@
         "text": "Erosional features of glaciers"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which is an erosional feature of wind?",
     "options": [
       {
@@ -3812,11 +4436,11 @@
         "text": "Loess"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which landform is formed by wind deposition?",
     "options": [
       {
@@ -3836,11 +4460,11 @@
         "text": "Cliff"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "What is a mushroom rock formed by?",
     "options": [
       {
@@ -3860,11 +4484,11 @@
         "text": "Coral reefs"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which feature is a depositional landform created by a river?",
     "options": [
       {
@@ -3884,11 +4508,11 @@
         "text": "Waterfall"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which coastal feature is formed by erosion?",
     "options": [
       {
@@ -3908,11 +4532,11 @@
         "text": "Sand dune"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which coastal feature is depositional?",
     "options": [
       {
@@ -3932,11 +4556,11 @@
         "text": "Barrier island"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "What are horn landforms associated with?",
     "options": [
       {
@@ -3956,11 +4580,11 @@
         "text": "Glaciers"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which of the following is a karst erosional feature?",
     "options": [
       {
@@ -3980,11 +4604,11 @@
         "text": "Stalagmite"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which feature is created when stalactites and stalagmites meet?",
     "options": [
       {
@@ -4004,11 +4628,11 @@
         "text": "Uvala"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "What is the agent behind formation of yardangs?",
     "options": [
       {
@@ -4032,7 +4656,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which feature is formed by the deposition of glacier?",
     "options": [
       {
@@ -4052,11 +4676,11 @@
         "text": "Fjord"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "What are disappearing streams associated with?",
     "options": [
       {
@@ -4076,11 +4700,11 @@
         "text": "Coastal plains"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which type of weathering involves no chemical change?",
     "options": [
       {
@@ -4100,11 +4724,11 @@
         "text": "Organic"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "Which is an example of biological weathering?",
     "options": [
       {
@@ -4124,11 +4748,11 @@
         "text": "Carbonation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-3",
+    "chapterId": "geo-5",
     "text": "What type of landform is a delta?",
     "options": [
       {
@@ -4148,11 +4772,11 @@
         "text": "Erosional by sea"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which gas was lost from the primordial atmosphere due to solar flares?",
     "options": [
       {
@@ -4172,11 +4796,11 @@
         "text": "Nitrogen"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which stage introduced oxygen into Earth's atmosphere?",
     "options": [
       {
@@ -4196,11 +4820,11 @@
         "text": "Biological modification"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which atmospheric layer contains the ozone layer?",
     "options": [
       {
@@ -4220,35 +4844,11 @@
         "text": "Thermosphere"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
-    "text": "What is the average lapse rate in the troposphere?",
-    "options": [
-      {
-        "id": 1,
-        "text": "2.5°C/km"
-      },
-      {
-        "id": 2,
-        "text": "4°C/km"
-      },
-      {
-        "id": 3,
-        "text": "6.5°C/km"
-      },
-      {
-        "id": 4,
-        "text": "9°C/km"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": ""
-  },
-  {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "In which layer do auroras occur?",
     "options": [
       {
@@ -4268,11 +4868,11 @@
         "text": "Thermosphere"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which atmospheric boundary is found around 100 km height?",
     "options": [
       {
@@ -4292,11 +4892,11 @@
         "text": "Mesopause"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "What is the primary cause of the normal lapse rate in the troposphere?",
     "options": [
       {
@@ -4316,11 +4916,11 @@
         "text": "Advection"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which of the following transfers heat horizontally in the atmosphere?",
     "options": [
       {
@@ -4340,11 +4940,11 @@
         "text": "Radiation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which of the following is not a greenhouse gas?",
     "options": [
       {
@@ -4364,11 +4964,11 @@
         "text": "NO₂"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "What is the correct sequence of atmospheric layers from surface upwards?",
     "options": [
       {
@@ -4388,11 +4988,11 @@
         "text": "Mesosphere > Troposphere > Stratosphere > Thermosphere > Exosphere"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "On which date is Earth at Aphelion?",
     "options": [
       {
@@ -4412,11 +5012,11 @@
         "text": "July 4"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which of the following surfaces has the highest albedo?",
     "options": [
       {
@@ -4440,7 +5040,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "The balance between incoming solar and outgoing terrestrial radiation is called:",
     "options": [
       {
@@ -4460,11 +5060,11 @@
         "text": "Radiation equilibrium"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "What is the main condition for temperature inversion?",
     "options": [
       {
@@ -4484,11 +5084,11 @@
         "text": "Heavy rainfall"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which unit is used to measure ozone thickness?",
     "options": [
       {
@@ -4508,11 +5108,11 @@
         "text": "Pascal"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "The Montreal Protocol deals with:",
     "options": [
       {
@@ -4532,11 +5132,11 @@
         "text": "Carbon credits"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "The largest share of freshwater is found in:",
     "options": [
       {
@@ -4556,11 +5156,11 @@
         "text": "Lakes"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which process converts liquid water to vapor?",
     "options": [
       {
@@ -4580,11 +5180,11 @@
         "text": "Deposition"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which type of humidity measures actual water vapor?",
     "options": [
       {
@@ -4604,11 +5204,11 @@
         "text": "Specific humidity"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "What is the dew point?",
     "options": [
       {
@@ -4628,11 +5228,11 @@
         "text": "Fog visibility level"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "What is the term for frozen moisture that forms ice crystals on surfaces?",
     "options": [
       {
@@ -4652,11 +5252,11 @@
         "text": "Sleet"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which process uses silver iodide to induce rainfall?",
     "options": [
       {
@@ -4676,11 +5276,11 @@
         "text": "Frost prevention"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which clouds are rain-bearing and dark?",
     "options": [
       {
@@ -4700,11 +5300,11 @@
         "text": "Stratus"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which clouds are feather-like and high altitude?",
     "options": [
       {
@@ -4724,11 +5324,11 @@
         "text": "Nimbus"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which rainfall is caused by surface heating?",
     "options": [
       {
@@ -4748,11 +5348,11 @@
         "text": "Frontal"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which form of precipitation involves freezing and refreezing?",
     "options": [
       {
@@ -4772,11 +5372,11 @@
         "text": "Snow"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which greenhouse gas is present in the stratosphere and troposphere?",
     "options": [
       {
@@ -4796,11 +5396,11 @@
         "text": "Argon"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "What is the average albedo of oceans/lakes?",
     "options": [
       {
@@ -4820,11 +5420,11 @@
         "text": "50–60%"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which date is celebrated as Ozone Day?",
     "options": [
       {
@@ -4844,11 +5444,11 @@
         "text": "November 10"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-6",
     "text": "Which of the following statements about humidity is correct?",
     "options": [
       {
@@ -4868,7 +5468,7 @@
         "text": "Humidity is highest in deserts"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -4892,7 +5492,7 @@
         "text": "Ocean currents"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -4916,7 +5516,7 @@
         "text": "Equatorial Cell"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -4940,7 +5540,7 @@
         "text": "90° latitude"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -4964,7 +5564,7 @@
         "text": "Monsoon Winds"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -4988,7 +5588,7 @@
         "text": "West to East"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -5012,7 +5612,7 @@
         "text": "Equator"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5036,7 +5636,7 @@
         "text": "Westerlies"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5060,7 +5660,7 @@
         "text": "Strong pressure gradients"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5084,7 +5684,7 @@
         "text": "Spring equinox"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5108,7 +5708,7 @@
         "text": "Foehn"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5132,7 +5732,7 @@
         "text": "Blood Rain Carrier"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5156,7 +5756,7 @@
         "text": "Dust-laden"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5180,7 +5780,7 @@
         "text": "From east to west"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5204,7 +5804,7 @@
         "text": "Weak low-pressure area"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5228,7 +5828,7 @@
         "text": "South to North"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5252,7 +5852,7 @@
         "text": "Earthquake"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5276,7 +5876,7 @@
         "text": "High humidity"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5300,7 +5900,7 @@
         "text": "Climate includes only precipitation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5324,7 +5924,7 @@
         "text": "Carl Ritter"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5348,7 +5948,7 @@
         "text": "Seasonal patterns"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5372,7 +5972,7 @@
         "text": "B – Dry"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -5396,7 +5996,7 @@
         "text": "Frequent snow"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5420,7 +6020,7 @@
         "text": "Humboldt Current"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5444,7 +6044,7 @@
         "text": "Kuroshio Current"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5468,7 +6068,7 @@
         "text": "Equatorial"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5492,7 +6092,7 @@
         "text": "Underwater volcanoes"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5516,7 +6116,7 @@
         "text": "Warm currents rise"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5540,7 +6140,7 @@
         "text": "Mid-latitude low-pressure areas"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5564,7 +6164,7 @@
         "text": "North Equatorial Current"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5592,6 +6192,2646 @@
     "explanation": ""
   },
   {
+    "chapterId": "geo-8",
+    "text": "India is located in which continent?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Europe"
+      },
+      {
+        "id": 2,
+        "text": "Asia"
+      },
+      {
+        "id": 3,
+        "text": "Africa"
+      },
+      {
+        "id": 4,
+        "text": "Australia"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India lies entirely in which hemisphere?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Southern Hemisphere"
+      },
+      {
+        "id": 2,
+        "text": "Eastern Hemisphere"
+      },
+      {
+        "id": 3,
+        "text": "Northern Hemisphere"
+      },
+      {
+        "id": 4,
+        "text": "Western Hemisphere"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India was once a part of which ancient supercontinent?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pangaea"
+      },
+      {
+        "id": 2,
+        "text": "Laurasia"
+      },
+      {
+        "id": 3,
+        "text": "Gondwanaland"
+      },
+      {
+        "id": 4,
+        "text": "Angaraland"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India ranks ______ in the world by area.",
+    "options": [
+      {
+        "id": 1,
+        "text": "5th"
+      },
+      {
+        "id": 2,
+        "text": "6th"
+      },
+      {
+        "id": 3,
+        "text": "7th"
+      },
+      {
+        "id": 4,
+        "text": "8th"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Approximately what percentage of the world's land area is occupied by India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1.8%"
+      },
+      {
+        "id": 2,
+        "text": "2.4%"
+      },
+      {
+        "id": 3,
+        "text": "3.5%"
+      },
+      {
+        "id": 4,
+        "text": "5.2%"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India ranks ______ in the world by population.",
+    "options": [
+      {
+        "id": 1,
+        "text": "2nd"
+      },
+      {
+        "id": 2,
+        "text": "3rd"
+      },
+      {
+        "id": 3,
+        "text": "1st"
+      },
+      {
+        "id": 4,
+        "text": "4th"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's north-south extent is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "2,933 km"
+      },
+      {
+        "id": 2,
+        "text": "3,214 km"
+      },
+      {
+        "id": 3,
+        "text": "3,488 km"
+      },
+      {
+        "id": 4,
+        "text": "4,096 km"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's east-west extent is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "2,933 km"
+      },
+      {
+        "id": 2,
+        "text": "3,214 km"
+      },
+      {
+        "id": 3,
+        "text": "3,488 km"
+      },
+      {
+        "id": 4,
+        "text": "2,525 km"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's latitudinal extent is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "6°N–38°N"
+      },
+      {
+        "id": 2,
+        "text": "8°4′N–37°6′N"
+      },
+      {
+        "id": 3,
+        "text": "10°N–40°N"
+      },
+      {
+        "id": 4,
+        "text": "7°N–35°N"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's longitudinal extent is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "67°E–95°E"
+      },
+      {
+        "id": 2,
+        "text": "68°7′E–97°25′E"
+      },
+      {
+        "id": 3,
+        "text": "70°E–98°E"
+      },
+      {
+        "id": 4,
+        "text": "72°E–100°E"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The time difference between Gujarat and Arunachal Pradesh is approximately:",
+    "options": [
+      {
+        "id": 1,
+        "text": "30 minutes"
+      },
+      {
+        "id": 2,
+        "text": "1 hour"
+      },
+      {
+        "id": 3,
+        "text": "2 hours"
+      },
+      {
+        "id": 4,
+        "text": "3 hours"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's Standard Meridian is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "75°E"
+      },
+      {
+        "id": 2,
+        "text": "82.5°E"
+      },
+      {
+        "id": 3,
+        "text": "90°E"
+      },
+      {
+        "id": 4,
+        "text": "77°E"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "IST is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "GMT +4:30"
+      },
+      {
+        "id": 2,
+        "text": "GMT +5:00"
+      },
+      {
+        "id": 3,
+        "text": "GMT +5:30"
+      },
+      {
+        "id": 4,
+        "text": "GMT +6:00"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which state is NOT crossed by the Standard Meridian?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Madhya Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": 3,
+        "text": "Gujarat"
+      },
+      {
+        "id": 4,
+        "text": "Chhattisgarh"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Mirzapur is located in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Madhya Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": 3,
+        "text": "Odisha"
+      },
+      {
+        "id": 4,
+        "text": "Andhra Pradesh"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which country has the maximum number of time zones?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Russia"
+      },
+      {
+        "id": 2,
+        "text": "USA"
+      },
+      {
+        "id": 3,
+        "text": "France"
+      },
+      {
+        "id": 4,
+        "text": "China"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Russia has how many time zones?",
+    "options": [
+      {
+        "id": 1,
+        "text": "8"
+      },
+      {
+        "id": 2,
+        "text": "10"
+      },
+      {
+        "id": 3,
+        "text": "11"
+      },
+      {
+        "id": 4,
+        "text": "12"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's northernmost point is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kanyakumari"
+      },
+      {
+        "id": 2,
+        "text": "Kibithu"
+      },
+      {
+        "id": 3,
+        "text": "Indira Col"
+      },
+      {
+        "id": 4,
+        "text": "Sir Creek"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The southernmost point of mainland India is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Indira Point"
+      },
+      {
+        "id": 2,
+        "text": "Kanyakumari"
+      },
+      {
+        "id": 3,
+        "text": "Great Nicobar"
+      },
+      {
+        "id": 4,
+        "text": "Minicoy"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's easternmost point is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Guhar Moti"
+      },
+      {
+        "id": 2,
+        "text": "Kibithu"
+      },
+      {
+        "id": 3,
+        "text": "Walong"
+      },
+      {
+        "id": 4,
+        "text": "Tawang"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's westernmost point is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sir Creek"
+      },
+      {
+        "id": 2,
+        "text": "Guhar Moti"
+      },
+      {
+        "id": 3,
+        "text": "Both A and B"
+      },
+      {
+        "id": 4,
+        "text": "Indira Col"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India currently has:",
+    "options": [
+      {
+        "id": 1,
+        "text": "29 States and 7 UTs"
+      },
+      {
+        "id": 2,
+        "text": "28 States and 8 UTs"
+      },
+      {
+        "id": 3,
+        "text": "28 States and 9 UTs"
+      },
+      {
+        "id": 4,
+        "text": "30 States and 8 UTs"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Largest Indian state by area:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Madhya Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Rajasthan"
+      },
+      {
+        "id": 3,
+        "text": "Maharashtra"
+      },
+      {
+        "id": 4,
+        "text": "Uttar Pradesh"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Smallest Indian state by area:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Goa"
+      },
+      {
+        "id": 2,
+        "text": "Sikkim"
+      },
+      {
+        "id": 3,
+        "text": "Tripura"
+      },
+      {
+        "id": 4,
+        "text": "Mizoram"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Largest state by population:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Maharashtra"
+      },
+      {
+        "id": 2,
+        "text": "Bihar"
+      },
+      {
+        "id": 3,
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": 4,
+        "text": "West Bengal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Smallest state by population:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Goa"
+      },
+      {
+        "id": 2,
+        "text": "Sikkim"
+      },
+      {
+        "id": 3,
+        "text": "Mizoram"
+      },
+      {
+        "id": 4,
+        "text": "Nagaland"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Largest Union Territory by area:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jammu & Kashmir"
+      },
+      {
+        "id": 2,
+        "text": "Ladakh"
+      },
+      {
+        "id": 3,
+        "text": "Delhi"
+      },
+      {
+        "id": 4,
+        "text": "Andaman & Nicobar Islands"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Smallest Union Territory by area:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lakshadweep"
+      },
+      {
+        "id": 2,
+        "text": "Chandigarh"
+      },
+      {
+        "id": 3,
+        "text": "Puducherry"
+      },
+      {
+        "id": 4,
+        "text": "Dadra & Nagar Haveli and Daman & Diu"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India shares its longest international border with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "China"
+      },
+      {
+        "id": 2,
+        "text": "Pakistan"
+      },
+      {
+        "id": 3,
+        "text": "Bangladesh"
+      },
+      {
+        "id": 4,
+        "text": "Nepal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India shares its shortest international border with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bhutan"
+      },
+      {
+        "id": 2,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 3,
+        "text": "Myanmar"
+      },
+      {
+        "id": 4,
+        "text": "Nepal"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The Radcliffe Line separates India from:",
+    "options": [
+      {
+        "id": 1,
+        "text": "China only"
+      },
+      {
+        "id": 2,
+        "text": "Pakistan and Bangladesh"
+      },
+      {
+        "id": 3,
+        "text": "Nepal"
+      },
+      {
+        "id": 4,
+        "text": "Bhutan"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The McMahon Line separates India from:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pakistan"
+      },
+      {
+        "id": 2,
+        "text": "Nepal"
+      },
+      {
+        "id": 3,
+        "text": "China"
+      },
+      {
+        "id": 4,
+        "text": "Myanmar"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The Line of Control (LoC) exists between:",
+    "options": [
+      {
+        "id": 1,
+        "text": "India and China"
+      },
+      {
+        "id": 2,
+        "text": "India and Bangladesh"
+      },
+      {
+        "id": 3,
+        "text": "India and Pakistan"
+      },
+      {
+        "id": 4,
+        "text": "India and Nepal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The Durand Line separates:",
+    "options": [
+      {
+        "id": 1,
+        "text": "India and Pakistan"
+      },
+      {
+        "id": 2,
+        "text": "Pakistan and Afghanistan"
+      },
+      {
+        "id": 3,
+        "text": "India and Afghanistan"
+      },
+      {
+        "id": 4,
+        "text": "China and Pakistan"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which train connects India and Bangladesh?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Samjhauta Express"
+      },
+      {
+        "id": 2,
+        "text": "Maitree Express"
+      },
+      {
+        "id": 3,
+        "text": "Thar Express"
+      },
+      {
+        "id": 4,
+        "text": "Palace on Wheels"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which train connected India and Pakistan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mitali Express"
+      },
+      {
+        "id": 2,
+        "text": "Bandhan Express"
+      },
+      {
+        "id": 3,
+        "text": "Samjhauta Express"
+      },
+      {
+        "id": 4,
+        "text": "Vande Bharat"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's border with China is divided into how many sectors?",
+    "options": [
+      {
+        "id": 1,
+        "text": "2"
+      },
+      {
+        "id": 2,
+        "text": "3"
+      },
+      {
+        "id": 3,
+        "text": "4"
+      },
+      {
+        "id": 4,
+        "text": "5"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The Border Roads Organisation (BRO) was established in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "1950"
+      },
+      {
+        "id": 2,
+        "text": "1955"
+      },
+      {
+        "id": 3,
+        "text": "1960"
+      },
+      {
+        "id": 4,
+        "text": "1965"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which UT shares borders with Pakistan, China and Afghanistan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jammu & Kashmir"
+      },
+      {
+        "id": 2,
+        "text": "Himachal Pradesh"
+      },
+      {
+        "id": 3,
+        "text": "Ladakh"
+      },
+      {
+        "id": 4,
+        "text": "Punjab"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Arunachal Pradesh shares an international border with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nepal only"
+      },
+      {
+        "id": 2,
+        "text": "Bhutan, China and Myanmar"
+      },
+      {
+        "id": 3,
+        "text": "Bangladesh only"
+      },
+      {
+        "id": 4,
+        "text": "Pakistan and China"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Meghalaya shares an international border only with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nepal"
+      },
+      {
+        "id": 2,
+        "text": "Bhutan"
+      },
+      {
+        "id": 3,
+        "text": "Bangladesh"
+      },
+      {
+        "id": 4,
+        "text": "Myanmar"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which Indian state has the longest coastline?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 2,
+        "text": "Andhra Pradesh"
+      },
+      {
+        "id": 3,
+        "text": "Gujarat"
+      },
+      {
+        "id": 4,
+        "text": "Maharashtra"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's total coastline is approximately:",
+    "options": [
+      {
+        "id": 1,
+        "text": "6,100 km"
+      },
+      {
+        "id": 2,
+        "text": "7,516.6 km"
+      },
+      {
+        "id": 3,
+        "text": "8,500 km"
+      },
+      {
+        "id": 4,
+        "text": "5,900 km"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Territorial Sea extends up to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "12 nautical miles"
+      },
+      {
+        "id": 2,
+        "text": "24 nautical miles"
+      },
+      {
+        "id": 3,
+        "text": "200 nautical miles"
+      },
+      {
+        "id": 4,
+        "text": "100 nautical miles"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India's Exclusive Economic Zone extends up to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "24 nautical miles"
+      },
+      {
+        "id": 2,
+        "text": "100 nautical miles"
+      },
+      {
+        "id": 3,
+        "text": "200 nautical miles"
+      },
+      {
+        "id": 4,
+        "text": "300 nautical miles"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "One nautical mile equals:",
+    "options": [
+      {
+        "id": 1,
+        "text": "1.609 km"
+      },
+      {
+        "id": 2,
+        "text": "1.852 km"
+      },
+      {
+        "id": 3,
+        "text": "2.000 km"
+      },
+      {
+        "id": 4,
+        "text": "1.414 km"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which language is the official language of Bhutan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nepali"
+      },
+      {
+        "id": 2,
+        "text": "Tibetan"
+      },
+      {
+        "id": 3,
+        "text": "Dzongkha"
+      },
+      {
+        "id": 4,
+        "text": "Hindi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The Gulf of Mannar lies between:",
+    "options": [
+      {
+        "id": 1,
+        "text": "India and Maldives"
+      },
+      {
+        "id": 2,
+        "text": "India and Sri Lanka"
+      },
+      {
+        "id": 3,
+        "text": "India and Bangladesh"
+      },
+      {
+        "id": 4,
+        "text": "India and Myanmar"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which Indian state has the maximum number of neighbouring states?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Madhya Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Rajasthan"
+      },
+      {
+        "id": 3,
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": 4,
+        "text": "Bihar"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The Indus Water Treaty between India and Pakistan was signed in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "1955"
+      },
+      {
+        "id": 2,
+        "text": "1960"
+      },
+      {
+        "id": 3,
+        "text": "1962"
+      },
+      {
+        "id": 4,
+        "text": "1971"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which of the following is NOT one of the six physiographic divisions of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Himalayas"
+      },
+      {
+        "id": 2,
+        "text": "Northern Plains"
+      },
+      {
+        "id": 3,
+        "text": "Deccan Basin"
+      },
+      {
+        "id": 4,
+        "text": "Coastal Plains"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which sequence correctly represents the six physiographic divisions of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Himalayas → Northern Plains → Peninsular Plateau → Great Indian Desert → Coastal Plains → Islands"
+      },
+      {
+        "id": 2,
+        "text": "Himalayas → Coastal Plains → Northern Plains → Plateau → Desert → Islands"
+      },
+      {
+        "id": 3,
+        "text": "Plateau → Himalayas → Desert → Plains → Islands → Coast"
+      },
+      {
+        "id": 4,
+        "text": "Islands → Desert → Himalayas → Plains → Plateau → Coast"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Internal Waters are located:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Beyond the EEZ"
+      },
+      {
+        "id": 2,
+        "text": "Within the baseline"
+      },
+      {
+        "id": 3,
+        "text": "Between 12 and 24 nautical miles"
+      },
+      {
+        "id": 4,
+        "text": "Between 24 and 200 nautical miles"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "India enjoys complete sovereignty over:",
+    "options": [
+      {
+        "id": 1,
+        "text": "High Seas only"
+      },
+      {
+        "id": 2,
+        "text": "Exclusive Economic Zone only"
+      },
+      {
+        "id": 3,
+        "text": "Internal Waters"
+      },
+      {
+        "id": 4,
+        "text": "Contiguous Zone only"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "High Seas begin:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Beyond the Territorial Sea"
+      },
+      {
+        "id": 2,
+        "text": "Beyond the Contiguous Zone"
+      },
+      {
+        "id": 3,
+        "text": "Beyond the Exclusive Economic Zone"
+      },
+      {
+        "id": 4,
+        "text": "Beyond the Internal Waters"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which of the following is NOT a coastal state of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Karnataka"
+      },
+      {
+        "id": 2,
+        "text": "Telangana"
+      },
+      {
+        "id": 3,
+        "text": "Odisha"
+      },
+      {
+        "id": 4,
+        "text": "Goa"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which one of the following is NOT a coastal Union Territory?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Puducherry"
+      },
+      {
+        "id": 2,
+        "text": "Lakshadweep"
+      },
+      {
+        "id": 3,
+        "text": "Chandigarh"
+      },
+      {
+        "id": 4,
+        "text": "Andaman & Nicobar Islands"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which state has a coastline along the Bay of Bengal?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Gujarat"
+      },
+      {
+        "id": 2,
+        "text": "Goa"
+      },
+      {
+        "id": 3,
+        "text": "Odisha"
+      },
+      {
+        "id": 4,
+        "text": "Kerala"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which state lies on the Arabian Sea coast?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Andhra Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 3,
+        "text": "Maharashtra"
+      },
+      {
+        "id": 4,
+        "text": "West Bengal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Which of the following is the southernmost coastal state on the Indian mainland?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kerala"
+      },
+      {
+        "id": 2,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 3,
+        "text": "Karnataka"
+      },
+      {
+        "id": 4,
+        "text": "Andhra Pradesh"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The official languages of Sri Lanka are:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sinhala and Tamil"
+      },
+      {
+        "id": 2,
+        "text": "Sinhala and English"
+      },
+      {
+        "id": 3,
+        "text": "Tamil and Malayalam"
+      },
+      {
+        "id": 4,
+        "text": "Sinhala only"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The official language of Bhutan is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nepali"
+      },
+      {
+        "id": 2,
+        "text": "Tibetan"
+      },
+      {
+        "id": 3,
+        "text": "Dzongkha"
+      },
+      {
+        "id": 4,
+        "text": "Hindi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The official language of the Maldives is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sinhala"
+      },
+      {
+        "id": 2,
+        "text": "Dhivehi"
+      },
+      {
+        "id": 3,
+        "text": "Arabic"
+      },
+      {
+        "id": 4,
+        "text": "Tamil"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The official language of China is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cantonese"
+      },
+      {
+        "id": 2,
+        "text": "Mandarin"
+      },
+      {
+        "id": 3,
+        "text": "Tibetan"
+      },
+      {
+        "id": 4,
+        "text": "Mongolian"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The official languages of Afghanistan are:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pashto and Dari"
+      },
+      {
+        "id": 2,
+        "text": "Persian and Urdu"
+      },
+      {
+        "id": 3,
+        "text": "Pashto and Uzbek"
+      },
+      {
+        "id": 4,
+        "text": "Dari and Arabic"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Chinlone is the national sport of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Thailand"
+      },
+      {
+        "id": 2,
+        "text": "Bhutan"
+      },
+      {
+        "id": 3,
+        "text": "Myanmar"
+      },
+      {
+        "id": 4,
+        "text": "Nepal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Havelock Island belongs to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lakshadweep"
+      },
+      {
+        "id": 2,
+        "text": "Andaman & Nicobar Islands"
+      },
+      {
+        "id": 3,
+        "text": "Maldives"
+      },
+      {
+        "id": 4,
+        "text": "Sri Lanka"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Minicoy Island is a part of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Andaman & Nicobar Islands"
+      },
+      {
+        "id": 2,
+        "text": "Lakshadweep"
+      },
+      {
+        "id": 3,
+        "text": "Goa"
+      },
+      {
+        "id": 4,
+        "text": "Puducherry"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "Dawki–Jadeite stones are associated with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "India–Nepal route"
+      },
+      {
+        "id": 2,
+        "text": "Meghalaya–China route"
+      },
+      {
+        "id": 3,
+        "text": "India–Bhutan route"
+      },
+      {
+        "id": 4,
+        "text": "Assam–Myanmar route"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-8",
+    "text": "The largest continental shelf in the world is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sunda Shelf"
+      },
+      {
+        "id": 2,
+        "text": "Siberian Shelf"
+      },
+      {
+        "id": 3,
+        "text": "Sahul Shelf"
+      },
+      {
+        "id": 4,
+        "text": "Continental Shelf of Greenland"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Himalayas were formed due to the convergence of which two tectonic plates?",
+    "options": [
+      {
+        "id": 1,
+        "text": "African and Eurasian"
+      },
+      {
+        "id": 2,
+        "text": "Indian and Pacific"
+      },
+      {
+        "id": 3,
+        "text": "Indian and Eurasian"
+      },
+      {
+        "id": 4,
+        "text": "Indo-Australian and American"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Himalayas originated from which ancient sea?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Red Sea"
+      },
+      {
+        "id": 2,
+        "text": "Caspian Sea"
+      },
+      {
+        "id": 3,
+        "text": "Tethys Sea"
+      },
+      {
+        "id": 4,
+        "text": "Black Sea"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Himalayas are categorized as which type of mountain?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Block Mountains"
+      },
+      {
+        "id": 2,
+        "text": "Volcanic Mountains"
+      },
+      {
+        "id": 3,
+        "text": "Young Fold Mountains"
+      },
+      {
+        "id": 4,
+        "text": "Residual Mountains"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which of the following is an example of an old fold mountain in India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Himalayas"
+      },
+      {
+        "id": 2,
+        "text": "Aravallis"
+      },
+      {
+        "id": 3,
+        "text": "Andes"
+      },
+      {
+        "id": 4,
+        "text": "Rockies"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which of the following is NOT a block mountain?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vosges"
+      },
+      {
+        "id": 2,
+        "text": "Vindhya"
+      },
+      {
+        "id": 3,
+        "text": "Harz"
+      },
+      {
+        "id": 4,
+        "text": "Himalayas"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Mount Kilimanjaro is an example of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fold mountain"
+      },
+      {
+        "id": 2,
+        "text": "Residual mountain"
+      },
+      {
+        "id": 3,
+        "text": "Block mountain"
+      },
+      {
+        "id": 4,
+        "text": "Volcanic mountain"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Karakoram Range is part of which Himalayan division?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Greater Himalayas"
+      },
+      {
+        "id": 2,
+        "text": "Lesser Himalayas"
+      },
+      {
+        "id": 3,
+        "text": "Shiwalik"
+      },
+      {
+        "id": 4,
+        "text": "Trans-Himalayas"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which is the second highest peak in the world?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Everest"
+      },
+      {
+        "id": 2,
+        "text": "Kanchenjunga"
+      },
+      {
+        "id": 3,
+        "text": "K2"
+      },
+      {
+        "id": 4,
+        "text": "Makalu"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The high desert plateau in Trans-Himalayas is known as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kashmir"
+      },
+      {
+        "id": 2,
+        "text": "Ladakh"
+      },
+      {
+        "id": 3,
+        "text": "Zanskar"
+      },
+      {
+        "id": 4,
+        "text": "Karakoram"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Between which two ranges does the Shyok River flow?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Karakoram and Zanskar"
+      },
+      {
+        "id": 2,
+        "text": "Zanskar and Ladakh"
+      },
+      {
+        "id": 3,
+        "text": "Karakoram and Ladakh"
+      },
+      {
+        "id": 4,
+        "text": "Himachal and Shiwalik"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which glacier is known as the highest battlefield in the world?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Biafo"
+      },
+      {
+        "id": 2,
+        "text": "Hispar"
+      },
+      {
+        "id": 3,
+        "text": "Baltoro"
+      },
+      {
+        "id": 4,
+        "text": "Siachen"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The operation launched in 1984 to occupy the Siachen Glacier is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Operation Bluestar"
+      },
+      {
+        "id": 2,
+        "text": "Operation Meghdoot"
+      },
+      {
+        "id": 3,
+        "text": "Operation Vijay"
+      },
+      {
+        "id": 4,
+        "text": "Operation Cactus"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The average height of the Greater Himalayas is approximately:",
+    "options": [
+      {
+        "id": 1,
+        "text": "3000 m"
+      },
+      {
+        "id": 2,
+        "text": "4000 m"
+      },
+      {
+        "id": 3,
+        "text": "5000 m"
+      },
+      {
+        "id": 4,
+        "text": "6000 m"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which peak is the easternmost in the Great Himalayas?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nanda Devi"
+      },
+      {
+        "id": 2,
+        "text": "Namcha Barwa"
+      },
+      {
+        "id": 3,
+        "text": "Nanga Parbat"
+      },
+      {
+        "id": 4,
+        "text": "Kamet"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Mount Everest is known as Sagarmatha in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "India"
+      },
+      {
+        "id": 2,
+        "text": "Tibet"
+      },
+      {
+        "id": 3,
+        "text": "Bhutan"
+      },
+      {
+        "id": 4,
+        "text": "Nepal"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Kanchenjunga is the highest peak in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nepal"
+      },
+      {
+        "id": 2,
+        "text": "Himachal Pradesh"
+      },
+      {
+        "id": 3,
+        "text": "India"
+      },
+      {
+        "id": 4,
+        "text": "Tibet"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which peak is also known as the White Mountain?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Annapurna"
+      },
+      {
+        "id": 2,
+        "text": "Dhaulagiri"
+      },
+      {
+        "id": 3,
+        "text": "Makalu"
+      },
+      {
+        "id": 4,
+        "text": "Nanda Devi"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Kashmir Valley lies between which two Himalayan ranges?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Great and Shiwalik"
+      },
+      {
+        "id": 2,
+        "text": "Ladakh and Zanskar"
+      },
+      {
+        "id": 3,
+        "text": "Great and Lesser Himalayas"
+      },
+      {
+        "id": 4,
+        "text": "Karakoram and Ladakh"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Mahabharat Range is part of which Himalayas?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Trans-Himalayas"
+      },
+      {
+        "id": 2,
+        "text": "Lesser Himalayas"
+      },
+      {
+        "id": 3,
+        "text": "Shiwalik"
+      },
+      {
+        "id": 4,
+        "text": "Purvanchal"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Duns are located between:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lesser and Greater Himalayas"
+      },
+      {
+        "id": 2,
+        "text": "Karakoram and Zanskar"
+      },
+      {
+        "id": 3,
+        "text": "Shiwalik and Lesser Himalayas"
+      },
+      {
+        "id": 4,
+        "text": "Shiwalik and Great Himalayas"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The largest Dun in India is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Haridwar"
+      },
+      {
+        "id": 2,
+        "text": "Dehradun"
+      },
+      {
+        "id": 3,
+        "text": "Patlidun"
+      },
+      {
+        "id": 4,
+        "text": "Nainital"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Karewas are lacustrine deposits found in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Himachal Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Ladakh"
+      },
+      {
+        "id": 3,
+        "text": "Kashmir"
+      },
+      {
+        "id": 4,
+        "text": "Sikkim"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which two rivers enclose the Punjab Himalayas?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Indus–Sutlej"
+      },
+      {
+        "id": 2,
+        "text": "Sutlej–Kali"
+      },
+      {
+        "id": 3,
+        "text": "Teesta–Dihang"
+      },
+      {
+        "id": 4,
+        "text": "Indus–Ganga"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Assam Himalayas lie between which rivers?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kali–Teesta"
+      },
+      {
+        "id": 2,
+        "text": "Teesta–Dihang"
+      },
+      {
+        "id": 3,
+        "text": "Sutlej–Kali"
+      },
+      {
+        "id": 4,
+        "text": "Dihang–Brahmaputra"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Zoji La pass connects:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jammu and Srinagar"
+      },
+      {
+        "id": 2,
+        "text": "Srinagar and Leh"
+      },
+      {
+        "id": 3,
+        "text": "Kullu and Lahaul"
+      },
+      {
+        "id": 4,
+        "text": "Lahaul and Leh"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which pass in Uttarakhand is a tri-junction trade route to Tibet?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rohtang"
+      },
+      {
+        "id": 2,
+        "text": "Lipulekh"
+      },
+      {
+        "id": 3,
+        "text": "Niti"
+      },
+      {
+        "id": 4,
+        "text": "Bomdi La"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Khardung La Pass is known for being:",
+    "options": [
+      {
+        "id": 1,
+        "text": "India's largest trading hub"
+      },
+      {
+        "id": 2,
+        "text": "Highest battlefield"
+      },
+      {
+        "id": 3,
+        "text": "Highest motorable road"
+      },
+      {
+        "id": 4,
+        "text": "Highest civilian pass"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The width of the Himalayas decreases from:",
+    "options": [
+      {
+        "id": 1,
+        "text": "East to West"
+      },
+      {
+        "id": 2,
+        "text": "South to North"
+      },
+      {
+        "id": 3,
+        "text": "West to East"
+      },
+      {
+        "id": 4,
+        "text": "North to South"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which hill range lies in Arunachal Pradesh?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lushai Hills"
+      },
+      {
+        "id": 2,
+        "text": "Patkai Bum"
+      },
+      {
+        "id": 3,
+        "text": "Manipur Hills"
+      },
+      {
+        "id": 4,
+        "text": "Naga Hills"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Loktak Lake, the only floating national park in the world, is located in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mizoram"
+      },
+      {
+        "id": 2,
+        "text": "Assam"
+      },
+      {
+        "id": 3,
+        "text": "Manipur"
+      },
+      {
+        "id": 4,
+        "text": "Meghalaya"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Keibul Lamjao National Park is famous for which species?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Red Panda"
+      },
+      {
+        "id": 2,
+        "text": "Snow Leopard"
+      },
+      {
+        "id": 3,
+        "text": "Sangai Deer"
+      },
+      {
+        "id": 4,
+        "text": "Asiatic Lion"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Lepcha and Bhutia tribes are predominantly found in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Arunachal Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Assam"
+      },
+      {
+        "id": 3,
+        "text": "Sikkim"
+      },
+      {
+        "id": 4,
+        "text": "Nagaland"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The Bhotia tribe is native to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mizoram"
+      },
+      {
+        "id": 2,
+        "text": "Uttarakhand"
+      },
+      {
+        "id": 3,
+        "text": "Himachal Pradesh"
+      },
+      {
+        "id": 4,
+        "text": "Sikkim"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which is the highest peak in Arunachal Pradesh?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Deomali"
+      },
+      {
+        "id": 2,
+        "text": "Saramati"
+      },
+      {
+        "id": 3,
+        "text": "Kangto"
+      },
+      {
+        "id": 4,
+        "text": "Kamet"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The highest peak in Nagaland is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mt. Isii"
+      },
+      {
+        "id": 2,
+        "text": "Mt. Saramati"
+      },
+      {
+        "id": 3,
+        "text": "Kangto"
+      },
+      {
+        "id": 4,
+        "text": "Phawngpui"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Anaimudi is located in which Indian state?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Karnataka"
+      },
+      {
+        "id": 2,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 3,
+        "text": "Kerala"
+      },
+      {
+        "id": 4,
+        "text": "Andhra Pradesh"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Which glacier is the longest in the polar region?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fedchenko"
+      },
+      {
+        "id": 2,
+        "text": "Siachen"
+      },
+      {
+        "id": 3,
+        "text": "Baltoro"
+      },
+      {
+        "id": 4,
+        "text": "Lambert"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "The longest non-polar glacier is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hispar"
+      },
+      {
+        "id": 2,
+        "text": "Fedchenko"
+      },
+      {
+        "id": 3,
+        "text": "Biafo"
+      },
+      {
+        "id": 4,
+        "text": "Baltoro"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Dhaulagiri is called the White Mountain due to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Its marble rocks"
+      },
+      {
+        "id": 2,
+        "text": "High altitude forests"
+      },
+      {
+        "id": 3,
+        "text": "Snow-covered peak"
+      },
+      {
+        "id": 4,
+        "text": "Lack of vegetation"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-9",
+    "text": "Krakatoa is an example of which type of mountain?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fold"
+      },
+      {
+        "id": 2,
+        "text": "Block"
+      },
+      {
+        "id": 3,
+        "text": "Residual"
+      },
+      {
+        "id": 4,
+        "text": "Volcanic"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
     "chapterId": "geo-10",
     "text": "What is the primary difference between in-situ and ex-situ conservation?",
     "options": [
@@ -5612,7 +8852,7 @@
         "text": "Type of species involved"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5636,7 +8876,7 @@
         "text": "Aquariums"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5660,7 +8900,7 @@
         "text": "Core zone"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5684,7 +8924,7 @@
         "text": "Photography"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5708,7 +8948,7 @@
         "text": "Botanical Garden"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5732,7 +8972,7 @@
         "text": "Forest"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5756,7 +8996,7 @@
         "text": "Paris"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5780,7 +9020,7 @@
         "text": "Wildlife Record"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5804,7 +9044,7 @@
         "text": "Schedule VI"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5828,7 +9068,7 @@
         "text": "Sambar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5852,7 +9092,7 @@
         "text": "Flamingo"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5876,7 +9116,7 @@
         "text": "1991"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5900,7 +9140,7 @@
         "text": "Ranthambore NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5924,7 +9164,7 @@
         "text": "2010"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -5948,7 +9188,7 @@
         "text": "Satpura NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5972,7 +9212,7 @@
         "text": "South Africa"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -5996,7 +9236,7 @@
         "text": "Papikonda NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -6020,7 +9260,7 @@
         "text": "Gujarat"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -6044,7 +9284,7 @@
         "text": "Gir NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -6068,7 +9308,7 @@
         "text": "Dudhwa NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -6092,7 +9332,7 @@
         "text": "Simlipal NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -6116,7 +9356,7 @@
         "text": "Gujarat"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -6140,7 +9380,7 @@
         "text": "Tamil Nadu"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -6164,7 +9404,7 @@
         "text": "Sikkim"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -6188,7 +9428,7 @@
         "text": "Panna NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -6212,7 +9452,7 @@
         "text": "Sanjay NP"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -6260,7 +9500,7 @@
         "text": "Great Nicobar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -6284,7 +9524,7 @@
         "text": "Sundarbans"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -6312,7 +9552,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What is the study of soil called?",
     "options": [
       {
@@ -6332,11 +9572,11 @@
         "text": "Ecology"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which of the following is not a factor in soil formation?",
     "options": [
       {
@@ -6356,11 +9596,11 @@
         "text": "Vegetation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which organization classifies Indian soils?",
     "options": [
       {
@@ -6380,11 +9620,11 @@
         "text": "NABARD"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which soil type covers the largest area in India?",
     "options": [
       {
@@ -6404,11 +9644,11 @@
         "text": "Laterite Soil"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which soil is also known as Regur soil?",
     "options": [
       {
@@ -6428,11 +9668,11 @@
         "text": "Laterite Soil"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What gives red soil its color?",
     "options": [
       {
@@ -6452,11 +9692,11 @@
         "text": "Humus"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "In which Indian states is black soil mostly found?",
     "options": [
       {
@@ -6476,11 +9716,11 @@
         "text": "UP and Bihar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which soil type is formed due to leaching in heavy rainfall areas?",
     "options": [
       {
@@ -6500,11 +9740,11 @@
         "text": "Montane Soil"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What is a common problem with arid soil?",
     "options": [
       {
@@ -6524,11 +9764,11 @@
         "text": "Poor potassium content"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which soil is rich in humus and found in coastal regions?",
     "options": [
       {
@@ -6548,11 +9788,11 @@
         "text": "Red Soil"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which macronutrient is NOT part of the six essential for plants?",
     "options": [
       {
@@ -6572,11 +9812,11 @@
         "text": "Sulphur"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What type of erosion leads to formation of ravines?",
     "options": [
       {
@@ -6596,11 +9836,11 @@
         "text": "Rill Erosion"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What farming method uses tree rows as windbreaks?",
     "options": [
       {
@@ -6620,11 +9860,11 @@
         "text": "Terrace Farming"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which of the following is an example of plantation farming?",
     "options": [
       {
@@ -6644,11 +9884,11 @@
         "text": "Maize"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What season does the Kharif crop belong to?",
     "options": [
       {
@@ -6668,11 +9908,11 @@
         "text": "Nov–Feb"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What type of soil is best suited for growing cotton?",
     "options": [
       {
@@ -6692,11 +9932,11 @@
         "text": "Laterite"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which crop is known as 'Golden Fibre'?",
     "options": [
       {
@@ -6716,11 +9956,11 @@
         "text": "Ragi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What kind of soil is ideal for tea cultivation?",
     "options": [
       {
@@ -6740,11 +9980,11 @@
         "text": "Marshy"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which nutrient is cotton soil poor in?",
     "options": [
       {
@@ -6764,11 +10004,11 @@
         "text": "Nitrogen"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What is the primary cause of yellowing in red soil?",
     "options": [
       {
@@ -6788,11 +10028,11 @@
         "text": "High salt content"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which Indian state is the leading producer of millets?",
     "options": [
       {
@@ -6812,11 +10052,11 @@
         "text": "Karnataka"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which farming type involves high population pressure and intensive labor use?",
     "options": [
       {
@@ -6836,11 +10076,11 @@
         "text": "Plantation Farming"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What is the rainfall requirement for rice cultivation?",
     "options": [
       {
@@ -6860,11 +10100,11 @@
         "text": "<50 cm"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which revolution is associated with wheat and rice production?",
     "options": [
       {
@@ -6884,11 +10124,11 @@
         "text": "Golden"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which revolution is associated with horticulture?",
     "options": [
       {
@@ -6912,7 +10152,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which is the world’s largest producer of coffee?",
     "options": [
       {
@@ -6932,11 +10172,11 @@
         "text": "Brazil"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which crop benefits from 'blossom showers'?",
     "options": [
       {
@@ -6956,11 +10196,11 @@
         "text": "Cotton"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which soil is best for cashew cultivation?",
     "options": [
       {
@@ -6980,11 +10220,11 @@
         "text": "Red"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "Which of the following is not a micronutrient?",
     "options": [
       {
@@ -7004,11 +10244,11 @@
         "text": "Molybdenum"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-10",
+    "chapterId": "geo-11",
     "text": "What is a drawback of the Green Revolution?",
     "options": [
       {
@@ -7028,11 +10268,11 @@
         "text": "Water surplus"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which forest type in India receives more than 200 cm of rainfall annually?",
     "options": [
       {
@@ -7052,11 +10292,11 @@
         "text": "Mangrove Forests"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which of the following trees is commonly found in Tropical Evergreen Forests?",
     "options": [
       {
@@ -7076,11 +10316,11 @@
         "text": "Peepal"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Tropical Deciduous Forests are also known as:",
     "options": [
       {
@@ -7100,11 +10340,11 @@
         "text": "Sub-tropical Forests"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which forest type is most widespread in India?",
     "options": [
       {
@@ -7124,11 +10364,11 @@
         "text": "Mangroves"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Teak is a dominant species in:",
     "options": [
       {
@@ -7148,11 +10388,11 @@
         "text": "Alpine Forests"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which of these is a characteristic of Dry Deciduous Forests?",
     "options": [
       {
@@ -7172,11 +10412,11 @@
         "text": "Evergreen canopy"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which forest type is found in areas with rainfall less than 70 cm?",
     "options": [
       {
@@ -7196,11 +10436,11 @@
         "text": "Thorn Forest"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "What is the main adaptation of plants in Thorn Forests?",
     "options": [
       {
@@ -7220,11 +10460,11 @@
         "text": "Aerial roots"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which plant is commonly found in thorn forests?",
     "options": [
       {
@@ -7244,11 +10484,11 @@
         "text": "Fir"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which altitude zone of Montane forests supports coniferous trees?",
     "options": [
       {
@@ -7268,11 +10508,11 @@
         "text": ">3600 m"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which of the following is part of alpine vegetation?",
     "options": [
       {
@@ -7292,11 +10532,11 @@
         "text": "Oak"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Shola forests are found in:",
     "options": [
       {
@@ -7316,11 +10556,11 @@
         "text": "Andaman Islands"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Sundari trees are found in:",
     "options": [
       {
@@ -7340,11 +10580,11 @@
         "text": "Foothills of Himalayas"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "What kind of roots do mangrove trees have for respiration?",
     "options": [
       {
@@ -7364,11 +10604,11 @@
         "text": "Prop roots"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which seed germinates while still attached to the parent tree in mangroves?",
     "options": [
       {
@@ -7388,11 +10628,11 @@
         "text": "Clone"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "As per ISFR 2021, forest cover in India is:",
     "options": [
       {
@@ -7412,11 +10652,11 @@
         "text": "24.6%"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which state has the highest forest area in India?",
     "options": [
       {
@@ -7436,11 +10676,11 @@
         "text": "Madhya Pradesh"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which state has the highest percentage of area under forest cover?",
     "options": [
       {
@@ -7460,11 +10700,11 @@
         "text": "Sikkim"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which state showed the maximum increase in forest cover according to ISFR 2021?",
     "options": [
       {
@@ -7484,11 +10724,11 @@
         "text": "Assam"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which Indian state has the lowest forest cover?",
     "options": [
       {
@@ -7508,11 +10748,11 @@
         "text": "Rajasthan"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Social Forestry was launched in:",
     "options": [
       {
@@ -7532,11 +10772,11 @@
         "text": "2001"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "The slogan “Embrace the trees, save them from being cut” is related to:",
     "options": [
       {
@@ -7556,11 +10796,11 @@
         "text": "Forest Rights Act"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Who led the Chipko Movement?",
     "options": [
       {
@@ -7580,11 +10820,11 @@
         "text": "Rajendra Singh"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "What is the name of tropical grassland in Africa?",
     "options": [
       {
@@ -7604,11 +10844,11 @@
         "text": "Campos"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which is the temperate grassland of South America?",
     "options": [
       {
@@ -7632,7 +10872,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "The name of grasslands in Australia is:",
     "options": [
       {
@@ -7652,11 +10892,11 @@
         "text": "Velds"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "Which grassland is found in Hungary?",
     "options": [
       {
@@ -7680,7 +10920,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "What is “Jhum” cultivation?",
     "options": [
       {
@@ -7700,11 +10940,11 @@
         "text": "Hydroponics"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "What is the local name for shifting cultivation in Andhra Pradesh?",
     "options": [
       {
@@ -7724,11 +10964,11 @@
         "text": "Dipa"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-9",
+    "chapterId": "geo-12",
     "text": "What is the name for shifting cultivation in Brazil?",
     "options": [
       {
@@ -7748,11 +10988,11 @@
         "text": "Rag"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What distinguishes climate from weather?",
     "options": [
       {
@@ -7772,11 +11012,11 @@
         "text": "Weather determines climate directly"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which line divides India into tropical and subtropical zones?",
     "options": [
       {
@@ -7796,11 +11036,11 @@
         "text": "Prime Meridian"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "How does altitude affect temperature?",
     "options": [
       {
@@ -7820,11 +11060,11 @@
         "text": "Temperature increases with altitude everywhere"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What role do the Himalayas play in India’s winter?",
     "options": [
       {
@@ -7844,11 +11084,11 @@
         "text": "Promote desertification"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What causes orographic rainfall on the Western Ghats?",
     "options": [
       {
@@ -7868,11 +11108,11 @@
         "text": "Warm ocean currents"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What is the term for the interior parts of India experiencing extreme temperatures?",
     "options": [
       {
@@ -7892,11 +11132,11 @@
         "text": "Seasonal fluctuation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Western Disturbances originate in:",
     "options": [
       {
@@ -7916,11 +11156,11 @@
         "text": "Caspian Sea"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which crops benefit from Mahawat rains?",
     "options": [
       {
@@ -7940,11 +11180,11 @@
         "text": "None"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What altitude do Jet Streams typically occupy?",
     "options": [
       {
@@ -7964,11 +11204,11 @@
         "text": "15–20 km"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What triggers low pressure over North India during summer?",
     "options": [
       {
@@ -7988,11 +11228,11 @@
         "text": "Winter jet streams"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which zone shifts northward during summer and affects monsoon?",
     "options": [
       {
@@ -8012,11 +11252,11 @@
         "text": "Polar Front"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What are Mango Showers useful for?",
     "options": [
       {
@@ -8036,11 +11276,11 @@
         "text": "Sugarcane harvest"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Nor’westers help in cultivation of:",
     "options": [
       {
@@ -8060,11 +11300,11 @@
         "text": "Rubber and coconut"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What is the local name of Nor’westers in West Bengal?",
     "options": [
       {
@@ -8084,11 +11324,11 @@
         "text": "Mango burst"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What does the Arabic word “Mausim” refer to?",
     "options": [
       {
@@ -8108,11 +11348,11 @@
         "text": "Monsoon rain"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "The Indian monsoon typically begins in:",
     "options": [
       {
@@ -8132,11 +11372,11 @@
         "text": "Odisha in July"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Arabian Sea branch of the monsoon hits:",
     "options": [
       {
@@ -8156,11 +11396,11 @@
         "text": "Northern Plains"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which area receives rainfall from the Bay of Bengal branch?",
     "options": [
       {
@@ -8180,11 +11420,11 @@
         "text": "Rajasthan"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Why does Rajasthan receive little rainfall during monsoon?",
     "options": [
       {
@@ -8204,11 +11444,11 @@
         "text": "It lies in rain shadow of Eastern Ghats"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What is a “break in monsoon”?",
     "options": [
       {
@@ -8228,11 +11468,11 @@
         "text": "Beginning of retreat"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Retreating Monsoon occurs during:",
     "options": [
       {
@@ -8252,11 +11492,11 @@
         "text": "Dec–Jan"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which coast receives rainfall from retreating monsoon?",
     "options": [
       {
@@ -8276,11 +11516,11 @@
         "text": "Saurashtra Coast"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "October heat is associated with:",
     "options": [
       {
@@ -8300,11 +11540,11 @@
         "text": "Fog formation"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Subtropical jet streams influence:",
     "options": [
       {
@@ -8324,11 +11564,11 @@
         "text": "Coastal tides"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What is the main condition during El Niño?",
     "options": [
       {
@@ -8348,11 +11588,11 @@
         "text": "High pressure over India"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which of the following is true during La Niña?",
     "options": [
       {
@@ -8372,11 +11612,11 @@
         "text": "Warm global temperature"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "El Niño generally results in:",
     "options": [
       {
@@ -8396,11 +11636,11 @@
         "text": "Snowfall in summer"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What is the diurnal temperature range?",
     "options": [
       {
@@ -8420,11 +11660,11 @@
         "text": "Humidity range per season"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Where is diurnal temperature range the highest?",
     "options": [
       {
@@ -8444,11 +11684,11 @@
         "text": "River basins"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which of these places receives the highest annual rainfall?",
     "options": [
       {
@@ -8468,11 +11708,11 @@
         "text": "Hyderabad"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which city is most affected by continentality?",
     "options": [
       {
@@ -8492,11 +11732,11 @@
         "text": "Kochi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "What is the Indian name for the season from Nov–Dec?",
     "options": [
       {
@@ -8516,11 +11756,11 @@
         "text": "Sharad"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "The Indian month “Vasanta” corresponds to:",
     "options": [
       {
@@ -8540,11 +11780,11 @@
         "text": "July–Aug"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which Indian season is associated with Shravan–Bhadrapada?",
     "options": [
       {
@@ -8564,11 +11804,11 @@
         "text": "Sharad"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-7",
+    "chapterId": "geo-13",
     "text": "Which season is called “Shishir” in Indian classification?",
     "options": [
       {
@@ -8588,11 +11828,11 @@
         "text": "Summer"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which of the following is not a purpose of multipurpose projects?",
     "options": [
       {
@@ -8616,7 +11856,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Who called multipurpose projects the “Temples of Modern India”?",
     "options": [
       {
@@ -8636,11 +11876,11 @@
         "text": "B.R. Ambedkar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which dam is the highest in India?",
     "options": [
       {
@@ -8660,11 +11900,11 @@
         "text": "Tehri Dam"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "What kind of energy does water at a height possess before generating electricity?",
     "options": [
       {
@@ -8684,11 +11924,11 @@
         "text": "Magnetic"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The Chenab Bridge is notable for being:",
     "options": [
       {
@@ -8708,11 +11948,11 @@
         "text": "The oldest bridge in India"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Bhakra Dam is built on which river?",
     "options": [
       {
@@ -8732,11 +11972,11 @@
         "text": "Yamuna"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which of the following lakes is the largest inland saline lake in India?",
     "options": [
       {
@@ -8756,11 +11996,11 @@
         "text": "Pulicat"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which dam creates the Gobind Sagar Lake?",
     "options": [
       {
@@ -8780,11 +12020,11 @@
         "text": "Sardar Sarovar Dam"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Pong Dam is also known as:",
     "options": [
       {
@@ -8804,11 +12044,11 @@
         "text": "Omkareshwar Dam"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which state has the highest number of large dams in India?",
     "options": [
       {
@@ -8828,11 +12068,11 @@
         "text": "Gujarat"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The Indravati Dam is a tributary of which river?",
     "options": [
       {
@@ -8852,11 +12092,11 @@
         "text": "Mahanadi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The Sardar Sarovar Dam is located in which state?",
     "options": [
       {
@@ -8876,11 +12116,11 @@
         "text": "Chhattisgarh"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which dam is built on the Krishna River in Karnataka?",
     "options": [
       {
@@ -8900,11 +12140,11 @@
         "text": "Rihand"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The Mettur Dam is built on the:",
     "options": [
       {
@@ -8928,7 +12168,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The Nagarjuna Sagar Dam is situated on the river:",
     "options": [
       {
@@ -8948,11 +12188,11 @@
         "text": "Kaveri"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The largest artificial lake in India is:",
     "options": [
       {
@@ -8972,11 +12212,11 @@
         "text": "Lonar Lake"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which dam is associated with the highest waterfall in India?",
     "options": [
       {
@@ -8996,11 +12236,11 @@
         "text": "Nohkalikai Falls"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which lake is the world’s only floating lake?",
     "options": [
       {
@@ -9020,11 +12260,11 @@
         "text": "Vembanad"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which of the following is a crater lake formed by a meteorite?",
     "options": [
       {
@@ -9044,11 +12284,11 @@
         "text": "Wular Lake"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which river is associated with Jog Falls?",
     "options": [
       {
@@ -9068,11 +12308,11 @@
         "text": "Godavari"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The second highest waterfall in India is:",
     "options": [
       {
@@ -9092,11 +12332,11 @@
         "text": "Chitrakoot"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which lake is the source of the White Nile?",
     "options": [
       {
@@ -9120,7 +12360,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The Dead Sea is known for:",
     "options": [
       {
@@ -9140,11 +12380,11 @@
         "text": "Largest area"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The source of the Blue Nile is:",
     "options": [
       {
@@ -9164,11 +12404,11 @@
         "text": "Black Sea"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The deepest lake in the world is:",
     "options": [
       {
@@ -9188,11 +12428,11 @@
         "text": "Lake Erie"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which of the following rivers does the Dhom Dam use?",
     "options": [
       {
@@ -9216,7 +12456,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Chilika Lake is located in which state?",
     "options": [
       {
@@ -9236,11 +12476,11 @@
         "text": "Tamil Nadu"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "The river associated with Chitrakoot Falls is:",
     "options": [
       {
@@ -9260,11 +12500,11 @@
         "text": "Sharavati"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which dam reservoir forms Govind Ballabh Pant Sagar?",
     "options": [
       {
@@ -9284,11 +12524,11 @@
         "text": "Matatila"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-13",
+    "chapterId": "geo-14",
     "text": "Which lake is the highest in India?",
     "options": [
       {
@@ -9308,7 +12548,7 @@
         "text": "Pangong Tso"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9332,7 +12572,7 @@
         "text": "Flow in deep gorges"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9356,7 +12596,7 @@
         "text": "Groundwater-fed"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9380,7 +12620,7 @@
         "text": "Kaveri"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9404,7 +12644,7 @@
         "text": "Narmada"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9428,7 +12668,7 @@
         "text": "Brahmani"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9452,7 +12692,7 @@
         "text": "Pennar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9476,7 +12716,7 @@
         "text": "Mahanadi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -9500,7 +12740,7 @@
         "text": "Nandi Hills"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9548,7 +12788,7 @@
         "text": "Damodar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9572,7 +12812,7 @@
         "text": "Western Ghats"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9596,7 +12836,7 @@
         "text": "South Koel"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9620,7 +12860,7 @@
         "text": "Lifeline of Kerala"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9644,7 +12884,7 @@
         "text": "Damodar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9668,7 +12908,7 @@
         "text": "Vamsadhara"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9692,7 +12932,7 @@
         "text": "Hydropower in Kerala"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9716,7 +12956,7 @@
         "text": "Chilika Lake"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9740,7 +12980,7 @@
         "text": "Bharatapuzha"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9764,7 +13004,7 @@
         "text": "Nagpur"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9788,7 +13028,7 @@
         "text": "Krishna"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9836,7 +13076,7 @@
         "text": "Narmada"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9860,7 +13100,7 @@
         "text": "Pennar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9884,7 +13124,7 @@
         "text": "Periyar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9908,7 +13148,7 @@
         "text": "Pamba"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9932,7 +13172,7 @@
         "text": "Tapti"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -9956,7 +13196,7 @@
         "text": "Vamsadhara"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -9980,7 +13220,7 @@
         "text": "Subarnarekha"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -10004,7 +13244,7 @@
         "text": "Indravati"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -10028,7 +13268,7 @@
         "text": "Malaprabha"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -10052,7 +13292,7 @@
         "text": "None of the above"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -10076,7 +13316,7 @@
         "text": "Damodar"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -10100,7 +13340,7 @@
         "text": "Sabari"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -10124,7 +13364,7 @@
         "text": "Ganga-Brahmaputra"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
@@ -10172,7 +13412,7 @@
         "text": "Longest in Europe"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
@@ -10196,7 +13436,7 @@
         "text": "Limpopo"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -10244,7 +13484,7 @@
         "text": "Crossing the Equator twice"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
@@ -10268,11 +13508,11 @@
         "text": "Mekong"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Ganga river system originates from:",
     "options": [
       {
@@ -10296,7 +13536,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The river that flows through a rift valley is:",
     "options": [
       {
@@ -10320,7 +13560,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The longest river in Peninsular India is:",
     "options": [
       {
@@ -10340,11 +13580,11 @@
         "text": "Mahanadi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river is known as the ‘Dakshin Ganga’?",
     "options": [
       {
@@ -10364,11 +13604,11 @@
         "text": "Kaveri"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Yamuna is the tributary of which river?",
     "options": [
       {
@@ -10388,11 +13628,11 @@
         "text": "Betwa"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The river originating from Amarkantak is:",
     "options": [
       {
@@ -10412,11 +13652,11 @@
         "text": "Godavari"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river forms the Dhuandhar Falls?",
     "options": [
       {
@@ -10436,11 +13676,11 @@
         "text": "Narmada"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which of the following rivers does not flow into the Bay of Bengal?",
     "options": [
       {
@@ -10460,11 +13700,11 @@
         "text": "Kaveri"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river flows through the rift valley between Vindhya and Satpura?",
     "options": [
       {
@@ -10484,11 +13724,11 @@
         "text": "Chambal"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river is also known as Tsangpo in Tibet?",
     "options": [
       {
@@ -10508,11 +13748,11 @@
         "text": "Brahmaputra"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Brahmaputra enters India through:",
     "options": [
       {
@@ -10532,11 +13772,11 @@
         "text": "Manipur"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Indus River originates from:",
     "options": [
       {
@@ -10560,7 +13800,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which of the following rivers is a tributary of the Ganga?",
     "options": [
       {
@@ -10584,7 +13824,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river flows westward and drains into the Arabian Sea?",
     "options": [
       {
@@ -10604,11 +13844,11 @@
         "text": "Kaveri"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river forms the Sundarbans delta?",
     "options": [
       {
@@ -10628,11 +13868,11 @@
         "text": "Ganga"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Chambal River is a tributary of:",
     "options": [
       {
@@ -10656,7 +13896,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Ganga river flows through which of the following states?",
     "options": [
       {
@@ -10680,7 +13920,7 @@
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which of the following rivers forms an estuary?",
     "options": [
       {
@@ -10700,11 +13940,11 @@
         "text": "Mahanadi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river does not originate in India?",
     "options": [
       {
@@ -10724,11 +13964,11 @@
         "text": "Godavari"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river is the main water source for northern India?",
     "options": [
       {
@@ -10748,11 +13988,11 @@
         "text": "Tapti"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "River Kaveri originates from:",
     "options": [
       {
@@ -10772,11 +14012,11 @@
         "text": "Western Ghats"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river joins the Ganga near Allahabad (Prayagraj)?",
     "options": [
       {
@@ -10796,11 +14036,11 @@
         "text": "Yamuna"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 4,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which is a right-bank tributary of the Ganga?",
     "options": [
       {
@@ -10820,11 +14060,11 @@
         "text": "Kosi"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river has the largest river basin in India?",
     "options": [
       {
@@ -10844,11 +14084,11 @@
         "text": "Godavari"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Mahanadi River flows through which state?",
     "options": [
       {
@@ -10868,11 +14108,11 @@
         "text": "Rajasthan"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which of the following rivers is older than the Himalayas?",
     "options": [
       {
@@ -10892,11 +14132,11 @@
         "text": "Brahmaputra"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river makes the Majuli island?",
     "options": [
       {
@@ -10916,11 +14156,11 @@
         "text": "Krishna"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 3,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river flows through the Kashmir Valley?",
     "options": [
       {
@@ -10940,11 +14180,11 @@
         "text": "Chenab"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "The Satluj River is a tributary of:",
     "options": [
       {
@@ -10964,11 +14204,11 @@
         "text": "Brahmaputra"
       }
     ],
-    "correctOptionId": 1,
+    "correctOptionId": 2,
     "explanation": ""
   },
   {
-    "chapterId": "geo-15",
+    "chapterId": "geo-16",
     "text": "Which river has the second largest river basin in India?",
     "options": [
       {
@@ -10989,6 +14229,726 @@
       }
     ],
     "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "What type of soil is most commonly found in the Northern Plains of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Black soil"
+      },
+      {
+        "id": 2,
+        "text": "Laterite soil"
+      },
+      {
+        "id": 3,
+        "text": "Alluvial soil"
+      },
+      {
+        "id": 4,
+        "text": "Red soil"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "What is the slope direction of the Northern Plains?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Northeast to Southwest"
+      },
+      {
+        "id": 2,
+        "text": "Northwest to Southeast"
+      },
+      {
+        "id": 3,
+        "text": "East to West"
+      },
+      {
+        "id": 4,
+        "text": "South to North"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which feature is characterized by streams disappearing underground?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Terai"
+      },
+      {
+        "id": 2,
+        "text": "Bhangar"
+      },
+      {
+        "id": 3,
+        "text": "Khadar"
+      },
+      {
+        "id": 4,
+        "text": "Bhabar"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The Terai region is best described as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Dry plateau"
+      },
+      {
+        "id": 2,
+        "text": "Marshy land with reappearing streams"
+      },
+      {
+        "id": 3,
+        "text": "Sandy desert"
+      },
+      {
+        "id": 4,
+        "text": "Deltaic region"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which region is composed of older alluvium and calcareous deposits?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Khadar"
+      },
+      {
+        "id": 2,
+        "text": "Terai"
+      },
+      {
+        "id": 3,
+        "text": "Bhabar"
+      },
+      {
+        "id": 4,
+        "text": "Bhangar"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which part of the Northern Plains is renewed annually and is most fertile?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bhangar"
+      },
+      {
+        "id": 2,
+        "text": "Khadar"
+      },
+      {
+        "id": 3,
+        "text": "Terai"
+      },
+      {
+        "id": 4,
+        "text": "Bhabar"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The Great Indian Desert lies to the:",
+    "options": [
+      {
+        "id": 1,
+        "text": "East of Aravalis"
+      },
+      {
+        "id": 2,
+        "text": "North of Himalayas"
+      },
+      {
+        "id": 3,
+        "text": "Northwest of Aravalis"
+      },
+      {
+        "id": 4,
+        "text": "South of Vindhyas"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Annual rainfall in the Thar Desert is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Over 500 mm"
+      },
+      {
+        "id": 2,
+        "text": "250-500 mm"
+      },
+      {
+        "id": 3,
+        "text": "Less than 150 mm"
+      },
+      {
+        "id": 4,
+        "text": "1000 mm"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The rivers in the Great Indian Desert are mostly:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Perennial"
+      },
+      {
+        "id": 2,
+        "text": "Ephemeral"
+      },
+      {
+        "id": 3,
+        "text": "Snow-fed"
+      },
+      {
+        "id": 4,
+        "text": "Glacier-fed"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The Western Coastal Plains lie between:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Himalayas and Arabian Sea"
+      },
+      {
+        "id": 2,
+        "text": "Western Ghats and Arabian Sea"
+      },
+      {
+        "id": 3,
+        "text": "Eastern Ghats and Bay of Bengal"
+      },
+      {
+        "id": 4,
+        "text": "Deccan Plateau and Bay of Bengal"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which type of coastal plain is wider?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Western"
+      },
+      {
+        "id": 2,
+        "text": "Eastern"
+      },
+      {
+        "id": 3,
+        "text": "Both equal"
+      },
+      {
+        "id": 4,
+        "text": "None"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "What kind of coastline does the Eastern Coastal Plain have?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Submergent"
+      },
+      {
+        "id": 2,
+        "text": "Emergent"
+      },
+      {
+        "id": 3,
+        "text": "Deltaic"
+      },
+      {
+        "id": 4,
+        "text": "Arid"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Backwaters or Kayals are most prominent in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Andhra Pradesh"
+      },
+      {
+        "id": 2,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 3,
+        "text": "Kerala"
+      },
+      {
+        "id": 4,
+        "text": "Odisha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The Nehru Trophy Boat Race is held in the backwaters of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 2,
+        "text": "Kerala"
+      },
+      {
+        "id": 3,
+        "text": "Goa"
+      },
+      {
+        "id": 4,
+        "text": "Maharashtra"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which coastal plain has rivers that form deltas?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Western Coastal Plain"
+      },
+      {
+        "id": 2,
+        "text": "Southern Coastal Plain"
+      },
+      {
+        "id": 3,
+        "text": "Eastern Coastal Plain"
+      },
+      {
+        "id": 4,
+        "text": "Konkan Coast"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which port is the largest container port in India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kandla"
+      },
+      {
+        "id": 2,
+        "text": "Ennore"
+      },
+      {
+        "id": 3,
+        "text": "Nhava Sheva"
+      },
+      {
+        "id": 4,
+        "text": "Haldia"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which is the oldest major port built by the British?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chennai"
+      },
+      {
+        "id": 2,
+        "text": "Mumbai"
+      },
+      {
+        "id": 3,
+        "text": "Kolkata"
+      },
+      {
+        "id": 4,
+        "text": "Kandla"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The Deendayal Port is located in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 2,
+        "text": "Gujarat"
+      },
+      {
+        "id": 3,
+        "text": "Odisha"
+      },
+      {
+        "id": 4,
+        "text": "Maharashtra"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which Indian state has the most major ports?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": 2,
+        "text": "Maharashtra"
+      },
+      {
+        "id": 3,
+        "text": "Gujarat"
+      },
+      {
+        "id": 4,
+        "text": "Kerala"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Port development is easier on which coast of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Western"
+      },
+      {
+        "id": 2,
+        "text": "Southern"
+      },
+      {
+        "id": 3,
+        "text": "Eastern"
+      },
+      {
+        "id": 4,
+        "text": "Northern"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The Andaman & Nicobar Islands are an extension of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Himalayas"
+      },
+      {
+        "id": 2,
+        "text": "Western Ghats"
+      },
+      {
+        "id": 3,
+        "text": "Arakan Yoma"
+      },
+      {
+        "id": 4,
+        "text": "Nilgiris"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "How many islands are in the Andaman & Nicobar group?",
+    "options": [
+      {
+        "id": 1,
+        "text": "36"
+      },
+      {
+        "id": 2,
+        "text": "108"
+      },
+      {
+        "id": 3,
+        "text": "572"
+      },
+      {
+        "id": 4,
+        "text": "300"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Which is the highest peak in the Andaman Islands?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mount Harriet"
+      },
+      {
+        "id": 2,
+        "text": "Saddle Peak"
+      },
+      {
+        "id": 3,
+        "text": "Mount Diavolo"
+      },
+      {
+        "id": 4,
+        "text": "Mount Kogob"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Barren Island is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "A coral island"
+      },
+      {
+        "id": 2,
+        "text": "A dormant volcano"
+      },
+      {
+        "id": 3,
+        "text": "An active volcano"
+      },
+      {
+        "id": 4,
+        "text": "A river island"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "The 10° Channel separates:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Andaman and Lakshadweep"
+      },
+      {
+        "id": 2,
+        "text": "Little Andaman and South Andaman"
+      },
+      {
+        "id": 3,
+        "text": "Andaman and Nicobar Islands"
+      },
+      {
+        "id": 4,
+        "text": "Minicoy and Lakshadweep"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Duncan Passage lies between:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Great Nicobar and Car Nicobar"
+      },
+      {
+        "id": 2,
+        "text": "South Andaman and Little Andaman"
+      },
+      {
+        "id": 3,
+        "text": "Middle Andaman and North Andaman"
+      },
+      {
+        "id": 4,
+        "text": "Lakshadweep and Maldives"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Great Nicobar is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Largest coral island"
+      },
+      {
+        "id": 2,
+        "text": "Southernmost island of Andaman & Nicobar"
+      },
+      {
+        "id": 3,
+        "text": "Home to Mount Harriet"
+      },
+      {
+        "id": 4,
+        "text": "A part of Lakshadweep"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Havelock Island was renamed as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nehru Dweep"
+      },
+      {
+        "id": 2,
+        "text": "Shaheed Dweep"
+      },
+      {
+        "id": 3,
+        "text": "Swaraj Dweep"
+      },
+      {
+        "id": 4,
+        "text": "Kalam Dweep"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "Lakshadweep Islands are of which origin?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Volcanic"
+      },
+      {
+        "id": 2,
+        "text": "Sedimentary"
+      },
+      {
+        "id": 3,
+        "text": "Coral"
+      },
+      {
+        "id": 4,
+        "text": "Riverine"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "geo-17",
+    "text": "How many islands form the Lakshadweep group?",
+    "options": [
+      {
+        "id": 1,
+        "text": "572"
+      },
+      {
+        "id": 2,
+        "text": "36"
+      },
+      {
+        "id": 3,
+        "text": "300"
+      },
+      {
+        "id": 4,
+        "text": "108"
+      }
+    ],
+    "correctOptionId": 2,
     "explanation": ""
   }
 ]

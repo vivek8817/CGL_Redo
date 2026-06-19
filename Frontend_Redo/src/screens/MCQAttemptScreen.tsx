@@ -100,110 +100,134 @@ const MCQAttemptScreen = () => {
   const progressPercent = ((currentIndex) / mcqs.length) * 100;
 
   return (
-    <div className="flex-1 w-full bg-surface overflow-hidden flex flex-col relative z-0">
-      {/* Top Header */}
-      <header className="px-card-pad py-6 flex items-center justify-between border-b border-border bg-surface shrink-0 relative z-10">
-        <button onClick={() => navigate(-1)} className="p-2 -ml-2 rounded-full hover:bg-surface-hover active:bg-border transition-colors">
-          <svg className="w-6 h-6 text-text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M15 19l-7-7 7-7" />
-          </svg>
-        </button>
-        <span className="font-bold text-lg text-text-primary tracking-tight">Question {currentIndex + 1}</span>
-        <button onClick={handleBookmark} className="p-2 -mr-2 rounded-full hover:bg-surface-hover active:bg-border transition-colors group">
-          <svg className={`w-6 h-6 transition-colors ${isBookmarked ? 'text-primary fill-primary' : 'text-text-muted group-hover:text-primary group-active:text-primary'}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
-          </svg>
-        </button>
-      </header>
-
-      {/* Progress Bar */}
-      <div className="h-1 bg-surface-hover w-full shrink-0 relative z-10">
-        <div className="h-full bg-primary transition-all duration-300 ease-out" style={{ width: `${progressPercent}%` }} />
-      </div>
-
-      {/* Scrollable Content */}
-      <div className="flex-1 overflow-y-auto overflow-x-hidden relative z-0">
-        <div className="px-card-pad py-8 flex flex-col min-h-full">
-          <h2 className="text-2xl font-bold text-text-primary leading-snug mb-8">{currentQuestion.text}</h2>
-
-          <div className="flex flex-col gap-3">
-            {currentQuestion.options.map((option: any) => {
-              const isSelected = selectedOption === option.id;
-              const isCorrect = option.id === currentQuestion.correctOptionId;
-              
-              let optionClasses = "p-card-pad rounded-sm border-2 flex justify-between items-center cursor-pointer transition-all active:scale-[0.99] ";
-              
-              if (!isSubmitted) {
-                optionClasses += isSelected 
-                  ? "bg-text-primary border-text-primary text-text-inverse" 
-                  : "bg-surface border-border text-text-primary hover:border-text-muted/30";
-              } else {
-                if (isCorrect) optionClasses += "bg-widget-quiz-bg/10 border-widget-quiz-bg text-text-primary";
-                else if (isSelected && !isCorrect) optionClasses += "bg-widget-sleep-bg/20 border-widget-sleep-chart text-text-primary";
-                else optionClasses += "bg-surface border-border text-text-muted opacity-50 pointer-events-none";
-              }
-
-              return (
-                <div 
-                  key={option.id} 
-                  onClick={() => !isSubmitted && handleOptionClick(option.id)}
-                  className={optionClasses}
-                >
-                  <span className="font-bold text-sm leading-tight pr-4">{option.text}</span>
-                  {/* Radio indicator */}
-                  <div className={`w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0 ${
-                    isSubmitted && isCorrect ? 'border-widget-quiz-bg bg-widget-quiz-bg text-white' :
-                    isSubmitted && isSelected && !isCorrect ? 'border-widget-sleep-chart bg-widget-sleep-chart text-white' :
-                    isSelected ? 'border-white' : 'border-text-muted/40'
-                  }`}>
-                    {isSubmitted && isCorrect && <iconify-icon icon="solar:check-read-bold" width="12"></iconify-icon>}
-                    {isSubmitted && isSelected && !isCorrect && <iconify-icon icon="solar:close-circle-bold" width="12"></iconify-icon>}
-                    {!isSubmitted && isSelected && <div className="w-2.5 h-2.5 bg-white rounded-full"></div>}
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-
-          {/* Explanation Area */}
-          {isSubmitted && (
-            <div className="mt-8 p-card-pad bg-[#f8f9fa] rounded-sm border border-border flex flex-col gap-2 animate-in fade-in slide-in-from-bottom-4 duration-300 mb-24">
-              <div className="flex items-center gap-1 text-[#0f5132]">
-                <iconify-icon icon="solar:info-circle-bold" width="16"></iconify-icon>
-                <span className="text-xs font-bold uppercase tracking-wider">Explanation</span>
-              </div>
-              <p className="text-sm font-semibold text-text-muted leading-relaxed">
-                {currentQuestion.explanation}
-              </p>
+    <>
+      {/* Mobile Device Mockup Wrapper */}
+      <div className="flex-1 w-full bg-background-app flex flex-col relative shrink-0 h-full">
+        
+        {/* Top Bar (Distraction Free) */}
+        <header className="px-2 pt-12 pb-4 flex items-center justify-between z-10 relative">
+          <button 
+            onClick={() => navigate(-1)}
+            className="w-10 h-10 rounded-full bg-slate-100/10 flex items-center justify-center hover:bg-slate-100/20 transition-colors active:scale-95 text-white"
+          >
+            <iconify-icon icon="solar:close-circle-linear" width="24"></iconify-icon>
+          </button>
+          
+          <div className="flex flex-col items-center flex-1 mx-4">
+            <span className="text-xs font-bold text-white opacity-60 mb-1">
+              Question {currentIndex + 1} of {mcqs.length}
+            </span>
+            <div className="w-full h-1.5 bg-white/20 rounded-full overflow-hidden">
+               <div className="h-full bg-emerald-500 rounded-full transition-all duration-500 ease-out" style={{ width: `${progressPercent}%` }}></div>
             </div>
+          </div>
+          
+          <button 
+            onClick={handleBookmark}
+            className="w-10 h-10 rounded-full flex items-center justify-center hover:bg-slate-100/10 transition-colors active:scale-95 text-white"
+          >
+            <iconify-icon 
+              icon={isBookmarked ? "solar:bookmark-bold" : "solar:bookmark-linear"} 
+              width="24" 
+            ></iconify-icon>
+          </button>
+        </header>
+
+        {/* Main Content Area */}
+        <main 
+            className="flex-1 overflow-y-auto px-1 pb-32" 
+            style={{ msOverflowStyle: 'none', scrollbarWidth: 'none' }}
+        >
+          {/* Question Card */}
+          <div className="bg-white rounded-t-[2rem] rounded-b-xl px-6 py-8 shadow-sm flex flex-col relative shrink-0 min-h-[300px]">
+            <h2 className="text-xl font-bold text-slate-800 leading-snug">
+              {currentQuestion.text}
+            </h2>
+            
+            {/* Options Area */}
+            <div className="flex flex-col gap-3 mt-8">
+              {currentQuestion.options.map((option: any) => {
+                const isSelected = selectedOption === option.id;
+                const isCorrect = option.id === currentQuestion.correctOptionId;
+                
+                let optionClasses = "p-4 rounded-xl border-2 transition-all duration-200 cursor-pointer flex items-center justify-between ";
+                
+                if (!isSubmitted) {
+                  optionClasses += isSelected 
+                    ? "bg-slate-800 text-white border-slate-800 shadow-md" 
+                    : "bg-slate-50 border-transparent text-slate-800 hover:border-slate-200 hover:bg-slate-100";
+                } else {
+                  if (isCorrect) {
+                    optionClasses += "bg-emerald-500/10 border-emerald-500 text-emerald-800";
+                  } else if (isSelected && !isCorrect) {
+                    optionClasses += "bg-red-500/10 border-red-400 text-red-700 opacity-90";
+                  } else {
+                    optionClasses += "bg-slate-50 border-transparent text-slate-800 opacity-40";
+                  }
+                }
+
+                return (
+                  <div 
+                    key={option.id} 
+                    onClick={() => handleOptionClick(option.id)}
+                    className={optionClasses}
+                  >
+                    <span className="font-bold text-sm leading-tight pr-4">{option.text}</span>
+                    {/* Radio indicator */}
+                    <div className={`w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0 transition-colors ${
+                      isSubmitted && isCorrect ? 'border-emerald-500 bg-emerald-500 text-white' :
+                      isSubmitted && isSelected && !isCorrect ? 'border-red-500 bg-red-500 text-white' :
+                      isSelected ? 'border-white bg-slate-800' : 'border-slate-300'
+                    }`}>
+                      {isSubmitted && isCorrect && <iconify-icon icon="solar:check-read-bold" width="12"></iconify-icon>}
+                      {isSubmitted && isSelected && !isCorrect && <iconify-icon icon="solar:close-circle-bold" width="12"></iconify-icon>}
+                      {!isSubmitted && isSelected && <div className="w-2 h-2 bg-white rounded-full"></div>}
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+
+            {/* Explanation Area */}
+            {isSubmitted && (
+              <div className="mt-8 p-5 bg-slate-50 rounded-xl border border-slate-200 flex flex-col gap-2 animate-[slideUp_0.3s_ease-out]">
+                <div className="flex items-center gap-1 text-emerald-700">
+                  <iconify-icon icon="solar:info-circle-bold" width="16"></iconify-icon>
+                  <span className="text-xs font-bold uppercase tracking-wider">Explanation</span>
+                </div>
+                <p className="text-sm font-medium text-slate-600 leading-relaxed">
+                  {currentQuestion.explanation}
+                </p>
+              </div>
+            )}
+          </div>
+        </main>
+
+        {/* Bottom Action Bar */}
+        <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-full p-5 z-50 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-12">
+          {!isSubmitted ? (
+            <button 
+              onClick={handleSubmit}
+              disabled={selectedOption === null}
+              className={`w-full py-4 rounded-xl font-bold text-lg shadow-xl active:scale-95 transition-all ${
+                selectedOption !== null 
+                  ? 'bg-white text-slate-900 hover:bg-slate-100' 
+                  : 'bg-white/10 text-white/40 cursor-not-allowed'
+              }`}
+            >
+              Submit Answer
+            </button>
+          ) : (
+            <button 
+              onClick={handleNext}
+              className="w-full py-4 rounded-xl font-bold text-lg shadow-xl active:scale-95 transition-all bg-emerald-500 text-white hover:bg-emerald-600 animate-[pulse_1s_ease-in-out_1]"
+            >
+              {currentIndex === mcqs.length - 1 ? "Finish Quiz" : "Next Question"}
+            </button>
           )}
         </div>
       </div>
-
-      {/* Bottom Action Bar */}
-      <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-full p-layout-gap z-50 bg-background-app">
-        {!isSubmitted ? (
-          <button 
-            onClick={handleSubmit}
-            disabled={selectedOption === null}
-            className={`w-full py-4 rounded-sm font-bold text-lg shadow-xl active:scale-95 transition-all ${
-              selectedOption !== null 
-                ? 'bg-surface text-text-primary' 
-                : 'bg-surface-hover/20 text-text-primary/40 cursor-not-allowed'
-            }`}
-          >
-            Submit Answer
-          </button>
-        ) : (
-          <button 
-            onClick={handleNext}
-            className="w-full py-4 rounded-sm font-bold text-lg shadow-xl active:scale-95 transition-all bg-widget-quiz-bg text-text-primary"
-          >
-            {currentIndex === mcqs.length - 1 ? "Finish Quiz" : "Next Question"}
-          </button>
-        )}
-      </div>
-    </div>
+    </>
   );
 };
 

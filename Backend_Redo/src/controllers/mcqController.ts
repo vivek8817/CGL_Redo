@@ -40,7 +40,8 @@ export const seedMcqs = async (
     // Inject the chapterId dynamically into every question object
     const formattedMcqs = mcqsData.map((q) => ({ 
       ...q, 
-      chapterId 
+      // Use the chapterId from the JSON file if it exists, otherwise fallback to URL
+      chapterId: q.chapterId ? q.chapterId : chapterId 
     }));
 
     // Bulk insert into MongoDB via Mongoose

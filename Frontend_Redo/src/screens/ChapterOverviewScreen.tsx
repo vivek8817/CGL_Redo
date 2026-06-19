@@ -12,6 +12,7 @@ const ChapterOverviewScreen = () => {
   const subjectsData = useSelector((state: RootState) => state.subjects.subjects);
   const chapterProgressList = useSelector((state: RootState) => state.streak.chapterProgress || []);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const bookmarks = useSelector((state: RootState) => state.streak.bookmarks || []);
 
   let currentChapter: Chapter | null = null;
   let subjectName = '';
@@ -38,6 +39,15 @@ const ChapterOverviewScreen = () => {
     }
     if (currentChapter) break;
   }
+
+  
+// --- ADD THESE 4 LINES ---
+const progress = chapterProgressList.find((cp: any) => cp.chapterId === currentChapter?.id) || { attempted: 0, wrong: 0, progressLevel: 'Not Started' };
+const wrongCount = progress.wrong;
+const chapterBookmarks = bookmarks.filter((b: any) => b.chapterId === currentChapter?.id);
+const bookmarkCount = chapterBookmarks.length;
+// -------------------------
+
 
   if (!currentChapter) {
     return (
@@ -91,7 +101,7 @@ const ChapterOverviewScreen = () => {
         <div className="grid grid-cols-3 gap-2 mt-6">
           <div className="flex flex-col bg-surface-hover rounded-sm p-3 border border-border/50">
             <iconify-icon icon="solar:document-text-bold" width="16" style={{ color: "var(--color-text-muted)" }} className="mb-1"></iconify-icon>
-            <span className="text-xl font-bold text-text-primary">-</span>
+            +  <span className="text-xl font-bold text-text-primary">{currentChapter.totalMcqs || 0}</span>
             <span className="text-xxs font-bold text-text-muted uppercase tracking-wider">Total MCQs</span>
           </div>
           
@@ -117,7 +127,7 @@ const ChapterOverviewScreen = () => {
       </div>
 
       {/* BOTTOM SECTION: ACTION WIDGETS */}
-      <main className="flex-1 overflow-y-auto pt-1 pb-24 flex flex-col gap-layout-gap scrollbar-hide px-layout-gap">
+      <main className="flex-1 overflow-y-auto pt-1 pb-24 flex flex-col gap-layout-gap scrollbar-hide ">
         
         {/* Start Full Chapter - Green Widget */}
         <div 
@@ -141,9 +151,9 @@ const ChapterOverviewScreen = () => {
 
         {/* Revise Wrong Only - Purple Widget */}
         <div 
-          onClick={() => navigate(`/mcq/${currentChapter?.id}`)}
-          className={`bg-widget-stress-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${currentChapter.wrong === 0 ? 'opacity-50 pointer-events-none' : ''}`}
-        >
+    onClick={() => navigate(`/mcq/${currentChapter?.id}`)}
+  className={`bg-widget-stress-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${wrongCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
+>
            <AngryExpression className="absolute -top-4 -right-12 opacity-90 rotate-12 w-40 h-40" />
 
           <div className="flex items-center justify-between z-10">
@@ -164,8 +174,8 @@ const ChapterOverviewScreen = () => {
         {/* Revise Bookmarks - Yellow Widget */}
         <div 
           onClick={() => navigate(`/mcq/${currentChapter?.id}`)}
-          className={`bg-widget-sleep-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${currentChapter.bookmarked === 0 ? 'opacity-50 pointer-events-none' : ''}`}
-        >
+          className={`bg-widget-sleep-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${bookmarkCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
+  >
           <div className="flex items-center justify-between z-10">
             <div className="w-10 h-10 rounded-full bg-white/40 flex items-center justify-center">
               <iconify-icon icon="solar:bookmark-circle-bold" width="24" style={{ color: "var(--color-text-primary)" }}></iconify-icon>
@@ -176,8 +186,8 @@ const ChapterOverviewScreen = () => {
           <div className="flex flex-col z-10">
             <span className="text-2xl font-bold text-text-primary leading-tight">Revise Bookmarks</span>
             <span className="text-xs font-bold text-text-primary opacity-80 mt-1">
-              {currentChapter.bookmarked > 0 ? `Review ${currentChapter.bookmarked} saved questions` : 'No bookmarked questions'}
-            </span>
+              {bookmarkCount > 0 ? `Review ${bookmarkCount} saved questions` : 'No bookmarked questions'}
+    </span>
           </div>
         </div>
 

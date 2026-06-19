@@ -1,6 +1,5 @@
 import { type Subject, type Chapter } from './types';
 import { biologyDiseasesMCQs } from './mcqs/biologyDiseases';
-import { historyRevoltsMCQs } from './mcqs/historyRevolts';
 
 const createMockChapter = (id: string, title: string, mcqs: any[] = []): Chapter => ({
   id,
@@ -18,58 +17,52 @@ export const subjectsData: Subject[] = [
     id: "history",
     title: "History",
     icon: "solar:hourglass-bold",
-    subSubjects: [
+        subSubjects: [
       {
         id: "hist-ancient",
         title: "Ancient India",
         chapters: [
-          createMockChapter("hist-anc-1", "Prehistoric Period: Paleolithic, Mesolithic, and Neolithic"),
-          createMockChapter("hist-anc-2", "Chalcolithic Period: The Copper Age"),
-          createMockChapter("hist-anc-3", "Indus Valley Civilization: Harappan Civilization"),
-          createMockChapter("hist-anc-4", "Early Vedic Period: Rigvedic Age"),
-          createMockChapter("hist-anc-5", "Later Vedic Period"),
-          createMockChapter("hist-anc-6", "Vedic Literature: Vedas, Upanishads, and Vedangas"),
-          createMockChapter("hist-anc-7", "Rise of Buddhism"),
-          createMockChapter("hist-anc-8", "Rise of Jainism"),
-          createMockChapter("hist-anc-9", "16 Mahajanapadas & the Rise of Magadha"),
-          createMockChapter("hist-anc-10", "Early Dynasties: Haryanka, Shishunaga, and Nanda"),
-          createMockChapter("hist-anc-11", "Foreign Invasions: Iranian and Macedonian"),
-          createMockChapter("hist-anc-12", "Mauryan Empire: Administration, Ashoka's Edicts, and Art"),
-          createMockChapter("hist-anc-13", "Post-Mauryan Native Dynasties: Shunga, Kanva, and Satavahana"),
-          createMockChapter("hist-anc-14", "Post-Mauryan Foreign Dynasties: Indo-Greeks, Shakas"),
-          createMockChapter("hist-anc-15", "Sangam Age: Cheras, Cholas, Pandyas"),
-          createMockChapter("hist-anc-16", "Gupta Empire: The Golden Age"),
-          createMockChapter("hist-anc-17", "Post-Gupta Period & Harshavardhana Dynasty"),
+          createMockChapter("hist-anc-1", "Stone Age Timeline & Classification"),
+          createMockChapter("hist-anc-2", "Indus Valley Civilization: The Lost Cities"),
+          createMockChapter("hist-anc-3", "Vedic Age (1500–600 BCE)"),
+          createMockChapter("hist-anc-4", "Jainism and Buddhism Notes"),
+          createMockChapter("hist-anc-5", "Mahajanapadas and Magadh Empire Notes"),
+          createMockChapter("hist-anc-6", "Mauryan Empire Overview"),
+          createMockChapter("hist-anc-7", "Post-Mauryan Dynasties (After 185 BCE)"),
+          createMockChapter("hist-anc-8", "Sangam Age (c. 3rd Century BCE – 3rd Century CE)"),
+          createMockChapter("hist-anc-9", "Gupta Empire (c. 319 CE – 540 CE)"),
+          createMockChapter("hist-anc-10", "Post-Gupta Dynasties"),
         ]
       },
       {
         id: "hist-medieval",
         title: "Medieval India",
         chapters: [
-          createMockChapter("hist-med-1", "Delhi Sultanate: Origins & Period (1206–1526)"),
-          createMockChapter("hist-med-2", "Vijayanagara Empire: 1336–1565 AD"),
-          createMockChapter("hist-med-3", "Mughal Empire: Origins & Foundation"),
-          createMockChapter("hist-med-4", "Mughal Empire Summary: 1600–1857"),
-          createMockChapter("hist-med-5", "Maratha State: 1674–1720"),
-          createMockChapter("hist-med-6", "Cultural Movements: Bhakti & Sufi Movements"),
+          createMockChapter("hist-med-1", "Delhi Sultanate-1: Origins & Period (1206–1526)"),
+          createMockChapter("hist-med-2", "Delhi Sultanate-2: Expansion and Decline"),
+          createMockChapter("hist-med-3", "Vijayanagara Empire: 1336–1565 AD"),
+          createMockChapter("hist-med-4", "Mughal Empire: Origins & Foundation"),
+          createMockChapter("hist-med-5", "Mughal Empire Summary: 1600–1857"),
+          createMockChapter("hist-med-6", "Maratha State: 1674–1720"),
+          createMockChapter("hist-med-7", "Cultural Movements: Bhakti & Sufi Movements"),
         ]
       },
       {
         id: "hist-modern",
         title: "Modern India",
         chapters: [
-          createMockChapter("hist-mod-1", "Advent of Europeans"),
-          createMockChapter("hist-mod-2", "Social and Religious Reform Movements"),
-          createMockChapter("hist-mod-3", "The 1857 Revolt"),
+          createMockChapter("hist-mod-1", "Advent of Europeans in India"),
+          createMockChapter("hist-mod-2", "Social and Religious Reform"),
+          createMockChapter("hist-mod-3", "1857 Revolts"),
           createMockChapter("hist-mod-4", "Indian National Congress (INC)"),
-          createMockChapter("hist-mod-5", "Partition of Bengal"),
+          createMockChapter("hist-mod-5", "BENGAL PARTITION"),
           createMockChapter("hist-mod-6", "Emergence of Mahatma Gandhi"),
-          createMockChapter("hist-mod-7", "Socialism & Revolutionary Movements"),
-          createMockChapter("hist-mod-8", "Quit India Movement"),
-          createMockChapter("hist-mod-9", "Peasant and Tribal Uprisings", historyRevoltsMCQs), // Wired to actual MCQs
+          createMockChapter("hist-mod-7", "Socialism, Simon Commission, Revolutionary Movements"),
+          createMockChapter("hist-mod-8", "QUIT INDIA MOVEMENT"),
         ]
       }
     ]
+
   },
   {
     id: "geography",

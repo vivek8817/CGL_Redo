@@ -11,71 +11,43 @@
         "chapters": [
           {
             "id": "hist-anc-1",
-            "title": "Prehistoric Period: Paleolithic, Mesolithic, and Neolithic"
+            "title": "Stone Age Timeline & Classification"
           },
           {
             "id": "hist-anc-2",
-            "title": "Chalcolithic Period: The Copper Age"
+            "title": "Indus Valley Civilization: The Lost Cities"
           },
           {
             "id": "hist-anc-3",
-            "title": "Indus Valley Civilization: Harappan Civilization"
+            "title": "Vedic Age (1500–600 BCE)"
           },
           {
             "id": "hist-anc-4",
-            "title": "Early Vedic Period: Rigvedic Age"
+            "title": "Jainism and Buddhism Notes"
           },
           {
             "id": "hist-anc-5",
-            "title": "Later Vedic Period"
+            "title": "Mahajanapadas and Magadh Empire Notes"
           },
           {
             "id": "hist-anc-6",
-            "title": "Vedic Literature: Vedas, Upanishads, and Vedangas"
+            "title": "Mauryan Empire Overview"
           },
           {
             "id": "hist-anc-7",
-            "title": "Rise of Buddhism"
+            "title": "Post‑Mauryan Dynasties (After 185 BCE)"
           },
           {
             "id": "hist-anc-8",
-            "title": "Rise of Jainism"
+            "title": "Sangam Age (c. 3rd Century BCE – 3rd Century CE)"
           },
           {
             "id": "hist-anc-9",
-            "title": "16 Mahajanapadas & the Rise of Magadha"
+            "title": "Gupta Empire (c. 319 CE – 540 CE)"
           },
           {
             "id": "hist-anc-10",
-            "title": "Early Dynasties: Haryanka, Shishunaga, and Nanda"
-          },
-          {
-            "id": "hist-anc-11",
-            "title": "Foreign Invasions: Iranian and Macedonian"
-          },
-          {
-            "id": "hist-anc-12",
-            "title": "Mauryan Empire: Administration, Ashoka's Edicts, and Art"
-          },
-          {
-            "id": "hist-anc-13",
-            "title": "Post-Mauryan Native Dynasties: Shunga, Kanva, and Satavahana"
-          },
-          {
-            "id": "hist-anc-14",
-            "title": "Post-Mauryan Foreign Dynasties: Indo-Greeks, Shakas"
-          },
-          {
-            "id": "hist-anc-15",
-            "title": "Sangam Age: Cheras, Cholas, Pandyas"
-          },
-          {
-            "id": "hist-anc-16",
-            "title": "Gupta Empire: The Golden Age"
-          },
-          {
-            "id": "hist-anc-17",
-            "title": "Post-Gupta Period & Harshavardhana Dynasty"
+            "title": "Post‑Gupta Dynasties"
           }
         ]
       },
@@ -85,26 +57,30 @@
         "chapters": [
           {
             "id": "hist-med-1",
-            "title": "Delhi Sultanate: Origins & Period (1206–1526)"
+            "title": "Delhi Sultanate-1: Origins & Period (1206–1526)"
           },
           {
             "id": "hist-med-2",
-            "title": "Vijayanagara Empire: 1336–1565 AD"
+            "title": "Delhi Sultanate-2: Expansion and Decline"
           },
           {
             "id": "hist-med-3",
-            "title": "Mughal Empire: Origins & Foundation"
+            "title": "Vijayanagara Empire: 1336–1565 AD"
           },
           {
             "id": "hist-med-4",
-            "title": "Mughal Empire Summary: 1600–1857"
+            "title": "Mughal Empire: Origins & Foundation"
           },
           {
             "id": "hist-med-5",
-            "title": "Maratha State: 1674–1720"
+            "title": "Mughal Empire Summary: 1600–1857"
           },
           {
             "id": "hist-med-6",
+            "title": "Maratha State: 1674–1720"
+          },
+          {
+            "id": "hist-med-7",
             "title": "Cultural Movements: Bhakti & Sufi Movements"
           }
         ]
@@ -119,23 +95,31 @@
           },
           {
             "id": "hist-mod-2",
-            "title": "Expansion of British Power"
+            "title": "Social and Religious Reform"
           },
           {
             "id": "hist-mod-3",
-            "title": "Economic Impact of British Rule"
+            "title": "1857 Revolts"
           },
           {
             "id": "hist-mod-4",
-            "title": "Socio-Religious Reform Movements"
+            "title": "Indian National Congress (INC)"
           },
           {
             "id": "hist-mod-5",
-            "title": "The Revolt of 1857"
+            "title": "BENGAL PARTITION"
           },
           {
             "id": "hist-mod-6",
-            "title": "Indian National Movement (1885-1947)"
+            "title": "Emergence of Mahatma Gandhi"
+          },
+          {
+            "id": "hist-mod-7",
+            "title": "Socialism, Simon Commission, Revolutionary Movements"
+          },
+          {
+            "id": "hist-mod-8",
+            "title": "QUIT INDIA MOVEMENT"
           }
         ]
       }
@@ -217,102 +201,7 @@
       }
     ]
   },
-  {
-    "id": "polity",
-    "title": "Polity",
-    "icon": "solar:scales-bold-duotone",
-    "isNested": false,
-    "chapters": [
-      {
-        "id": "pol-1",
-        "title": "Historical Background and Making of the Constitution"
-      },
-      {
-        "id": "pol-2",
-        "title": "Salient Features, Preamble, and Sources"
-      },
-      {
-        "id": "pol-3",
-        "title": "Union and its Territory, Citizenship"
-      },
-      {
-        "id": "pol-4",
-        "title": "Fundamental Rights"
-      },
-      {
-        "id": "pol-5",
-        "title": "Directive Principles of State Policy (DPSP)"
-      },
-      {
-        "id": "pol-6",
-        "title": "Fundamental Duties"
-      },
-      {
-        "id": "pol-7",
-        "title": "Union Executive: President, VP, PM, Council of Ministers"
-      },
-      {
-        "id": "pol-8",
-        "title": "Union Legislature: Parliament (Lok Sabha & Rajya Sabha)"
-      },
-      {
-        "id": "pol-9",
-        "title": "State Executive and Legislature"
-      },
-      {
-        "id": "pol-10",
-        "title": "Judiciary: Supreme Court and High Courts"
-      },
-      {
-        "id": "pol-11",
-        "title": "Local Government: Panchayati Raj and Municipalities"
-      },
-      {
-        "id": "pol-12",
-        "title": "Constitutional and Non-Constitutional Bodies"
-      },
-      {
-        "id": "pol-13",
-        "title": "Important Amendments and Articles"
-      }
-    ]
-  },
-  {
-    "id": "biology",
-    "title": "Biology",
-    "icon": "solar:test-tube-bold-duotone",
-    "isNested": false,
-    "chapters": [
-      {
-        "id": "bio-1",
-        "title": "Cell: Structure and Functions"
-      },
-      {
-        "id": "bio-2",
-        "title": "Classification of Organisms"
-      },
-      {
-        "id": "bio-3",
-        "title": "Human Body Systems"
-      },
-      {
-        "id": "bio-4",
-        "title": "Nutrition and Vitamins"
-      },
-      {
-        "id": "bio-5",
-        "title": "Diseases and Defense Mechanism"
-      },
-      {
-        "id": "bio-6",
-        "title": "Genetics and Evolution"
-      },
-      {
-        "id": "bio-7",
-        "title": "Botany: Plant Morphology and Physiology"
-      }
-    ]
-  },
+
   {
     "id": "physics",
     "title": "Physics",
@@ -438,6 +327,130 @@
       {
         "id": "eco-8",
         "title": "Poverty and Unemployment"
+      }
+    ]
+  },
+  {
+    "id": "biology",
+    "title": "Biology",
+    "icon": "solar:leaf-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      {
+        "id": "bio-1",
+        "title": "Cell Cycle & Growth Phases"
+      },
+      {
+        "id": "bio-2",
+        "title": "Animal Tissues"
+      },
+      {
+        "id": "bio-3",
+        "title": "The Hierarchy of Classification – Groups"
+      },
+      {
+        "id": "bio-4",
+        "title": "Animal Kingdom"
+      },
+      {
+        "id": "bio-5",
+        "title": "Diseases"
+      },
+      {
+        "id": "bio-6",
+        "title": "Heredity and Evolution"
+      },
+      {
+        "id": "bio-7",
+        "title": "Nutrition in Animals and Plants"
+      },
+      {
+        "id": "bio-8",
+        "title": "Human Heart and Circulatory System"
+      },
+      {
+        "id": "bio-9",
+        "title": "LIFE PROCESSES"
+      },
+      {
+        "id": "bio-10",
+        "title": "Nervous System"
+      },
+      {
+        "id": "bio-11",
+        "title": "Glands and Hormones"
+      },
+      {
+        "id": "bio-12",
+        "title": "REPRODUCTION:"
+      }
+    ]
+  },
+  {
+    "id": "polity",
+    "title": "Polity",
+    "icon": "solar:book-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      {
+        "id": "polity-1",
+        "title": "INDIAN CONSTITUTION & CONSTITUENT ASSEMBLY NOTES"
+      },
+      {
+        "id": "polity-2",
+        "title": "Salient Features of the Indian Constitution"
+      },
+      {
+        "id": "polity-3",
+        "title": "Preamble of the Indian Constitution"
+      },
+      {
+        "id": "polity-4",
+        "title": "PART III – FUNDAMENTAL RIGHTS (Art. 12 to 35)"
+      },
+      {
+        "id": "polity-5",
+        "title": "DIRECTIVE PRINCIPLES OF STATE POLICY (DPSP)"
+      },
+      {
+        "id": "polity-6",
+        "title": "PART V: The Union Government (Articles 52–151)"
+      },
+      {
+        "id": "polity-7",
+        "title": "Prime Minister of India (Articles 74–78)"
+      },
+      {
+        "id": "polity-8",
+        "title": "Parliament of India (Articles 79–122)"
+      },
+      {
+        "id": "polity-9",
+        "title": "Articles Related to Parliament (India)"
+      },
+      {
+        "id": "polity-10",
+        "title": "Overview of Part VI – State Legislature"
+      },
+      {
+        "id": "polity-11",
+        "title": "Emergency Provisions (Articles 352–360)"
+      },
+      {
+        "id": "polity-12",
+        "title": "SUPREME COURT (SC)"
+      },
+      {
+        "id": "polity-13",
+        "title": "PANCHAYATI RAJ SYSTEM"
+      },
+      {
+        "id": "polity-14",
+        "title": "CONSTITUTIONAL BODIES"
+      },
+      {
+        "id": "polity-15",
+        "title": "IMPORTANT ACTS TABLE (with timeline and key features)"
       }
     ]
   }

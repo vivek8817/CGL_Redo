@@ -1,0 +1,5042 @@
+[
+  {
+    "chapterId": "bio-1",
+    "text": "In which phase of the cell cycle does DNA replication occur?",
+    "options": [
+      {
+        "id": 1,
+        "text": "G1 phase"
+      },
+      {
+        "id": 2,
+        "text": "G2 phase"
+      },
+      {
+        "id": 3,
+        "text": "S phase"
+      },
+      {
+        "id": 4,
+        "text": "Mitosis"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which component provides structural support and helps in movement within a cell?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Centrosome"
+      },
+      {
+        "id": 2,
+        "text": "Cytoskeleton"
+      },
+      {
+        "id": 3,
+        "text": "Endoplasmic reticulum"
+      },
+      {
+        "id": 4,
+        "text": "Nucleus"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "The centrosome is primarily composed of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Microfilaments"
+      },
+      {
+        "id": 2,
+        "text": "A single centriole"
+      },
+      {
+        "id": 3,
+        "text": "Two centrioles"
+      },
+      {
+        "id": 4,
+        "text": "DNA"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "What is the correct pairing of nitrogenous bases in RNA?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Adenine \u2013 Thymine"
+      },
+      {
+        "id": 2,
+        "text": "Cytosine \u2013 Adenine"
+      },
+      {
+        "id": 3,
+        "text": "Guanine \u2013 Uracil"
+      },
+      {
+        "id": 4,
+        "text": "Adenine \u2013 Uracil"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which enzyme is responsible for unwinding DNA during replication?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ligase"
+      },
+      {
+        "id": 2,
+        "text": "DNA Polymerase"
+      },
+      {
+        "id": 3,
+        "text": "Helicase"
+      },
+      {
+        "id": 4,
+        "text": "Primase"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which of the following best describes semi-conservative replication?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Each new DNA contains two old strands"
+      },
+      {
+        "id": 2,
+        "text": "Each new DNA has one old and one new strand"
+      },
+      {
+        "id": 3,
+        "text": "Entirely new DNA is synthesized"
+      },
+      {
+        "id": 4,
+        "text": "Both strands are replaced each time"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "What is the role of Topoisomerase in DNA replication?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Unwinds the helix"
+      },
+      {
+        "id": 2,
+        "text": "Binds Okazaki fragments"
+      },
+      {
+        "id": 3,
+        "text": "Prevents DNA tangling"
+      },
+      {
+        "id": 4,
+        "text": "Initiates replication"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which of the following transport processes is described as \u201ccell vomiting\u201d?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Endocytosis"
+      },
+      {
+        "id": 2,
+        "text": "Phagocytosis"
+      },
+      {
+        "id": 3,
+        "text": "Osmosis"
+      },
+      {
+        "id": 4,
+        "text": "Exocytosis"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "What is the primary difference between plant and animal tissues regarding energy requirement?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Plants need more energy"
+      },
+      {
+        "id": 2,
+        "text": "Animals need less energy"
+      },
+      {
+        "id": 3,
+        "text": "Both need equal energy"
+      },
+      {
+        "id": 4,
+        "text": "Animal tissues require more energy"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which meristematic tissue is responsible for increasing the width (girth) of the plant?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Apical"
+      },
+      {
+        "id": 2,
+        "text": "Intercalary"
+      },
+      {
+        "id": 3,
+        "text": "Lateral"
+      },
+      {
+        "id": 4,
+        "text": "Epidermal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which simple permanent tissue is responsible for mechanical support and flexibility in leaf stalks?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Parenchyma"
+      },
+      {
+        "id": 2,
+        "text": "Aerenchyma"
+      },
+      {
+        "id": 3,
+        "text": "Collenchyma"
+      },
+      {
+        "id": 4,
+        "text": "Sclerenchyma"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "What substance is secreted by the epidermis of desert plants to prevent water loss?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cellulose"
+      },
+      {
+        "id": 2,
+        "text": "Cutin"
+      },
+      {
+        "id": 3,
+        "text": "Suberin"
+      },
+      {
+        "id": 4,
+        "text": "Lignin"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "In plants, guttation typically occurs through:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Stomata"
+      },
+      {
+        "id": 2,
+        "text": "Cuticle"
+      },
+      {
+        "id": 3,
+        "text": "Hydathodes"
+      },
+      {
+        "id": 4,
+        "text": "Lenticels"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which of the following xylem components is alive and stores food?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tracheids"
+      },
+      {
+        "id": 2,
+        "text": "Vessels"
+      },
+      {
+        "id": 3,
+        "text": "Xylem fibres"
+      },
+      {
+        "id": 4,
+        "text": "Xylem parenchyma"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which phloem element is composed of dead cells?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sieve tubes"
+      },
+      {
+        "id": 2,
+        "text": "Companion cells"
+      },
+      {
+        "id": 3,
+        "text": "Phloem parenchyma"
+      },
+      {
+        "id": 4,
+        "text": "Phloem fibres"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Who is known as the \"Father of Cytology\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Antonie van Leeuwenhoek"
+      },
+      {
+        "id": 2,
+        "text": "Robert Brown"
+      },
+      {
+        "id": 3,
+        "text": "Robert Hooke"
+      },
+      {
+        "id": 4,
+        "text": "Rudolf Virchow"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which structure is referred to as the \"powerhouse of the cell\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nucleus"
+      },
+      {
+        "id": 2,
+        "text": "Golgi bodies"
+      },
+      {
+        "id": 3,
+        "text": "Mitochondria"
+      },
+      {
+        "id": 4,
+        "text": "Lysosomes"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "What is the function of the nucleolus?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Protein synthesis"
+      },
+      {
+        "id": 2,
+        "text": "DNA replication"
+      },
+      {
+        "id": 3,
+        "text": "Ribosome formation"
+      },
+      {
+        "id": 4,
+        "text": "Lipid synthesis"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which of the following correctly defines osmosis?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Movement of gases from higher to lower pressure"
+      },
+      {
+        "id": 2,
+        "text": "Movement of solutes through a membrane"
+      },
+      {
+        "id": 3,
+        "text": "Movement of water through a semipermeable membrane from high to low concentration"
+      },
+      {
+        "id": 4,
+        "text": "Movement of molecules from low to high concentration using energy"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which part of the cell is selectively permeable and controls the entry and exit of substances?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cell wall"
+      },
+      {
+        "id": 2,
+        "text": "Cell membrane"
+      },
+      {
+        "id": 3,
+        "text": "Nuclear membrane"
+      },
+      {
+        "id": 4,
+        "text": "Cytoplasm"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "What does the term \"omnis cellula e cellula\" mean?",
+    "options": [
+      {
+        "id": 1,
+        "text": "All cells arise from dead matter"
+      },
+      {
+        "id": 2,
+        "text": "All cells arise from pre-existing cells"
+      },
+      {
+        "id": 3,
+        "text": "Cells are formed by fusion"
+      },
+      {
+        "id": 4,
+        "text": "All cells divide only once"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which cell organelle is referred to as the \"post office of the cell\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nucleus"
+      },
+      {
+        "id": 2,
+        "text": "Golgi Apparatus"
+      },
+      {
+        "id": 3,
+        "text": "Ribosome"
+      },
+      {
+        "id": 4,
+        "text": "Peroxisome"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which type of plastid is responsible for photosynthesis?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chromoplast"
+      },
+      {
+        "id": 2,
+        "text": "Chloroplast"
+      },
+      {
+        "id": 3,
+        "text": "Leucoplast"
+      },
+      {
+        "id": 4,
+        "text": "Amyloplast"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which of the following is not a characteristic of prokaryotic cells?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Presence of nucleoid"
+      },
+      {
+        "id": 2,
+        "text": "Absence of membrane-bound organelles"
+      },
+      {
+        "id": 3,
+        "text": "More than one chromosome"
+      },
+      {
+        "id": 4,
+        "text": "Found in bacteria"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which solution causes a plant cell to become turgid?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hypertonic"
+      },
+      {
+        "id": 2,
+        "text": "Hypotonic"
+      },
+      {
+        "id": 3,
+        "text": "Isotonic"
+      },
+      {
+        "id": 4,
+        "text": "Acidic"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "What is the main component of the cell wall in fungi?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cellulose"
+      },
+      {
+        "id": 2,
+        "text": "Peptidoglycan"
+      },
+      {
+        "id": 3,
+        "text": "Chitin"
+      },
+      {
+        "id": 4,
+        "text": "Pectin"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which human cell is the longest?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ovum"
+      },
+      {
+        "id": 2,
+        "text": "Neuron"
+      },
+      {
+        "id": 3,
+        "text": "Sperm"
+      },
+      {
+        "id": 4,
+        "text": "RBC"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "In which organelle does detoxification of poisons in the liver primarily occur?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rough ER"
+      },
+      {
+        "id": 2,
+        "text": "Smooth ER"
+      },
+      {
+        "id": 3,
+        "text": "Lysosomes"
+      },
+      {
+        "id": 4,
+        "text": "Golgi Bodies"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Which of the following statements about mitosis is correct?",
+    "options": [
+      {
+        "id": 1,
+        "text": "It occurs in germ cells"
+      },
+      {
+        "id": 2,
+        "text": "It results in four haploid cells"
+      },
+      {
+        "id": 3,
+        "text": "It involves crossing over"
+      },
+      {
+        "id": 4,
+        "text": "It produces genetically identical diploid cells"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-1",
+    "text": "Who proposed the double-helix structure of DNA?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Friedrich Miescher"
+      },
+      {
+        "id": 2,
+        "text": "Walther Flemming"
+      },
+      {
+        "id": 3,
+        "text": "Watson and Crick"
+      },
+      {
+        "id": 4,
+        "text": "George E. Palade"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which of the following epithelial tissues is found lining the mouth and oesophagus?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Stratified squamous epithelium"
+      },
+      {
+        "id": 2,
+        "text": "Simple squamous epithelium"
+      },
+      {
+        "id": 3,
+        "text": "Cuboidal epithelium"
+      },
+      {
+        "id": 4,
+        "text": "Columnar epithelium"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which of the following is a function of ciliated epithelium?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Food storage"
+      },
+      {
+        "id": 2,
+        "text": "Movement of substances like mucus and egg"
+      },
+      {
+        "id": 3,
+        "text": "Absorption of nutrients"
+      },
+      {
+        "id": 4,
+        "text": "Transport of gases"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which type of muscle tissue is striated, voluntary, and multinucleated?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Smooth muscle"
+      },
+      {
+        "id": 2,
+        "text": "Cardiac muscle"
+      },
+      {
+        "id": 3,
+        "text": "Skeletal muscle"
+      },
+      {
+        "id": 4,
+        "text": "Visceral muscle"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which connective tissue connects bones to bones?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tendon"
+      },
+      {
+        "id": 2,
+        "text": "Ligament"
+      },
+      {
+        "id": 3,
+        "text": "Cartilage"
+      },
+      {
+        "id": 4,
+        "text": "Areolar tissue"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "The matrix of bone tissue is primarily composed of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Collagen and water"
+      },
+      {
+        "id": 2,
+        "text": "Fat and protein"
+      },
+      {
+        "id": 3,
+        "text": "Calcium and phosphorus"
+      },
+      {
+        "id": 4,
+        "text": "Elastin and fibrin"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which of the following is not a characteristic of smooth muscle?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Spindle-shaped"
+      },
+      {
+        "id": 2,
+        "text": "Involuntary"
+      },
+      {
+        "id": 3,
+        "text": "Multinucleated"
+      },
+      {
+        "id": 4,
+        "text": "Non-striated"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which component of blood is responsible for immunity?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Platelets"
+      },
+      {
+        "id": 2,
+        "text": "RBCs"
+      },
+      {
+        "id": 3,
+        "text": "Plasma proteins like Globulin"
+      },
+      {
+        "id": 4,
+        "text": "Serum"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which type of connective tissue is responsible for insulation and mechanical shock protection?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Areolar"
+      },
+      {
+        "id": 2,
+        "text": "Adipose"
+      },
+      {
+        "id": 3,
+        "text": "Cartilage"
+      },
+      {
+        "id": 4,
+        "text": "Ligament"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "What is the average lifespan of human red blood cells?",
+    "options": [
+      {
+        "id": 1,
+        "text": "7\u201310 days"
+      },
+      {
+        "id": 2,
+        "text": "30 days"
+      },
+      {
+        "id": 3,
+        "text": "120 days"
+      },
+      {
+        "id": 4,
+        "text": "200 days"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which part of the neuron is responsible for receiving signals?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Axon"
+      },
+      {
+        "id": 2,
+        "text": "Cell body"
+      },
+      {
+        "id": 3,
+        "text": "Dendrites"
+      },
+      {
+        "id": 4,
+        "text": "Synapse"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which tissue is found in the kidney tubules and also helps in excretion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Columnar epithelium"
+      },
+      {
+        "id": 2,
+        "text": "Cuboidal epithelium"
+      },
+      {
+        "id": 3,
+        "text": "Squamous epithelium"
+      },
+      {
+        "id": 4,
+        "text": "Ciliated epithelium"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which connective tissue has a gel-like elastic matrix and is found in the ear pinna and nose tip?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bone"
+      },
+      {
+        "id": 2,
+        "text": "Cartilage"
+      },
+      {
+        "id": 3,
+        "text": "Areolar"
+      },
+      {
+        "id": 4,
+        "text": "Adipose"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which muscle tissue never gets fatigued and is found only in the heart?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Skeletal muscle"
+      },
+      {
+        "id": 2,
+        "text": "Cardiac muscle"
+      },
+      {
+        "id": 3,
+        "text": "Smooth muscle"
+      },
+      {
+        "id": 4,
+        "text": "Visceral muscle"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Which of the following blood components is absent in lymph?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Plasma"
+      },
+      {
+        "id": 2,
+        "text": "RBCs"
+      },
+      {
+        "id": 3,
+        "text": "WBCs"
+      },
+      {
+        "id": 4,
+        "text": "Glucose"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-2",
+    "text": "Who first illustrated the neuron using the silver-staining technique?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Santiago Ram\u00f3n y Cajal"
+      },
+      {
+        "id": 2,
+        "text": "Camillo Golgi"
+      },
+      {
+        "id": 3,
+        "text": "Claude Bernard"
+      },
+      {
+        "id": 4,
+        "text": "Anton van Leeuwenhoek"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Who proposed the concept of the Three-Domain System consisting of Archaea, Bacteria, and Eukarya?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Carl Linnaeus"
+      },
+      {
+        "id": 2,
+        "text": "Ernst Haeckel"
+      },
+      {
+        "id": 3,
+        "text": "Robert Whittaker"
+      },
+      {
+        "id": 4,
+        "text": "Carl Woese"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which scientist coined the term \"Ecology\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Carl Linnaeus"
+      },
+      {
+        "id": 2,
+        "text": "Ernst Haeckel"
+      },
+      {
+        "id": 3,
+        "text": "Ramdeo Mishra"
+      },
+      {
+        "id": 4,
+        "text": "Robert Whittaker"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which of the following is NOT one of the major criteria used by Robert Whittaker for classifying organisms?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cell structure"
+      },
+      {
+        "id": 2,
+        "text": "Mode of nutrition"
+      },
+      {
+        "id": 3,
+        "text": "Colour of the organism"
+      },
+      {
+        "id": 4,
+        "text": "Cellular organization"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which kingdom contains organisms that may possess either autotrophic or heterotrophic nutrition and have prokaryotic cells?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Protista"
+      },
+      {
+        "id": 2,
+        "text": "Fungi"
+      },
+      {
+        "id": 3,
+        "text": "Monera"
+      },
+      {
+        "id": 4,
+        "text": "Plantae"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which locomotory structure is correctly matched with its organism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amoeba \u2014 Flagella"
+      },
+      {
+        "id": 2,
+        "text": "Euglena \u2014 Cilia"
+      },
+      {
+        "id": 3,
+        "text": "Paramecium \u2014 Pseudopodia"
+      },
+      {
+        "id": 4,
+        "text": "Euglena \u2014 Flagellum"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Paramylon, the reserve food material, is characteristic of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amoeba"
+      },
+      {
+        "id": 2,
+        "text": "Euglena"
+      },
+      {
+        "id": 3,
+        "text": "Paramecium"
+      },
+      {
+        "id": 4,
+        "text": "Rhizopus"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which structure helps Paramecium maintain water balance by removing excess water?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Food vacuole"
+      },
+      {
+        "id": 2,
+        "text": "Cytostome"
+      },
+      {
+        "id": 3,
+        "text": "Contractile vacuole"
+      },
+      {
+        "id": 4,
+        "text": "Oral groove"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which of the following fungi is widely used in the production of antibiotics?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mushroom"
+      },
+      {
+        "id": 2,
+        "text": "Rhizopus"
+      },
+      {
+        "id": 3,
+        "text": "Yeast"
+      },
+      {
+        "id": 4,
+        "text": "Penicillium"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "In a lichen, the algal partner mainly provides:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Water and minerals"
+      },
+      {
+        "id": 2,
+        "text": "Shelter"
+      },
+      {
+        "id": 3,
+        "text": "Photosynthetic food"
+      },
+      {
+        "id": 4,
+        "text": "Reproductive spores"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which branch of biology deals with the study of algae?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mycology"
+      },
+      {
+        "id": 2,
+        "text": "Bryology"
+      },
+      {
+        "id": 3,
+        "text": "Phycology"
+      },
+      {
+        "id": 4,
+        "text": "Ecology"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which of the following is correctly matched with brown algae?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ulothrix \u2013 Spirogyra \u2013 Volvox"
+      },
+      {
+        "id": 2,
+        "text": "Porphyra \u2013 Gelidium \u2013 Gracilaria"
+      },
+      {
+        "id": 3,
+        "text": "Sargassum \u2013 Laminaria \u2013 Fucus"
+      },
+      {
+        "id": 4,
+        "text": "Riccia \u2013 Marchantia \u2013 Funaria"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Why are Bryophytes known as the \"Amphibians of the Plant Kingdom\"?",
+    "options": [
+      {
+        "id": 1,
+        "text": "They grow only in water."
+      },
+      {
+        "id": 2,
+        "text": "They require water for reproduction but live mainly on land."
+      },
+      {
+        "id": 3,
+        "text": "They possess vascular tissues."
+      },
+      {
+        "id": 4,
+        "text": "They produce naked seeds."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which feature is characteristic of Gymnosperms?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Seeds enclosed inside fruits"
+      },
+      {
+        "id": 2,
+        "text": "Flowers always present"
+      },
+      {
+        "id": 3,
+        "text": "Xylem vessels and companion cells absent"
+      },
+      {
+        "id": 4,
+        "text": "Double fertilization occurs"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which of the following combinations is characteristic of monocotyledonous plants?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Two cotyledons, tap root, reticulate venation"
+      },
+      {
+        "id": 2,
+        "text": "One cotyledon, fibrous root, parallel venation"
+      },
+      {
+        "id": 3,
+        "text": "Two cotyledons, fibrous root, parallel venation"
+      },
+      {
+        "id": 4,
+        "text": "One cotyledon, tap root, reticulate venation"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-3",
+    "text": "Which statement correctly distinguishes Cryptogams from Phanerogams?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cryptogams possess flowers and seeds."
+      },
+      {
+        "id": 2,
+        "text": "Phanerogams have hidden reproductive organs."
+      },
+      {
+        "id": 3,
+        "text": "Cryptogams lack seeds, flowers, and fruits."
+      },
+      {
+        "id": 4,
+        "text": "Both have exposed reproductive organs."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which of the following sequences correctly represents the hierarchy of body organization in animals?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cell \u2192 Organ \u2192 Tissue \u2192 Organism \u2192 Organ System"
+      },
+      {
+        "id": 2,
+        "text": "Cell \u2192 Tissue \u2192 Organ System \u2192 Organ \u2192 Organism"
+      },
+      {
+        "id": 3,
+        "text": "Cell \u2192 Tissue \u2192 Organ \u2192 Organ System \u2192 Organism"
+      },
+      {
+        "id": 4,
+        "text": "Tissue \u2192 Cell \u2192 Organ \u2192 Organism \u2192 Organ System"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which phylum shows cellular level of organization?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cnidaria"
+      },
+      {
+        "id": 2,
+        "text": "Ctenophora"
+      },
+      {
+        "id": 3,
+        "text": "Porifera"
+      },
+      {
+        "id": 4,
+        "text": "Platyhelminthes"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which animal phyla exhibit radial symmetry?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Porifera and Mollusca"
+      },
+      {
+        "id": 2,
+        "text": "Cnidaria, Ctenophora, Echinodermata (adult)"
+      },
+      {
+        "id": 3,
+        "text": "Arthropoda and Chordata"
+      },
+      {
+        "id": 4,
+        "text": "Platyhelminthes and Nematoda"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Animals with a pseudocoelom belong to which phylum?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Annelida"
+      },
+      {
+        "id": 2,
+        "text": "Platyhelminthes"
+      },
+      {
+        "id": 3,
+        "text": "Nematoda"
+      },
+      {
+        "id": 4,
+        "text": "Mollusca"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which of the following is triploblastic, acoelomate, and shows organ level of organization?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nematoda"
+      },
+      {
+        "id": 2,
+        "text": "Porifera"
+      },
+      {
+        "id": 3,
+        "text": "Platyhelminthes"
+      },
+      {
+        "id": 4,
+        "text": "Annelida"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "The term \u2018enterocoelomate\u2019 is correctly associated with:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Arthropoda and Mollusca"
+      },
+      {
+        "id": 2,
+        "text": "Echinodermata and Chordata"
+      },
+      {
+        "id": 3,
+        "text": "Nematoda and Annelida"
+      },
+      {
+        "id": 4,
+        "text": "Cnidaria and Ctenophora"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "In which group is segmentation present?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mollusca and Porifera"
+      },
+      {
+        "id": 2,
+        "text": "Annelida, Arthropoda, Chordata"
+      },
+      {
+        "id": 3,
+        "text": "Cnidaria and Platyhelminthes"
+      },
+      {
+        "id": 4,
+        "text": "Nematoda and Ctenophora"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which one of the following phyla lacks a circulatory system entirely?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Annelida"
+      },
+      {
+        "id": 2,
+        "text": "Arthropoda"
+      },
+      {
+        "id": 3,
+        "text": "Nematoda"
+      },
+      {
+        "id": 4,
+        "text": "Chordata"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "The presence of cnidoblasts is a characteristic feature of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ctenophora"
+      },
+      {
+        "id": 2,
+        "text": "Mollusca"
+      },
+      {
+        "id": 3,
+        "text": "Cnidaria"
+      },
+      {
+        "id": 4,
+        "text": "Platyhelminthes"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which phylum exhibits bioluminescence and has comb plates for locomotion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Porifera"
+      },
+      {
+        "id": 2,
+        "text": "Ctenophora"
+      },
+      {
+        "id": 3,
+        "text": "Echinodermata"
+      },
+      {
+        "id": 4,
+        "text": "Mollusca"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which of the following phyla includes animals with incomplete digestive system and flame cells for excretion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Annelida"
+      },
+      {
+        "id": 2,
+        "text": "Platyhelminthes"
+      },
+      {
+        "id": 3,
+        "text": "Nematoda"
+      },
+      {
+        "id": 4,
+        "text": "Arthropoda"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "The open circulatory system is found in which of the following?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Annelida and Chordata"
+      },
+      {
+        "id": 2,
+        "text": "Mollusca (some), Arthropoda"
+      },
+      {
+        "id": 3,
+        "text": "Echinodermata and Hemichordata"
+      },
+      {
+        "id": 4,
+        "text": "Porifera and Cnidaria"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "In which class of vertebrates is a 3-chambered heart found, except for one member with a 4-chambered heart?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amphibia"
+      },
+      {
+        "id": 2,
+        "text": "Reptilia"
+      },
+      {
+        "id": 3,
+        "text": "Aves"
+      },
+      {
+        "id": 4,
+        "text": "Mammalia"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which of the following animals belongs to Cyclostomata and is jawless and parasitic?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Shark"
+      },
+      {
+        "id": 2,
+        "text": "Frog"
+      },
+      {
+        "id": 3,
+        "text": "Lamprey"
+      },
+      {
+        "id": 4,
+        "text": "Crocodile"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-4",
+    "text": "Which characteristic is shared by all chordates?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Open circulatory system"
+      },
+      {
+        "id": 2,
+        "text": "Exoskeleton"
+      },
+      {
+        "id": 3,
+        "text": "Post-anal tail"
+      },
+      {
+        "id": 4,
+        "text": "Malpighian tubules"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which of the following is a chronic disease?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chickenpox"
+      },
+      {
+        "id": 2,
+        "text": "Common Cold"
+      },
+      {
+        "id": 3,
+        "text": "Tuberculosis"
+      },
+      {
+        "id": 4,
+        "text": "Influenza"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which organism causes sleeping sickness?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Plasmodium"
+      },
+      {
+        "id": 2,
+        "text": "Leishmania"
+      },
+      {
+        "id": 3,
+        "text": "Trypanosoma"
+      },
+      {
+        "id": 4,
+        "text": "Giardia"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which disease is caused by a retrovirus?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hepatitis A"
+      },
+      {
+        "id": 2,
+        "text": "AIDS"
+      },
+      {
+        "id": 3,
+        "text": "Influenza"
+      },
+      {
+        "id": 4,
+        "text": "Swine Flu"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which of the following is not a bacterial disease?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Diphtheria"
+      },
+      {
+        "id": 2,
+        "text": "Bronchitis"
+      },
+      {
+        "id": 3,
+        "text": "Hepatitis B"
+      },
+      {
+        "id": 4,
+        "text": "Tuberculosis"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which of the following genetic disorders is due to a chromosomal abnormality?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Albinism"
+      },
+      {
+        "id": 2,
+        "text": "Hemophilia"
+      },
+      {
+        "id": 3,
+        "text": "Turner\u2019s Syndrome"
+      },
+      {
+        "id": 4,
+        "text": "Wilson\u2019s Disease"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which test is used for detecting HIV infection?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ELISA"
+      },
+      {
+        "id": 2,
+        "text": "Widal"
+      },
+      {
+        "id": 3,
+        "text": "PCR"
+      },
+      {
+        "id": 4,
+        "text": "Pap smear"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which of the following plant diseases is caused by a virus?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rust of Wheat"
+      },
+      {
+        "id": 2,
+        "text": "Citrus Canker"
+      },
+      {
+        "id": 3,
+        "text": "Aster Yellows"
+      },
+      {
+        "id": 4,
+        "text": "Yellow Vein Mosaic"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which of the following diseases is caused by a fungus?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Polio"
+      },
+      {
+        "id": 2,
+        "text": "Peptic Ulcers"
+      },
+      {
+        "id": 3,
+        "text": "Athlete\u2019s Foot"
+      },
+      {
+        "id": 4,
+        "text": "Typhoid"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which vector transmits Kala Azar?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Anopheles mosquito"
+      },
+      {
+        "id": 2,
+        "text": "Sand fly"
+      },
+      {
+        "id": 3,
+        "text": "Tsetse fly"
+      },
+      {
+        "id": 4,
+        "text": "Aedes mosquito"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which shape best describes bacilli bacteria?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Spherical"
+      },
+      {
+        "id": 2,
+        "text": "Rod-shaped"
+      },
+      {
+        "id": 3,
+        "text": "Spiral-shaped"
+      },
+      {
+        "id": 4,
+        "text": "Oval"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which non-communicable disease is incorrectly listed below?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Diabetes"
+      },
+      {
+        "id": 2,
+        "text": "Arthritis"
+      },
+      {
+        "id": 3,
+        "text": "Polio"
+      },
+      {
+        "id": 4,
+        "text": "Chickenpox"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "What is the function of the BCG vaccine?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prevents Polio"
+      },
+      {
+        "id": 2,
+        "text": "Prevents Hepatitis A"
+      },
+      {
+        "id": 3,
+        "text": "Prevents Tuberculosis"
+      },
+      {
+        "id": 4,
+        "text": "Detects Typhoid"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which statement about viruses is incorrect?",
+    "options": [
+      {
+        "id": 1,
+        "text": "They can replicate independently"
+      },
+      {
+        "id": 2,
+        "text": "They are non-living outside a host"
+      },
+      {
+        "id": 3,
+        "text": "They are surrounded by a protein coat"
+      },
+      {
+        "id": 4,
+        "text": "They cannot be treated with antibiotics"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "Which protozoan disease is waterborne?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Malaria"
+      },
+      {
+        "id": 2,
+        "text": "Kala Azar"
+      },
+      {
+        "id": 3,
+        "text": "Sleeping Sickness"
+      },
+      {
+        "id": 4,
+        "text": "Giardiasis"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-5",
+    "text": "The Widal test is used to detect which disease?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Typhoid"
+      },
+      {
+        "id": 2,
+        "text": "Malaria"
+      },
+      {
+        "id": 3,
+        "text": "Tuberculosis"
+      },
+      {
+        "id": 4,
+        "text": "Cholera"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "Which of the following best defines heredity?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The modification of traits during one\u2019s lifetime"
+      },
+      {
+        "id": 2,
+        "text": "The development of new species from old ones"
+      },
+      {
+        "id": 3,
+        "text": "The transmission of traits from parents to offspring"
+      },
+      {
+        "id": 4,
+        "text": "The variations seen in different ecosystems"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "Variation is more common in:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Binary fission"
+      },
+      {
+        "id": 2,
+        "text": "Asexual reproduction"
+      },
+      {
+        "id": 3,
+        "text": "Sexual reproduction"
+      },
+      {
+        "id": 4,
+        "text": "Mitosis"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "Which of these is an acquired trait?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Eye color"
+      },
+      {
+        "id": 2,
+        "text": "Blood group"
+      },
+      {
+        "id": 3,
+        "text": "Ability to ride a bicycle"
+      },
+      {
+        "id": 4,
+        "text": "Hair texture"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "What are alleles?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chromosomes with defective genes"
+      },
+      {
+        "id": 2,
+        "text": "Different traits inherited from environment"
+      },
+      {
+        "id": 3,
+        "text": "Alternate forms of the same gene"
+      },
+      {
+        "id": 4,
+        "text": "Specialized cells for reproduction"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "Which combination of alleles expresses a recessive trait?",
+    "options": [
+      {
+        "id": 1,
+        "text": "TT"
+      },
+      {
+        "id": 2,
+        "text": "Tt"
+      },
+      {
+        "id": 3,
+        "text": "TT or Tt"
+      },
+      {
+        "id": 4,
+        "text": "tt"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "Who is known as the Father of Genetics?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Charles Darwin"
+      },
+      {
+        "id": 2,
+        "text": "Louis Pasteur"
+      },
+      {
+        "id": 3,
+        "text": "Gregor Mendel"
+      },
+      {
+        "id": 4,
+        "text": "Watson and Crick"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "Mendel selected pea plants for his experiments because:",
+    "options": [
+      {
+        "id": 1,
+        "text": "They are the only flowering plants"
+      },
+      {
+        "id": 2,
+        "text": "They grow underground"
+      },
+      {
+        "id": 3,
+        "text": "They have easily observable traits"
+      },
+      {
+        "id": 4,
+        "text": "They reproduce asexually"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "According to the Law of Segregation, during gamete formation:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Only dominant alleles are passed"
+      },
+      {
+        "id": 2,
+        "text": "Alleles mix randomly"
+      },
+      {
+        "id": 3,
+        "text": "The two alleles separate and go into different gametes"
+      },
+      {
+        "id": 4,
+        "text": "Offspring receive both alleles from one parent"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "A dihybrid cross involves:",
+    "options": [
+      {
+        "id": 1,
+        "text": "One trait"
+      },
+      {
+        "id": 2,
+        "text": "Two traits"
+      },
+      {
+        "id": 3,
+        "text": "Four traits"
+      },
+      {
+        "id": 4,
+        "text": "No traits"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "How many bones are present in the adult human body?",
+    "options": [
+      {
+        "id": 1,
+        "text": "206"
+      },
+      {
+        "id": 2,
+        "text": "208"
+      },
+      {
+        "id": 3,
+        "text": "270"
+      },
+      {
+        "id": 4,
+        "text": "300"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "The axial skeleton includes all the following except:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Skull"
+      },
+      {
+        "id": 2,
+        "text": "Rib cage"
+      },
+      {
+        "id": 3,
+        "text": "Spinal column"
+      },
+      {
+        "id": 4,
+        "text": "Pelvis"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "Which of the following joints is freely movable?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Skull bones"
+      },
+      {
+        "id": 2,
+        "text": "Rib-sternum joint"
+      },
+      {
+        "id": 3,
+        "text": "Vertebrae"
+      },
+      {
+        "id": 4,
+        "text": "Shoulder"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "The dental formula for an adult is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "2 1 2 2"
+      },
+      {
+        "id": 2,
+        "text": "2 1 2 3"
+      },
+      {
+        "id": 3,
+        "text": "2 1 0 2"
+      },
+      {
+        "id": 4,
+        "text": "1 2 3 3"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "How many total vertebrae are present in the human spine?",
+    "options": [
+      {
+        "id": 1,
+        "text": "24"
+      },
+      {
+        "id": 2,
+        "text": "25"
+      },
+      {
+        "id": 3,
+        "text": "26"
+      },
+      {
+        "id": 4,
+        "text": "30"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-6",
+    "text": "The wings of birds and insects are considered:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Homologous organs"
+      },
+      {
+        "id": 2,
+        "text": "Analogous organs"
+      },
+      {
+        "id": 3,
+        "text": "Non-functional structures"
+      },
+      {
+        "id": 4,
+        "text": "Inherited traits"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which of the following nutrients provides the highest energy per gram?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Carbohydrates"
+      },
+      {
+        "id": 2,
+        "text": "Proteins"
+      },
+      {
+        "id": 3,
+        "text": "Fats"
+      },
+      {
+        "id": 4,
+        "text": "Vitamins"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which of the following is a disaccharide?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Glucose"
+      },
+      {
+        "id": 2,
+        "text": "Fructose"
+      },
+      {
+        "id": 3,
+        "text": "Lactose"
+      },
+      {
+        "id": 4,
+        "text": "Starch"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which vitamin deficiency causes neural tube defects?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vitamin B1"
+      },
+      {
+        "id": 2,
+        "text": "Vitamin B9"
+      },
+      {
+        "id": 3,
+        "text": "Vitamin B6"
+      },
+      {
+        "id": 4,
+        "text": "Vitamin B12"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which protein is most abundant in the human body and found in skin, bones, and joints?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Keratin"
+      },
+      {
+        "id": 2,
+        "text": "Albumin"
+      },
+      {
+        "id": 3,
+        "text": "Casein"
+      },
+      {
+        "id": 4,
+        "text": "Collagen"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which of the following is a non-essential amino acid?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Valine"
+      },
+      {
+        "id": 2,
+        "text": "Lysine"
+      },
+      {
+        "id": 3,
+        "text": "Glutamic acid"
+      },
+      {
+        "id": 4,
+        "text": "Threonine"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which of these diseases is caused due to deficiency of Vitamin C?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pellagra"
+      },
+      {
+        "id": 2,
+        "text": "Rickets"
+      },
+      {
+        "id": 3,
+        "text": "Scurvy"
+      },
+      {
+        "id": 4,
+        "text": "Beriberi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "What is the function of guard cells in plants?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fix atmospheric nitrogen"
+      },
+      {
+        "id": 2,
+        "text": "Transport water"
+      },
+      {
+        "id": 3,
+        "text": "Regulate opening of stomata"
+      },
+      {
+        "id": 4,
+        "text": "Absorb sunlight"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which part of the chloroplast is the site of the Calvin cycle?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Thylakoid"
+      },
+      {
+        "id": 2,
+        "text": "Granum"
+      },
+      {
+        "id": 3,
+        "text": "Lamella"
+      },
+      {
+        "id": 4,
+        "text": "Stroma"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "What is the chemical formula of urea?",
+    "options": [
+      {
+        "id": 1,
+        "text": "C\u2082H\u2085OH"
+      },
+      {
+        "id": 2,
+        "text": "CH\u2084N\u2082O"
+      },
+      {
+        "id": 3,
+        "text": "HNO\u2083"
+      },
+      {
+        "id": 4,
+        "text": "C\u2086H\u2081\u2082O\u2086"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which of the following is an autotrophic organism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fungi"
+      },
+      {
+        "id": 2,
+        "text": "Cuscuta"
+      },
+      {
+        "id": 3,
+        "text": "Chlorella"
+      },
+      {
+        "id": 4,
+        "text": "Amoeba"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which fat type is known for being tightly packed and hard to digest?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Trans fats"
+      },
+      {
+        "id": 2,
+        "text": "Unsaturated fats"
+      },
+      {
+        "id": 3,
+        "text": "Saturated fats"
+      },
+      {
+        "id": 4,
+        "text": "Polyunsaturated fats"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which macronutrient is required in the largest quantity for plant nutrition?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Copper"
+      },
+      {
+        "id": 2,
+        "text": "Zinc"
+      },
+      {
+        "id": 3,
+        "text": "Nitrogen"
+      },
+      {
+        "id": 4,
+        "text": "Molybdenum"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which of the following diseases results from a deficiency of protein in the diet?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pellagra"
+      },
+      {
+        "id": 2,
+        "text": "Scurvy"
+      },
+      {
+        "id": 3,
+        "text": "Kwashiorkor"
+      },
+      {
+        "id": 4,
+        "text": "Cheilitis"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "Which vitamin is also called tocopherol and is important for fertility?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vitamin C"
+      },
+      {
+        "id": 2,
+        "text": "Vitamin K"
+      },
+      {
+        "id": 3,
+        "text": "Vitamin E"
+      },
+      {
+        "id": 4,
+        "text": "Vitamin D"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-7",
+    "text": "In photosynthesis, ATP and NADPH are produced in which reaction phase?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Light-independent reactions"
+      },
+      {
+        "id": 2,
+        "text": "Calvin cycle"
+      },
+      {
+        "id": 3,
+        "text": "Guard cell activation"
+      },
+      {
+        "id": 4,
+        "text": "Light-dependent reactions"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which valve is located between the left atrium and left ventricle?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tricuspid valve"
+      },
+      {
+        "id": 2,
+        "text": "Aortic valve"
+      },
+      {
+        "id": 3,
+        "text": "Mitral valve"
+      },
+      {
+        "id": 4,
+        "text": "Pulmonary valve"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "What is the correct sequence of blood flow in double circulation starting from the right ventricle?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Right ventricle \u2192 lungs \u2192 left atrium \u2192 body \u2192 right atrium"
+      },
+      {
+        "id": 2,
+        "text": "Right ventricle \u2192 body \u2192 lungs \u2192 left atrium \u2192 right atrium"
+      },
+      {
+        "id": 3,
+        "text": "Right atrium \u2192 lungs \u2192 left ventricle \u2192 body"
+      },
+      {
+        "id": 4,
+        "text": "Left ventricle \u2192 lungs \u2192 right atrium \u2192 body"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "What does the 'lub' sound of the heart signify?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Aortic and pulmonary valves closing"
+      },
+      {
+        "id": 2,
+        "text": "SA node firing"
+      },
+      {
+        "id": 3,
+        "text": "Mitral and tricuspid valves closing"
+      },
+      {
+        "id": 4,
+        "text": "Blood entering the atria"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which device is used to measure blood pressure?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ECG machine"
+      },
+      {
+        "id": 2,
+        "text": "Barometer"
+      },
+      {
+        "id": 3,
+        "text": "Spirometer"
+      },
+      {
+        "id": 4,
+        "text": "Sphygmomanometer"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "What is the average cardiac output in a healthy adult at rest?",
+    "options": [
+      {
+        "id": 1,
+        "text": "5040 mL/min"
+      },
+      {
+        "id": 2,
+        "text": "7000 mL/min"
+      },
+      {
+        "id": 3,
+        "text": "3500 mL/min"
+      },
+      {
+        "id": 4,
+        "text": "4200 mL/min"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which of the following is not correctly matched?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Superior vena cava \u2013 collects blood from upper body"
+      },
+      {
+        "id": 2,
+        "text": "Pulmonary vein \u2013 carries oxygenated blood"
+      },
+      {
+        "id": 3,
+        "text": "Aorta \u2013 largest vein"
+      },
+      {
+        "id": 4,
+        "text": "Pulmonary artery \u2013 carries deoxygenated blood"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which white blood cell is involved in producing antibodies?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Monocyte"
+      },
+      {
+        "id": 2,
+        "text": "Neutrophil"
+      },
+      {
+        "id": 3,
+        "text": "Lymphocyte"
+      },
+      {
+        "id": 4,
+        "text": "Eosinophil"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which of the following is the universal donor in the ABO blood group system?",
+    "options": [
+      {
+        "id": 1,
+        "text": "AB"
+      },
+      {
+        "id": 2,
+        "text": "A"
+      },
+      {
+        "id": 3,
+        "text": "O"
+      },
+      {
+        "id": 4,
+        "text": "B"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Who discovered the Bombay blood group?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Karl Landsteiner"
+      },
+      {
+        "id": 2,
+        "text": "Friedrich Wohler"
+      },
+      {
+        "id": 3,
+        "text": "Y. Bhende"
+      },
+      {
+        "id": 4,
+        "text": "William Harvey"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "What is the function of the glomerulus in a nephron?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Reabsorption of water"
+      },
+      {
+        "id": 2,
+        "text": "Filtration of blood"
+      },
+      {
+        "id": 3,
+        "text": "Secretion of bile"
+      },
+      {
+        "id": 4,
+        "text": "Formation of urea"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which pigment gives urine its yellow color?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bilirubin"
+      },
+      {
+        "id": 2,
+        "text": "Hemoglobin"
+      },
+      {
+        "id": 3,
+        "text": "Urochrome"
+      },
+      {
+        "id": 4,
+        "text": "Melanin"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "What is the correct chemical formula of urea?",
+    "options": [
+      {
+        "id": 1,
+        "text": "CH\u2084N\u2082O"
+      },
+      {
+        "id": 2,
+        "text": "NH\u2084Cl"
+      },
+      {
+        "id": 3,
+        "text": "NH\u2082CONH\u2082"
+      },
+      {
+        "id": 4,
+        "text": "H\u2082NCH\u2082COOH"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which structure connects grana inside the chloroplast? (Bonus integration question)",
+    "options": [
+      {
+        "id": 1,
+        "text": "Stroma"
+      },
+      {
+        "id": 2,
+        "text": "Lamella"
+      },
+      {
+        "id": 3,
+        "text": "Thylakoid"
+      },
+      {
+        "id": 4,
+        "text": "Outer membrane"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Which of the following is true regarding red blood cells (RBCs)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "They have a nucleus"
+      },
+      {
+        "id": 2,
+        "text": "They are biconvex in shape"
+      },
+      {
+        "id": 3,
+        "text": "They are involved in antibody production"
+      },
+      {
+        "id": 4,
+        "text": "They are elastic and lack organelles"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-8",
+    "text": "Kidney stones are primarily composed of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Calcium carbonate"
+      },
+      {
+        "id": 2,
+        "text": "Magnesium sulfate"
+      },
+      {
+        "id": 3,
+        "text": "Calcium oxalate"
+      },
+      {
+        "id": 4,
+        "text": "Sodium chloride"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which of the following is not part of the alimentary canal?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Liver"
+      },
+      {
+        "id": 2,
+        "text": "Small intestine"
+      },
+      {
+        "id": 3,
+        "text": "Oesophagus"
+      },
+      {
+        "id": 4,
+        "text": "Rectum"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "What is the role of salivary amylase in digestion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Converts proteins to amino acids"
+      },
+      {
+        "id": 2,
+        "text": "Breaks down fats to fatty acids"
+      },
+      {
+        "id": 3,
+        "text": "Converts starch to simple sugars"
+      },
+      {
+        "id": 4,
+        "text": "Emulsifies fat"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which digestive structure performs no digestion but moves food via peristalsis?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mouth"
+      },
+      {
+        "id": 2,
+        "text": "Stomach"
+      },
+      {
+        "id": 3,
+        "text": "Oesophagus"
+      },
+      {
+        "id": 4,
+        "text": "Small Intestine"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which combination is correctly matched with its function in the stomach?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pepsin \u2013 Protects stomach lining"
+      },
+      {
+        "id": 2,
+        "text": "HCl \u2013 Converts proteins into amino acids"
+      },
+      {
+        "id": 3,
+        "text": "Mucus \u2013 Kills harmful bacteria"
+      },
+      {
+        "id": 4,
+        "text": "Pepsin \u2013 Breaks proteins into amino acids"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "What is the function of bile juice?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Increases stomach acidity"
+      },
+      {
+        "id": 2,
+        "text": "Emulsifies carbohydrates"
+      },
+      {
+        "id": 3,
+        "text": "Makes intestinal medium alkaline and emulsifies fats"
+      },
+      {
+        "id": 4,
+        "text": "Converts proteins to amino acids"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which part of the small intestine is the outermost portion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ileum"
+      },
+      {
+        "id": 2,
+        "text": "Duodenum"
+      },
+      {
+        "id": 3,
+        "text": "Colon"
+      },
+      {
+        "id": 4,
+        "text": "Jejunum"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which enzyme is secreted by the intestine to convert maltose into glucose?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lipase"
+      },
+      {
+        "id": 2,
+        "text": "Trypsin"
+      },
+      {
+        "id": 3,
+        "text": "Maltase"
+      },
+      {
+        "id": 4,
+        "text": "Amylase"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which statement about villi is correct?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Found in the large intestine"
+      },
+      {
+        "id": 2,
+        "text": "Help absorb undigested food"
+      },
+      {
+        "id": 3,
+        "text": "Increase surface area for absorption of digested food"
+      },
+      {
+        "id": 4,
+        "text": "Involved in bile secretion"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Kupffer cells are found in which organ and perform what function?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pancreas \u2013 secrete insulin"
+      },
+      {
+        "id": 2,
+        "text": "Liver \u2013 break down RBCs"
+      },
+      {
+        "id": 3,
+        "text": "Kidney \u2013 filter blood"
+      },
+      {
+        "id": 4,
+        "text": "Lungs \u2013 exchange gases"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which process produces the highest amount of ATP?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Glycolysis"
+      },
+      {
+        "id": 2,
+        "text": "Anaerobic respiration"
+      },
+      {
+        "id": 3,
+        "text": "Aerobic respiration"
+      },
+      {
+        "id": 4,
+        "text": "Fermentation"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which set correctly matches the respiration type with its product in yeast?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Aerobic \u2013 Lactic acid"
+      },
+      {
+        "id": 2,
+        "text": "Anaerobic \u2013 Ethanol and CO\u2082"
+      },
+      {
+        "id": 3,
+        "text": "Aerobic \u2013 Ethanol"
+      },
+      {
+        "id": 4,
+        "text": "Anaerobic \u2013 Glucose and ATP"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Where does gaseous exchange take place in human lungs?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bronchi"
+      },
+      {
+        "id": 2,
+        "text": "Bronchioles"
+      },
+      {
+        "id": 3,
+        "text": "Trachea"
+      },
+      {
+        "id": 4,
+        "text": "Alveoli"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which structure in the brain controls the process of respiration?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cerebellum"
+      },
+      {
+        "id": 2,
+        "text": "Medulla Oblongata"
+      },
+      {
+        "id": 3,
+        "text": "Hypothalamus"
+      },
+      {
+        "id": 4,
+        "text": "Cerebrum"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "Which organ is used by frogs for respiration in both water and land?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Gills only"
+      },
+      {
+        "id": 2,
+        "text": "Lungs only"
+      },
+      {
+        "id": 3,
+        "text": "Skin and lungs"
+      },
+      {
+        "id": 4,
+        "text": "Tracheae"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-9",
+    "text": "What is the correct path of air from outside to alveoli in humans?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nasal cavity \u2192 Larynx \u2192 Trachea \u2192 Bronchi \u2192 Alveoli"
+      },
+      {
+        "id": 2,
+        "text": "Nasal cavity \u2192 Trachea \u2192 Larynx \u2192 Bronchi \u2192 Alveoli"
+      },
+      {
+        "id": 3,
+        "text": "Larynx \u2192 Nasal cavity \u2192 Trachea \u2192 Bronchi \u2192 Alveoli"
+      },
+      {
+        "id": 4,
+        "text": "Pharynx \u2192 Larynx \u2192 Bronchi \u2192 Trachea \u2192 Alveoli"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which of the following protects the brain?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vertebral column"
+      },
+      {
+        "id": 2,
+        "text": "Skull"
+      },
+      {
+        "id": 3,
+        "text": "Sternum"
+      },
+      {
+        "id": 4,
+        "text": "Spinal cord"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which is the outermost layer of the cranial meninges?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pia mater"
+      },
+      {
+        "id": 2,
+        "text": "Dura mater"
+      },
+      {
+        "id": 3,
+        "text": "Arachnoid mater"
+      },
+      {
+        "id": 4,
+        "text": "Neural cortex"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which part of the brain is responsible for voluntary actions and memory?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cerebellum"
+      },
+      {
+        "id": 2,
+        "text": "Pons"
+      },
+      {
+        "id": 3,
+        "text": "Cerebrum"
+      },
+      {
+        "id": 4,
+        "text": "Medulla oblongata"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which brain part connects the two cerebral hemispheres?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Corpus luteum"
+      },
+      {
+        "id": 2,
+        "text": "Corpus callosum"
+      },
+      {
+        "id": 3,
+        "text": "Pons"
+      },
+      {
+        "id": 4,
+        "text": "Thalamus"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "What is the function of the thalamus?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Controls body temperature"
+      },
+      {
+        "id": 2,
+        "text": "Maintains balance"
+      },
+      {
+        "id": 3,
+        "text": "Relays sensory and motor signals"
+      },
+      {
+        "id": 4,
+        "text": "Stimulates heartbeat"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which part of the brain regulates hunger and thirst?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Midbrain"
+      },
+      {
+        "id": 2,
+        "text": "Medulla oblongata"
+      },
+      {
+        "id": 3,
+        "text": "Hypothalamus"
+      },
+      {
+        "id": 4,
+        "text": "Cerebellum"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "What part of the hindbrain is responsible for maintaining posture and balance?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pons"
+      },
+      {
+        "id": 2,
+        "text": "Medulla oblongata"
+      },
+      {
+        "id": 3,
+        "text": "Thalamus"
+      },
+      {
+        "id": 4,
+        "text": "Cerebellum"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which brain lobe is primarily involved in vision?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Temporal"
+      },
+      {
+        "id": 2,
+        "text": "Parietal"
+      },
+      {
+        "id": 3,
+        "text": "Occipital"
+      },
+      {
+        "id": 4,
+        "text": "Frontal"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "How many pairs of spinal nerves are present in the human body?",
+    "options": [
+      {
+        "id": 1,
+        "text": "30"
+      },
+      {
+        "id": 2,
+        "text": "31"
+      },
+      {
+        "id": 3,
+        "text": "32"
+      },
+      {
+        "id": 4,
+        "text": "33"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "The \u2018fight or flight\u2019 response is associated with which part of the autonomic nervous system?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sensory nervous system"
+      },
+      {
+        "id": 2,
+        "text": "Parasympathetic nervous system"
+      },
+      {
+        "id": 3,
+        "text": "Sympathetic nervous system"
+      },
+      {
+        "id": 4,
+        "text": "Voluntary nervous system"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which of the following carries signals from the organs to the CNS?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Efferent neurons"
+      },
+      {
+        "id": 2,
+        "text": "Motor neurons"
+      },
+      {
+        "id": 3,
+        "text": "Sensory neurons"
+      },
+      {
+        "id": 4,
+        "text": "Relay neurons"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "What is the function of relay neurons?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Connect sensory organs to the brain"
+      },
+      {
+        "id": 2,
+        "text": "Process signals in the CNS"
+      },
+      {
+        "id": 3,
+        "text": "Transfer oxygen to brain"
+      },
+      {
+        "id": 4,
+        "text": "Control digestion"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which brain part controls respiration and heartbeat?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cerebrum"
+      },
+      {
+        "id": 2,
+        "text": "Hypothalamus"
+      },
+      {
+        "id": 3,
+        "text": "Medulla oblongata"
+      },
+      {
+        "id": 4,
+        "text": "Cerebellum"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which of these disorders causes inflammation of the meninges?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Alzheimer\u2019s disease"
+      },
+      {
+        "id": 2,
+        "text": "Meningitis"
+      },
+      {
+        "id": 3,
+        "text": "Epilepsy"
+      },
+      {
+        "id": 4,
+        "text": "Amnesia"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-10",
+    "text": "Which of the following is characterized by memory loss due to degenerative changes in the brain?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amnesia"
+      },
+      {
+        "id": 2,
+        "text": "Meningitis"
+      },
+      {
+        "id": 3,
+        "text": "Alzheimer\u2019s disease"
+      },
+      {
+        "id": 4,
+        "text": "Brain tumor"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which of the following glands is both endocrine and exocrine in nature (heterocrine)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Thyroid"
+      },
+      {
+        "id": 2,
+        "text": "Pancreas"
+      },
+      {
+        "id": 3,
+        "text": "Pineal"
+      },
+      {
+        "id": 4,
+        "text": "Pituitary"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which hormone regulates the sleep-wake cycle and is secreted more during darkness?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Oxytocin"
+      },
+      {
+        "id": 2,
+        "text": "Vasopressin"
+      },
+      {
+        "id": 3,
+        "text": "Melatonin"
+      },
+      {
+        "id": 4,
+        "text": "Cortisol"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "What is the function of glucagon secreted by the pancreas?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Stimulates milk production"
+      },
+      {
+        "id": 2,
+        "text": "Lowers blood sugar level"
+      },
+      {
+        "id": 3,
+        "text": "Converts glycogen to glucose"
+      },
+      {
+        "id": 4,
+        "text": "Inhibits cell division"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which disorder is caused due to deficiency of vasopressin (ADH)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Diabetes Mellitus"
+      },
+      {
+        "id": 2,
+        "text": "Addison\u2019s Disease"
+      },
+      {
+        "id": 3,
+        "text": "Diabetes Insipidus"
+      },
+      {
+        "id": 4,
+        "text": "Goitre"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which of the following hormones is secreted by the adrenal glands and prepares the body for emergencies?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Insulin"
+      },
+      {
+        "id": 2,
+        "text": "Adrenaline"
+      },
+      {
+        "id": 3,
+        "text": "Estrogen"
+      },
+      {
+        "id": 4,
+        "text": "Thyroxine"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which gland secretes ANF (Atrial Natriuretic Factor) to regulate blood pressure?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Liver"
+      },
+      {
+        "id": 2,
+        "text": "Heart"
+      },
+      {
+        "id": 3,
+        "text": "Kidney"
+      },
+      {
+        "id": 4,
+        "text": "Pituitary"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "What is the effect of auxin on plant stems?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Seed dormancy"
+      },
+      {
+        "id": 2,
+        "text": "Inhibits growth"
+      },
+      {
+        "id": 3,
+        "text": "Ripens fruits"
+      },
+      {
+        "id": 4,
+        "text": "Causes stem elongation"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which plant movement is shown when a pollen tube grows towards the ovule?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Phototropism"
+      },
+      {
+        "id": 2,
+        "text": "Hydrotropism"
+      },
+      {
+        "id": 3,
+        "text": "Chemotropism"
+      },
+      {
+        "id": 4,
+        "text": "Thigmonastic movement"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which hormone is responsible for seed germination and flowering?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cytokinin"
+      },
+      {
+        "id": 2,
+        "text": "Gibberellin"
+      },
+      {
+        "id": 3,
+        "text": "Abscisic acid"
+      },
+      {
+        "id": 4,
+        "text": "Ethylene"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which hormone is called the \u2018stress hormone\u2019?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Oxytocin"
+      },
+      {
+        "id": 2,
+        "text": "Cortisol"
+      },
+      {
+        "id": 3,
+        "text": "ADH"
+      },
+      {
+        "id": 4,
+        "text": "Estrogen"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which plant hormone inhibits growth and is known as the \u2018stress hormone\u2019?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Gibberellin"
+      },
+      {
+        "id": 2,
+        "text": "Auxin"
+      },
+      {
+        "id": 3,
+        "text": "Abscisic acid"
+      },
+      {
+        "id": 4,
+        "text": "Cytokinin"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "The hormone responsible for uterine contraction and milk ejection is:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prolactin"
+      },
+      {
+        "id": 2,
+        "text": "Testosterone"
+      },
+      {
+        "id": 3,
+        "text": "Oxytocin"
+      },
+      {
+        "id": 4,
+        "text": "Insulin"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which of the following is an example of a thigmonastic movement?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Root growing toward water"
+      },
+      {
+        "id": 2,
+        "text": "Shoot bending towards light"
+      },
+      {
+        "id": 3,
+        "text": "Mimosa pudica leaf closing on touch"
+      },
+      {
+        "id": 4,
+        "text": "Petal opening in sunlight"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "Which gland requires iodine for its hormone synthesis?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Adrenal"
+      },
+      {
+        "id": 2,
+        "text": "Pineal"
+      },
+      {
+        "id": 3,
+        "text": "Thyroid"
+      },
+      {
+        "id": 4,
+        "text": "Parathyroid"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-11",
+    "text": "What was the first hormone discovered and who discovered it?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Melatonin by Darwin"
+      },
+      {
+        "id": 2,
+        "text": "Secretin by T.H. Starling"
+      },
+      {
+        "id": 3,
+        "text": "Insulin by Banting and Best"
+      },
+      {
+        "id": 4,
+        "text": "Prolactin by Claude Bernard"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following statements about reproduction is correct?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Reproduction is essential for the survival of every individual organism."
+      },
+      {
+        "id": 2,
+        "text": "Reproduction is necessary only in plants."
+      },
+      {
+        "id": 3,
+        "text": "Reproduction is essential for the continuity of a species but not for individual survival."
+      },
+      {
+        "id": 4,
+        "text": "Reproduction occurs only in multicellular organisms."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which characteristic is common to all forms of asexual reproduction?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Involvement of two parents"
+      },
+      {
+        "id": 2,
+        "text": "Formation of gametes"
+      },
+      {
+        "id": 3,
+        "text": "Production of genetically identical offspring"
+      },
+      {
+        "id": 4,
+        "text": "Genetic variation among offspring"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Multiple fission is best represented by which organism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amoeba"
+      },
+      {
+        "id": 2,
+        "text": "Hydra"
+      },
+      {
+        "id": 3,
+        "text": "Plasmodium"
+      },
+      {
+        "id": 4,
+        "text": "Yeast"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following is NOT considered a true method of reproduction?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Budding"
+      },
+      {
+        "id": 2,
+        "text": "Fragmentation"
+      },
+      {
+        "id": 3,
+        "text": "Regeneration"
+      },
+      {
+        "id": 4,
+        "text": "Binary fission"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which method of vegetative propagation involves joining parts of two different plants?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cutting"
+      },
+      {
+        "id": 2,
+        "text": "Layering"
+      },
+      {
+        "id": 3,
+        "text": "Grafting"
+      },
+      {
+        "id": 4,
+        "text": "Tissue culture"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "In fungi such as Rhizopus, reproduction takes place through:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Binary fission"
+      },
+      {
+        "id": 2,
+        "text": "Budding"
+      },
+      {
+        "id": 3,
+        "text": "Spore formation"
+      },
+      {
+        "id": 4,
+        "text": "Fragmentation"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Development of an organism from an unfertilized egg is known as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Budding"
+      },
+      {
+        "id": 2,
+        "text": "Fertilization"
+      },
+      {
+        "id": 3,
+        "text": "Parthenogenesis"
+      },
+      {
+        "id": 4,
+        "text": "Regeneration"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which floral part develops into a fruit after fertilization?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ovule"
+      },
+      {
+        "id": 2,
+        "text": "Stigma"
+      },
+      {
+        "id": 3,
+        "text": "Ovary"
+      },
+      {
+        "id": 4,
+        "text": "Filament"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Transfer of pollen grains from the anther to the stigma of the same flower is called:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cross-pollination"
+      },
+      {
+        "id": 2,
+        "text": "Self-pollination"
+      },
+      {
+        "id": 3,
+        "text": "Fertilization"
+      },
+      {
+        "id": 4,
+        "text": "Germination"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Pollination by insects is known as:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hydrophily"
+      },
+      {
+        "id": 2,
+        "text": "Anemophily"
+      },
+      {
+        "id": 3,
+        "text": "Entomophily"
+      },
+      {
+        "id": 4,
+        "text": "Zoophily"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following is an example of a parthenocarpic fruit?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Coconut"
+      },
+      {
+        "id": 2,
+        "text": "Apple"
+      },
+      {
+        "id": 3,
+        "text": "Banana"
+      },
+      {
+        "id": 4,
+        "text": "Mango"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "In humans, fertilization normally occurs in the:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Uterus"
+      },
+      {
+        "id": 2,
+        "text": "Ovary"
+      },
+      {
+        "id": 3,
+        "text": "Oviduct (Fallopian tube)"
+      },
+      {
+        "id": 4,
+        "text": "Vagina"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "During human reproduction, implantation refers to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Formation of gametes"
+      },
+      {
+        "id": 2,
+        "text": "Fusion of sperm and ovum"
+      },
+      {
+        "id": 3,
+        "text": "Embedding of the zygote in the uterine wall"
+      },
+      {
+        "id": 4,
+        "text": "Birth of the baby"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which stage correctly follows fertilization in the normal sequence of human reproduction?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Parturition"
+      },
+      {
+        "id": 2,
+        "text": "Implantation"
+      },
+      {
+        "id": 3,
+        "text": "Insemination"
+      },
+      {
+        "id": 4,
+        "text": "Gametogenesis"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "What is the primary function of the placenta?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Produces sperm cells"
+      },
+      {
+        "id": 2,
+        "text": "Connects the fetus with the mother for exchange of nutrients, oxygen, and wastes"
+      },
+      {
+        "id": 3,
+        "text": "Stores eggs until fertilization"
+      },
+      {
+        "id": 4,
+        "text": "Protects pollen grains from drying"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following plants reproduces naturally through \"eyes\" present on its stem?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rose"
+      },
+      {
+        "id": 2,
+        "text": "Potato"
+      },
+      {
+        "id": 3,
+        "text": "Lemon"
+      },
+      {
+        "id": 4,
+        "text": "Mango"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which plant reproduces vegetatively through leaves?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bryophyllum"
+      },
+      {
+        "id": 2,
+        "text": "Rose"
+      },
+      {
+        "id": 3,
+        "text": "Strawberry"
+      },
+      {
+        "id": 4,
+        "text": "Sugarcane"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which method of vegetative propagation is correctly matched with its example?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cutting \u2014 Lemon"
+      },
+      {
+        "id": 2,
+        "text": "Layering \u2014 Sugarcane"
+      },
+      {
+        "id": 3,
+        "text": "Grafting \u2014 Mango"
+      },
+      {
+        "id": 4,
+        "text": "Tissue Culture \u2014 Potato"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Tissue culture is commonly used for the large-scale propagation of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Cereal crops only"
+      },
+      {
+        "id": 2,
+        "text": "Ornamental plants"
+      },
+      {
+        "id": 3,
+        "text": "Aquatic plants only"
+      },
+      {
+        "id": 4,
+        "text": "Fungi"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following is a bisexual flower?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Papaya"
+      },
+      {
+        "id": 2,
+        "text": "Watermelon"
+      },
+      {
+        "id": 3,
+        "text": "Cucumber"
+      },
+      {
+        "id": 4,
+        "text": "Hibiscus"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following is a unisexual flower?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rose"
+      },
+      {
+        "id": 2,
+        "text": "Lily"
+      },
+      {
+        "id": 3,
+        "text": "Papaya"
+      },
+      {
+        "id": 4,
+        "text": "Tomato"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following is a false fruit?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mango"
+      },
+      {
+        "id": 2,
+        "text": "Apple"
+      },
+      {
+        "id": 3,
+        "text": "Banana"
+      },
+      {
+        "id": 4,
+        "text": "Coconut"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Coconut is classified as a:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Berry"
+      },
+      {
+        "id": 2,
+        "text": "Capsule"
+      },
+      {
+        "id": 3,
+        "text": "Drupe"
+      },
+      {
+        "id": 4,
+        "text": "Pome"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which male reproductive structure carries sperms from the testes?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prostate gland"
+      },
+      {
+        "id": 2,
+        "text": "Seminal vesicle"
+      },
+      {
+        "id": 3,
+        "text": "Vas deferens"
+      },
+      {
+        "id": 4,
+        "text": "Penis"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "The primary function of the seminal vesicle and prostate gland is to:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Produce sperms"
+      },
+      {
+        "id": 2,
+        "text": "Store eggs"
+      },
+      {
+        "id": 3,
+        "text": "Add fluids to form semen"
+      },
+      {
+        "id": 4,
+        "text": "Produce testosterone"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which statement is correct regarding human puberty?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sperm production begins at birth."
+      },
+      {
+        "id": 2,
+        "text": "Egg production begins at 25 years."
+      },
+      {
+        "id": 3,
+        "text": "Sperm production generally begins around 10\u201312 years of age."
+      },
+      {
+        "id": 4,
+        "text": "Ovaries begin producing eggs only after fertilization."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "If fertilization does not occur, the thickened uterine lining is shed through:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ovulation"
+      },
+      {
+        "id": 2,
+        "text": "Menstruation"
+      },
+      {
+        "id": 3,
+        "text": "Implantation"
+      },
+      {
+        "id": 4,
+        "text": "Gestation"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which of the following sequences of human reproduction is correct?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fertilization \u2192 Gametogenesis \u2192 Implantation \u2192 Gestation \u2192 Parturition"
+      },
+      {
+        "id": 2,
+        "text": "Gametogenesis \u2192 Insemination \u2192 Fertilization \u2192 Implantation \u2192 Gestation \u2192 Parturition"
+      },
+      {
+        "id": 3,
+        "text": "Insemination \u2192 Implantation \u2192 Fertilization \u2192 Parturition \u2192 Gestation"
+      },
+      {
+        "id": 4,
+        "text": "Gametogenesis \u2192 Implantation \u2192 Fertilization \u2192 Gestation \u2192 Parturition"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "In In Vitro Fertilization (IVF), fertilization occurs:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Inside the uterus"
+      },
+      {
+        "id": 2,
+        "text": "Inside the fallopian tube"
+      },
+      {
+        "id": 3,
+        "text": "Outside the body, after which the embryo is implanted into the uterus"
+      },
+      {
+        "id": 4,
+        "text": "Inside the ovary"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  },
+  {
+    "chapterId": "bio-12",
+    "text": "Which option correctly matches the type of fertilization with its example?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Internal fertilization \u2014 Frog"
+      },
+      {
+        "id": 2,
+        "text": "External fertilization \u2014 Humans"
+      },
+      {
+        "id": 3,
+        "text": "Internal fertilization \u2014 Humans"
+      },
+      {
+        "id": 4,
+        "text": "External fertilization \u2014 Tiger"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": ""
+  }
+]

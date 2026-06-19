@@ -3,15 +3,32 @@ import dotenv from 'dotenv';
 import fs from 'fs';
 import path from 'path';
 import Mcq from '../models/Mcq';
+import dns from 'dns';
 
 dotenv.config();
-
-import dns from 'dns';
 
 // Force Google DNS to bypass local ISP blocks on SRV records
 dns.setServers(['8.8.8.8', '8.8.4.4']);
 
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/cgl_db';
+
+// Helper function to recursively find all JSON files in a directory
+function getAllFiles(dirPath: string, arrayOfFiles: string[] = []) {
+  if (!fs.existsSync(dirPath)) return arrayOfFiles;
+  
+  const files = fs.readdirSync(dirPath);
+
+  files.forEach(function(file) {
+    const fullPath = path.join(dirPath, file);
+    if (fs.statSync(fullPath).isDirectory()) {
+      arrayOfFiles = getAllFiles(fullPath, arrayOfFiles);
+    } else {
+      arrayOfFiles.push(fullPath);
+    }
+  });
+
+  return arrayOfFiles;
+}
 
 const seedMcqs = async () => {
   try {
@@ -19,33 +36,42 @@ const seedMcqs = async () => {
     await mongoose.connect(MONGO_URI, { family: 4 });
     console.log('✅ Connected to MongoDB for seeding MCQs...');
 
-    // 1. Read the JSON file (Make sure you pass the filename as an argument or change the path here)
-    const filePath = path.join(__dirname, '../../data/geography_mcqs.json');
+    const dataDir = path.join(__dirname, '../../data');
+    const allFiles = getAllFiles(dataDir);
     
-    if (!fs.existsSync(filePath)) {
-        console.error(`❌ File not found at ${filePath}`);
-        console.log('Please create the data/geography_mcqs.json file with your questions!');
+    // Filter to only include files ending in _mcqs.json
+    const jsonFiles = allFiles.filter(file => file.endsWith('_mcqs.json'));
+
+    if (jsonFiles.length === 0) {
+        console.error(`❌ No *_mcqs.json files found in ${dataDir}`);
         process.exit(1);
     }
 
-    const mcqsData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    console.log(`📁 Found ${jsonFiles.length} MCQ files to process...`);
 
-    if (!Array.isArray(mcqsData) || mcqsData.length === 0) {
-        console.error('❌ JSON file is empty or not an array!');
-        process.exit(1);
+    let totalInserted = 0;
+
+    for (const filePath of jsonFiles) {
+        const fileName = path.basename(filePath);
+        const mcqsData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        
+        if (!Array.isArray(mcqsData) || mcqsData.length === 0) {
+            console.warn(`⚠️ Skipping empty file: ${fileName}`);
+            continue;
+        }
+
+        // Find unique chapterIds in this specific JSON file and delete them from DB to avoid duplicates
+        const chapterIdsToSeed = [...new Set(mcqsData.map(mcq => mcq.chapterId))];
+        console.log(`🧹 [${fileName}] Clearing old MCQs for chapters: ${chapterIdsToSeed.join(', ')}`);
+        await Mcq.deleteMany({ chapterId: { $in: chapterIdsToSeed } });
+
+        // Insert the new MCQs
+        console.log(`📥 [${fileName}] Inserting ${mcqsData.length} MCQs...`);
+        await Mcq.insertMany(mcqsData);
+        totalInserted += mcqsData.length;
     }
 
-    // Optional: If you want to clear all existing geography questions first to avoid duplicates
-    // You can find unique chapterIds in your JSON and delete existing ones
-    const chapterIdsToSeed = [...new Set(mcqsData.map(mcq => mcq.chapterId))];
-    console.log(`🧹 Clearing old MCQs for chapters: ${chapterIdsToSeed.join(', ')}...`);
-    await Mcq.deleteMany({ chapterId: { $in: chapterIdsToSeed } });
-
-    // 2. Insert the new MCQs
-    console.log(`📥 Inserting ${mcqsData.length} new MCQs...`);
-    await Mcq.insertMany(mcqsData);
-
-    console.log('🎉 MCQ Seeding completed successfully!');
+    console.log(`\n🎉 BOOM! A massive total of ${totalInserted} MCQs were injected successfully across all subjects!`);
     process.exit(0);
   } catch (error) {
     console.error('❌ Seeding failed:', error);
