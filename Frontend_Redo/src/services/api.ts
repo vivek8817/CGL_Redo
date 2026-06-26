@@ -2,7 +2,7 @@ import axios from 'axios'; // Wait, let's just use axios properly: import axios 
 import axiosLib from 'axios';
 
 const api = axiosLib.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:5000/api',
 });
 
 // This "Interceptor" runs before every single request we make!
