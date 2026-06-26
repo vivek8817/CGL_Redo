@@ -4,7 +4,7 @@ export interface IUser extends Document {
   username: string;
   email: string;
   passwordHash: string;
-  chapterProgress: { chapterId: string; attempted: number; wrong: number }[];
+  chapterProgress: { chapterId: string; attempted: number; wrong: number; wrongQuestionIds: mongoose.Types.ObjectId[] }[];
   bookmarks: mongoose.Types.ObjectId[]; // Array of MCQ IDs
   dailyActivity: { date: string; attempted: number; correct: number }[];
 }
@@ -18,7 +18,8 @@ const UserSchema: Schema = new Schema({
   chapterProgress: [{
     chapterId: { type: String },
     attempted: { type: Number, default: 0 },
-    wrong: { type: Number, default: 0 }
+    wrong: { type: Number, default: 0 },
+    wrongQuestionIds: [{ type: Schema.Types.ObjectId, ref: 'Mcq' }]
   }],
   bookmarks: [{ type: Schema.Types.ObjectId, ref: 'Mcq' }], // Links directly to the Mcq collection!
   dailyActivity: [{

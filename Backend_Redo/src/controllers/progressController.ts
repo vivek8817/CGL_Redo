@@ -20,6 +20,8 @@ interface SubmitQuizBody {
   chapterId: string;
   totalAttempted: number;
   totalCorrect: number;
+  newlyWrongIds?: string[];
+  newlyCorrectIds?: string[];
 }
 
 /**
@@ -142,12 +144,12 @@ export const resetProgress = async (
 /**
  * Submit quiz results to update Chapter Progress and Daily Streaks
  */
-export const submitQuiz = async (
+  export const submitQuiz = async (
   req: AuthRequest<{}, {}, SubmitQuizBody>,
   res: Response
 ): Promise<Response> => {
   try {
-    const { chapterId, totalAttempted, totalCorrect } = req.body;
+    const { chapterId, totalAttempted, totalCorrect, newlyWrongIds, newlyCorrectIds } = req.body;
     const userId = req.user?.id;
 
     if (!userId) return res.status(401).json({ message: "Unauthorized." });
@@ -164,13 +166,32 @@ export const submitQuiz = async (
     if (chapterIndex >= 0) {
       // If found, add to their existing numbers
       user.chapterProgress[chapterIndex].attempted += totalAttempted;
-      user.chapterProgress[chapterIndex].wrong += totalWrong;
+      
+      // Pull correct ones
+      if (newlyCorrectIds && newlyCorrectIds.length > 0) {
+        user.chapterProgress[chapterIndex].wrongQuestionIds = user.chapterProgress[chapterIndex].wrongQuestionIds.filter(
+          id => !newlyCorrectIds.includes(id.toString())
+        );
+      }
+      
+      // Push wrong ones (avoiding duplicates)
+      if (newlyWrongIds && newlyWrongIds.length > 0) {
+        for (const id of newlyWrongIds) {
+          if (!user.chapterProgress[chapterIndex].wrongQuestionIds.some(existing => existing.toString() === id)) {
+            user.chapterProgress[chapterIndex].wrongQuestionIds.push(id as any);
+          }
+        }
+      }
+      
+      // Set wrong to length of array
+      user.chapterProgress[chapterIndex].wrong = user.chapterProgress[chapterIndex].wrongQuestionIds.length;
     } else {
       // If not found, push a brand new record
       user.chapterProgress.push({
         chapterId,
         attempted: totalAttempted,
-        wrong: totalWrong
+        wrong: newlyWrongIds ? newlyWrongIds.length : totalWrong,
+        wrongQuestionIds: (newlyWrongIds || []) as any
       });
     }
 

@@ -1,0 +1,842 @@
+[
+     {
+    "chapterId": "eco-1",
+    "text": "1. Read the following Assertion (A) and Reason (R) carefully and choose the correct option.\nAssertion (A): Self-reliance was a major objective of India's early planning era.\nReason (R): India sought to reduce dependence on foreign aid and imports post-independence.",
+    "options": [
+      {
+        "id": 1,
+        "text": "Both A and R are true, and R is the correct explanation of A"
+      },
+      {
+        "id": 2,
+        "text": "Both A and R are true, but R is NOT the correct explanation of A"
+      },
+      {
+        "id": 3,
+        "text": "A is true, but R is false"
+      },
+      {
+        "id": 4,
+        "text": "A is false, but R is true"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Both the Assertion and Reason are correct and logically connected. Early Five-Year Plans, particularly from the 3rd FYP onwards, heavily emphasized 'Self-Reliance' (Atmanirbharta) to minimize India's vulnerability to foreign pressures and reduce dependence on imported food grains and foreign aid."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "2. Read the following statements carefully and choose the correct option regarding Assertion (A) and Reason (R).\nAssertion (A): India had to approach the IMF and World Bank in 1991 for a bailout loan.\nReason (R): Foreign exchange reserves had declined to the point that they could barely finance two weeks of imports.",
+    "options": [
+      {
+        "id": 1,
+        "text": "Both A and R are true, and R is the correct explanation of A"
+      },
+      {
+        "id": 2,
+        "text": "Both A and R are true, but R is NOT the correct explanation of A"
+      },
+      {
+        "id": 3,
+        "text": "A is true, but R is false"
+      },
+      {
+        "id": 4,
+        "text": "A is false, but R is true"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Both statements are true. By mid-1991, India's foreign exchange (Forex) reserves had depleted so drastically that they were barely enough to cover two weeks of essential imports (like petroleum). This severe Balance of Payments (BoP) crisis forced India to secure a bailout loan from the IMF and World Bank by pledging its gold reserves."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "3. Read the following statements carefully and choose the correct option regarding Assertion (A) and Reason (R).\nAssertion (A): The 1991 reforms boosted India's foreign exchange reserves significantly.\nReason (R): Liberalized trade policies increased both exports and capital inflows.",
+    "options": [
+      {
+        "id": 1,
+        "text": "Both A and R are true, and R is the correct explanation of A"
+      },
+      {
+        "id": 2,
+        "text": "Both A and R are true, but R is NOT the correct explanation of A"
+      },
+      {
+        "id": 3,
+        "text": "A is true, but R is false"
+      },
+      {
+        "id": 4,
+        "text": "A is false, but R is true"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Both statements are true. The LPG (Liberalization, Privatization, Globalization) reforms dismantled the 'License Raj', reduced tariffs, and devalued the Rupee. This made Indian exports competitive and opened doors for Foreign Direct Investment (FDI), causing a massive surge in Forex reserves."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "4. Who among the following is considered the 'Father of Indian Planning' for publishing the book 'The Planned Economy for India' in 1934?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": 2,
+        "text": "M. Visvesvaraya"
+      },
+      {
+        "id": 3,
+        "text": "Dadabhai Naoroji"
+      },
+      {
+        "id": 4,
+        "text": "P.C. Mahalanobis"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Sir M. Visvesvaraya, a renowned engineer and statesman, wrote 'The Planned Economy for India' in 1934, presenting a 10-year plan for the economic development of the country. He is widely regarded as the Father of Indian Planning."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "5. Match the following pre-independence economic plans with their primary architects:\n1. Bombay Plan (1944)\n2. Gandhian Plan (1944)\n3. People's Plan (1945)\n4. Sarvodaya Plan (1950)\n\n(A) M.N. Roy\n(B) Jayaprakash Narayan\n(C) Eight leading Industrialists\n(D) Shriman Narayan Agarwal",
+    "options": [
+      {
+        "id": 1,
+        "text": "1-C, 2-D, 3-A, 4-B"
+      },
+      {
+        "id": 2,
+        "text": "1-D, 2-C, 3-B, 4-A"
+      },
+      {
+        "id": 3,
+        "text": "1-A, 2-B, 3-C, 4-D"
+      },
+      {
+        "id": 4,
+        "text": "1-C, 2-A, 3-D, 4-B"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The Bombay Plan was proposed by 8 top industrialists (Tata, Birla, etc.). The Gandhian Plan was formulated by S.N. Agarwal focusing on agriculture and village industries. The People's Plan was drafted by Marxist leader M.N. Roy. The Sarvodaya Plan was formulated by JP Narayan based on Vinoba Bhave's ideas."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "6. The First Five-Year Plan (1951-1956) was based on which of the following economic models?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahalanobis Model"
+      },
+      {
+        "id": 2,
+        "text": "Harrod-Domar Model"
+      },
+      {
+        "id": 3,
+        "text": "Gadgil Formula"
+      },
+      {
+        "id": 4,
+        "text": "Rao-Manmohan Model"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The First Five-Year Plan was based on the Harrod-Domar model, which emphasized that economic growth depends on the national saving rate and the capital-output ratio. The primary focus of this plan was agricultural development."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "7. The core objective of the Second Five-Year Plan (1956-1961) was 'Rapid Industrialization'. This plan was drafted under the leadership of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "D.P. Dhar"
+      },
+      {
+        "id": 2,
+        "text": "K.N. Raj"
+      },
+      {
+        "id": 3,
+        "text": "P.C. Mahalanobis"
+      },
+      {
+        "id": 4,
+        "text": "C.D. Deshmukh"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Second Plan was based on the Mahalanobis model (developed by statistician P.C. Mahalanobis). It shifted the focus from agriculture to heavy and basic industries to build a robust capital goods sector."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "8. During the Second Five-Year Plan, three major Iron and Steel plants were established in India with foreign collaboration. Which of the following is INCORRECTLY matched?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bhilai Steel Plant - Soviet Union (USSR)"
+      },
+      {
+        "id": 2,
+        "text": "Durgapur Steel Plant - United Kingdom"
+      },
+      {
+        "id": 3,
+        "text": "Rourkela Steel Plant - West Germany"
+      },
+      {
+        "id": 4,
+        "text": "Bokaro Steel Plant - United States of America"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Bokaro Steel Plant is incorrectly matched. Firstly, it was established during the Third Five-Year Plan (not the second). Secondly, it was built with the collaboration of the Soviet Union (USSR), not the USA."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "9. Which Five-Year Plan is notoriously known as the most unsuccessful plan in the history of Indian planning, heavily disrupted by the Sino-Indian War (1962) and the Indo-Pak War (1965)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Second Five-Year Plan"
+      },
+      {
+        "id": 2,
+        "text": "Third Five-Year Plan"
+      },
+      {
+        "id": 3,
+        "text": "Fourth Five-Year Plan"
+      },
+      {
+        "id": 4,
+        "text": "Sixth Five-Year Plan"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Third Plan (1961-1966) targeted a 5.6% growth rate but only achieved 2.4%. It failed miserably due to two major wars (China in 1962, Pakistan in 1965) and a severe drought in 1965-66, completely draining the economy."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "10. Following the catastrophic failure of the Third Plan, the government declared a 'Plan Holiday'. What was the exact duration of this Plan Holiday?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1966 - 1969"
+      },
+      {
+        "id": 2,
+        "text": "1965 - 1968"
+      },
+      {
+        "id": 3,
+        "text": "1969 - 1972"
+      },
+      {
+        "id": 4,
+        "text": "1978 - 1980"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Due to the economic depletion from wars, drought, and inflation, regular five-year planning was suspended for three years (1966-1969). During this 'Plan Holiday', three Annual Plans were executed. This period also witnessed the launch of the Green Revolution."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "11. The historic 'Nationalization of 14 major Indian Banks' by Indira Gandhi took place in 1969. This event occurred during which Five-Year Plan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Third Five-Year Plan"
+      },
+      {
+        "id": 2,
+        "text": "Fourth Five-Year Plan"
+      },
+      {
+        "id": 3,
+        "text": "Fifth Five-Year Plan"
+      },
+      {
+        "id": 4,
+        "text": "Sixth Five-Year Plan"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Fourth Five-Year Plan spanned from 1969 to 1974. The nationalization of 14 major commercial banks on July 19, 1969, was one of its most defining economic milestones, aimed at ensuring credit flow to agriculture and small industries."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "12. The slogan 'Garibi Hatao' (Eradicate Poverty) was the central theme and primary objective of which Five-Year Plan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Third Five-Year Plan"
+      },
+      {
+        "id": 2,
+        "text": "Fourth Five-Year Plan"
+      },
+      {
+        "id": 3,
+        "text": "Fifth Five-Year Plan"
+      },
+      {
+        "id": 4,
+        "text": "Seventh Five-Year Plan"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Fifth Five-Year Plan (1974-1978) focused explicitly on poverty alleviation ('Garibi Hatao') and attainment of self-reliance. It was drafted by D.P. Dhar. However, it was terminated a year early in 1978 by the newly elected Morarji Desai government."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "13. Consider the following statements regarding the 'Rolling Plan':\n1. It was introduced by the Janata Party Government led by Morarji Desai.\n2. It operated for the period of 1978 to 1980.\n3. The concept of the Rolling Plan was originally coined by Gunnar Myrdal.\nWhich of the statements given above are correct?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1 and 2 only"
+      },
+      {
+        "id": 2,
+        "text": "2 and 3 only"
+      },
+      {
+        "id": 3,
+        "text": "1 and 3 only"
+      },
+      {
+        "id": 4,
+        "text": "1, 2, and 3"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "All statements are correct. After terminating the 5th plan in 1978, the Janata government launched a 'Rolling Plan' for 1978-83. However, when Indira Gandhi returned to power in 1980, she scrapped it. The theoretical concept was given by Swedish economist Gunnar Myrdal."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "14. The National Bank for Agriculture and Rural Development (NABARD) and the Export-Import (EXIM) Bank were both established in 1982. This coincided with which Five-Year Plan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fifth Five-Year Plan"
+      },
+      {
+        "id": 2,
+        "text": "Sixth Five-Year Plan"
+      },
+      {
+        "id": 3,
+        "text": "Seventh Five-Year Plan"
+      },
+      {
+        "id": 4,
+        "text": "Eighth Five-Year Plan"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Sixth Five-Year Plan operated from 1980 to 1985. The establishment of NABARD (July 1982) on the recommendation of the B. Sivaraman Committee was a massive step for rural credit during this period."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "15. The Planning Commission of India, which formulated the Five-Year Plans, was established in March 1950. What was its constitutional status?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A Constitutional Body under Article 280"
+      },
+      {
+        "id": 2,
+        "text": "A Statutory Body created by an Act of Parliament"
+      },
+      {
+        "id": 3,
+        "text": "An Extra-Constitutional and Non-Statutory Advisory Body"
+      },
+      {
+        "id": 4,
+        "text": "A Judicial Body"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Planning Commission was neither a constitutional body nor a statutory body. It was established by an executive resolution of the Government of India in 1950, serving purely as an advisory think-tank."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "16. In India's planning architecture, which apex body was responsible for giving the *final approval* to the Five-Year Plans formulated by the Planning Commission?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The Parliament of India"
+      },
+      {
+        "id": 2,
+        "text": "The President of India"
+      },
+      {
+        "id": 3,
+        "text": "National Development Council (NDC)"
+      },
+      {
+        "id": 4,
+        "text": "The Finance Commission"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The National Development Council (NDC) was set up in August 1952. Presided over by the Prime Minister and comprising all State Chief Ministers, its core function was to review and give final approval to the 5-Year Plans to ensure cooperative federalism."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "17. The severe political and economic instability at the center led to another gap in the Five-Year Plans during the 1990s. This period of 'Annual Plans' occurred between:",
+    "options": [
+      {
+        "id": 1,
+        "text": "1988 - 1990"
+      },
+      {
+        "id": 2,
+        "text": "1990 - 1992"
+      },
+      {
+        "id": 3,
+        "text": "1992 - 1994"
+      },
+      {
+        "id": 4,
+        "text": "1996 - 1998"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Due to a rapidly changing political landscape at the center and the devastating 1991 Balance of Payments crisis, the 8th Five-Year Plan could not take off in 1990. Two Annual Plans were executed for 1990-91 and 1991-92."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "18. The historic 'LPG Reforms' (New Economic Policy) were introduced in 1991. Who were the Prime Minister and Finance Minister of India respectively during this critical transition?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajiv Gandhi and Manmohan Singh"
+      },
+      {
+        "id": 2,
+        "text": "P.V. Narasimha Rao and Pranab Mukherjee"
+      },
+      {
+        "id": 3,
+        "text": "P.V. Narasimha Rao and Manmohan Singh"
+      },
+      {
+        "id": 4,
+        "text": "Chandra Shekhar and Yashwant Sinha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Rao-Manmohan model of economic reforms was launched in 1991. P.V. Narasimha Rao was the Prime Minister, and Dr. Manmohan Singh was the Finance Minister who spearheaded the Liberalization, Privatization, and Globalization (LPG) policy."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "19. The Eighth Five-Year Plan (1992-1997) was highly significant because it introduced a transition in India's planning methodology. It marked the shift towards:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Imperative Planning"
+      },
+      {
+        "id": 2,
+        "text": "Indicative Planning"
+      },
+      {
+        "id": 3,
+        "text": "Command Planning"
+      },
+      {
+        "id": 4,
+        "text": "Rolling Planning"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Post the 1991 LPG reforms, the 8th Plan marked the shift from strict centralized 'Imperative Planning' to flexible 'Indicative Planning', where the state provided a broad direction/target, allowing the private sector a major role in achieving it."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "20. The fundamental concept of 'Five-Year Plans' adopted by the Indian government was heavily inspired by the planning models of which nation?",
+    "options": [
+      {
+        "id": 1,
+        "text": "United States of America"
+      },
+      {
+        "id": 2,
+        "text": "United Kingdom"
+      },
+      {
+        "id": 3,
+        "text": "Soviet Union (USSR)"
+      },
+      {
+        "id": 4,
+        "text": "Japan"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The concept of centralized five-year macroeconomic planning was pioneered by Joseph Stalin in the Soviet Union (USSR) in 1928. India adopted this framework post-independence."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "21. What was the central theme and overarching objective of the Eleventh Five-Year Plan (2007-2012)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Faster, sustainable, and more inclusive growth"
+      },
+      {
+        "id": 2,
+        "text": "Faster and more inclusive growth"
+      },
+      {
+        "id": 3,
+        "text": "Growth with social justice and equity"
+      },
+      {
+        "id": 4,
+        "text": "Eradication of absolute poverty"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The theme for the 11th FYP (2007-12) was 'Faster and more inclusive growth'. Note: The 12th FYP later added the word 'sustainable', becoming 'Faster, sustainable, and more inclusive growth'."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "22. The 12th Five-Year Plan was the final five-year plan executed by the Government of India before the planning commission was abolished. What was its duration?",
+    "options": [
+      {
+        "id": 1,
+        "text": "2007 - 2012"
+      },
+      {
+        "id": 2,
+        "text": "2010 - 2015"
+      },
+      {
+        "id": 3,
+        "text": "2012 - 2017"
+      },
+      {
+        "id": 4,
+        "text": "2014 - 2019"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The 12th Five-Year Plan ran from April 1, 2012, to March 31, 2017. Halfway through its tenure (2015), the Planning Commission was dissolved and replaced by NITI Aayog, officially ending the era of Five-Year Plans."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "23. On which exact date did the NITI Aayog (National Institution for Transforming India) officially come into existence, replacing the 65-year-old Planning Commission?",
+    "options": [
+      {
+        "id": 1,
+        "text": "August 15, 2014"
+      },
+      {
+        "id": 2,
+        "text": "January 1, 2015"
+      },
+      {
+        "id": 3,
+        "text": "April 1, 2015"
+      },
+      {
+        "id": 4,
+        "text": "January 26, 2016"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "NITI Aayog was established on January 1, 2015, via a resolution of the Union Cabinet. It shifted the planning paradigm from a 'Top-Down' approach to a 'Bottom-Up' approach, promoting cooperative federalism."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "24. Consider the following statements about NITI Aayog:\n1. The Prime Minister of India acts as its Ex-officio Chairperson.\n2. Its Governing Council comprises the Chief Ministers of all states and Lt. Governors of Union Territories.\n3. It has the constitutional power to allocate financial funds to states.\nWhich of the statements given above are correct?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1 and 2 only"
+      },
+      {
+        "id": 2,
+        "text": "2 and 3 only"
+      },
+      {
+        "id": 3,
+        "text": "1 and 3 only"
+      },
+      {
+        "id": 4,
+        "text": "1, 2, and 3"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is strictly incorrect. Unlike the old Planning Commission, NITI Aayog is purely a 'Think Tank' and has NO power to allocate financial resources to states; that power now rests solely with the Finance Ministry."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "25. Which influential poverty estimation committee, appointed by the Planning Commission in 2005, shifted the poverty line calculation from a strictly 'calorie-intake' basis to a broader metric including health and education expenditure?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lakdawala Committee"
+      },
+      {
+        "id": 2,
+        "text": "Suresh Tendulkar Committee"
+      },
+      {
+        "id": 3,
+        "text": "Y.K. Alagh Committee"
+      },
+      {
+        "id": 4,
+        "text": "C. Rangarajan Committee"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Suresh Tendulkar Committee (2009 report) moved away from calorie-based poverty estimation and introduced a 'Monthly Per Capita Consumption Expenditure' (MPCE) basket that included private expenditure on health and education."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "26. During the early planning era, the government launched the 'Community Development Programme' (CDP) for the massive upliftment of rural areas. In which year was this flagship program launched?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1951"
+      },
+      {
+        "id": 2,
+        "text": "1952"
+      },
+      {
+        "id": 3,
+        "text": "1956"
+      },
+      {
+        "id": 4,
+        "text": "1959"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Community Development Programme (CDP) was launched on October 2, 1952, during the First Five-Year Plan. It was the first major rural development initiative aimed at improving agriculture, health, and education in villages."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "27. Which Five-Year Plan had the specific objective of taking the Indian economy to the 'Take-off Stage' as conceptualized by economist W.W. Rostow?",
+    "options": [
+      {
+        "id": 1,
+        "text": "First Five-Year Plan"
+      },
+      {
+        "id": 2,
+        "text": "Second Five-Year Plan"
+      },
+      {
+        "id": 3,
+        "text": "Third Five-Year Plan"
+      },
+      {
+        "id": 4,
+        "text": "Fourth Five-Year Plan"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Third Five-Year Plan (1961-66) aimed to make the Indian economy self-reliant and self-generating, essentially pushing it into the 'Take-off Stage' of economic growth. Unfortunately, wars and drought crippled this ambition."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "28. The 1991 Industrial Policy dramatically altered the Indian economy by abolishing the 'License Raj'. Currently, industrial licensing is compulsory for how many industries due to security, safety, and environmental concerns?",
+    "options": [
+      {
+        "id": 1,
+        "text": "3"
+      },
+      {
+        "id": 2,
+        "text": "5"
+      },
+      {
+        "id": 3,
+        "text": "8"
+      },
+      {
+        "id": 4,
+        "text": "18"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Under the LPG reforms, compulsory licensing was abolished for almost all industries. Currently, only 5 industries require compulsory licensing: Distillation of alcoholic drinks, Cigars/cigarettes, Electronic Aerospace/defense equipment, Industrial explosives, and Specified hazardous chemicals."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "29. The historic 'Twenty Point Programme' (TPP) aimed at improving the quality of life for the rural poor was originally launched in 1975 during the tenure of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": 2,
+        "text": "Lal Bahadur Shastri"
+      },
+      {
+        "id": 3,
+        "text": "Indira Gandhi"
+      },
+      {
+        "id": 4,
+        "text": "Morarji Desai"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The 20-Point Programme was introduced by PM Indira Gandhi in July 1975 (during the Fifth Five-Year Plan and the Emergency). It was subsequently restructured in 1982, 1986, and 2006."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "30. 'Aayushman Bharat' and other modern government schemes reflect targeted economic development. The 'Minimum Needs Programme' (MNP), an early predecessor aiming to provide basic amenities, was introduced in the:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Third Five-Year Plan"
+      },
+      {
+        "id": 2,
+        "text": "Fifth Five-Year Plan"
+      },
+      {
+        "id": 3,
+        "text": "Seventh Five-Year Plan"
+      },
+      {
+        "id": 4,
+        "text": "Ninth Five-Year Plan"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Minimum Needs Programme (MNP) was introduced in the first year of the Fifth Five-Year Plan (1974–78). It aimed to ensure a basic standard of life for the poor (elementary education, rural health, drinking water, rural roads, etc.)."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "31. The first systematic attempt to calculate the National Income and Per Capita Income of India (during British rule) was made in 1867-68 by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "V.K.R.V. Rao"
+      },
+      {
+        "id": 2,
+        "text": "Dadabhai Naoroji"
+      },
+      {
+        "id": 3,
+        "text": "R.C. Dutt"
+      },
+      {
+        "id": 4,
+        "text": "P.C. Mahalanobis"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Dadabhai Naoroji made the first attempt to estimate National Income in his seminal book 'Poverty and Un-British Rule in India'. He estimated the per capita income to be Rs. 20 per annum at the time."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "32. The Tenth Five-Year Plan (2002-2007) had highly specific developmental targets. Which of the following was NOT one of its core targets?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Achieve 8% GDP growth rate"
+      },
+      {
+        "id": 2,
+        "text": "Reduce the poverty ratio by 5% by 2007"
+      },
+      {
+        "id": 3,
+        "text": "Establish a fully cashless digital economy"
+      },
+      {
+        "id": 4,
+        "text": "Increase literacy rate to 75% by the end of the plan"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Establishing a cashless digital economy was not an objective of the 10th FYP (2002-07); this concept gained massive traction only post-2015/2016. Targets for poverty reduction, literacy rate growth, and an 8% GDP growth were official benchmarks of the 10th Plan."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "33. Under the New Economic Policy of 1991, 'Disinvestment' became a primary tool for the government. What does disinvestment mean in the Indian context?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The government nationalizing private banks."
+      },
+      {
+        "id": 2,
+        "text": "The government selling its equity stake in Public Sector Undertakings (PSUs) to private investors."
+      },
+      {
+        "id": 3,
+        "text": "The RBI withdrawing excess currency from the market."
+      },
+      {
+        "id": 4,
+        "text": "Stopping all foreign direct investments (FDI)."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Disinvestment (a subset of Privatization) refers to the government diluting or selling a portion of its shareholding in public sector enterprises to private entities or the general public to improve efficiency and reduce fiscal deficit."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "34. The actual growth rate achieved by the First Five-Year Plan (1951-56) significantly exceeded its target. What were the target and actual growth rates respectively?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Target: 5.6%, Actual: 2.4%"
+      },
+      {
+        "id": 2,
+        "text": "Target: 2.1%, Actual: 3.6%"
+      },
+      {
+        "id": 3,
+        "text": "Target: 4.4%, Actual: 4.8%"
+      },
+      {
+        "id": 4,
+        "text": "Target: 8.0%, Actual: 7.6%"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The First Plan was highly successful due to good monsoons and high agricultural output. The target growth rate was modestly set at 2.1%, but the actual growth rate achieved was 3.6%."
+  },
+  {
+    "chapterId": "eco-1",
+    "text": "35. In modern times, NITI Aayog releases several important indices to measure state performance. Which of the following indices is NOT published by NITI Aayog?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sustainable Development Goals (SDG) India Index"
+      },
+      {
+        "id": 2,
+        "text": "National Multidimensional Poverty Index (MPI)"
+      },
+      {
+        "id": 3,
+        "text": "Export Preparedness Index (EPI)"
+      },
+      {
+        "id": 4,
+        "text": "Consumer Price Index (CPI)"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "The Consumer Price Index (CPI) is a macroeconomic indicator released by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI). The SDG India Index, National MPI, and EPI are all flagship reports of NITI Aayog."
+  }
+]

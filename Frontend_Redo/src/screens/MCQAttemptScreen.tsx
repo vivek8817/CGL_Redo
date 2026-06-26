@@ -18,12 +18,19 @@ const MCQAttemptScreen = () => {
   const [mcqs, setMcqs] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
+  
+  const [newlyWrongIds, setNewlyWrongIds] = useState<string[]>([]);
+  const [newlyCorrectIds, setNewlyCorrectIds] = useState<string[]>([]);
 
   // 1. FETCH MCQS FROM MONGODB WHEN SCREEN LOADS!
   useEffect(() => {
     const loadMcqs = async () => {
       try {
-        const response = await api.get(`/mcqs/${chapterId}`);
+        const searchParams = new URLSearchParams(window.location.search);
+        const filter = searchParams.get('filter');
+        const url = filter ? `/mcqs/${chapterId}?filter=${filter}` : `/mcqs/${chapterId}`;
+        
+        const response = await api.get(url);
         setMcqs(response.data);
       } catch (err: any) {
         setError(err.response?.data?.message || 'Failed to load MCQs');
@@ -67,6 +74,9 @@ const MCQAttemptScreen = () => {
     setIsSubmitted(true);
     if (selectedOption === currentQuestion.correctOptionId) {
       setCorrectCount(prev => prev + 1);
+      setNewlyCorrectIds(prev => [...prev, currentQuestion._id]);
+    } else {
+      setNewlyWrongIds(prev => [...prev, currentQuestion._id]);
     }
   };
 
@@ -83,7 +93,9 @@ const MCQAttemptScreen = () => {
         await api.post('/progress/submit', {
           chapterId,
           totalAttempted: mcqs.length,
-          totalCorrect: finalCorrect
+          totalCorrect: finalCorrect,
+          newlyWrongIds: newlyWrongIds,
+          newlyCorrectIds: newlyCorrectIds
         });
         
         // Refresh Redux so the Home Screen rings update!

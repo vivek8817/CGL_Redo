@@ -156,9 +156,9 @@ const bookmarkCount = chapterBookmarks.length;
 
         {/* Revise Wrong Only - Purple Widget */}
         <div 
-    onClick={() => navigate(`/mcq/${currentChapter?.id}`)}
-  className={`bg-widget-stress-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${wrongCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
->
+          onClick={() => navigate(`/mcq/${currentChapter?.id}?filter=wrong`)}
+          className={`bg-widget-stress-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${wrongCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
+        >
            <AngryExpression className="absolute -top-4 -right-12 opacity-90 rotate-12 w-40 h-40" />
 
           <div className="flex items-center justify-between z-10">
@@ -178,7 +178,7 @@ const bookmarkCount = chapterBookmarks.length;
 
         {/* Revise Bookmarks - Yellow Widget */}
         <div 
-          onClick={() => navigate(`/mcq/${currentChapter?.id}`)}
+          onClick={() => navigate(`/mcq/${currentChapter?.id}?filter=bookmarks`)}
           className={`bg-widget-sleep-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${bookmarkCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
   >
           <div className="flex items-center justify-between z-10">

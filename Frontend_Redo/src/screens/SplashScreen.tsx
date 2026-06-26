@@ -37,25 +37,25 @@ const SplashScreen = () => {
       {/* Scattered Faces */}
       <div className="absolute inset-0 pointer-events-none">
         {/* Top Left */}
-        <JoyfulFace size="140" className="absolute top-[80px] left-[-20px] -rotate-12 opacity-80" />
+        <JoyfulFace size="140" className="absolute top-[80px] left-[-20px] -rotate-12 opacity-100" />
         
         {/* Top Right */}
-        <HappyFace size="120" className="absolute top-[40px] right-[10px] rotate-[15deg] opacity-60" />
+        <HappyFace size="120" className="absolute top-[40px] right-[10px] rotate-[15deg] opacity-100" />
 
         {/* Middle Left */}
-        <SensitiveFace size="150" className="absolute top-[280px] left-[-40px] -rotate-[8deg] opacity-70" />
+        <SensitiveFace size="150" className="absolute top-[280px] left-[-40px] -rotate-[8deg] opacity-100" />
 
         {/* Middle Right */}
-        <AngryFace size="160" className="absolute top-[320px] right-[-30px] rotate-[12deg] opacity-90" />
+        <AngryFace size="160" className="absolute top-[320px] right-[-30px] rotate-[12deg] opacity-100" />
 
         {/* Bottom Left */}
-        <InsecureFace size="130" className="absolute bottom-[120px] left-[10px] -rotate-[15deg] opacity-80" />
+        <InsecureFace size="130" className="absolute bottom-[120px] left-[10px] -rotate-[15deg] opacity-100" />
 
         {/* Bottom Right */}
-        <ConfusedFace size="140" className="absolute bottom-[80px] right-[-20px] rotate-[10deg] opacity-70" />
+        <ConfusedFace size="140" className="absolute bottom-[80px] right-[-20px] rotate-[10deg] opacity-100" />
         
         {/* Bottom Center */}
-        <NeutralFace size="110" className="absolute bottom-[20px] left-[50%] -translate-x-1/2 rotate-6 opacity-60" />
+        <NeutralFace size="110" className="absolute bottom-[20px] left-[50%] -translate-x-1/2 rotate-6 opacity-100" />
       </div>
 
     </div>

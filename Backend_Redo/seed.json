@@ -5,289 +5,49 @@
     "icon": "solar:hourglass-bold",
     "isNested": true,
     "subSubjects": [
-      {
-        "id": "hist-ancient",
-        "title": "Ancient India",
-        "chapters": [
-          {
-            "id": "hist-anc-1",
-            "title": "Stone Age Timeline & Classification"
-          },
-          {
-            "id": "hist-anc-2",
-            "title": "Indus Valley Civilization: The Lost Cities"
-          },
-          {
-            "id": "hist-anc-3",
-            "title": "Vedic Age (1500–600 BCE)"
-          },
-          {
-            "id": "hist-anc-4",
-            "title": "Jainism and Buddhism Notes"
-          },
-          {
-            "id": "hist-anc-5",
-            "title": "Mahajanapadas and Magadh Empire Notes"
-          },
-          {
-            "id": "hist-anc-6",
-            "title": "Mauryan Empire Overview"
-          },
-          {
-            "id": "hist-anc-7",
-            "title": "Post‑Mauryan Dynasties (After 185 BCE)"
-          },
-          {
-            "id": "hist-anc-8",
-            "title": "Sangam Age (c. 3rd Century BCE – 3rd Century CE)"
-          },
-          {
-            "id": "hist-anc-9",
-            "title": "Gupta Empire (c. 319 CE – 540 CE)"
-          },
-          {
-            "id": "hist-anc-10",
-            "title": "Post‑Gupta Dynasties"
-          }
-        ]
-      },
-      {
-        "id": "hist-medieval",
-        "title": "Medieval India",
-        "chapters": [
-          {
-            "id": "hist-med-1",
-            "title": "Delhi Sultanate-1: Origins & Period (1206–1526)"
-          },
-          {
-            "id": "hist-med-2",
-            "title": "Delhi Sultanate-2: Expansion and Decline"
-          },
-          {
-            "id": "hist-med-3",
-            "title": "Vijayanagara Empire: 1336–1565 AD"
-          },
-          {
-            "id": "hist-med-4",
-            "title": "Mughal Empire: Origins & Foundation"
-          },
-          {
-            "id": "hist-med-5",
-            "title": "Mughal Empire Summary: 1600–1857"
-          },
-          {
-            "id": "hist-med-6",
-            "title": "Maratha State: 1674–1720"
-          },
-          {
-            "id": "hist-med-7",
-            "title": "Cultural Movements: Bhakti & Sufi Movements"
-          }
-        ]
-      },
-      {
-        "id": "hist-modern",
-        "title": "Modern India",
-        "chapters": [
-          {
-            "id": "hist-mod-1",
-            "title": "Advent of Europeans in India"
-          },
-          {
-            "id": "hist-mod-2",
-            "title": "Social and Religious Reform"
-          },
-          {
-            "id": "hist-mod-3",
-            "title": "1857 Revolts"
-          },
-          {
-            "id": "hist-mod-4",
-            "title": "Indian National Congress (INC)"
-          },
-          {
-            "id": "hist-mod-5",
-            "title": "BENGAL PARTITION"
-          },
-          {
-            "id": "hist-mod-6",
-            "title": "Emergence of Mahatma Gandhi"
-          },
-          {
-            "id": "hist-mod-7",
-            "title": "Socialism, Simon Commission, Revolutionary Movements"
-          },
-          {
-            "id": "hist-mod-8",
-            "title": "QUIT INDIA MOVEMENT"
-          }
-        ]
-      }
+  {
+    "id": "hist-ancient",
+    "title": "Ancient India",
+    "chapters": [
+      { "id": "hist-anc-1", "title": "Prehistoric & Indus Valley" },
+      { "id": "hist-anc-2", "title": "Vedic Age" },
+      { "id": "hist-anc-3", "title": "Buddhism (and Jainism)" },
+      { "id": "hist-anc-4", "title": "Maurya Empire" },
+      { "id": "hist-anc-5", "title": "Gupta Empire" },
+      { "id": "hist-anc-6", "title": "Chola Dynasty (South Indian Kingdoms)" }
     ]
   },
   {
-    "id": "geography",
-    "title": "Geography",
-    "icon": "solar:earth-bold-duotone",
-    "isNested": false,
+    "id": "hist-medieval",
+    "title": "Medieval India",
     "chapters": [
-      {
-        "id": "geo-1",
-        "title": "Solar System"
-      },
-      {
-        "id": "geo-2",
-        "title": "FUNDAMENTALS OF EARTH"
-      },
-      {
-        "id": "geo-3",
-        "title": "EARTH'S INTERIOR & PLATE TECTONICS"
-      },
-      {
-        "id": "geo-4",
-        "title": "ROCKS, CONTINENT AND OCEANS"
-      },
-      {
-        "id": "geo-5",
-        "title": "GEOMORPHOLOGY & LANDFORMS"
-      },
-      {
-        "id": "geo-6",
-        "title": "ATMOSPHERE & WATER IN THE ATMOSPHERE"
-      },
-      {
-        "id": "geo-7",
-        "title": "WINDS, CLIMATE & OCEAN CURRENTS"
-      },
-      {
-        "id": "geo-8",
-        "title": "INDIA & ITS BOUNDARY"
-      },
-      {
-        "id": "geo-9",
-        "title": "HIMALAYAS & RELATED GEOGRAPHY"
-      },
-      {
-        "id": "geo-10",
-        "title": "Conservation Sites & Protected Areas of India"
-      },
-      {
-        "id": "geo-11",
-        "title": "SOIL AND AGRICULTURE - COMPLETE NOTES"
-      },
-      {
-        "id": "geo-12",
-        "title": "FORESTS & GRASSLANDS"
-      },
-      {
-        "id": "geo-13",
-        "title": "CLIMATE & MONSOON SYSTEM OF INDIA"
-      },
-      {
-        "id": "geo-14",
-        "title": "DAM SYSTEMS IN INDIA"
-      },
-      {
-        "id": "geo-15",
-        "title": "PENINSULAR RIVER SYSTEMS"
-      },
-      {
-        "id": "geo-16",
-        "title": "DRAINAGE SYSTEMS OF INDIA"
-      },
-      {
-        "id": "geo-17",
-        "title": "NORTHERN PLAINS OF INDIA"
-      }
-    ]
-  },
-
-  {
-    "id": "physics",
-    "title": "Physics",
-    "icon": "solar:atom-bold-duotone",
-    "isNested": false,
-    "chapters": [
-      {
-        "id": "phy-1",
-        "title": "Units and Measurements"
-      },
-      {
-        "id": "phy-2",
-        "title": "Motion, Force, and Laws of Motion"
-      },
-      {
-        "id": "phy-3",
-        "title": "Work, Energy, and Power"
-      },
-      {
-        "id": "phy-4",
-        "title": "Gravitation"
-      },
-      {
-        "id": "phy-5",
-        "title": "Properties of Matter"
-      },
-      {
-        "id": "phy-6",
-        "title": "Heat and Thermodynamics"
-      },
-      {
-        "id": "phy-7",
-        "title": "Sound and Wave Motion"
-      },
-      {
-        "id": "phy-8",
-        "title": "Light and Optics"
-      },
-      {
-        "id": "phy-9",
-        "title": "Electricity and Magnetism"
-      },
-      {
-        "id": "phy-10",
-        "title": "Modern Physics and Discoveries"
-      }
+      { "id": "hist-med-1", "title": "Mughals" },
+      { "id": "hist-med-2", "title": "Delhi Sultanate" }
     ]
   },
   {
-    "id": "chemistry",
-    "title": "Chemistry",
-    "icon": "solar:flask-bold-duotone",
+    "id": "hist-modern",
+    "title": "Modern India",
+    "chapters": [
+      { "id": "hist-mod-1", "title": "Governors/Viceroys & British Acts" },
+      { "id": "hist-mod-2", "title": "Gandhi Era (Indian National Movement)" },
+      { "id": "hist-mod-3", "title": "1857 Revolt" },
+      { "id": "hist-mod-4", "title": "Socio-Religious Reforms" }
+    ]
+  }
+]
+  },
+  {
+    "id": "polity",
+    "title": "Polity",
+    "icon": "solar:book-bold-duotone",
     "isNested": false,
     "chapters": [
-      {
-        "id": "chem-1",
-        "title": "Matter and its States"
-      },
-      {
-        "id": "chem-2",
-        "title": "Atomic Structure"
-      },
-      {
-        "id": "chem-3",
-        "title": "Periodic Table and Properties"
-      },
-      {
-        "id": "chem-4",
-        "title": "Chemical Bonding and Reactions"
-      },
-      {
-        "id": "chem-5",
-        "title": "Acids, Bases, and Salts"
-      },
-      {
-        "id": "chem-6",
-        "title": "Metals and Non-Metals"
-      },
-      {
-        "id": "chem-7",
-        "title": "Carbon and its Compounds"
-      },
-      {
-        "id": "chem-8",
-        "title": "Everyday Chemistry"
-      }
+      { "id": "polity-1", "title": "Parliament & State Legislature" },
+      { "id": "polity-2", "title": "Fundamental Rights & DPSP (Directive Principles of State Policy)" },
+      { "id": "polity-3", "title": "Amendments – Focus on 42nd & 44th Amendments" },
+      { "id": "polity-4", "title": "Articles / Schedules" },
+      { "id": "polity-5", "title": "President / Vice President" }
     ]
   },
   {
@@ -296,38 +56,45 @@
     "icon": "solar:chart-bold-duotone",
     "isNested": false,
     "chapters": [
-      {
-        "id": "eco-1",
-        "title": "Basic Concepts of Economics"
-      },
-      {
-        "id": "eco-2",
-        "title": "National Income"
-      },
-      {
-        "id": "eco-3",
-        "title": "Economic Planning in India (NITI Aayog & Five Year Plans)"
-      },
-      {
-        "id": "eco-4",
-        "title": "Money and Banking (RBI & Functions)"
-      },
-      {
-        "id": "eco-5",
-        "title": "Inflation and Deflation"
-      },
-      {
-        "id": "eco-6",
-        "title": "Public Finance, Budget, and Taxation"
-      },
-      {
-        "id": "eco-7",
-        "title": "International Organizations (IMF, WB, WTO)"
-      },
-      {
-        "id": "eco-8",
-        "title": "Poverty and Unemployment"
-      }
+      { "id": "eco-1", "title": "Indian Economic Development & 5‑Year Plans" },
+      { "id": "eco-2", "title": "Banking & Monetary Policy" },
+      { "id": "eco-3", "title": "National Income" },
+      { "id": "eco-4", "title": "Fiscal Policy" },
+      { "id": "eco-5", "title": "Budget" },
+      { "id": "eco-6", "title": "Industrial Policy" }
+    ]
+  },
+  {
+    "id": "geography",
+    "title": "Geography",
+    "icon": "solar:earth-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      { "id": "geo-1", "title": "Climate of India & Monsoon" },
+      { "id": "geo-2", "title": "Agriculture, Irrigation & Soils" },
+      { "id": "geo-3", "title": "Rivers of India & Drainage Systems" },
+      { "id": "geo-4", "title": "Transport & Communication" },
+      { "id": "geo-5", "title": "Mountainous Regions & Plateaus" },
+      { "id": "geo-6", "title": "The Universe & Earth's Mechanics" }
+    ]
+  },
+  {
+    "id": "static-gk",
+    "title": "Static GK",
+    "icon": "solar:star-fall-bold-duotone",
+    "isNested": false,
+    "chapters": [
+      { "id": "gk-1", "title": "Sports" },
+      { "id": "gk-2", "title": "Space & Satellite" },
+      { "id": "gk-3", "title": "Government Schemes" },
+      { "id": "gk-4", "title": "Folk & Classical Dance" },
+      { "id": "gk-5", "title": "Fairs & Festivals" },
+      { "id": "gk-6", "title": "Books & Authors" },
+      { "id": "gk-7", "title": "Temples & Architecture" },
+      { "id": "gk-8", "title": "Music" },
+      { "id": "gk-9", "title": "Awards" },
+      { "id": "gk-10", "title": "New Criminal Laws" },
+      { "id": "gk-11", "title": "Index & Ranking" }
     ]
   },
   {
@@ -336,122 +103,18 @@
     "icon": "solar:leaf-bold-duotone",
     "isNested": false,
     "chapters": [
-      {
-        "id": "bio-1",
-        "title": "Cell Cycle & Growth Phases"
-      },
-      {
-        "id": "bio-2",
-        "title": "Animal Tissues"
-      },
-      {
-        "id": "bio-3",
-        "title": "The Hierarchy of Classification – Groups"
-      },
-      {
-        "id": "bio-4",
-        "title": "Animal Kingdom"
-      },
-      {
-        "id": "bio-5",
-        "title": "Diseases"
-      },
-      {
-        "id": "bio-6",
-        "title": "Heredity and Evolution"
-      },
-      {
-        "id": "bio-7",
-        "title": "Nutrition in Animals and Plants"
-      },
-      {
-        "id": "bio-8",
-        "title": "Human Heart and Circulatory System"
-      },
-      {
-        "id": "bio-9",
-        "title": "LIFE PROCESSES"
-      },
-      {
-        "id": "bio-10",
-        "title": "Nervous System"
-      },
-      {
-        "id": "bio-11",
-        "title": "Glands and Hormones"
-      },
-      {
-        "id": "bio-12",
-        "title": "REPRODUCTION:"
-      }
-    ]
-  },
-  {
-    "id": "polity",
-    "title": "Polity",
-    "icon": "solar:book-bold-duotone",
-    "isNested": false,
-    "chapters": [
-      {
-        "id": "polity-1",
-        "title": "INDIAN CONSTITUTION & CONSTITUENT ASSEMBLY NOTES"
-      },
-      {
-        "id": "polity-2",
-        "title": "Salient Features of the Indian Constitution"
-      },
-      {
-        "id": "polity-3",
-        "title": "Preamble of the Indian Constitution"
-      },
-      {
-        "id": "polity-4",
-        "title": "PART III – FUNDAMENTAL RIGHTS (Art. 12 to 35)"
-      },
-      {
-        "id": "polity-5",
-        "title": "DIRECTIVE PRINCIPLES OF STATE POLICY (DPSP)"
-      },
-      {
-        "id": "polity-6",
-        "title": "PART V: The Union Government (Articles 52–151)"
-      },
-      {
-        "id": "polity-7",
-        "title": "Prime Minister of India (Articles 74–78)"
-      },
-      {
-        "id": "polity-8",
-        "title": "Parliament of India (Articles 79–122)"
-      },
-      {
-        "id": "polity-9",
-        "title": "Articles Related to Parliament (India)"
-      },
-      {
-        "id": "polity-10",
-        "title": "Overview of Part VI – State Legislature"
-      },
-      {
-        "id": "polity-11",
-        "title": "Emergency Provisions (Articles 352–360)"
-      },
-      {
-        "id": "polity-12",
-        "title": "SUPREME COURT (SC)"
-      },
-      {
-        "id": "polity-13",
-        "title": "PANCHAYATI RAJ SYSTEM"
-      },
-      {
-        "id": "polity-14",
-        "title": "CONSTITUTIONAL BODIES"
-      },
-      {
-        "id": "polity-15",
-        "title": "IMPORTANT ACTS TABLE (with timeline and key features)"
-      }
+      { "id": "bio-1", "title": "Cell Cycle & Growth Phases" },
+      { "id": "bio-2", "title": "Animal Tissues" },
+      { "id": "bio-3", "title": "The Hierarchy of Classification – Groups" },
+      { "id": "bio-4", "title": "Animal Kingdom" },
+      { "id": "bio-5", "title": "Diseases" },
+      { "id": "bio-6", "title": "Heredity and Evolution" },
+      { "id": "bio-7", "title": "Nutrition in Animals and Plants" },
+      { "id": "bio-8", "title": "Human Heart and Circulatory System" },
+      { "id": "bio-9", "title": "LIFE PROCESSES" },
+      { "id": "bio-10", "title": "Nervous System" },
+      { "id": "bio-11", "title": "Glands and Hormones" },
+      { "id": "bio-12", "title": "REPRODUCTION:" }
     ]
   }
 ]
