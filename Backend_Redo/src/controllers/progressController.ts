@@ -59,7 +59,7 @@ export const toggleBookmark = async (
       user.bookmarks = user.bookmarks.filter((id: any) => id.toString() !== mcqId);
     } else {
       // Add it if it is missing
-      user.bookmarks.push(mcqId);
+      user.bookmarks.push(mcqId as any);
     }
 
     // Persist modifications back to MongoDB
