@@ -48,7 +48,19 @@ const MCQAttemptScreen = () => {
 
   if (loading) return <div className="p-8 text-center font-bold">Loading questions...</div>;
   if (error) return <div className="p-8 text-center font-bold text-red-500">{error}</div>;
-  if (mcqs.length === 0) return <div className="p-8 text-center font-bold">No MCQs found.</div>;
+    if (mcqs.length === 0) {
+    return (
+      <div className="flex-1 w-full bg-background-app flex flex-col relative shrink-0 h-full items-center justify-center px-4">
+        <h2 className="text-xl font-bold text-white mb-4">No MCQs found.</h2>
+        <button 
+          onClick={() => navigate(-1)}
+          className="px-6 py-3 bg-surface-hover text-text-primary font-bold rounded-sm active:scale-95 transition-transform"
+        >
+          Go Back
+        </button>
+      </div>
+    );
+  }
 
   const currentQuestion = mcqs[currentIndex];
   // Check if this specific question exists in our bookmarks array

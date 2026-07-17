@@ -2639,6 +2639,5045 @@
     ],
     "correctOptionId": 2,
     "explanation": "During the Later Vedic period, the Aryans expanded eastwards using iron tools to clear forests. The political center shifted to the Kuru-Panchala region (modern western UP and Haryana, specifically the Kurukshetra and upper Gangetic Doab region)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "1. Both Jainism and Buddhism emerged as heterodox religions in ancient India. What was a primary social reason for their rise?",
+    "options": [
+      {
+        "id": 1,
+        "text": "To support the rigid Varna system based on birth."
+      },
+      {
+        "id": 2,
+        "text": "As a reaction against Brahminical domination and complex ritual sacrifices."
+      },
+      {
+        "id": 3,
+        "text": "To promote the exclusive use of Sanskrit among the masses."
+      },
+      {
+        "id": 4,
+        "text": "To encourage the expansion of the Ajivika sect."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Jainism and Buddhism emerged primarily as a reaction against Brahminical domination and ritual sacrifices. Furthermore, agriculture and trade were suffering due to animal sacrifices, and the emerging Vaishya class supported these new religions that rejected caste-based hierarchies."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "2. In Jain tradition, there are 24 Tirthankaras. Who was the 23rd Tirthankara, and what was his associated symbol?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rishabhdev; Bull"
+      },
+      {
+        "id": 2,
+        "text": "Vardhaman Mahavir; Lion"
+      },
+      {
+        "id": 3,
+        "text": "Parshvanath; Serpent"
+      },
+      {
+        "id": 4,
+        "text": "Makkhali Gosala; Elephant"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Parshvanath was the 23rd Tirthankara, associated with Varanasi, and his symbol is the serpent. Rishabhdev was the 1st, and Vardhaman Mahavir was the 24th (symbol: lion)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "3. Which of the following Tirthankaras are explicitly mentioned in the ancient Vedic texts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Only the 23rd and 24th"
+      },
+      {
+        "id": 2,
+        "text": "Only the 1st and 22nd"
+      },
+      {
+        "id": 3,
+        "text": "Only the 1st and 24th"
+      },
+      {
+        "id": 4,
+        "text": "None of the Tirthankaras are mentioned in the Vedas."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "According to the historical texts, only the 1st Tirthankara (Rishabhdev) and the 22nd Tirthankara are mentioned in the Vedas."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "4. Vardhaman Mahavir, the 24th Tirthankara, belonged to which specific Kshatriya clan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Shakya"
+      },
+      {
+        "id": 2,
+        "text": "Malla"
+      },
+      {
+        "id": 3,
+        "text": "Janatrika"
+      },
+      {
+        "id": 4,
+        "text": "Lichchhavi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Vardhaman Mahavir's father, Siddhartha, was the head of the Janatrika clan (a Kshatriya clan). Gautam Buddha belonged to the Shakya clan."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "5. At what location and under which tree did Vardhaman Mahavir attain Kaivalya (enlightenment)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bodh Gaya, under a Bodhi tree"
+      },
+      {
+        "id": 2,
+        "text": "Jambhikagrama, under a Sal tree"
+      },
+      {
+        "id": 3,
+        "text": "Sarnath, under a Banyan tree"
+      },
+      {
+        "id": 4,
+        "text": "Pavapuri, under a Peepal tree"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Mahavir attained Kaivalya (supreme knowledge) at the age of 42 under a Sal tree at Jambhikagrama, situated on the banks of the Rajupalika river."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "6. Which of the following is NOT one of the 'Three Principles of Liberation' (Triratnas) in Jainism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Right Knowledge (Samyak Jnana)"
+      },
+      {
+        "id": 2,
+        "text": "Right Faith (Samyak Darshana)"
+      },
+      {
+        "id": 3,
+        "text": "Right Action/Conduct (Samyak Charitra)"
+      },
+      {
+        "id": 4,
+        "text": "Right Mindfulness (Samyak Smriti)"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "The Triratnas (Three Jewels) of Jainism are Right Knowledge, Right Faith, and Right Conduct. Right Mindfulness is a part of the Buddhist Eightfold Path."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "7. The 'Ajivika' sect, which emerged around the same time as Buddhism and Jainism, believed in extreme fatalism and asceticism. Who was its founder?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sthulabhadra"
+      },
+      {
+        "id": 2,
+        "text": "Bhadrabahu"
+      },
+      {
+        "id": 3,
+        "text": "Makkhali Gosala"
+      },
+      {
+        "id": 4,
+        "text": "Jamali"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Makkhali Gosala founded the Ajivika sect. Interestingly, he initially left home and practiced asceticism alongside Vardhaman Mahavir before they parted ways."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "8. What historical event triggered the primary division of Jainism into the Digambara and Shvetambara sects?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The First Jain Council at Patliputra."
+      },
+      {
+        "id": 2,
+        "text": "A massive 12-year famine in Magadh around 303 BCE."
+      },
+      {
+        "id": 3,
+        "text": "The death of Vardhaman Mahavir at Pavapuri."
+      },
+      {
+        "id": 4,
+        "text": "The royal decree of Mauryan Emperor Ashoka."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "During a severe famine in Magadh (303 BCE), many Jains migrated to Karnataka under the leadership of Bhadrabahu (forming the sky-clad Digambara sect), while those who stayed back in Magadh under Sthulabhadra became the white-clad Shvetambara sect."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "9. The First Jain Council was held in 298 BCE at Patliputra. Which Mauryan ruler patronized this council?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chandragupta Maurya"
+      },
+      {
+        "id": 2,
+        "text": "Bindusara"
+      },
+      {
+        "id": 3,
+        "text": "Ashoka"
+      },
+      {
+        "id": 4,
+        "text": "Brihadratha"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The 1st Jain Council was held in 298 BCE at Patliputra under the leadership of Sthulabhadra and was patronized by the Mauryan king Bindusara."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "10. The famous statue of Gommateshwara (Bahubali), where the Mahamasthakabhisheka ceremony is held every 12 years, is located in which state?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajasthan"
+      },
+      {
+        "id": 2,
+        "text": "Gujarat"
+      },
+      {
+        "id": 3,
+        "text": "Odisha"
+      },
+      {
+        "id": 4,
+        "text": "Karnataka"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "The colossal statue of Gommateshwara (Bahubali, son of the first Tirthankara Rishabhdev) is located at Shravanabelagola in Karnataka."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "11. The exquisite Dilwara Temples, a major pilgrimage site for Jains, were built by the Vastupala brothers. Where are these temples located?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mount Abu, Rajasthan"
+      },
+      {
+        "id": 2,
+        "text": "Vallabhi, Gujarat"
+      },
+      {
+        "id": 3,
+        "text": "Udayagiri, Odisha"
+      },
+      {
+        "id": 4,
+        "text": "Pavapuri, Bihar"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The Dilwara Temples, known for their stunning marble architecture, are located at Mount Abu in Rajasthan."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "12. Gautam Buddha was born in 563 BCE in Lumbini. What was his childhood name?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rahula"
+      },
+      {
+        "id": 2,
+        "text": "Siddhartha"
+      },
+      {
+        "id": 3,
+        "text": "Channa"
+      },
+      {
+        "id": 4,
+        "text": "Mahakassapa"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Gautam Buddha's childhood name was Siddhartha. His father was Suddhodhana, and he belonged to the Shakya clan."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "13. Who holds the distinction of being the first 'Bhikkhuni' (ordained female monastic) in Buddhism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahamaya"
+      },
+      {
+        "id": 2,
+        "text": "Yashodhara"
+      },
+      {
+        "id": 3,
+        "text": "Mahaprajapati Gautami"
+      },
+      {
+        "id": 4,
+        "text": "Amrapali"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Mahaprajapati Gautami, who was Buddha's stepmother (and maternal aunt), became the very first woman to request ordination from the Buddha and was the first Bhikkhuni."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "14. After leaving home at the age of 29, Gautam Buddha studied under two early teachers. Who were they?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Moggaliputta Tissa and Vasumitra"
+      },
+      {
+        "id": 2,
+        "text": "Alara Kalama and Udraka Ramaputra"
+      },
+      {
+        "id": 3,
+        "text": "Makkhali Gosala and Sthulabhadra"
+      },
+      {
+        "id": 4,
+        "text": "Mahakassapa and Sabakami"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Buddha's early spiritual teachers were Alara Kalama and Udraka Ramaputra. He eventually left them because their teachings did not lead to complete liberation."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "15. Gautam Buddha attained Nirvana under a Bodhi Tree at Bodh Gaya. On the banks of which river did this take place?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ganga"
+      },
+      {
+        "id": 2,
+        "text": "Niranjana"
+      },
+      {
+        "id": 3,
+        "text": "Rajupalika"
+      },
+      {
+        "id": 4,
+        "text": "Yamuna"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Buddha attained enlightenment (Nirvana) at Bodh Gaya under a Bodhi tree on the banks of the river Niranjana. (Mahavira attained enlightenment on the banks of the Rajupalika river)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "16. In Buddhist iconography, what does the symbol of the 'Stupa' represent regarding the life of Gautam Buddha?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Birth"
+      },
+      {
+        "id": 2,
+        "text": "First Sermon"
+      },
+      {
+        "id": 3,
+        "text": "Enlightenment"
+      },
+      {
+        "id": 4,
+        "text": "Death (Mahaparinirvana)"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "In Buddhism, the Lotus/Elephant symbolizes Birth, the Bodhi Tree symbolizes Enlightenment, the Dharma Wheel symbolizes the First Sermon, and the Stupa symbolizes Death (Mahaparinirvana)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "17. The core philosophy of Buddhism revolves around the 'Four Noble Truths'. Which of the following is the second Noble Truth?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Life is suffering (Dukkha)"
+      },
+      {
+        "id": 2,
+        "text": "The cause of suffering is desire (Tanha)"
+      },
+      {
+        "id": 3,
+        "text": "The end of suffering is possible (Nirodha)"
+      },
+      {
+        "id": 4,
+        "text": "Follow the Eightfold Path"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Four Noble Truths are sequentially: 1. Life is suffering (Dukkha), 2. The cause of suffering is desire (Tanha), 3. The end of suffering is possible (Nirodha), 4. The path to end suffering is the Eightfold Path."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "18. Match the Buddhist Council to the King who patronized it:\n1. First Council\n2. Second Council\n3. Third Council\n4. Fourth Council\n\n(A) Kalashoka\n(B) Kanishka\n(C) Ashoka\n(D) Ajatashatru",
+    "options": [
+      {
+        "id": 1,
+        "text": "1-D, 2-A, 3-C, 4-B"
+      },
+      {
+        "id": 2,
+        "text": "1-A, 2-D, 3-B, 4-C"
+      },
+      {
+        "id": 3,
+        "text": "1-D, 2-C, 3-A, 4-B"
+      },
+      {
+        "id": 4,
+        "text": "1-C, 2-A, 3-D, 4-B"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The correct pairings are: 1st Council (Ajatashatru), 2nd Council (Kalashoka), 3rd Council (Ashoka), and 4th Council (Kanishka)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "19. The Fourth Buddhist Council (72 CE) was held in Kashmir under the patronage of Kanishka. Who presided over this historic council where Buddhism formally split into Hinayana and Mahayana?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahakassapa"
+      },
+      {
+        "id": 2,
+        "text": "Sabakami"
+      },
+      {
+        "id": 3,
+        "text": "Moggaliputta Tissa"
+      },
+      {
+        "id": 4,
+        "text": "Vasumitra (with Ashvaghosha)"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Vasumitra served as the President of the 4th Buddhist Council in Kashmir, with Ashvaghosha acting as the vice-president. It was here that Buddhism officially divided into the Hinayana and Mahayana sects."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "20. The 'Triratnas' (Three Jewels) of Buddhism that a follower takes refuge in are:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Right Knowledge, Right Faith, Right Conduct"
+      },
+      {
+        "id": 2,
+        "text": "Buddha, Dhamma, Sangha"
+      },
+      {
+        "id": 3,
+        "text": "Dukkha, Tanha, Nirodha"
+      },
+      {
+        "id": 4,
+        "text": "Ahimsa, Satya, Asteya"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Triratnas of Buddhism are the Buddha (the enlightened one), the Dhamma (his teachings), and the Sangha (the monastic community). Note that 'Right Knowledge, Faith, and Conduct' are the Triratnas of Jainism."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "21. In Buddhist art, the 'Bhumisparsha Mudra' is a significant hand gesture of the Buddha. What does it symbolize?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fearlessness and protection"
+      },
+      {
+        "id": 2,
+        "text": "Meditation and concentration"
+      },
+      {
+        "id": 3,
+        "text": "Earth-touching, representing the moment of Enlightenment"
+      },
+      {
+        "id": 4,
+        "text": "The turning of the wheel of Dharma (Teaching)"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Bhumisparsha Mudra ('earth-touching' gesture) symbolizes the moment the Buddha attained enlightenment under the Bodhi tree, calling upon the earth goddess as a witness to his realization."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "22. What event in Gautam Buddha's life is known as 'Dharmachakrapravartana'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Leaving his royal palace at age 29"
+      },
+      {
+        "id": 2,
+        "text": "Attaining Nirvana at Bodh Gaya"
+      },
+      {
+        "id": 3,
+        "text": "Delivering his first sermon at Sarnath"
+      },
+      {
+        "id": 4,
+        "text": "His death at Kushinagara"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Dharmachakrapravartana ('Turning of the Wheel of Law') refers to the event when Buddha delivered his first sermon to his five disciples at the Deer Park in Sarnath."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "23. Which of the following statements correctly highlights a key difference between the Hinayana and Mahayana sects of Buddhism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hinayana believes in idol worship, whereas Mahayana rejects it."
+      },
+      {
+        "id": 2,
+        "text": "Hinayana relies on Sanskrit texts, whereas Mahayana relies on Pali texts."
+      },
+      {
+        "id": 3,
+        "text": "Mahayana believes in the rebirth of the Buddha and supports idol worship, whereas Hinayana does not."
+      },
+      {
+        "id": 4,
+        "text": "Hinayana spread strictly to China and Japan, whereas Mahayana spread to Sri Lanka."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Mahayana ('Great Vehicle') Buddhism embraces idol worship of the Buddha, uses Sanskrit texts, and believes in the rebirth of the Buddha (Bodhisattvas). Hinayana ('Lesser Vehicle') focuses on the original Pali texts, opposes idol worship, and treats Buddha as a human teacher, spreading primarily to Sri Lanka and South India."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "24. Where did Gautam Buddha pass away (attain Mahaparinirvana) in 483 BCE?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lumbini"
+      },
+      {
+        "id": 2,
+        "text": "Sarnath"
+      },
+      {
+        "id": 3,
+        "text": "Kushinagara"
+      },
+      {
+        "id": 4,
+        "text": "Rajgriha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Gautam Buddha died at the age of 80 in 483 BCE at Kushinagara, located in present-day Uttar Pradesh. This event is termed Mahaparinirvana."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "25. Which Mudra of the Buddha signifies 'Fearlessness' and granting of protection?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Dharmachakra"
+      },
+      {
+        "id": 2,
+        "text": "Abhaya"
+      },
+      {
+        "id": 3,
+        "text": "Dhyana"
+      },
+      {
+        "id": 4,
+        "text": "Varada"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Abhaya Mudra represents fearlessness, peace, protection, and the dispelling of fear. (Varada = Generosity, Dhyana = Meditation)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "26. Vardhaman Mahavir gave his first sermon at which location?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jambhikagrama"
+      },
+      {
+        "id": 2,
+        "text": "Sarnath"
+      },
+      {
+        "id": 3,
+        "text": "Pava"
+      },
+      {
+        "id": 4,
+        "text": "Vallabhi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Vardhaman Mahavir delivered his first sermon at Pava (Pavapuri in Bihar), which is also the location where he eventually passed away."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "27. Who was the daughter of Vardhaman Mahavir, who later married Jamali (one of his first disciples)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Yashodhara"
+      },
+      {
+        "id": 2,
+        "text": "Anoja"
+      },
+      {
+        "id": 3,
+        "text": "Trishala"
+      },
+      {
+        "id": 4,
+        "text": "Mahaprajapati"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Anoja (also known as Priyadarshini) was the daughter of Mahavira and his wife Yashoda. She married Jamali, who initially followed Mahavira but later caused the first schism in Jainism."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "28. The Second Buddhist Council was held in 383 BCE, exactly 100 years after the death of Buddha. Where was it convened?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajgriha"
+      },
+      {
+        "id": 2,
+        "text": "Pataliputra"
+      },
+      {
+        "id": 3,
+        "text": "Vaishali"
+      },
+      {
+        "id": 4,
+        "text": "Kashmir"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The 2nd Buddhist Council was convened at Vaishali in 383 BCE. It was patronized by King Kalashoka and presided over by Sabakami."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "29. The canonical texts of Jainism were finally compiled in written form during the Second Jain Council (512 CE). Where did this council take place?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Patliputra"
+      },
+      {
+        "id": 2,
+        "text": "Vallabhi"
+      },
+      {
+        "id": 3,
+        "text": "Kushinagara"
+      },
+      {
+        "id": 4,
+        "text": "Ujjain"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The 2nd Jain Council took place in Vallabhi (Gujarat) in 512 CE. It was during this council that the Jain canonical texts (Agamas) were finally compiled and written down."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "30. Which of the following is considered a core sacred text of Jainism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tripitaka"
+      },
+      {
+        "id": 2,
+        "text": "Mahavamsa"
+      },
+      {
+        "id": 3,
+        "text": "Kalpa Sutra"
+      },
+      {
+        "id": 4,
+        "text": "Jataka Tales"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Kalpa Sutra (along with Acaranga Sutra and Agama Sutras) is a foundational text in Jainism. The Tripitaka, Mahavamsa, and Jataka Tales are Buddhist texts."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "31. The term 'Kevalin' is associated with which ancient Indian religion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Buddhism"
+      },
+      {
+        "id": 2,
+        "text": "Jainism"
+      },
+      {
+        "id": 3,
+        "text": "Ajivika"
+      },
+      {
+        "id": 4,
+        "text": "Brahmanism"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "In Jainism, a person who has attained 'Kaivalya' (supreme enlightenment or omniscience) is referred to as a 'Kevalin'."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "32. The Third Buddhist Council was convened in 250 BCE primarily to purify the Buddhist movement and compile the Abhidhamma Pitaka. Who presided over this council?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahakassapa"
+      },
+      {
+        "id": 2,
+        "text": "Moggaliputta Tissa"
+      },
+      {
+        "id": 3,
+        "text": "Vasumitra"
+      },
+      {
+        "id": 4,
+        "text": "Sabakami"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Moggaliputta Tissa presided over the 3rd Buddhist Council at Pataliputra, which was heavily patronized by the Mauryan Emperor Ashoka."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "33. Which fundamental theological belief sharply distinguishes Jainism from Buddhism according to early philosophical texts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Buddhism supported the caste system, while Jainism did not."
+      },
+      {
+        "id": 2,
+        "text": "Jainism believed in the existence of a soul (Atman/Jiva), whereas Buddhism did not (Anatta)."
+      },
+      {
+        "id": 3,
+        "text": "Buddhism relied on extreme asceticism, while Jainism advocated the 'Middle Path'."
+      },
+      {
+        "id": 4,
+        "text": "Jainism accepted the authority of the Vedas, whereas Buddhism rejected it."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "A major philosophical difference is that Jainism strongly believes in the existence of a soul (Jiva) in all living and non-living entities, whereas Buddhism formulated the doctrine of 'Anatta' (non-self), denying the existence of an eternal soul. Both rejected the Vedas and the rigid caste system, but Buddhism chose the Middle Path over Jainism's extreme asceticism."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "34. King Kharavela, known from the famous Hathigumpha Inscription in Odisha, was a prominent patron of which religion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Buddhism"
+      },
+      {
+        "id": 2,
+        "text": "Ajivika"
+      },
+      {
+        "id": 3,
+        "text": "Jainism"
+      },
+      {
+        "id": 4,
+        "text": "Shaivism"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "King Kharavela of the Chedi dynasty (ruling Kalinga/Odisha) was a major patron of Jainism. He carved the Hathigumpha and Udayagiri/Khandagiri caves for Jain monks."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "35. In the context of the Eightfold Path of Buddhism, what does 'Ashtangika Marga' essentially aim to achieve?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Strict physical asceticism to burn karma."
+      },
+      {
+        "id": 2,
+        "text": "The cessation of suffering (Nirodha) and attainment of Nirvana."
+      },
+      {
+        "id": 3,
+        "text": "Rebirth into a higher caste."
+      },
+      {
+        "id": 4,
+        "text": "The compilation of new Vedic hymns."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Eightfold Path (Ashtangika Marga) represents the 4th Noble Truth. It is the 'Middle Path' designed to extinguish desire (Tanha), leading to the end of suffering (Nirodha) and the ultimate attainment of Nirvana."
+  },
+   {
+    "chapterId": "hist-anc-3",
+    "text": "36. The ethical code of Jainism is based on Five Vows (Anuvratas). What does the vow of 'Asteya' strictly mandate?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Non-violence"
+      },
+      {
+        "id": 2,
+        "text": "Chastity"
+      },
+      {
+        "id": 3,
+        "text": "Non-stealing"
+      },
+      {
+        "id": 4,
+        "text": "Truthfulness"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "In Jainism, the five vows are Ahimsa (Non-violence), Satya (Truth), Asteya (Non-stealing), Brahmacharya (Chastity), and Aparigraha (Non-possession)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "37. Among the Five Vows of Jainism, what does the principle of 'Aparigraha' refer to?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Non-possession or non-attachment to worldly things"
+      },
+      {
+        "id": 2,
+        "text": "Observing absolute silence for a day"
+      },
+      {
+        "id": 3,
+        "text": "Refraining from eating meat"
+      },
+      {
+        "id": 4,
+        "text": "Practicing celibacy"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Aparigraha translates to non-possession or non-attachment. It instructs followers to limit their material wealth and detach themselves from worldly desires."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "38. Who was the biological mother of Gautam Buddha?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahaprajapati Gautami"
+      },
+      {
+        "id": 2,
+        "text": "Yashodhara"
+      },
+      {
+        "id": 3,
+        "text": "Trishala"
+      },
+      {
+        "id": 4,
+        "text": "Mahamaya"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Mahamaya was the biological mother of Gautam Buddha. She passed away shortly after his birth, and he was raised by his stepmother/maternal aunt, Mahaprajapati Gautami."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "39. What was the name of Gautam Buddha's wife?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Anoja"
+      },
+      {
+        "id": 2,
+        "text": "Yashodhara"
+      },
+      {
+        "id": 3,
+        "text": "Yashoda"
+      },
+      {
+        "id": 4,
+        "text": "Amrapali"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Gautam Buddha (Siddhartha) was married to Yashodhara. Note: Yashoda was the name of Vardhaman Mahavir's wife."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "40. Before renouncing his royal life, Gautam Buddha had a son. What was his son's name?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Channa"
+      },
+      {
+        "id": 2,
+        "text": "Jamali"
+      },
+      {
+        "id": 3,
+        "text": "Rahula"
+      },
+      {
+        "id": 4,
+        "text": "Mahakassapa"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Rahula was the only son of Siddhartha (Buddha) and Yashodhara. The name Rahula translates to 'fetter' or 'bond', reflecting Siddhartha's view that his birth tied him to the material world."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "41. When Gautam Buddha left his palace to seek spiritual truth (the Great Departure), he was accompanied by his loyal charioteer. What was the charioteer's name?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Alara Kalama"
+      },
+      {
+        "id": 2,
+        "text": "Channa"
+      },
+      {
+        "id": 3,
+        "text": "Devadatta"
+      },
+      {
+        "id": 4,
+        "text": "Sabakami"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Channa was the royal charioteer who accompanied Siddhartha when he left his palace at the age of 29."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "42. At what age did Gautam Buddha leave his home and royal life in search of truth?",
+    "options": [
+      {
+        "id": 1,
+        "text": "24"
+      },
+      {
+        "id": 2,
+        "text": "29"
+      },
+      {
+        "id": 3,
+        "text": "30"
+      },
+      {
+        "id": 4,
+        "text": "35"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Gautam Buddha left his home at the age of 29. In comparison, Vardhaman Mahavir left his home at the age of 30."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "43. In ancient Buddhist art and iconography, which symbol is used to represent the 'Birth' of Gautam Buddha?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bodhi Tree"
+      },
+      {
+        "id": 2,
+        "text": "Dharma Wheel"
+      },
+      {
+        "id": 3,
+        "text": "Lotus and Elephant"
+      },
+      {
+        "id": 4,
+        "text": "Stupa"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Lotus and the Elephant symbolize the birth of Gautam Buddha. According to legend, his mother dreamt of a white elephant entering her womb before his birth."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "44. Which symbol is universally used in Buddhist art to depict the 'Enlightenment' (Nirvana) of the Buddha?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Stupa"
+      },
+      {
+        "id": 2,
+        "text": "Bodhi Tree"
+      },
+      {
+        "id": 3,
+        "text": "Lion"
+      },
+      {
+        "id": 4,
+        "text": "Horse"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Bodhi Tree symbolizes the Enlightenment of Buddha, which he attained under a Peepal tree (later known as the Bodhi Tree) at Bodh Gaya."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "45. The event of 'Dharmachakrapravartana' (the First Sermon) at Sarnath is represented by which symbol?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A pair of footprints"
+      },
+      {
+        "id": 2,
+        "text": "An empty throne"
+      },
+      {
+        "id": 3,
+        "text": "The Dharma Wheel"
+      },
+      {
+        "id": 4,
+        "text": "The Stupa"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Dharma Wheel (Dharmachakra) symbolizes the Buddha's First Sermon at Sarnath, literally meaning 'Turning the Wheel of Law'."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "46. In Buddhist iconography, what does the 'Dharmachakra Mudra' (a specific hand gesture) signify?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Meditation"
+      },
+      {
+        "id": 2,
+        "text": "Fearlessness"
+      },
+      {
+        "id": 3,
+        "text": "Teaching"
+      },
+      {
+        "id": 4,
+        "text": "Generosity"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Dharmachakra Mudra represents teaching and the preaching of the cosmic law, symbolizing the moment he delivered his first sermon."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "47. Which hand gesture (Mudra) of the Buddha specifically signifies deep 'Meditation' and concentration?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Abhaya Mudra"
+      },
+      {
+        "id": 2,
+        "text": "Bhumisparsha Mudra"
+      },
+      {
+        "id": 3,
+        "text": "Varada Mudra"
+      },
+      {
+        "id": 4,
+        "text": "Dhyana Mudra"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "The Dhyana Mudra is the gesture of meditation, usually depicted with both hands resting in the lap, palms facing upwards."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "48. The 'Varada Mudra' is a common gesture seen in Buddhist and Hindu statues. What does it represent?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Generosity and boon-granting"
+      },
+      {
+        "id": 2,
+        "text": "Earth-touching"
+      },
+      {
+        "id": 3,
+        "text": "Turning the wheel of law"
+      },
+      {
+        "id": 4,
+        "text": "Supreme knowledge"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The Varada Mudra is the gesture of generosity, charity, and granting of boons. It is typically depicted with the arm hanging downwards and the palm facing outward."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "49. In ancient India, Jain monks lived in dedicated monastic establishments. What were these Jain monasteries called?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Viharas"
+      },
+      {
+        "id": 2,
+        "text": "Chaityas"
+      },
+      {
+        "id": 3,
+        "text": "Gasadis"
+      },
+      {
+        "id": 4,
+        "text": "Mathas"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "According to historical texts, Jain monasteries were known as Gasadis. (Viharas were the residential halls for Buddhist monks)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "50. Who was the mother of Vardhaman Mahavir, the 24th Jain Tirthankara?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahamaya"
+      },
+      {
+        "id": 2,
+        "text": "Trishala"
+      },
+      {
+        "id": 3,
+        "text": "Yashoda"
+      },
+      {
+        "id": 4,
+        "text": "Anoja"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Trishala was the mother of Vardhaman Mahavir. She belonged to the Lichchhavi clan, linking Mahavir to a powerful royal lineage."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "51. What was the name of Vardhaman Mahavir's wife?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Yashodhara"
+      },
+      {
+        "id": 2,
+        "text": "Trishala"
+      },
+      {
+        "id": 3,
+        "text": "Yashoda"
+      },
+      {
+        "id": 4,
+        "text": "Priyadarshini"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Mahavir's wife was Yashoda, and they had a daughter named Anoja (also known as Priyadarshini). Do not confuse her with Yashodhara, who was Buddha's wife."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "52. Vardhaman Mahavir was born into a prominent Kshatriya clan. What was the name of his father, the head of the Janatrika clan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Suddhodhana"
+      },
+      {
+        "id": 2,
+        "text": "Siddhartha"
+      },
+      {
+        "id": 3,
+        "text": "Bimbisara"
+      },
+      {
+        "id": 4,
+        "text": "Ashoka"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Mahavir's father was named Siddhartha, who was the head of the Janatrika clan. (Coincidentally, Siddhartha was also the childhood name of Gautam Buddha)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "53. Before attaining supreme knowledge (Kaivalya), Vardhaman Mahavir was widely known by which title/name reflecting his origins?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Shakyamuni"
+      },
+      {
+        "id": 2,
+        "text": "Tathagata"
+      },
+      {
+        "id": 3,
+        "text": "Nagaputta"
+      },
+      {
+        "id": 4,
+        "text": "Bodhisattva"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Vardhaman Mahavir was known as Nagaputta (Nigantha Nataputta in Buddhist Pali texts) before he attained Kaivalya and became the 'Kevalin' or 'Jina' (conqueror)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "54. Which famous Ashokan inscription explicitly confirms that Lumbini was the birthplace of Gautam Buddha and records the exemption of the village from standard taxes?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nigali Sagar Pillar Inscription"
+      },
+      {
+        "id": 2,
+        "text": "Major Rock Edict XIII"
+      },
+      {
+        "id": 3,
+        "text": "Rummindei Pillar Inscription"
+      },
+      {
+        "id": 4,
+        "text": "Maski Rock Edict"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Rummindei (Lumbini) Pillar Inscription commemorates Ashoka's visit to Buddha's birthplace. Ashoka declared the village tax-free and reduced its revenue obligation to one-eighth."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "55. Who is the author of 'Buddhacharita', an epic Sanskrit poem detailing the life of Gautam Buddha?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vasumitra"
+      },
+      {
+        "id": 2,
+        "text": "Ashvaghosha"
+      },
+      {
+        "id": 3,
+        "text": "Nagasena"
+      },
+      {
+        "id": 4,
+        "text": "Patanjali"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Ashvaghosha, a philosopher and poet in the court of Kushan King Kanishka, authored the 'Buddhacharita'. He also served as the vice-president of the 4th Buddhist Council."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "56. The famous ancient text 'Milindapanho' (Questions of Milinda) documents a philosophical dialogue that led the Indo-Greek King Menander to convert to Buddhism. Which Buddhist monk answered his questions?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Moggaliputta Tissa"
+      },
+      {
+        "id": 2,
+        "text": "Upali"
+      },
+      {
+        "id": 3,
+        "text": "Ananda"
+      },
+      {
+        "id": 4,
+        "text": "Nagasena"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "The monk Nagasena brilliantly answered the intricate philosophical questions of the Indo-Greek King Menander (Milinda), leading to the king's conversion to Buddhism."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "57. Emperor Ashoka appointed special officials to spread the message of Buddhism and moral conduct across his empire. According to Major Rock Edict V, what were these officials called?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Samaharata"
+      },
+      {
+        "id": 2,
+        "text": "Dhammamahamatras"
+      },
+      {
+        "id": 3,
+        "text": "Rajukas"
+      },
+      {
+        "id": 4,
+        "text": "Sannidhata"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Ashoka created a new cadre of officials called 'Dhammamahamatras' (Dhamma Officers) specifically to propagate Dhamma (cultural/moral conquest) among the people."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "58. The 'Bharhut Stupa' in Madhya Pradesh is famous for its intricate carvings depicting Buddhist Jataka tales. During which dynasty's rule was it primarily built/expanded?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mauryan Dynasty"
+      },
+      {
+        "id": 2,
+        "text": "Sunga Dynasty"
+      },
+      {
+        "id": 3,
+        "text": "Gupta Dynasty"
+      },
+      {
+        "id": 4,
+        "text": "Kanva Dynasty"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Although initially established by Ashoka, the Bharhut Stupa was massively expanded and beautifully decorated with stone railings and gateways depicting Jataka tales during the reign of the Sunga Dynasty (Pushyamitra Sunga)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "59. The Satavahana dynasty heavily patronized Buddhist rock-cut architecture in Maharashtra and Andhra Pradesh. Which of the following sites is NOT associated with Satavahana Buddhist architecture?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amaravati Stupa"
+      },
+      {
+        "id": 2,
+        "text": "Karle Caves"
+      },
+      {
+        "id": 3,
+        "text": "Kanheri Caves"
+      },
+      {
+        "id": 4,
+        "text": "Udayagiri Caves"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Amaravati, Nagarjunakonda, Nasik, Kanheri, and Karle are major Satavahana Buddhist sites. Udayagiri (and Khandagiri) caves in Odisha were carved out for Jain monks by King Kharavela."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "60. The Mathura School of Art, which flourished under the Kushans, had distinct characteristics for its Buddha statues. Which of the following is a primary feature of the Mathura style?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Use of grey sandstone and a less defined halo"
+      },
+      {
+        "id": 2,
+        "text": "Use of red sandstone and a prominent halo"
+      },
+      {
+        "id": 3,
+        "text": "Exclusively depicted Hindu deities, no Buddha statues"
+      },
+      {
+        "id": 4,
+        "text": "Purely Hellenistic (Greek) facial features"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Mathura School was an indigenous style that predominantly used spotted red sandstone and featured a prominent, elaborately decorated halo behind the Buddha's head."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "61. The Gandhara School of Art is known for its unique blend of Indian subjects and foreign artistic techniques. Which influence is most prominent in this style?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Persian"
+      },
+      {
+        "id": 2,
+        "text": "Hellenistic (Greek)"
+      },
+      {
+        "id": 3,
+        "text": "Chinese"
+      },
+      {
+        "id": 4,
+        "text": "Egyptian"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Introduced initially by the Indo-Greeks and expanded by the Kushans, the Gandhara School is heavily influenced by Hellenistic (Greek) art, often depicting Buddha with wavy hair and draped garments resembling Apollo."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "62. The 'Acaranga Sutra' and the 'Bhagavati Sutra' are fundamental canonical texts belonging to which religion?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Buddhism"
+      },
+      {
+        "id": 2,
+        "text": "Jainism"
+      },
+      {
+        "id": 3,
+        "text": "Ajivika Sect"
+      },
+      {
+        "id": 4,
+        "text": "Shaivism"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Acaranga Sutra (detailing rules for monks) and the Bhagavati Sutra are core Agama Sutras of Jainism, compiled finally during the 2nd Jain Council at Vallabhi."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "63. After the great famine in Magadh, the Jain community split. Who remained in Magadh and became the leader of the 'Shvetambara' (white-clad) sect?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bhadrabahu"
+      },
+      {
+        "id": 2,
+        "text": "Sthulabhadra"
+      },
+      {
+        "id": 3,
+        "text": "Makkhali Gosala"
+      },
+      {
+        "id": 4,
+        "text": "Jamali"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Sthulabhadra stayed back in Magadh and permitted his followers to wear white clothes (Shvetambara). Bhadrabahu led the group that migrated South and maintained the strict rule of nudity (Digambara)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "64. The First Buddhist Council was convened immediately after the Mahaparinirvana of the Buddha in 483 BCE. Who presided over this council?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sabakami"
+      },
+      {
+        "id": 2,
+        "text": "Vasumitra"
+      },
+      {
+        "id": 3,
+        "text": "Mahakassapa"
+      },
+      {
+        "id": 4,
+        "text": "Upali"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Mahakassapa (Maha Kassapa) presided over the First Buddhist Council held at the Sattapanni caves in Rajgriha, patronized by King Ajatashatru."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "65. Where was the First Buddhist Council held in 483 BCE?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pataliputra"
+      },
+      {
+        "id": 2,
+        "text": "Vaishali"
+      },
+      {
+        "id": 3,
+        "text": "Kashmir"
+      },
+      {
+        "id": 4,
+        "text": "Rajgriha"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "The 1st Buddhist Council was held in Rajgriha (Rajgir) under the patronage of Haryanka dynasty king Ajatashatru."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "66. The Second Buddhist Council was held in 383 BCE at Vaishali to settle disputes regarding monastic discipline. Which ruler patronized this council?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ajatashatru"
+      },
+      {
+        "id": 2,
+        "text": "Kalashoka"
+      },
+      {
+        "id": 3,
+        "text": "Ashoka"
+      },
+      {
+        "id": 4,
+        "text": "Kanishka"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "King Kalashoka of the Shishunaga dynasty patronized the 2nd Buddhist Council at Vaishali, which was presided over by Sabakami."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "67. The Third Buddhist Council was convened in 250 BCE at Pataliputra. Who was the powerful Mauryan emperor that patronized this gathering?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chandragupta Maurya"
+      },
+      {
+        "id": 2,
+        "text": "Bindusara"
+      },
+      {
+        "id": 3,
+        "text": "Ashoka"
+      },
+      {
+        "id": 4,
+        "text": "Brihadratha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Emperor Ashoka patronized the 3rd Buddhist Council at his capital Pataliputra. It was presided over by Moggaliputta Tissa."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "68. The Fourth Buddhist Council, which witnessed the formal split of Buddhism into Mahayana and Hinayana sects, was held in 72 CE in which region?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pataliputra"
+      },
+      {
+        "id": 2,
+        "text": "Vaishali"
+      },
+      {
+        "id": 3,
+        "text": "Kashmir"
+      },
+      {
+        "id": 4,
+        "text": "Rajgriha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The 4th Buddhist Council was held at Kundalvana in Kashmir under the patronage of the Kushan King Kanishka."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "69. Mahayana Buddhism spread extensively across East Asia. Which of the following countries is primarily associated with the spread of the Mahayana sect?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sri Lanka"
+      },
+      {
+        "id": 2,
+        "text": "China and Japan"
+      },
+      {
+        "id": 3,
+        "text": "Myanmar"
+      },
+      {
+        "id": 4,
+        "text": "Thailand"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Mahayana ('Great Vehicle') Buddhism, which believed in idol worship and the rebirth of Buddha, spread primarily North and East to China, Japan, Korea, and Tibet."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "70. Hinayana Buddhism relies strictly on the original Pali texts and does not worship idols. Which region saw the largest spread of the Hinayana sect?",
+    "options": [
+      {
+        "id": 1,
+        "text": "China"
+      },
+      {
+        "id": 2,
+        "text": "Japan"
+      },
+      {
+        "id": 3,
+        "text": "Sri Lanka and South India"
+      },
+      {
+        "id": 4,
+        "text": "Tibet"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Hinayana ('Lesser Vehicle' or Theravada) spread predominantly southwards to Sri Lanka, South India, and Southeast Asia (Myanmar, Thailand, Cambodia)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "71. To spread the message of Buddhism abroad, Emperor Ashoka sent his son Mahendra and daughter Sanghamitra to which neighboring country?",
+    "options": [
+      {
+        "id": 1,
+        "text": "China"
+      },
+      {
+        "id": 2,
+        "text": "Nepal"
+      },
+      {
+        "id": 3,
+        "text": "Sri Lanka"
+      },
+      {
+        "id": 4,
+        "text": "Afghanistan"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Ashoka sent a special mission led by his son Mahendra and daughter Sanghamitra to Ceylon (Sri Lanka), carrying a branch of the original Bodhi tree, to successfully propagate Buddhism."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "72. Which Mauryan ruler explicitly patronized the Ajivika sect by cutting the Barabar Hill Caves out of solid rock in Bihar for their ascetics?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chandragupta Maurya"
+      },
+      {
+        "id": 2,
+        "text": "Bindusara"
+      },
+      {
+        "id": 3,
+        "text": "Ashoka"
+      },
+      {
+        "id": 4,
+        "text": "Dasharatha Maurya"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Although Ashoka was a devout Buddhist, his policy of religious tolerance led him to carve out the Barabar Hill Caves for the monks of the Ajivika sect. (Bindusara merely patronized them; Ashoka built the caves)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "73. Ashoka's grandson also followed his policy of religious tolerance and built the Nagarjuna Caves for the Ajivika sect. What was his name?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Brihadratha"
+      },
+      {
+        "id": 2,
+        "text": "Dasharatha Maurya"
+      },
+      {
+        "id": 3,
+        "text": "Samprati"
+      },
+      {
+        "id": 4,
+        "text": "Devavarman"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Dasharatha Maurya, the grandson of Ashoka, built the Nagarjuna Caves in the Barabar Hills region for the Ajivika ascetics."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "74. Both Jainism and Buddhism are classified as 'heterodox' religions in the context of ancient Indian history. What does this mean?",
+    "options": [
+      {
+        "id": 1,
+        "text": "They believed exclusively in the worship of nature gods."
+      },
+      {
+        "id": 2,
+        "text": "They rejected the supreme authority and infallibility of the Vedas."
+      },
+      {
+        "id": 3,
+        "text": "They strictly enforced the Varna system based on birth."
+      },
+      {
+        "id": 4,
+        "text": "They believed animal sacrifice was necessary for salvation."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Heterodox (Nastika) schools of Indian philosophy are those that reject the authority of the Vedas. Both Buddhism and Jainism fall into this category, unlike the orthodox (Astika) schools."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "75. The colossal statue of Gommateshwara in Karnataka depicts Bahubali. According to Jain tradition, who was Bahubali's father?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Parshvanath"
+      },
+      {
+        "id": 2,
+        "text": "Vardhaman Mahavir"
+      },
+      {
+        "id": 3,
+        "text": "Rishabhdev"
+      },
+      {
+        "id": 4,
+        "text": "Ajitanatha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Bahubali was the son of Rishabhdev, the 1st Jain Tirthankara. The massive monolithic statue was built by the Ganga dynasty minister Chavundaraya at Shravanabelagola."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "76. Gautam Buddha belonged to a small republic in ancient India. Which specific Kshatriya clan did he belong to?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Janatrika"
+      },
+      {
+        "id": 2,
+        "text": "Shakya"
+      },
+      {
+        "id": 3,
+        "text": "Lichchhavi"
+      },
+      {
+        "id": 4,
+        "text": "Malla"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Buddha's father Suddhodhana was the chief of the Shakya clan. Because of this, Buddha is often referred to as 'Shakyamuni' (the sage of the Shakyas)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "77. At what age did Vardhaman Mahavir attain 'Kaivalya' (supreme enlightenment) under a Sal tree?",
+    "options": [
+      {
+        "id": 1,
+        "text": "35"
+      },
+      {
+        "id": 2,
+        "text": "42"
+      },
+      {
+        "id": 3,
+        "text": "45"
+      },
+      {
+        "id": 4,
+        "text": "72"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Mahavir left home at 30 and wandered as an ascetic for 12 years. He attained Kaivalya at the age of 42 at Jambhikagrama."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "78. How old was Gautam Buddha when he attained Mahaparinirvana (passed away) at Kushinagara?",
+    "options": [
+      {
+        "id": 1,
+        "text": "72"
+      },
+      {
+        "id": 2,
+        "text": "80"
+      },
+      {
+        "id": 3,
+        "text": "85"
+      },
+      {
+        "id": 4,
+        "text": "100"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Gautam Buddha was born in 563 BCE and passed away in 483 BCE, meaning he attained Mahaparinirvana at the age of 80. (Mahavir passed away at the age of 72)."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "79. The compilation of the 'Abhidhamma Pitaka', which deals with the philosophical analysis and systematization of the Buddha's teachings, took place during which Buddhist Council?",
+    "options": [
+      {
+        "id": 1,
+        "text": "First Council"
+      },
+      {
+        "id": 2,
+        "text": "Second Council"
+      },
+      {
+        "id": 3,
+        "text": "Third Council"
+      },
+      {
+        "id": 4,
+        "text": "Fourth Council"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Third Buddhist Council, presided over by Moggaliputta Tissa at Pataliputra, resulted in the final compilation of the Tripitaka by adding the Abhidhamma Pitaka to the already existing Sutta and Vinaya Pitakas."
+  },
+  {
+    "chapterId": "hist-anc-3",
+    "text": "80. What was the major historical outcome of the Second Jain Council held in 512 CE at Vallabhi?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The formal split of Jainism into Digambara and Shvetambara sects."
+      },
+      {
+        "id": 2,
+        "text": "The final compilation of Jain canonical texts (Agamas) into written form."
+      },
+      {
+        "id": 3,
+        "text": "The mass migration of Jains to Karnataka."
+      },
+      {
+        "id": 4,
+        "text": "The conversion of the Mauryan Emperor to Jainism."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "During the 2nd Jain Council at Vallabhi (Gujarat) in 512 CE, the scattered Jain teachings and canonical texts (Agamas) were finally organized, compiled, and recorded in written form."
+  },
+   {
+    "chapterId": "hist-anc-4",
+    "text": "1. Which ancient Sanskrit drama written by Vishakhadatta describes how Chandragupta Maurya overthrew the Nanda dynasty with the help of Chanakya?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Arthashastra"
+      },
+      {
+        "id": 2,
+        "text": "Malavikagnimitram"
+      },
+      {
+        "id": 3,
+        "text": "Mudrarakshasa"
+      },
+      {
+        "id": 4,
+        "text": "Rajatarangini"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Vishakhadatta's 'Mudrarakshasa' is a crucial literary source that details the political rise of Chandragupta Maurya and the overthrow of the last Nanda ruler, Dhanananda, aided by Chanakya's intellect."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "2. Chandragupta Maurya defeated which Greek general and successor of Alexander the Great, subsequently marrying his daughter Helena?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Antiochus I"
+      },
+      {
+        "id": 2,
+        "text": "Seleucus Nicator"
+      },
+      {
+        "id": 3,
+        "text": "Ptolemy Philadelphus"
+      },
+      {
+        "id": 4,
+        "text": "Alexander IV"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Chandragupta Maurya defeated Seleucus Nicator, the Greek ruler of West Asia, around 305 BCE. As part of a peace treaty, he married Seleucus's daughter Helena and gained vast northwestern territories."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "3. The Greek ambassador Megasthenes, who wrote the detailed account 'Indica', visited the court of which Indian ruler?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bindusara"
+      },
+      {
+        "id": 2,
+        "text": "Ashoka"
+      },
+      {
+        "id": 3,
+        "text": "Chandragupta Maurya"
+      },
+      {
+        "id": 4,
+        "text": "Pushyamitra Sunga"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Megasthenes was sent by Seleucus Nicator to the court of Chandragupta Maurya. His book 'Indica' is one of the most important foreign sources on Mauryan administration and society."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "4. Which ancient inscription provides the earliest reference to a 'Kosthagara' (state granary) established by the Mauryas to deal with famines?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sohgaura Copper Plate"
+      },
+      {
+        "id": 2,
+        "text": "Hathigumpha Inscription"
+      },
+      {
+        "id": 3,
+        "text": "Prayag Prashasti"
+      },
+      {
+        "id": 4,
+        "text": "Aihole Inscription"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The Sohgaura Copper Plate Inscription (found in Uttar Pradesh) mentions the establishment of Kosthagaras or state storehouses to distribute grains during famines, reflecting early Mauryan welfare administration."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "5. Which Mauryan ruler was known to the Greeks by the title 'Amitrochates' (Slayer of Enemies)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ashoka"
+      },
+      {
+        "id": 2,
+        "text": "Chandragupta Maurya"
+      },
+      {
+        "id": 3,
+        "text": "Bindusara"
+      },
+      {
+        "id": 4,
+        "text": "Brihadratha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Bindusara, the son of Chandragupta Maurya and father of Ashoka, was referred to as 'Amitrochates' (derived from the Sanskrit 'Amitraghata', meaning Slayer of Enemies) by the Greeks."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "6. Bindusara famously requested sweet wine, dried figs, and a sophist (philosopher) from which Syrian king?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Antiochus I"
+      },
+      {
+        "id": 2,
+        "text": "Ptolemy II"
+      },
+      {
+        "id": 3,
+        "text": "Seleucus Nicator"
+      },
+      {
+        "id": 4,
+        "text": "Alexander III"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Bindusara maintained diplomatic relations with the Hellenistic world. He requested wine, figs, and a philosopher from Antiochus I of Syria, who sent the goods but declined to send a philosopher as Greek laws forbade trading them."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "7. Which heterodox religious sect was prominently patronized by Emperor Bindusara?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Buddhism"
+      },
+      {
+        "id": 2,
+        "text": "Jainism"
+      },
+      {
+        "id": 3,
+        "text": "Ajivika"
+      },
+      {
+        "id": 4,
+        "text": "Charvaka"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Unlike his father Chandragupta (who embraced Jainism) and his son Ashoka (who embraced Buddhism), Bindusara was a prominent patron of the Ajivika sect, an ascetic movement emphasizing severe fatalism."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "8. In which year of his reign did Emperor Ashoka fight the bloody Kalinga War?",
+    "options": [
+      {
+        "id": 1,
+        "text": "5th year after coronation"
+      },
+      {
+        "id": 2,
+        "text": "8th year after coronation"
+      },
+      {
+        "id": 3,
+        "text": "10th year after coronation"
+      },
+      {
+        "id": 4,
+        "text": "13th year after coronation"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Ashoka fought the Kalinga War in 261 BCE, which was 8 years after his formal coronation. The massive bloodshed caused him deep remorse and led to his conversion to Buddhism."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "9. After the Kalinga War, Ashoka abandoned the policy of physical conquest in favor of cultural conquest. What is this ideological shift termed in his edicts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Digvijaya to Dharmavijaya"
+      },
+      {
+        "id": 2,
+        "text": "Bherighosha to Dhamma Ghosha"
+      },
+      {
+        "id": 3,
+        "text": "Rajadharma to Mokshadharma"
+      },
+      {
+        "id": 4,
+        "text": "Asura Vijaya to Dharma Vijaya"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Ashoka's edicts mention that the sound of the war drum ('Bherighosha') was replaced by the sound of Dhamma ('Dhamma Ghosha'), signaling an end to military expansion."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "10. Ashoka sent his son Mahendra and daughter Sanghamitra as Buddhist missionaries to which region?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tibet"
+      },
+      {
+        "id": 2,
+        "text": "Sri Lanka"
+      },
+      {
+        "id": 3,
+        "text": "China"
+      },
+      {
+        "id": 4,
+        "text": "Central Asia"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Ashoka dispatched his children, Mahendra and Sanghamitra, to Sri Lanka (Ceylon) to propagate Buddhism, successfully converting the local ruler, Devanampiya Tissa."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "11. Which Major Rock Edict of Ashoka explicitly details the horrors of the Kalinga War and Ashoka's subsequent conversion to Dhamma?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Major Rock Edict V"
+      },
+      {
+        "id": 2,
+        "text": "Major Rock Edict XI"
+      },
+      {
+        "id": 3,
+        "text": "Major Rock Edict XII"
+      },
+      {
+        "id": 4,
+        "text": "Major Rock Edict XIII"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Major Rock Edict XIII is the longest and most famous edict, detailing Ashoka's victory over Kalinga, his deep remorse over the casualties, and his new policy of Dhamma. It also mentions Hellenistic kings."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "12. Ashoka created a special cadre of officers to propagate the principles of Dhamma and oversee the welfare of the people. According to Major Rock Edict V, what were these officers called?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Samaharata"
+      },
+      {
+        "id": 2,
+        "text": "Rajukas"
+      },
+      {
+        "id": 3,
+        "text": "Dhammamahamatras"
+      },
+      {
+        "id": 4,
+        "text": "Sannidhata"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Dhammamahamatras (officers of Dhamma) were instituted by Ashoka in his 14th regnal year (mentioned in Edict V) to spread moral teachings and manage religious affairs."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "13. In most of his inscriptions, Ashoka is referred to by titles like 'Devanampiya Piyadasi'. However, his actual name 'Ashoka' is explicitly found in which of the following edicts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Girnar and Dhauli"
+      },
+      {
+        "id": 2,
+        "text": "Maski, Brahmagiri, Gujarra, and Nittur"
+      },
+      {
+        "id": 3,
+        "text": "Shahbazgarhi and Mansehra"
+      },
+      {
+        "id": 4,
+        "text": "Kalsi and Sopara"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The personal name 'Ashoka' is explicitly mentioned only in a few Minor Rock Edicts, notably at Maski and Nittur (Karnataka) and Gujarra (Madhya Pradesh)."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "14. Which Ashokan inscription records his visit to the birthplace of Gautam Buddha and declares the village exempt from standard taxes?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nigali Sagar Pillar Inscription"
+      },
+      {
+        "id": 2,
+        "text": "Allahabad Pillar Inscription"
+      },
+      {
+        "id": 3,
+        "text": "Rummindei Pillar Inscription"
+      },
+      {
+        "id": 4,
+        "text": "Sarnath Pillar Edict"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Rummindei (Lumbini) Pillar Inscription commemorates Ashoka's pilgrimage to Lumbini. He declared the village tax-free and reduced their produce tax to one-eighth."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "15. The Maurya Empire was divided into several provinces. What was the capital of the 'Dakshinapatha' (Southern Province)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Taxila"
+      },
+      {
+        "id": 2,
+        "text": "Ujjain"
+      },
+      {
+        "id": 3,
+        "text": "Suvarnagiri"
+      },
+      {
+        "id": 4,
+        "text": "Tosali"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Mauryan Empire had five major provincial centers. Suvarnagiri (in modern Karnataka) was the capital of the southern province (Dakshinapatha)."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "16. In Mauryan administration, the 'Sannidhata' held which prominent position?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chief Revenue Collector"
+      },
+      {
+        "id": 2,
+        "text": "Chief Treasury Officer"
+      },
+      {
+        "id": 3,
+        "text": "Head of Agriculture"
+      },
+      {
+        "id": 4,
+        "text": "Chief Justice of the Criminal Court"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "According to Kautilya's Arthashastra, the 'Sannidhata' was the Chief Treasury Officer (custodian of the treasury), while the 'Samaharata' was the Chief Revenue Collector."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "17. Match the Mauryan Adhyakshas (Superintendents) with their respective departments:\n1. Sitadhyaksha\n2. Navadhyaksha\n3. Shulkadhyaksha\n\n(A) Ports and Shipping\n(B) Toll Tax\n(C) Agriculture",
+    "options": [
+      {
+        "id": 1,
+        "text": "1-C, 2-A, 3-B"
+      },
+      {
+        "id": 2,
+        "text": "1-A, 2-C, 3-B"
+      },
+      {
+        "id": 3,
+        "text": "1-B, 2-A, 3-C"
+      },
+      {
+        "id": 4,
+        "text": "1-C, 2-B, 3-A"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "In Mauryan administration, Sitadhyaksha was the superintendent of Crown Lands/Agriculture, Navadhyaksha managed Ships/Ports, and Shulkadhyaksha collected tolls."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "18. The Mauryan judicial system was highly organized. What was the 'Kantakashodhana Nyayalaya'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A civil court dealing with personal and marriage disputes"
+      },
+      {
+        "id": 2,
+        "text": "A criminal court dealing with matters between the state and the people"
+      },
+      {
+        "id": 3,
+        "text": "A special tribunal for religious offenses"
+      },
+      {
+        "id": 4,
+        "text": "A military court martial"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Arthashastra divides courts into Dharmasthiya (Civil courts for personal disputes) and Kantakashodhana (Criminal courts to clear 'thorns' from society, handling state vs. individual matters)."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "19. In the Mauryan taxation system, what did the term 'Hiranya' signify?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Tax paid in kind (agricultural produce)"
+      },
+      {
+        "id": 2,
+        "text": "An emergency tax levied during wars"
+      },
+      {
+        "id": 3,
+        "text": "Tax paid exclusively in gold or cash"
+      },
+      {
+        "id": 4,
+        "text": "A surcharge imposed on irrigation"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Hiranya refers to revenue or tax paid in cash (specifically gold), as opposed to 'Pindakara' which was a tax paid in kind based on agricultural produce."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "20. According to the Greek ambassador Megasthenes in his book 'Indica', Indian society during the Mauryan era was strictly divided into how many castes/classes?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Four"
+      },
+      {
+        "id": 2,
+        "text": "Five"
+      },
+      {
+        "id": 3,
+        "text": "Seven"
+      },
+      {
+        "id": 4,
+        "text": "Nine"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Megasthenes misunderstood the Indian Varna system and divided the society into 7 occupational classes: Philosophers, Farmers, Herders, Artisans, Soldiers, Spies (Overseers), and Councillors."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "21. To accommodate the ascetics of the Ajivika sect, Emperor Ashoka famously carved out rock-cut caves. Where are these located?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Udayagiri Hills, Odisha"
+      },
+      {
+        "id": 2,
+        "text": "Barabar Hills, Bihar"
+      },
+      {
+        "id": 3,
+        "text": "Ajanta, Maharashtra"
+      },
+      {
+        "id": 4,
+        "text": "Kanheri, Maharashtra"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Ashoka carved the Barabar Hill Caves (near Gaya, Bihar) for the monks of the Ajivika sect, showcasing his policy of religious tolerance. His grandson Dasharatha built the nearby Nagarjuna Caves."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "22. The 'Saptanga Theory' outlines the seven fundamental elements of a state. In which foundational text of the Mauryan period is this theory expounded?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Indica"
+      },
+      {
+        "id": 2,
+        "text": "Arthashastra"
+      },
+      {
+        "id": 3,
+        "text": "Mudrarakshasa"
+      },
+      {
+        "id": 4,
+        "text": "Rajatarangini"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Saptanga Theory is a core political concept in Kautilya's (Chanakya's) Arthashastra. It compares the state to a body with seven limbs: Swami, Amatya, Janapada, Durg, Kosha, Sena, and Mitra."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "23. Who was the last ruler of the Mauryan Dynasty, whose assassination brought an end to the empire?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Dasharatha"
+      },
+      {
+        "id": 2,
+        "text": "Samprati"
+      },
+      {
+        "id": 3,
+        "text": "Brihadratha"
+      },
+      {
+        "id": 4,
+        "text": "Devavarman"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Brihadratha Maurya was the last ruler of the Mauryan Empire. He was assassinated by his own commander-in-chief, Pushyamitra Sunga, in 185 BCE, leading to the establishment of the Sunga Dynasty."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "24. Based on Mauryan administrative texts, what was the primary responsibility of an 'Akshapatalika'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "City policing"
+      },
+      {
+        "id": 2,
+        "text": "Maintaining accounts and auditing"
+      },
+      {
+        "id": 3,
+        "text": "Commanding the cavalry"
+      },
+      {
+        "id": 4,
+        "text": "Supervising the royal treasury"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Akshapatalika was the Accountant-General or chief auditor who maintained the records and accounts of the Mauryan state."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "25. Which important port on the eastern coast served as a major center for maritime trade during the Mauryan and Post-Mauryan periods?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bharuch (Broach)"
+      },
+      {
+        "id": 2,
+        "text": "Sopara"
+      },
+      {
+        "id": 3,
+        "text": "Tamralipti"
+      },
+      {
+        "id": 4,
+        "text": "Muziris"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Tamralipti (in modern-day Bengal) was the most prominent seaport on the eastern coast, facilitating trade and cultural exchange with Southeast Asia and Sri Lanka."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "26. During the Mauryan period, emergency taxes were occasionally levied to fill the state coffers. Which of the following terms refers to this emergency tax?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pranaya"
+      },
+      {
+        "id": 2,
+        "text": "Pindakara"
+      },
+      {
+        "id": 3,
+        "text": "Parsvam"
+      },
+      {
+        "id": 4,
+        "text": "Senabhaktam"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "'Pranaya' was an emergency tax or 'gift of affection' demanded by the state during times of financial crisis. 'Parsvam' was a surcharge, and 'Senabhaktam' was a tax for the army."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "27. Under Ashoka's administration, Major Rock Edict XII is famous for advocating which of the following principles?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Prohibition of animal sacrifice"
+      },
+      {
+        "id": 2,
+        "text": "Religious tolerance among all sects"
+      },
+      {
+        "id": 3,
+        "text": "Administration of criminal justice"
+      },
+      {
+        "id": 4,
+        "text": "Medical treatment for humans and animals"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Major Rock Edict XII contains Ashoka's famous appeal for religious tolerance. It urges people to respect all sects and refrain from criticizing other religions."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "28. The four lions mounted back-to-back on a circular abacus, which serves as India's National Emblem, was originally placed on top of which Ashokan pillar?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Delhi-Topra Pillar"
+      },
+      {
+        "id": 2,
+        "text": "Lauriya-Nandangarh Pillar"
+      },
+      {
+        "id": 3,
+        "text": "Sarnath Pillar"
+      },
+      {
+        "id": 4,
+        "text": "Allahabad Pillar"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Lion Capital of Ashoka, adopted as the National Emblem of India in 1950, originally crowned the Sarnath Pillar. It marks the spot where Buddha delivered his first sermon."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "29. According to Megasthenes, the Mauryan military administration was managed by a complex board. How was this military board structured?",
+    "options": [
+      {
+        "id": 1,
+        "text": "10 committees of 3 members each"
+      },
+      {
+        "id": 2,
+        "text": "6 committees of 5 members each"
+      },
+      {
+        "id": 3,
+        "text": "4 committees of 6 members each"
+      },
+      {
+        "id": 4,
+        "text": "5 committees of 4 members each"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "According to 'Indica', the Mauryan army was massive and was managed by a board of 30 members, which was further divided into 6 committees of 5 members each (managing infantry, cavalry, chariots, elephants, navy, and transport)."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "30. The Mauryan Empire established several regional capitals to manage its vast territory. 'Taxila' (Takshashila) was the capital of which province?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Avantipatha (West)"
+      },
+      {
+        "id": 2,
+        "text": "Prachyapatha (East)"
+      },
+      {
+        "id": 3,
+        "text": "Dakshinapatha (South)"
+      },
+      {
+        "id": 4,
+        "text": "Uttarapatha (North)"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Taxila was the capital of the Uttarapatha (Northern Province). It was a major center for trade and learning, situated on key trade routes connecting India to Central Asia."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "31. The Major Rock Edicts of Ashoka located in the north-western parts of the subcontinent (like Shahbazgarhi and Mansehra) were primarily written in which script?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Brahmi"
+      },
+      {
+        "id": 2,
+        "text": "Kharosthi"
+      },
+      {
+        "id": 3,
+        "text": "Greek"
+      },
+      {
+        "id": 4,
+        "text": "Aramaic"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "While most of Ashoka's edicts across India were written in Prakrit using the Brahmi script, the edicts in the north-western region (modern Pakistan) like Shahbazgarhi and Mansehra were written in the Kharosthi script."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "32. In the context of Mauryan administrative roles, what was the function of the 'Samsthadhyaksha'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Superintendent of Markets"
+      },
+      {
+        "id": 2,
+        "text": "Superintendent of Passports"
+      },
+      {
+        "id": 3,
+        "text": "Superintendent of Prostitutes"
+      },
+      {
+        "id": 4,
+        "text": "Superintendent of Royal Chariots"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The 'Samsthadhyaksha' was responsible for regulating markets, keeping a check on weights and measures, and preventing fraud by traders."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "33. Which of the following observations made by Megasthenes in his 'Indica' is considered historically inaccurate regarding Mauryan society?",
+    "options": [
+      {
+        "id": 1,
+        "text": "India produced abundant agricultural crops due to fertile soil."
+      },
+      {
+        "id": 2,
+        "text": "The military was overseen by a large administrative board."
+      },
+      {
+        "id": 3,
+        "text": "There was a complete absence of slavery in India."
+      },
+      {
+        "id": 4,
+        "text": "Pataliputra was surrounded by a massive wooden palisade."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Megasthenes stated that there were no slaves in India. This was inaccurate, as Kautilya's Arthashastra clearly outlines regulations and laws concerning different types of slavery (Dasa) in the Mauryan period."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "34. Who among the following was the founder of the Sunga Dynasty, establishing power after the fall of the Mauryan Empire?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Agnimitra"
+      },
+      {
+        "id": 2,
+        "text": "Vasudeva"
+      },
+      {
+        "id": 3,
+        "text": "Pushyamitra Sunga"
+      },
+      {
+        "id": 4,
+        "text": "Devabhuti"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Pushyamitra Sunga, the Brahmin commander-in-chief of the Mauryan army, assassinated Brihadratha (the last Mauryan king) in 185 BCE and established the Sunga Dynasty."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "35. The famous 'Sudarshana Lake' in Gujarat, which played a crucial role in regional irrigation, was originally constructed by a governor during the reign of:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ashoka"
+      },
+      {
+        "id": 2,
+        "text": "Chandragupta Maurya"
+      },
+      {
+        "id": 3,
+        "text": "Rudradaman I"
+      },
+      {
+        "id": 4,
+        "text": "Skandagupta"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "According to the Junagarh Rock Inscription of Rudradaman, the Sudarshana Lake was originally constructed by Pushyagupta, the provincial governor under Chandragupta Maurya, and later repaired by Ashoka, Rudradaman, and Skandagupta."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "36. Following the assassination of the last Mauryan ruler Brihadratha, Pushyamitra Sunga established the Sunga Dynasty in 185 BCE. What was the capital of this new dynasty?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pataliputra"
+      },
+      {
+        "id": 2,
+        "text": "Vidisha"
+      },
+      {
+        "id": 3,
+        "text": "Ujjain"
+      },
+      {
+        "id": 4,
+        "text": "Taxila"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Pushyamitra Sunga shifted the political center of gravity from Pataliputra and established his capital at Vidisha (in present-day Madhya Pradesh). He was a staunch follower of Brahmanism."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "37. Which famous ancient Indian grammarian lived during the reign of Pushyamitra Sunga and mentioned the performance of Ashvamedha (horse sacrifices) by the king?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Panini"
+      },
+      {
+        "id": 2,
+        "text": "Patanjali"
+      },
+      {
+        "id": 3,
+        "text": "Vararuchi"
+      },
+      {
+        "id": 4,
+        "text": "Amarsimha"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Patanjali, the author of the 'Mahabhashya' (a commentary on Panini's grammar), lived during the reign of Pushyamitra Sunga and recorded the king's revival of Vedic sacrifices like the Ashvamedha yajna."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "38. The Bharhut Stupa in Madhya Pradesh, famous for its intricate stone railings depicting Buddhist Jataka tales, was primarily built during the rule of which dynasty?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mauryan Dynasty"
+      },
+      {
+        "id": 2,
+        "text": "Sunga Dynasty"
+      },
+      {
+        "id": 3,
+        "text": "Satavahana Dynasty"
+      },
+      {
+        "id": 4,
+        "text": "Kushan Dynasty"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Although initially founded by Ashoka, the Bharhut Stupa was significantly expanded and adorned with elaborately carved stone gateways and railings during the Sunga Dynasty."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "39. Who was the last ruler of the Sunga Dynasty, who was overthrown by his own minister to establish the Kanva Dynasty?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Agnimitra"
+      },
+      {
+        "id": 2,
+        "text": "Bhagabhadra"
+      },
+      {
+        "id": 3,
+        "text": "Devabhuti"
+      },
+      {
+        "id": 4,
+        "text": "Vasudeva"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Devabhuti was the last Sunga ruler. He was assassinated by his minister Vasudeva Kanva in 73 BCE, who then founded the Kanva Dynasty (also known as Shungabhritas)."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "40. The Satavahana Dynasty, also known as the Andhras, became the most powerful empire in the Deccan after the decline of the Mauryas. Where was their capital located?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Manyakheta"
+      },
+      {
+        "id": 2,
+        "text": "Pratishthana (Paithan)"
+      },
+      {
+        "id": 3,
+        "text": "Vatapi"
+      },
+      {
+        "id": 4,
+        "text": "Kanchipuram"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Satavahanas ruled a vast empire in the Deccan region. Their capital was Pratishthana (modern Paithan in Maharashtra). The dynasty was founded by Simuka."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "41. Which great Satavahana ruler adopted the title 'Ekabrahmana' and claimed to have re-established the fourfold varna system?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Simuka"
+      },
+      {
+        "id": 2,
+        "text": "Gautamiputra Satakarni"
+      },
+      {
+        "id": 3,
+        "text": "Vashishtiputra Pulumavi"
+      },
+      {
+        "id": 4,
+        "text": "Yajna Sri Satakarni"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Gautamiputra Satakarni (106–130 CE) was the greatest Satavahana ruler. His achievements are highly praised in the Nasik Inscription composed by his mother, Gautami Balashri, where he is called 'Ekabrahmana'."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "42. The Satavahanas are historically significant for initiating a major socio-economic practice in ancient India. What was this practice?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Issuing the first pure gold coins."
+      },
+      {
+        "id": 2,
+        "text": "Making tax-free land grants to Brahmins and Buddhist monks."
+      },
+      {
+        "id": 3,
+        "text": "Establishing a fully democratic republic."
+      },
+      {
+        "id": 4,
+        "text": "Banning all forms of maritime trade."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Satavahanas were the first Indian rulers to start the practice of granting tax-free land and villages to Brahmins and Buddhist monks, which laid the early foundation for feudalism in India."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "43. Unlike northern empires that predominantly used copper, silver, or gold, the Satavahanas are uniquely known for issuing a large number of coins made from which metal?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Iron"
+      },
+      {
+        "id": 2,
+        "text": "Lead"
+      },
+      {
+        "id": 3,
+        "text": "Zinc"
+      },
+      {
+        "id": 4,
+        "text": "Tin"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Satavahanas mostly issued coins made of lead, along with potin, copper, and bronze, reflecting the specific metallurgical resources available in the Deccan."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "44. The Indo-Greeks (Yavanas) were the first foreign rulers to invade India from the Hindu Kush post-Mauryas. Which major numismatic innovation is credited to them in India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Introduction of punch-marked silver coins."
+      },
+      {
+        "id": 2,
+        "text": "First to issue gold coins bearing the images and names of kings."
+      },
+      {
+        "id": 3,
+        "text": "Introduction of cowrie shells as currency."
+      },
+      {
+        "id": 4,
+        "text": "Issuing pure lead coins."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Indo-Greeks were the first in India to issue coins that can be definitively attributed to particular kings, featuring their portraits. They were also the first to issue gold coins in India."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "45. The ancient philosophical text 'Milindapanho' records a dialogue between the Indo-Greek King Menander and which Buddhist monk?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ashvaghosha"
+      },
+      {
+        "id": 2,
+        "text": "Vasumitra"
+      },
+      {
+        "id": 3,
+        "text": "Nagasena"
+      },
+      {
+        "id": 4,
+        "text": "Moggaliputta Tissa"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The 'Milindapanho' (Questions of Milinda) documents the philosophical questions posed by King Menander (Milinda) and the brilliant answers provided by the Buddhist monk Nagasena, leading to the king's conversion."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "46. In 57 BCE, a king of Ujjain defeated the invading Sakas (Scythians) and assumed a famous title, starting a new era. What is the name of this era?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Saka Era"
+      },
+      {
+        "id": 2,
+        "text": "Vikram Samvat"
+      },
+      {
+        "id": 3,
+        "text": "Gupta Era"
+      },
+      {
+        "id": 4,
+        "text": "Harsha Era"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "In 57 BCE, a local king of Ujjain defeated the Sakas and took the title 'Vikramaditya'. To commemorate this victory, he started the Vikram Samvat calendar."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "47. The most famous Saka ruler in India was Rudradaman I (130-150 CE). Which famous inscription, written entirely in pure Sanskrit, details his military conquests and his repair of the Sudarshana Lake?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hathigumpha Inscription"
+      },
+      {
+        "id": 2,
+        "text": "Girnar (Junagarh) Rock Inscription"
+      },
+      {
+        "id": 3,
+        "text": "Prayag Prashasti"
+      },
+      {
+        "id": 4,
+        "text": "Aihole Inscription"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Girnar or Junagarh Rock Inscription in Gujarat is the first major inscription written in chaste Sanskrit. It praises Rudradaman I for defeating the Satavahanas and repairing the Sudarshana Lake (originally built by Chandragupta Maurya)."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "48. The Kushans, who controlled the famous Silk Route, belonged to a nomadic Central Asian tribe. By what name was this tribe historically known?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hunas"
+      },
+      {
+        "id": 2,
+        "text": "Yuezhi (Tocharians)"
+      },
+      {
+        "id": 3,
+        "text": "Parthians"
+      },
+      {
+        "id": 4,
+        "text": "Bactrians"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Kushans were one of the five clans of the Yuezhi (Tocharian) nomadic tribe from the Chinese frontier who migrated to India."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "49. Who was the founder of the Kushan Dynasty in India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kanishka"
+      },
+      {
+        "id": 2,
+        "text": "Vima Kadphises"
+      },
+      {
+        "id": 3,
+        "text": "Kujula Kadphises"
+      },
+      {
+        "id": 4,
+        "text": "Huvishka"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Kujula Kadphises was the founder of the Kushan Empire in India. His successor, Vima Kadphises, began issuing a large number of gold coins, and Kanishka later became its greatest ruler."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "50. Emperor Kanishka ascended the throne in 78 CE. What historic era was commenced from this exact year, which is now adopted by the Government of India?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vikram Era"
+      },
+      {
+        "id": 2,
+        "text": "Saka Era"
+      },
+      {
+        "id": 3,
+        "text": "Gupta Era"
+      },
+      {
+        "id": 4,
+        "text": "Kali Era"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Kanishka started the Saka Era in 78 CE to mark his accession to the throne. This calendar was adopted as the official Indian National Calendar in 1957."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "51. Which famous inscription found in Afghanistan, written in the Bactrian language, outlines the lineage of Kanishka and provides proof of his vast empire?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Boghazkoi Inscription"
+      },
+      {
+        "id": 2,
+        "text": "Rabatak Inscription"
+      },
+      {
+        "id": 3,
+        "text": "Besnagar Pillar Inscription"
+      },
+      {
+        "id": 4,
+        "text": "Sohgaura Copper Plate"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Rabatak Inscription, discovered in Afghanistan, is crucial for Kushan history. It was written in the Bactrian language (using Greek script) and establishes Kanishka's genealogy and the extent of his empire."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "52. The Kushans established an administrative system heavily borrowed from the Greeks and Parthians to govern their vast territories. What was this system called?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mansabdari System"
+      },
+      {
+        "id": 2,
+        "text": "Iqtadari System"
+      },
+      {
+        "id": 3,
+        "text": "Satrap System"
+      },
+      {
+        "id": 4,
+        "text": "Nayankara System"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Kushans divided their empire into provinces ruled by Kshatrapas and Mahakshatrapas. This Satrap system was of Persian/Greek (Strategos) origin, allowing decentralized military governance."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "53. Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options:\nAssertion (A): Gandhara images frequently feature a halo and curly hair.\nReason (R): These elements symbolise Graeco-Roman influence in North-West India.",
+    "options": [
+      {
+        "id": 1,
+        "text": "Both A and R are true, and R is the correct explanation of A."
+      },
+      {
+        "id": 2,
+        "text": "Both A and R are true, but R is NOT the correct explanation of A."
+      },
+      {
+        "id": 3,
+        "text": "A is true, but R is false."
+      },
+      {
+        "id": 4,
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The Gandhara School of Art (flourishing in the North-West under the Kushans) heavily assimilated Hellenistic (Graeco-Roman) features. The depiction of Buddha with curly, Apollo-like hair, muscular bodies, and a distinct halo are direct results of this foreign influence."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "54. Which of the following is a distinguishing characteristic of the Mathura School of Art, which flourished concurrently with the Gandhara School under Kushan patronage?",
+    "options": [
+      {
+        "id": 1,
+        "text": "It extensively used grey sandstone."
+      },
+      {
+        "id": 2,
+        "text": "It was purely an indigenous style using spotted red sandstone."
+      },
+      {
+        "id": 3,
+        "text": "It completely prohibited the depiction of Hindu and Jain deities."
+      },
+      {
+        "id": 4,
+        "text": "It depicted the Buddha solely using symbolic elements like footprints."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Unlike the Graeco-Roman influenced Gandhara school, the Mathura School was deeply indigenous. It used spotted red sandstone, featured prominent halos, and sculpted figures of Buddhist, Jain, and Brahmanical deities."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "55. Which prominent physician in the court of Kanishka authored a foundational text on ancient Indian medicine?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sushruta"
+      },
+      {
+        "id": 2,
+        "text": "Dhanvantari"
+      },
+      {
+        "id": 3,
+        "text": "Charaka"
+      },
+      {
+        "id": 4,
+        "text": "Vagbhata"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Charaka was the court physician of Kanishka and authored the 'Charakasamhita', an authoritative ancient Indian text on Ayurveda (medicine). (Sushruta is considered the Father of Surgery)."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "56. Which renowned philosopher and poet in Kanishka's court authored the epic Sanskrit poem 'Buddhacharita'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nagasena"
+      },
+      {
+        "id": 2,
+        "text": "Vasumitra"
+      },
+      {
+        "id": 3,
+        "text": "Ashvaghosha"
+      },
+      {
+        "id": 4,
+        "text": "Kalidasa"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Ashvaghosha wrote the 'Buddhacharita', a biography of the Buddha in Sanskrit. He also served as the vice-president of the 4th Buddhist Council convened by Kanishka."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "57. The Kushan rulers adopted grand titles to signify their supreme authority. Which of the following titles did Kanishka commonly use?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Devaputra"
+      },
+      {
+        "id": 2,
+        "text": "Ekabrahmana"
+      },
+      {
+        "id": 3,
+        "text": "Piyadasi"
+      },
+      {
+        "id": 4,
+        "text": "Amitrochates"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The Kushan kings, following Chinese imperial traditions, adopted the title 'Devaputra', meaning 'Son of God', to assert their divine right to rule."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "58. Which of the following ancient Indian texts was authored by Vatsyayana during the post-Mauryan period?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahabhashya"
+      },
+      {
+        "id": 2,
+        "text": "Kamasutra"
+      },
+      {
+        "id": 3,
+        "text": "Malavikagnimitram"
+      },
+      {
+        "id": 4,
+        "text": "Natya Shastra"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Vatsyayana authored the 'Kamasutra', a classic Indian text on human behavior, society, and relationships, during the early centuries of the Common Era."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "59. The Chedi Dynasty emerged in the 1st Century BCE in the Kalinga region (Odisha). Its greatest ruler was King Kharavela. Which religion did he prominently patronize?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Buddhism"
+      },
+      {
+        "id": 2,
+        "text": "Jainism"
+      },
+      {
+        "id": 3,
+        "text": "Ajivika"
+      },
+      {
+        "id": 4,
+        "text": "Shaivism"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "King Kharavela was a staunch patron of Jainism. According to the Hathigumpha Inscription, he excavated caves in the Udayagiri hills for Jain ascetics."
+  },
+  {
+    "chapterId": "hist-anc-4",
+    "text": "60. Which of the following statements is true regarding the social structure and language of the Satavahana Empire?",
+    "options": [
+      {
+        "id": 1,
+        "text": "They used pure Sanskrit for all official inscriptions."
+      },
+      {
+        "id": 2,
+        "text": "They established a fully patrilineal society where kings did not use their mothers' names."
+      },
+      {
+        "id": 3,
+        "text": "They showed traces of a matrilineal society, with kings taking metronymics like 'Gautamiputra', but succession remained patriarchal."
+      },
+      {
+        "id": 4,
+        "text": "They completely banned Brahmanical sacrifices."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Satavahanas exhibited unique matrilineal traces, as kings often used metronymics (names derived from their mothers, e.g., Gautamiputra, Vashishtiputra). However, political succession to the throne remained patriarchal. Their official language was Prakrit, not Sanskrit."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "1. Who is considered the founder of the Gupta Empire?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chandragupta I"
+      },
+      {
+        "id": 2,
+        "text": "Sri Gupta"
+      },
+      {
+        "id": 3,
+        "text": "Ghatotkacha"
+      },
+      {
+        "id": 4,
+        "text": "Samudragupta"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Sri Gupta is the founder of the Gupta dynasty. He was succeeded by his son Ghatotkacha, and then by Chandragupta I who laid the real foundation of the empire."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "2. Chandragupta I (319–334 CE) significantly strengthened his political position by marrying Kumaradevi. She was a princess of which prominent clan?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Malla"
+      },
+      {
+        "id": 2,
+        "text": "Shakya"
+      },
+      {
+        "id": 3,
+        "text": "Lichchhavi"
+      },
+      {
+        "id": 4,
+        "text": "Vakataka"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Chandragupta I married Kumaradevi, a princess of the powerful Lichchhavi clan. This marriage alliance greatly enhanced the prestige and power of the Gupta Empire."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "3. The 'Gupta Era' was established to mark the ascension of Chandragupta I to the throne. In which year did the Gupta Era commence?",
+    "options": [
+      {
+        "id": 1,
+        "text": "57 BCE"
+      },
+      {
+        "id": 2,
+        "text": "78 CE"
+      },
+      {
+        "id": 3,
+        "text": "319–320 CE"
+      },
+      {
+        "id": 4,
+        "text": "415 CE"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Chandragupta I founded the Gupta Era in 319–320 CE to commemorate his coronation and his assumption of the title 'Maharajadhiraja'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "4. Which Gupta ruler is famously referred to as the 'Napoleon of India' by the historian V.A. Smith due to his extensive military conquests?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Skandagupta"
+      },
+      {
+        "id": 2,
+        "text": "Chandragupta II"
+      },
+      {
+        "id": 3,
+        "text": "Kumaragupta I"
+      },
+      {
+        "id": 4,
+        "text": "Samudragupta"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Samudragupta (335–380 CE) was a great warrior and conqueror. Recognizing his vast military campaigns across the Indian subcontinent, historian V.A. Smith called him the 'Napoleon of India'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "5. The 'Allahabad Pillar Inscription' (Prayag Prashasti) provides a detailed account of Samudragupta's reign and conquests. Who composed this famous inscription?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kalidasa"
+      },
+      {
+        "id": 2,
+        "text": "Harisena"
+      },
+      {
+        "id": 3,
+        "text": "Banabhatta"
+      },
+      {
+        "id": 4,
+        "text": "Ravikirti"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Prayag Prashasti (Allahabad Pillar Inscription) was composed in Sanskrit by Harisena, who was the court poet and a minister under Samudragupta."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "6. Samudragupta issued various types of gold coins reflecting his multifaceted personality. On one specific type of coin, he is depicted playing which musical instrument?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sitar"
+      },
+      {
+        "id": 2,
+        "text": "Flute"
+      },
+      {
+        "id": 3,
+        "text": "Veena"
+      },
+      {
+        "id": 4,
+        "text": "Tabla"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Samudragupta was a patron of arts and music, holding the title 'Kaviraja'. He is depicted playing the Veena (a stringed instrument) on some of his gold coins."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "7. Chandragupta II (380–414 CE) assumed a famous title after his military victories. What was this title?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Maharajadhiraja"
+      },
+      {
+        "id": 2,
+        "text": "Vikramaditya"
+      },
+      {
+        "id": 3,
+        "text": "Param Bhagavata"
+      },
+      {
+        "id": 4,
+        "text": "Sarvraj-ochchetta"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Chandragupta II took the title 'Vikramaditya' (Sun of Valour). His reign is often associated with the legendary King Vikramaditya of Ujjain and his court of Navaratnas."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "8. Chandragupta II was the first Gupta ruler to issue silver coins. This was done specifically to commemorate his victory over which dynasty?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The Hunas"
+      },
+      {
+        "id": 2,
+        "text": "The Kushans"
+      },
+      {
+        "id": 3,
+        "text": "The Sakas (Western Kshatrapas)"
+      },
+      {
+        "id": 4,
+        "text": "The Vakatakas"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Chandragupta II defeated the Sakas (Western Kshatrapas) who ruled in Gujarat and Malwa. To celebrate this victory, he issued silver coins, modeling them after the Saka coinage."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "9. Which famous Chinese Buddhist pilgrim visited India during the reign of Chandragupta II to study Buddhist texts and collect manuscripts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hiuen-Tsang (Xuanzang)"
+      },
+      {
+        "id": 2,
+        "text": "I-Tsing (Yijing)"
+      },
+      {
+        "id": 3,
+        "text": "Fa-Hien (Faxian)"
+      },
+      {
+        "id": 4,
+        "text": "Sung Yun"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Fa-Hien (Faxian) visited India during the reign of Chandragupta II (Vikramaditya). (Note: Hiuen-Tsang visited later, during the reign of Harshavardhana)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "10. The court of Chandragupta II was adorned by the 'Navaratnas' (Nine Gems). Who among the following was the celebrated physician in his court?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Charaka"
+      },
+      {
+        "id": 2,
+        "text": "Sushruta"
+      },
+      {
+        "id": 3,
+        "text": "Dhanvantari"
+      },
+      {
+        "id": 4,
+        "text": "Varahamihira"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Dhanvantari was the renowned physician among the Navaratnas in the court of Chandragupta II. (Varahamihira was an astronomer, while Charaka and Sushruta belonged to different eras)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "11. Which of the following scholars from the 'Navaratnas' of Chandragupta II was a great astronomer?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amarasimha"
+      },
+      {
+        "id": 2,
+        "text": "Varahamihira"
+      },
+      {
+        "id": 3,
+        "text": "Vararuchi"
+      },
+      {
+        "id": 4,
+        "text": "Shanku"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Varahamihira was the eminent astronomer among the Nine Gems. Amarasimha was a lexicographer, Vararuchi was a grammarian, and Shanku was an architect."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "12. Kalidasa, one of the greatest Sanskrit poets and dramatists, was a 'gem' in the court of Chandragupta II. Which of the following is NOT a work by Kalidasa?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Abhijnanashakuntalam"
+      },
+      {
+        "id": 2,
+        "text": "Meghaduta"
+      },
+      {
+        "id": 3,
+        "text": "Mrichchhakatika"
+      },
+      {
+        "id": 4,
+        "text": "Raghuvamsha"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "'Mrichchhakatika' (The Little Clay Cart) is a famous Sanskrit drama written by Shudraka, not Kalidasa. Kalidasa authored Abhijnanashakuntalam, Meghaduta, Raghuvamsha, Malavikagnimitra, etc."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "13. The famous 'Mehrauli Iron Pillar', which is renowned for its rust-resistant composition, was erected during the time of which empire?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mauryan Empire"
+      },
+      {
+        "id": 2,
+        "text": "Gupta Empire"
+      },
+      {
+        "id": 3,
+        "text": "Kushan Empire"
+      },
+      {
+        "id": 4,
+        "text": "Satavahana Empire"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Mehrauli Iron Pillar (in Delhi) was built during the reign of Chandragupta II of the Gupta Empire. It bears an inscription dedicated to a king named 'Chandra'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "14. The 'Eran Inscription' provides the very first epigraphic (inscriptional) evidence of the practice of Sati in India. During whose reign was this inscribed?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Samudragupta"
+      },
+      {
+        "id": 2,
+        "text": "Bhanugupta"
+      },
+      {
+        "id": 3,
+        "text": "Skandagupta"
+      },
+      {
+        "id": 4,
+        "text": "Kumaragupta I"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Eran Inscription in Madhya Pradesh, dated to 510 CE during the time of Bhanugupta, records the first inscriptional evidence of a woman committing Sati after her husband's death in battle."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "15. The Bhitargaon Temple is historically significant as it is considered the oldest surviving brick temple in India. Where is it located?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vidisha"
+      },
+      {
+        "id": 2,
+        "text": "Ujjain"
+      },
+      {
+        "id": 3,
+        "text": "Kanpur"
+      },
+      {
+        "id": 4,
+        "text": "Varanasi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Bhitargaon Temple, dedicated to Lord Krishna and built during the Gupta period, is located in Kanpur, Uttar Pradesh. It is a masterpiece of early terracotta brick architecture."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "16. The Udaygiri Caves in Vidisha (Madhya Pradesh) date back to the Gupta period. They are most famous for a colossal rock-cut relief sculpture of which deity?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lord Shiva as Nataraja"
+      },
+      {
+        "id": 2,
+        "text": "Varaha (Boar) Avatar of Vishnu"
+      },
+      {
+        "id": 3,
+        "text": "Gautam Buddha in Bhumisparsha Mudra"
+      },
+      {
+        "id": 4,
+        "text": "Goddess Durga as Mahishasuramardini"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Udaygiri caves in Vidisha contain a highly celebrated and massive rock-cut relief of the Varaha (Boar) Avatar of Lord Vishnu rescuing the earth goddess, Bhudevi."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "17. The foundation of the world-renowned ancient Nalanda University in Bihar was laid by which Gupta ruler?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Samudragupta"
+      },
+      {
+        "id": 2,
+        "text": "Chandragupta II"
+      },
+      {
+        "id": 3,
+        "text": "Kumaragupta I"
+      },
+      {
+        "id": 4,
+        "text": "Skandagupta"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Kumaragupta I (415–455 CE) founded the Nalanda University, which later grew into the most prominent center of Buddhist learning in ancient India."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "18. Which Gupta emperor successfully defended the empire against the initial massive invasions of the Hunas (White Huns)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Chandragupta I"
+      },
+      {
+        "id": 2,
+        "text": "Kumaragupta I"
+      },
+      {
+        "id": 3,
+        "text": "Skandagupta"
+      },
+      {
+        "id": 4,
+        "text": "Bhanugupta"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Skandagupta (455–467 CE) faced the severe threat of the Huna invasions and successfully repelled them, saving the empire temporarily. He is also known for repairing the Sudarsana Lake."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "19. In the Gupta administrative structure, the empire was divided into several provinces. What was the term used for a 'Province'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vishaya"
+      },
+      {
+        "id": 2,
+        "text": "Bhukti"
+      },
+      {
+        "id": 3,
+        "text": "Nagara"
+      },
+      {
+        "id": 4,
+        "text": "Grama"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "In the Gupta Empire, a province was called a 'Bhukti' and was headed by an official called an 'Uparika'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "20. Match the administrative unit of the Gupta period with its respective head:\n1. Bhukti (Province)\n2. Vishaya (District)\n3. Nagara (City)\n\n(A) Vishayapati\n(B) Uparika\n(C) Nagarpati",
+    "options": [
+      {
+        "id": 1,
+        "text": "1-B, 2-A, 3-C"
+      },
+      {
+        "id": 2,
+        "text": "1-A, 2-B, 3-C"
+      },
+      {
+        "id": 3,
+        "text": "1-C, 2-A, 3-B"
+      },
+      {
+        "id": 4,
+        "text": "1-B, 2-C, 3-A"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "A Bhukti (Province) was headed by an Uparika. A Vishaya (District) was headed by a Vishayapati. A Nagara (City) was headed by a Nagarpati."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "21. What was the designation of the most important provincial officer during the Gupta administration?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahadandanayaka"
+      },
+      {
+        "id": 2,
+        "text": "Sandhivigrahika"
+      },
+      {
+        "id": 3,
+        "text": "Kumaramatya"
+      },
+      {
+        "id": 4,
+        "text": "Nagarashreshthi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The 'Kumaramatya' was the highest class of provincial civil officers in the Gupta administration, serving directly under the king or provincial governors (Uparikas)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "22. In the central administration of the Gupta Empire, the 'Sandhivigrahika' was primarily responsible for which department?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Justice and Law"
+      },
+      {
+        "id": 2,
+        "text": "War and Peace (Foreign Affairs)"
+      },
+      {
+        "id": 3,
+        "text": "Treasury and Taxation"
+      },
+      {
+        "id": 4,
+        "text": "Religious Endowments"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The 'Sandhivigrahika' was the Minister of Peace and War, dealing with foreign affairs and diplomatic relations. (The Minister of Justice was the Mahadandanayaka)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "23. In the context of Gupta taxation, what did the term 'Bhaga' refer to?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A regular tax that was often oppressive"
+      },
+      {
+        "id": 2,
+        "text": "Forced labor extracted by the state"
+      },
+      {
+        "id": 3,
+        "text": "A standard tax consisting of 1/6th of the agricultural produce"
+      },
+      {
+        "id": 4,
+        "text": "A special tax paid only in gold or cash"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Bhaga was the customary king's share of the agricultural produce, which was generally fixed at 1/6th of the total yield."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "24. Which of the following tax terms from the Gupta era specifically refers to 'Forced Labor'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Bhoga"
+      },
+      {
+        "id": 2,
+        "text": "Vishti"
+      },
+      {
+        "id": 3,
+        "text": "Upanaka"
+      },
+      {
+        "id": 4,
+        "text": "Bali"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Vishti referred to forced labor that the peasants or commoners were obliged to provide to the state or local officials without payment."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "25. During the Gupta period, a specific tax called 'Hiranya' was collected. What was the defining feature of this tax?",
+    "options": [
+      {
+        "id": 1,
+        "text": "It was a water tax for irrigation."
+      },
+      {
+        "id": 2,
+        "text": "It was a tax collected in the form of flowers and fruits."
+      },
+      {
+        "id": 3,
+        "text": "It was a special purpose tax collected in cash (gold)."
+      },
+      {
+        "id": 4,
+        "text": "It was a tax specifically levied on ploughs."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Hiranya literally translates to 'gold'. In the taxation system, it referred to taxes that were paid in cash (usually gold or silver coins) rather than in kind."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "26. The Vakataka Dynasty (250–500 CE) ruled central and southern India concurrently with the Guptas. Who was the founder of the Vakataka Dynasty?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Rudrasena II"
+      },
+      {
+        "id": 2,
+        "text": "Vindhyashakti"
+      },
+      {
+        "id": 3,
+        "text": "Pravarasena I"
+      },
+      {
+        "id": 4,
+        "text": "Harisena"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Vindhyashakti was the founder of the Vakataka dynasty, a major political power that formed crucial matrimonial alliances with the Gupta Empire."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "27. To cement a strong political alliance, Chandragupta II married his daughter Prabhavati Gupta to which Vakataka king?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vindhyashakti"
+      },
+      {
+        "id": 2,
+        "text": "Pravarasena II"
+      },
+      {
+        "id": 3,
+        "text": "Rudrasena II"
+      },
+      {
+        "id": 4,
+        "text": "Prithvishena I"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Prabhavati Gupta, the daughter of Chandragupta II, was married to the Vakataka king Rudrasena II. After his early death, she acted as a powerful regent, effectively bringing Vakataka territories under Gupta influence."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "28. The Vakataka rulers were great patrons of art and architecture. They are credited with building a significant portion of which famous rock-cut cave complex?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Elephanta Caves"
+      },
+      {
+        "id": 2,
+        "text": "Ajanta Caves"
+      },
+      {
+        "id": 3,
+        "text": "Udaygiri Caves"
+      },
+      {
+        "id": 4,
+        "text": "Bagh Caves"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Although the Vakatakas followed Brahmanism, they actively supported Buddhism. They patronized the later phase of the Ajanta Caves, constructing beautiful rock-cut viharas and chaityas."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "29. Which foreign tribe's repeated invasions were a major factor in the decline and eventual collapse of the Gupta Empire?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The Sakas"
+      },
+      {
+        "id": 2,
+        "text": "The Kushans"
+      },
+      {
+        "id": 3,
+        "text": "The Hunas (White Huns)"
+      },
+      {
+        "id": 4,
+        "text": "The Indo-Greeks"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The repeated and devastating invasions by the Hunas (White Huns) from the northwest significantly drained the resources of the Gupta Empire, leading to its decline."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "30. The 'Bagh Caves' in Madhya Pradesh, dating to the Gupta period, are renowned for what kind of artwork?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jain monolithic statues"
+      },
+      {
+        "id": 2,
+        "text": "Buddhist murals (frescoes)"
+      },
+      {
+        "id": 3,
+        "text": "Shaivite rock-cut reliefs"
+      },
+      {
+        "id": 4,
+        "text": "Inscriptions in Kharosthi script"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Bagh Caves in Madhya Pradesh are famous for their exquisite Buddhist mural paintings, representing the pinnacle of Gupta-era pictorial art."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "31. In Gupta taxation, the term 'Halivakara' referred to a specific tax levied on:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Water resources"
+      },
+      {
+        "id": 2,
+        "text": "Ploughs"
+      },
+      {
+        "id": 3,
+        "text": "Cattle"
+      },
+      {
+        "id": 4,
+        "text": "Forest produce"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "'Halivakara' was a plough tax levied on cultivators. ('Udakabhaga' was the tax for water/irrigation)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "32. Among the various gold coins issued by Samudragupta, the 'Ashvamedha' type indicates that he:",
+    "options": [
+      {
+        "id": 1,
+        "text": "Assassinated a rival king."
+      },
+      {
+        "id": 2,
+        "text": "Performed the Vedic horse sacrifice to prove imperial sovereignty."
+      },
+      {
+        "id": 3,
+        "text": "Conquered the Hunas."
+      },
+      {
+        "id": 4,
+        "text": "Embraced Buddhism."
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The 'Ashvamedha' coin type explicitly depicts a sacrificial horse, confirming that Samudragupta performed the Ashvamedha Yagna (horse sacrifice) to declare his unchallenged imperial authority."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "33. Which Gupta emperor officially changed the name of the ancient city of Saketa to 'Ayodhya'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Samudragupta"
+      },
+      {
+        "id": 2,
+        "text": "Chandragupta I"
+      },
+      {
+        "id": 3,
+        "text": "Chandragupta II"
+      },
+      {
+        "id": 4,
+        "text": "Skandagupta"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Skandagupta (455–467 CE) is historically noted for renaming the city of Saketa to Ayodhya."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "34. Who among the Navaratnas in Chandragupta II's court was famous as a skilled 'Magician' or practitioner of esoteric arts?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vetalabhatta"
+      },
+      {
+        "id": 2,
+        "text": "Kahapanaka"
+      },
+      {
+        "id": 3,
+        "text": "Shanku"
+      },
+      {
+        "id": 4,
+        "text": "Vararuchi"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Vetalabhatta was known as a magician in the court of Vikramaditya. (Kahapanaka was an astrologer, Shanku an architect, and Vararuchi a grammarian)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "35. In the administrative and economic structure of a typical Gupta city (Nagara), the position of 'Nagarashreshthi' was held by:",
+    "options": [
+      {
+        "id": 1,
+        "text": "The chief military commander"
+      },
+      {
+        "id": 2,
+        "text": "The chief justice"
+      },
+      {
+        "id": 3,
+        "text": "The chief banker or head of the city guild"
+      },
+      {
+        "id": 4,
+        "text": "The chief priest"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The 'Nagarashreshthi' functioned as the chief banker or the leading merchant of the city, highlighting the importance of trade guilds in local urban administration during the Gupta era."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "36. Chandragupta I introduced the first standard gold coins of the Gupta Empire. What were these gold coins called?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nishka"
+      },
+      {
+        "id": 2,
+        "text": "Rupaka"
+      },
+      {
+        "id": 3,
+        "text": "Dinars"
+      },
+      {
+        "id": 4,
+        "text": "Karshapana"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Guptas issued the largest number of gold coins in ancient India. These standard gold coins were known as 'Dinars'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "37. The famous ancient Sanskrit drama 'Mrichchhakatika' (The Little Clay Cart) was authored by Shudraka. What is the central theme of this play?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The military conquests of Chandragupta II"
+      },
+      {
+        "id": 2,
+        "text": "The tragic love story of a poor merchant named Charudatta and a courtesan named Vasantasena"
+      },
+      {
+        "id": 3,
+        "text": "A philosophical dialogue between a Buddhist monk and a king"
+      },
+      {
+        "id": 4,
+        "text": "The mythical origin of the universe"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Shudraka's 'Mrichchhakatika' is a renowned Sanskrit play from the Gupta era that departs from royal stories to depict the romance between a ruined merchant, Charudatta, and a wealthy courtesan, Vasantasena."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "38. Which of the following is NOT a literary work composed by the legendary Sanskrit poet Kalidasa?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Meghaduta"
+      },
+      {
+        "id": 2,
+        "text": "Raghuvamsha"
+      },
+      {
+        "id": 3,
+        "text": "Ratnavali"
+      },
+      {
+        "id": 4,
+        "text": "Kumarasambhavam"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "'Ratnavali' is a famous Sanskrit drama authored by Emperor Harshavardhana, not Kalidasa. The other three are highly celebrated works of Kalidasa."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "39. In the Gupta taxation system, what did the term 'Udakabhaga' signify?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A tax levied on imported luxury goods"
+      },
+      {
+        "id": 2,
+        "text": "A special tax paid only in gold"
+      },
+      {
+        "id": 3,
+        "text": "A water tax for irrigation facilities"
+      },
+      {
+        "id": 4,
+        "text": "A tax collected in the form of forced labor"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "'Udakabhaga' was a water tax levied on farmers who utilized state-sponsored irrigation facilities. ('Hiranya' was tax in gold, and 'Vishti' was forced labor)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "40. Samudragupta issued several types of gold coins to showcase his imperial power. Which of the following coin types was NOT issued by him?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ashvamedha Type"
+      },
+      {
+        "id": 2,
+        "text": "Silver Rupaka"
+      },
+      {
+        "id": 3,
+        "text": "Rhino Slayer Type"
+      },
+      {
+        "id": 4,
+        "text": "Battle-Axe Type"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Samudragupta issued various gold coins like Ashvamedha, Rhino Slayer, Battle-Axe, Lion Slayer, and Marriage coins. It was his son, Chandragupta II, who first issued silver coins (Rupakas) after defeating the Sakas."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "41. In the administrative hierarchy of the Gupta Empire, the lowest unit was the village (Grama). What was the official title of the village headman?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vishayapati"
+      },
+      {
+        "id": 2,
+        "text": "Kumaramatya"
+      },
+      {
+        "id": 3,
+        "text": "Gramika"
+      },
+      {
+        "id": 4,
+        "text": "Uparika"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The village (Grama) was administered by a headman called the 'Gramika'. An 'Uparika' headed a province (Bhukti), and a 'Vishayapati' headed a district (Vishaya)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "42. The Pushyabhuti (or Vardhana) dynasty emerged as a major power after the decline of the Guptas. From which capital city did they initially rule before Harshavardhana shifted it?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kannauj"
+      },
+      {
+        "id": 2,
+        "text": "Pataliputra"
+      },
+      {
+        "id": 3,
+        "text": "Thaneswar"
+      },
+      {
+        "id": 4,
+        "text": "Ujjain"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Pushyabhuti dynasty initially ruled from Thaneswar (in modern-day Haryana). Harshavardhana later shifted his capital to Kannauj to easily administer his vast northern empire and protect his sister."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "43. Harshavardhana’s sister, Rajyashri, was married to Grahavarman. Grahavarman was the prominent ruler of which contemporary dynasty?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vakataka Dynasty"
+      },
+      {
+        "id": 2,
+        "text": "Maukhari Dynasty"
+      },
+      {
+        "id": 3,
+        "text": "Chalukya Dynasty"
+      },
+      {
+        "id": 4,
+        "text": "Pallava Dynasty"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Grahavarman belonged to the Maukhari Dynasty of Kannauj. He was assassinated by Devagupta of Malwa (allied with Shashanka of Gauda), prompting Harsha to wage war to avenge him."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "44. Emperor Harshavardhana was not only a conqueror but also an accomplished scholar. Which of the following plays was authored by him?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Priyadarshika"
+      },
+      {
+        "id": 2,
+        "text": "Nagananda"
+      },
+      {
+        "id": 3,
+        "text": "Ratnavali"
+      },
+      {
+        "id": 4,
+        "text": "All of the above"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Harshavardhana authored three famous Sanskrit plays: Ratnavali, Nagananda, and Priyadarshika."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "45. Who authored 'Harshacharita', the glowing biographical account of Emperor Harshavardhana's life and reign?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Hiuen-Tsang"
+      },
+      {
+        "id": 2,
+        "text": "Banabhatta"
+      },
+      {
+        "id": 3,
+        "text": "Ravikirti"
+      },
+      {
+        "id": 4,
+        "text": "Harisena"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Banabhatta was the court poet of Harshavardhana. He authored the 'Harshacharita' (the first historical biography in Sanskrit) and the famous romantic novel 'Kadambari'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "46. Which renowned Chinese Buddhist traveler visited India during the reign of Harshavardhana and was honored at the grand Kannauj Assembly?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Fa-Hien (Faxian)"
+      },
+      {
+        "id": 2,
+        "text": "Hiuen-Tsang (Xuanzang)"
+      },
+      {
+        "id": 3,
+        "text": "I-Tsing (Yijing)"
+      },
+      {
+        "id": 4,
+        "text": "Zheng He"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Hiuen-Tsang visited India during Harsha's reign. Harsha convened the grand Kannauj Assembly specifically in his honor to publicize Mahayana Buddhism."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "47. Emperor Harshavardhana organized a massive religious assembly every five years at Prayag. This gathering is widely considered by historians to be the early origin of which modern Indian tradition?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pushkar Fair"
+      },
+      {
+        "id": 2,
+        "text": "Rath Yatra"
+      },
+      {
+        "id": 3,
+        "text": "Kumbh Mela"
+      },
+      {
+        "id": 4,
+        "text": "Diwali"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Harsha organized a grand religious assembly at Prayag (Allahabad) every five years where he distributed massive wealth as charity. This tradition is considered the precursor to the modern Kumbh Mela."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "48. Harshavardhana’s southward expansion was decisively halted when he was defeated on the banks of the Narmada River. Which Chalukyan king defeated him?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vikramaditya I"
+      },
+      {
+        "id": 2,
+        "text": "Pulakeshin I"
+      },
+      {
+        "id": 3,
+        "text": "Jayasimha"
+      },
+      {
+        "id": 4,
+        "text": "Pulakeshin II"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Pulakeshin II, the greatest ruler of the Badami Chalukyas, defeated Harshavardhana at the Battle of Narmada, successfully blocking his expansion into the Deccan."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "49. Following his victory over Harshavardhana, Pulakeshin II assumed a grand title signifying his mastery over southern India. What was it?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vatapikonda"
+      },
+      {
+        "id": 2,
+        "text": "Dakshinapatheshwara"
+      },
+      {
+        "id": 3,
+        "text": "Sakalottarapathanatha"
+      },
+      {
+        "id": 4,
+        "text": "Maharajadhiraja"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "After defeating Harsha (who held the title 'Sakalottarapathanatha' or Lord of the North), Pulakeshin II proudly assumed the title 'Dakshinapatheshwara' (Lord of the South)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "50. The 'Aihole Inscription' is a primary source of information about the Badami Chalukyas and the achievements of Pulakeshin II. Who composed it?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Harisena"
+      },
+      {
+        "id": 2,
+        "text": "Ravikirti"
+      },
+      {
+        "id": 3,
+        "text": "Banabhatta"
+      },
+      {
+        "id": 4,
+        "text": "Kalidasa"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Ravikirti, the court poet of Pulakeshin II, composed the Aihole Inscription in Sanskrit, which vividly details the king's victories, including his triumph over Harsha."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "51. Which powerful Pallava king decisively defeated and killed Pulakeshin II, capturing the Chalukyan capital and assuming the title 'Vatapikonda'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Simhavishnu"
+      },
+      {
+        "id": 2,
+        "text": "Mahendravarman I"
+      },
+      {
+        "id": 3,
+        "text": "Narasimhavarman I"
+      },
+      {
+        "id": 4,
+        "text": "Narasimhavarman II"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Narasimhavarman I (also known as Mahamalla) defeated Pulakeshin II in 642 AD. To commemorate his capture of the Chalukyan capital Vatapi (Badami), he took the title 'Vatapikonda'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "52. The Badami Chalukyas developed a unique hybrid style of temple architecture that blended Northern (Nagara) and Southern (Dravida) elements. What is this style called?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Panchayatana"
+      },
+      {
+        "id": 2,
+        "text": "Vesara"
+      },
+      {
+        "id": 3,
+        "text": "Kalinga"
+      },
+      {
+        "id": 4,
+        "text": "Hoysala"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Vesara style is a hybrid architectural style heavily patronized by the Chalukyas. It combines the towering curvilinear spires of the Nagara style with the structured, tiered elements of the Dravida style."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "53. The Pattadakal monument complex, a UNESCO World Heritage site, features temples in both Nagara and Dravida styles. Who built its most famous structure, the Virupaksha Temple, in the Dravida style?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pulakeshin II"
+      },
+      {
+        "id": 2,
+        "text": "Queen Lokamahadevi"
+      },
+      {
+        "id": 3,
+        "text": "Narasimhavarman II"
+      },
+      {
+        "id": 4,
+        "text": "Krishna I"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Queen Lokamahadevi, the chief queen of Chalukya king Vikramaditya II, built the spectacular Virupaksha Temple at Pattadakal to commemorate her husband's victory over the Pallavas."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "54. Who was the founder of the Pallava Dynasty, establishing their formidable reign from the capital at Kanchipuram?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahendravarman I"
+      },
+      {
+        "id": 2,
+        "text": "Simhavishnu"
+      },
+      {
+        "id": 3,
+        "text": "Dantidurga"
+      },
+      {
+        "id": 4,
+        "text": "Jayasimha"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Simhavishnu was the founder of the Pallava dynasty, paving the way for a powerful empire that heavily influenced South Indian art and architecture."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "55. The famous 'Seven Rathas', which are magnificent monolithic rock-cut temples shaped like chariots at Mahabalipuram, were built during the reign of which Pallava ruler?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mahendravarman I"
+      },
+      {
+        "id": 2,
+        "text": "Narasimhavarman I"
+      },
+      {
+        "id": 3,
+        "text": "Narasimhavarman II"
+      },
+      {
+        "id": 4,
+        "text": "Aparajita"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Narasimhavarman I (Mahamalla) founded the port city of Mahabalipuram and commissioned the carving of the famous monolithic 'Seven Rathas'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "56. The spectacular 'Shore Temple' at Mahabalipuram, added to the UNESCO World Heritage list in 1984, is an early example of structural temples (built with blocks rather than rock-cut). Who constructed it?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Narasimhavarman I"
+      },
+      {
+        "id": 2,
+        "text": "Narasimhavarman II"
+      },
+      {
+        "id": 3,
+        "text": "Krishna I"
+      },
+      {
+        "id": 4,
+        "text": "Raja Raja Chola"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Narasimhavarman II (also known as Rajasimha) shifted Pallava architecture from rock-cut to free-standing structural temples. He built the Shore Temple at Mahabalipuram and the Kailasanathar Temple at Kanchipuram."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "57. The Rashtrakuta Empire grew to dominate the Deccan after overthrowing the Chalukyas of Badami in 753 CE. Who was its founder?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Amoghavarsha"
+      },
+      {
+        "id": 2,
+        "text": "Krishna I"
+      },
+      {
+        "id": 3,
+        "text": "Dantidurga"
+      },
+      {
+        "id": 4,
+        "text": "Govinda III"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Dantidurga was the founder of the Rashtrakuta dynasty. He defeated the last Chalukyan king, Kirtivarman II, and firmly established his empire."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "58. The breathtaking monolithic rock-cut 'Kailasa Temple' at Ellora, carved entirely top-down from a single massive volcanic rock, was commissioned by which Rashtrakuta king?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Dantidurga"
+      },
+      {
+        "id": 2,
+        "text": "Krishna I"
+      },
+      {
+        "id": 3,
+        "text": "Amoghavarsha"
+      },
+      {
+        "id": 4,
+        "text": "Indra III"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Krishna I, the uncle and successor of Dantidurga, commissioned the majestic Kailasa Temple at Ellora, an unparalleled feat of ancient rock-cut engineering dedicated to Lord Shiva."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "59. Which great Rashtrakuta ruler authored the earliest Kannada work on poetics, 'Kavirajamarga', and was a devout patron of Jainism?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Govinda III"
+      },
+      {
+        "id": 2,
+        "text": "Krishna III"
+      },
+      {
+        "id": 3,
+        "text": "Amoghavarsha"
+      },
+      {
+        "id": 4,
+        "text": "Dantidurga"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Amoghavarsha (814–878 AD) enjoyed a long and peaceful reign. He was deeply interested in religion and literature, converting to Jainism and writing texts like 'Kavirajamarga' and 'Prashnottara Ratnamalika'."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "60. The Rashtrakutas were phenomenal builders and patrons of art. They made significant artistic contributions to which of the following UNESCO World Heritage sites?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ajanta and Hampi"
+      },
+      {
+        "id": 2,
+        "text": "Ellora and Elephanta Caves"
+      },
+      {
+        "id": 3,
+        "text": "Mahabalipuram and Pattadakal"
+      },
+      {
+        "id": 4,
+        "text": "Khajuraho and Konark"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Rashtrakutas heavily patronized the later rock-cut phases at Ellora (including the Kailasa Temple) and the famous Shaivite sculptures at the Elephanta Caves near Mumbai."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "61. The Hoysala Empire, originally feudatories of the Later Chalukyas, established a powerful kingdom in Karnataka. From which capital city did they rule?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Vatapi"
+      },
+      {
+        "id": 2,
+        "text": "Manyakheta"
+      },
+      {
+        "id": 3,
+        "text": "Dwarasamudra (Halebidu)"
+      },
+      {
+        "id": 4,
+        "text": "Kalyani"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Hoysalas ruled from their capital at Dwarasamudra, which is modern-day Halebidu in Karnataka."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "62. The Hoysalas are renowned for their highly intricate, star-shaped temples. The famous Chennakesava Temple at Belur was built by which Hoysala king?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Nripa Kama II"
+      },
+      {
+        "id": 2,
+        "text": "Vishnuvardhana"
+      },
+      {
+        "id": 3,
+        "text": "Veera Ballala III"
+      },
+      {
+        "id": 4,
+        "text": "Krishna I"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "King Vishnuvardhana built the spectacular star-shaped Chennakesava Temple at Belur to commemorate his victories. It is a masterpiece of Hoysala architecture."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "63. The Hoysaleswara Temple in Halebidu, which was recently designated as India's 42nd UNESCO World Heritage Site, is primarily dedicated to which deity?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Lord Vishnu"
+      },
+      {
+        "id": 2,
+        "text": "Lord Shiva"
+      },
+      {
+        "id": 3,
+        "text": "Goddess Durga"
+      },
+      {
+        "id": 4,
+        "text": "Surya (Sun God)"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The Hoysaleswara Temple at Halebidu is a massive, highly ornate twin-temple dedicated to Lord Shiva (Hoysaleswara and Shantaleswara)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "64. Match the following ancient Indian temple architecture styles with their respective geographical regions of prominence:\n1. Nagara\n2. Dravida\n3. Vesara\n\n(A) South India\n(B) Mixed/Central India\n(C) North India",
+    "options": [
+      {
+        "id": 1,
+        "text": "1-C, 2-A, 3-B"
+      },
+      {
+        "id": 2,
+        "text": "1-A, 2-B, 3-C"
+      },
+      {
+        "id": 3,
+        "text": "1-C, 2-B, 3-A"
+      },
+      {
+        "id": 4,
+        "text": "1-B, 2-A, 3-C"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Nagara style dominated North India (e.g., Khajuraho). Dravida style dominated South India (e.g., Virupaksha, Brihadeshwara). Vesara was a hybrid style found mainly in Central India and the Deccan."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "65. In the context of Gupta taxation, what did the term 'Upanaka' denote?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Forced labor"
+      },
+      {
+        "id": 2,
+        "text": "A tax levied exclusively on artisans"
+      },
+      {
+        "id": 3,
+        "text": "An occasional gift tax or offering"
+      },
+      {
+        "id": 4,
+        "text": "Tax on water usage"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "In the Gupta period, 'Upanaka' referred to occasional taxes or gift offerings presented to the king or officials."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "66. The Maukhari Dynasty ruled prominently from Kannauj before Harshavardhana integrated it into his empire. Who was its most notable ruler, known for forging a marriage alliance with the Pushyabhutis?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Grahavarman"
+      },
+      {
+        "id": 2,
+        "text": "Devagupta"
+      },
+      {
+        "id": 3,
+        "text": "Shashanka"
+      },
+      {
+        "id": 4,
+        "text": "Ishanavarman"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Grahavarman was a prominent Maukhari king who married Rajyashri (Harsha's sister). Ishanavarman was an earlier great Maukhari king who took the title Maharajadhiraja, but Grahavarman formed the crucial Pushyabhuti alliance."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "67. Which of the following statements correctly differentiates the origins of the Early Chalukyas from the Later Chalukyas?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Early Chalukyas ruled from Badami, while Later Chalukyas ruled from Kalyani."
+      },
+      {
+        "id": 2,
+        "text": "Early Chalukyas were Buddhist, while Later Chalukyas were exclusively Jain."
+      },
+      {
+        "id": 3,
+        "text": "Early Chalukyas ruled from Vengi, while Later Chalukyas ruled from Kanchipuram."
+      },
+      {
+        "id": 4,
+        "text": "Early Chalukyas were defeated by the Hoysalas, while Later Chalukyas were defeated by the Pallavas."
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "The Chalukyas are broadly divided into three main branches: The Early/Badami Chalukyas (capital: Vatapi/Badami), the Western/Later Chalukyas (capital: Kalyani), and the Eastern Chalukyas (capital: Vengi)."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "68. Which of the following pairs of ancient founders and their dynasties is INCORRECTLY matched?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Simhavishnu – Pallava Dynasty"
+      },
+      {
+        "id": 2,
+        "text": "Dantidurga – Rashtrakuta Dynasty"
+      },
+      {
+        "id": 3,
+        "text": "Jayasimha – Badami Chalukyas"
+      },
+      {
+        "id": 4,
+        "text": "Nripa Kama II – Vakataka Dynasty"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "Nripa Kama II was the founder of the Hoysala Dynasty, not the Vakatakas. The Vakataka Dynasty was founded by Vindhyashakti."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "69. Assertion (A): Emperor Harshavardhana is historically recognized for taking the title 'Sakalottarapathanatha'.\nReason (R): This title was explicitly conferred upon him by the Chinese traveler Hiuen-Tsang.",
+    "options": [
+      {
+        "id": 1,
+        "text": "Both A and R are true, and R is the correct explanation of A."
+      },
+      {
+        "id": 2,
+        "text": "Both A and R are true, but R is NOT the correct explanation of A."
+      },
+      {
+        "id": 3,
+        "text": "A is true, but R is false."
+      },
+      {
+        "id": 4,
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Assertion is true. Harsha was known as 'Sakalottarapathanatha' (Lord of the North). Reason is false, because this title was recorded in the Chalukyan inscriptions (by Pulakeshin II's court), not conferred by Hiuen-Tsang."
+  },
+  {
+    "chapterId": "hist-anc-5",
+    "text": "70. What fundamental architectural shift occurred during the reign of the Pallava king Narasimhavarman II (Rajasimha)?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A shift from monolithic rock-cut cave temples to free-standing structural temples."
+      },
+      {
+        "id": 2,
+        "text": "A complete abandonment of Hindu themes in favor of Jain bas-reliefs."
+      },
+      {
+        "id": 3,
+        "text": "The introduction of the Indo-Islamic domes."
+      },
+      {
+        "id": 4,
+        "text": "The exclusive use of red sandstone instead of granite."
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Narasimhavarman II marked a critical transition in Pallava architecture by shifting away from the monolithic rock-cut structures (like the Rathas) of his predecessors and building large, structural, free-standing temples like the Shore Temple and Kailasanathar Temple."
   }
-
 ]

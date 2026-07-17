@@ -6,6 +6,7 @@ import authRoutes from '../src/routes/authRoutes';
 import syllabusRoutes from './routes/syllabusRoutes';
 import mcqRoutes from './routes/mcqRoutes';
 import progressRoutes from './routes/progressRoutes';
+import connectDb from '../config/db';
 
 // Load env vars
 dotenv.config();
@@ -30,6 +31,16 @@ app.use(cors({
   credentials: true
 }));
 app.use(express.json());
+
+// Ensure DB connection for Serverless environments (like Vercel)
+app.use(async (req, res, next) => {
+  try {
+    await connectDb();
+    next();
+  } catch (error) {
+    next(error);
+  }
+});
 
 
 // Apply routes
