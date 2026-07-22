@@ -23,15 +23,18 @@ export const registerUser = async (
   res: Response
 ): Promise<Response> => {
   try {
-    const { username, email, password } = req.body;
+        const { username, email, password } = req.body;
 
     // Fail early if fields are missing
     if (!username || !email || !password) {
       return res.status(400).json({ message: "All fields are required" });
     }
 
-    // Check if user already exists
-    const existingUser = await User.findOne({ email });
+    // NEW: Normalize the email!
+    const normalizedEmail = email.toLowerCase().trim();
+
+    // Check if user already exists (use normalizedEmail)
+    const existingUser = await User.findOne({ email: normalizedEmail });
     if (existingUser) {
       return res.status(400).json({ message: "User already exists" });
     }
@@ -40,12 +43,13 @@ export const registerUser = async (
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(password, salt);
 
-    // Create the user
+    // Create the user (use normalizedEmail)
     const user = await User.create({
       username,
-      email,
+      email: normalizedEmail,
       passwordHash: hashedPassword,
     });
+
 
     return res.status(201).json({
       message: "User registered successfully",
@@ -66,13 +70,13 @@ export const loginUser = async (
 ): Promise<Response> => {
   try {
     const { email, password } = req.body;
-
     if (!email || !password) {
       return res.status(400).json({ message: "Email and password are required" });
     }
-
-    // Verify user exists
-    const user = await User.findOne({ email });
+    // NEW: Normalize the email!
+    const normalizedEmail = email.toLowerCase().trim();
+    // Verify user exists (use normalizedEmail)
+    const user = await User.findOne({ email: normalizedEmail });
     if (!user) {
       return res.status(400).json({ message: "Invalid credentials" });
     }

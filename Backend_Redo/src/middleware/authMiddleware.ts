@@ -4,7 +4,7 @@ import jwt from 'jsonwebtoken';
 // Extend the Express Request to hold our user payload
 export interface AuthRequest extends Request {
   user?: { id: string };
-}
+} 
 
 export const protect = (req: AuthRequest, res: Response, next: NextFunction) => {
   const token = req.header('Authorization')?.split(' ')[1]; // Expecting "Bearer <token>"
