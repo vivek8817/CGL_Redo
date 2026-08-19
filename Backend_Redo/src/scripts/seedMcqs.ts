@@ -5,7 +5,7 @@ import path from 'path';
 import Mcq from '../models/Mcq';
 import dns from 'dns';
 
-dotenv.config();
+dotenv.config({ path: path.join(__dirname, '../../.env') });
 
 // Force Google DNS to bypass local ISP blocks on SRV records
 dns.setServers(['8.8.8.8', '8.8.4.4']);
