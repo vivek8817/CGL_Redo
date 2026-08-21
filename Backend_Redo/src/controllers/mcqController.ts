@@ -70,7 +70,7 @@ interface AuthRequest<Params = {}, ResBody = {}, ReqBody = {}, ReqQuery = {}> ex
  * Fetch all MCQs belonging to a specific chapter (Frontend endpoint)
  */
 export const getMcqsByChapter = async (
-  req: AuthRequest<ChapterParams, {}, {}, { filter?: string }>,
+  req: AuthRequest<ChapterParams, {}, {}, { filter?: string; section?: string }>,
   res: Response
 ): Promise<Response> => {
   try {
