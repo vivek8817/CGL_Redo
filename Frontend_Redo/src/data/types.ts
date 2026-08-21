@@ -1,3 +1,12 @@
+
+export interface Section {
+  id: number;
+  title: string;
+  totalMcqs: number;
+  startIdx: number;
+  endIdx: number;
+}
+
 export interface Option {
   id: number;
   text: string;
@@ -17,6 +26,7 @@ export interface Chapter {
   
   // Static content
   mcqs?: MCQ[]; // The actual questions (can be imported separately)
+  sections?: Section[];
   
   // Mock Progress Data (To make the UI fully functional for testing)
   totalMcqs: number;

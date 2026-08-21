@@ -109,8 +109,51 @@ export const getMcqsByChapter = async (
       return res.status(200).json(mcqs);
     }
 
+    
     // Default: Retrieve all documents where chapterId matches the targeted value
-    const mcqs = await Mcq.find({ chapterId });
+    let mcqs = await Mcq.find({ chapterId });
+
+    // Handle section slicing if ?section=X is provided
+    if (req.query.section) {
+      const sectionNum = parseInt(req.query.section as string, 10);
+      if (!isNaN(sectionNum) && sectionNum > 0) {
+        const total = mcqs.length;
+        if (total > 0) {
+           let startIdx = 0;
+           let limit = 20;
+           
+           if (total < 25) {
+             startIdx = 0; limit = total;
+           } else {
+             const numFull = Math.floor(total / 20);
+             const rem = total % 20;
+             if (rem === 0) {
+                startIdx = (sectionNum - 1) * 20;
+                limit = 20;
+             } else if (rem < 5) {
+                if (sectionNum < numFull) {
+                   startIdx = (sectionNum - 1) * 20;
+                   limit = 20;
+                } else if (sectionNum === numFull) {
+                   startIdx = (sectionNum - 1) * 20;
+                   limit = 20 + rem;
+                }
+             } else {
+                if (sectionNum <= numFull) {
+                   startIdx = (sectionNum - 1) * 20;
+                   limit = 20;
+                } else if (sectionNum === numFull + 1) {
+                   startIdx = numFull * 20;
+                   limit = rem;
+                }
+             }
+           }
+           
+           mcqs = mcqs.slice(startIdx, startIdx + limit);
+        }
+      }
+    }
+
 
     return res.status(200).json(mcqs);
   } catch (error) {

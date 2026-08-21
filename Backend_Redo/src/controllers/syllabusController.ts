@@ -41,6 +41,41 @@ export const seedSyllabus = async (
 /**
  * Fetch all subjects from the database and inject the dynamic totalMcqs count!
  */
+
+// Dynamic Sectioning Helper
+function generateSections(total: number) {
+  if (total <= 0) return [];
+  if (total < 25) {
+    return [{ id: 1, title: 'Section 1', totalMcqs: total, startIdx: 0, endIdx: total }];
+  }
+  
+  const numFull = Math.floor(total / 20);
+  const rem = total % 20;
+  
+  const sections = [];
+  let currentStart = 0;
+
+  if (rem === 0) {
+    for (let i = 0; i < numFull; i++) {
+      sections.push({ id: i + 1, title: `Section ${i + 1}`, totalMcqs: 20, startIdx: currentStart, endIdx: currentStart + 20 });
+      currentStart += 20;
+    }
+  } else if (rem < 5) {
+    for (let i = 0; i < numFull - 1; i++) {
+      sections.push({ id: i + 1, title: `Section ${i + 1}`, totalMcqs: 20, startIdx: currentStart, endIdx: currentStart + 20 });
+      currentStart += 20;
+    }
+    sections.push({ id: numFull, title: `Section ${numFull}`, totalMcqs: 20 + rem, startIdx: currentStart, endIdx: currentStart + 20 + rem });
+  } else {
+    for (let i = 0; i < numFull; i++) {
+      sections.push({ id: i + 1, title: `Section ${i + 1}`, totalMcqs: 20, startIdx: currentStart, endIdx: currentStart + 20 });
+      currentStart += 20;
+    }
+    sections.push({ id: numFull + 1, title: `Section ${numFull + 1}`, totalMcqs: rem, startIdx: currentStart, endIdx: currentStart + rem });
+  }
+  return sections;
+}
+
 export const getSyllabus = async (
   req: Request, 
   res: Response
@@ -63,11 +98,13 @@ export const getSyllabus = async (
       return acc;
     }, {});
 
-    // 4. Traverse our subjects and inject the 'totalMcqs' property
+    
+    // 4. Traverse our subjects and inject the 'totalMcqs' and 'sections' property
     subjects.forEach((subject: any) => {
       if (subject.chapters) {
         subject.chapters.forEach((chapter: any) => {
           chapter.totalMcqs = countsMap[chapter.id] || 0;
+          chapter.sections = generateSections(chapter.totalMcqs);
         });
       }
       if (subject.subSubjects) {
@@ -75,6 +112,7 @@ export const getSyllabus = async (
           if (subSubject.chapters) {
             subSubject.chapters.forEach((chapter: any) => {
               chapter.totalMcqs = countsMap[chapter.id] || 0;
+              chapter.sections = generateSections(chapter.totalMcqs);
             });
           }
         });

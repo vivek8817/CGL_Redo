@@ -134,30 +134,59 @@ const bookmarkCount = chapterBookmarks.length;
       {/* BOTTOM SECTION: ACTION WIDGETS */}
       <main className="flex-1 overflow-y-auto pt-1 pb-24 flex flex-col gap-layout-gap scrollbar-hide ">
         
-        {/* Start Full Chapter - Green Widget */}
-        <div 
-          onClick={() => navigate(`/mcq/${currentChapter?.id}`)}
-          className="bg-widget-quiz-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm"
-        >
-          <HappyExpression className="absolute -bottom-8 -right-14 opacity-90 rotate-[-15deg] w-40 h-40" />
-          
-          <div className="flex items-center justify-between z-10">
-            <div className="w-10 h-10 rounded-full bg-white/40 flex items-center justify-center">
-              <iconify-icon icon="solar:play-circle-bold" width="24" style={{ color: "var(--color-text-primary)" }}></iconify-icon>
+        
+        {/* Sections Listing */}
+        <div className="flex flex-col gap-1 z-10">
+          <span className="text-xs font-bold text-text-muted uppercase tracking-wider mb-1">Sections</span>
+          {currentChapter.sections && currentChapter.sections.length > 0 ? (
+            currentChapter.sections.map((section: any) => (
+              <div 
+                key={section.id}
+                onClick={() => navigate(`/mcq/${currentChapter?.id}?section=${section.id}`)}
+                className="h-[120px] bg-widget-quiz-bg rounded-sm p-card-pad flex flex-col justify-between relative cursor-pointer active:scale-95 transition-transform shadow-sm overflow-hidden border border-border/10 flex-shrink-0"
+              >
+
+ {/* Added the expression component here so it renders in the active list */}
+        <HappyExpression className="absolute -bottom-8 -right-14 opacity-90 rotate-[-15deg] w-40 h-40 pointer-events-none" />
+
+                {/* Top Section: Play Icon isolated on the left */}
+        <div className="flex items-center justify-start z-10">
+          <div className="w-10 h-10 rounded-full bg-white/40 flex items-center justify-center">
+            <iconify-icon icon="solar:play-circle-bold" width="24" style={{ color: "var(--color-text-primary)" }}></iconify-icon>
+          </div>
+        </div>
+        
+        {/* Bottom Section: Text block aligned left */}
+        <div className="flex flex-col z-10 items-start text-left">
+          <span className="text-2xl font-bold text-text-primary leading-tight">{section.title}</span>
+          <span className="text-xs font-bold text-text-primary opacity-80 mt-1">{section.totalMcqs} Questions</span>
+        </div>
+      </div>
+            ))
+          ) : (
+            <div 
+              onClick={() => navigate(`/mcq/${currentChapter?.id}`)}
+              className="bg-widget-quiz-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm"
+            >
+              <HappyExpression className="absolute -bottom-8 -right-14 opacity-90 rotate-[-15deg] w-40 h-40" />
+              <div className="flex items-center justify-between z-10">
+                <div className="w-10 h-10 rounded-full bg-white/40 flex items-center justify-center">
+                  <iconify-icon icon="solar:play-circle-bold" width="24" style={{ color: "var(--color-text-primary)" }}></iconify-icon>
+                </div>
+                <span className="text-xs font-bold text-text-primary opacity-90">General Practice</span>
+              </div>
+              <div className="flex flex-col z-10">
+                <span className="text-2xl font-bold text-text-primary leading-tight">Start Full Chapter</span>
+                <span className="text-xs font-bold text-text-primary opacity-80 mt-1">Practice all {currentChapter.totalMcqs} questions</span>
+              </div>
             </div>
-            <span className="text-xs font-bold text-text-primary opacity-90">General Practice</span>
-          </div>
-          
-          <div className="flex flex-col z-10">
-            <span className="text-2xl font-bold text-text-primary leading-tight">Start Full Chapter</span>
-            <span className="text-xs font-bold text-text-primary opacity-80 mt-1">Practice all {currentChapter.totalMcqs} questions</span>
-          </div>
+          )}
         </div>
 
         {/* Revise Wrong Only - Purple Widget */}
         <div 
           onClick={() => navigate(`/mcq/${currentChapter?.id}?filter=wrong`)}
-          className={`bg-widget-stress-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${wrongCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
+          className={`flex-shrink-0 bg-widget-stress-bg rounded-sm p-card-pad flex flex-col h-[120px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${wrongCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
         >
            <AngryExpression className="absolute -top-4 -right-12 opacity-90 rotate-12 w-40 h-40" />
 
@@ -179,7 +208,7 @@ const bookmarkCount = chapterBookmarks.length;
         {/* Revise Bookmarks - Yellow Widget */}
         <div 
           onClick={() => navigate(`/mcq/${currentChapter?.id}?filter=bookmarks`)}
-          className={`bg-widget-sleep-bg rounded-sm p-card-pad flex flex-col h-[140px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${bookmarkCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
+          className={`flex-shrink-0 bg-widget-sleep-bg rounded-sm p-card-pad flex flex-col h-[120px] justify-between relative cursor-pointer active:scale-95 transition-transform overflow-hidden shadow-sm ${bookmarkCount === 0 ? 'opacity-50 pointer-events-none' : ''}`}
   >
           <div className="flex items-center justify-between z-10">
             <div className="w-10 h-10 rounded-full bg-white/40 flex items-center justify-center">

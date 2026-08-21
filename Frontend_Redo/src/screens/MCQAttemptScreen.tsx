@@ -28,7 +28,16 @@ const MCQAttemptScreen = () => {
       try {
         const searchParams = new URLSearchParams(window.location.search);
         const filter = searchParams.get('filter');
-        const url = filter ? `/mcqs/${chapterId}?filter=${filter}` : `/mcqs/${chapterId}`;
+        const section = searchParams.get('section');
+        
+        let url = `/mcqs/${chapterId}`;
+        const queryParams = [];
+        if (filter) queryParams.push(`filter=${filter}`);
+        if (section) queryParams.push(`section=${section}`);
+        
+        if (queryParams.length > 0) {
+            url += '?' + queryParams.join('&');
+        }
         
         const response = await api.get(url);
         setMcqs(response.data);
