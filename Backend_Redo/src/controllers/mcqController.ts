@@ -111,7 +111,7 @@ export const getMcqsByChapter = async (
 
     
     // Default: Retrieve all documents where chapterId matches the targeted value
-    let mcqs = await Mcq.find({ chapterId });
+    let mcqs = await Mcq.find({ chapterId }).sort({ _id: 1 });
 
     // Handle section slicing if ?section=X is provided
     if (req.query.section) {
