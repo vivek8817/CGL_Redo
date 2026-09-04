@@ -1,6 +1,5 @@
 [
-  
-   {
+  {
     "chapterId": "hist-anc-1",
     "text": "1. What significant agricultural evidence was discovered at the Harappan site of Kalibangan?",
     "options": [
@@ -840,7 +839,7 @@
     "correctOptionId": 2,
     "explanation": "The staple food of the Harappan people was Wheat and Barley. They were also the first people in the world to produce Cotton (which the Greeks called 'Sindon'). Evidence of rice is extremely rare, found only as husks at Lothal and Rangpur."
   },
-   {
+  {
     "chapterId": "hist-anc-1",
     "text": "36. The prehistoric rock shelters of Bhimbetka, famous for their Paleolithic and Mesolithic cave paintings, were discovered in 1957 by which prominent archaeologist?",
     "options": [
@@ -2662,131 +2661,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Jainism and Buddhism emerged primarily as a reaction against Brahminical domination and ritual sacrifices. Furthermore, agriculture and trade were suffering due to animal sacrifices, and the emerging Vaishya class supported these new religions that rejected caste-based hierarchies."
+    "explanation": "Jainism and Buddhism emerged primarily as a reaction against Brahminical domination and ritual sacrifices. Furthermore, agriculture and trade were suffering due to animal sacrifices, and the emerging Vaishya class supported these new religions that rejected caste-based hierarchies.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "2. In Jain tradition, there are 24 Tirthankaras. Who was the 23rd Tirthankara, and what was his associated symbol?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Rishabhdev; Bull"
-      },
-      {
-        "id": 2,
-        "text": "Vardhaman Mahavir; Lion"
-      },
-      {
-        "id": 3,
-        "text": "Parshvanath; Serpent"
-      },
-      {
-        "id": 4,
-        "text": "Makkhali Gosala; Elephant"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Parshvanath was the 23rd Tirthankara, associated with Varanasi, and his symbol is the serpent. Rishabhdev was the 1st, and Vardhaman Mahavir was the 24th (symbol: lion)."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "3. Which of the following Tirthankaras are explicitly mentioned in the ancient Vedic texts?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Only the 23rd and 24th"
-      },
-      {
-        "id": 2,
-        "text": "Only the 1st and 22nd"
-      },
-      {
-        "id": 3,
-        "text": "Only the 1st and 24th"
-      },
-      {
-        "id": 4,
-        "text": "None of the Tirthankaras are mentioned in the Vedas."
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "According to the historical texts, only the 1st Tirthankara (Rishabhdev) and the 22nd Tirthankara are mentioned in the Vedas."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "4. Vardhaman Mahavir, the 24th Tirthankara, belonged to which specific Kshatriya clan?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Shakya"
-      },
-      {
-        "id": 2,
-        "text": "Malla"
-      },
-      {
-        "id": 3,
-        "text": "Janatrika"
-      },
-      {
-        "id": 4,
-        "text": "Lichchhavi"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Vardhaman Mahavir's father, Siddhartha, was the head of the Janatrika clan (a Kshatriya clan). Gautam Buddha belonged to the Shakya clan."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "5. At what location and under which tree did Vardhaman Mahavir attain Kaivalya (enlightenment)?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bodh Gaya, under a Bodhi tree"
-      },
-      {
-        "id": 2,
-        "text": "Jambhikagrama, under a Sal tree"
-      },
-      {
-        "id": 3,
-        "text": "Sarnath, under a Banyan tree"
-      },
-      {
-        "id": 4,
-        "text": "Pavapuri, under a Peepal tree"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Mahavir attained Kaivalya (supreme knowledge) at the age of 42 under a Sal tree at Jambhikagrama, situated on the banks of the Rajupalika river."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "6. Which of the following is NOT one of the 'Three Principles of Liberation' (Triratnas) in Jainism?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Right Knowledge (Samyak Jnana)"
-      },
-      {
-        "id": 2,
-        "text": "Right Faith (Samyak Darshana)"
-      },
-      {
-        "id": 3,
-        "text": "Right Action/Conduct (Samyak Charitra)"
-      },
-      {
-        "id": 4,
-        "text": "Right Mindfulness (Samyak Smriti)"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "The Triratnas (Three Jewels) of Jainism are Right Knowledge, Right Faith, and Right Conduct. Right Mindfulness is a part of the Buddhist Eightfold Path."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "7. The 'Ajivika' sect, which emerged around the same time as Buddhism and Jainism, believed in extreme fatalism and asceticism. Who was its founder?",
+    "text": "2. The 'Ajivika' sect, which emerged around the same time as Buddhism and Jainism, believed in extreme fatalism and asceticism. Who was its founder?",
     "options": [
       {
         "id": 1,
@@ -2806,107 +2686,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Makkhali Gosala founded the Ajivika sect. Interestingly, he initially left home and practiced asceticism alongside Vardhaman Mahavir before they parted ways."
+    "explanation": "Makkhali Gosala founded the Ajivika sect. Interestingly, he initially left home and practiced asceticism alongside Vardhaman Mahavir before they parted ways.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "8. What historical event triggered the primary division of Jainism into the Digambara and Shvetambara sects?",
-    "options": [
-      {
-        "id": 1,
-        "text": "The First Jain Council at Patliputra."
-      },
-      {
-        "id": 2,
-        "text": "A massive 12-year famine in Magadh around 303 BCE."
-      },
-      {
-        "id": 3,
-        "text": "The death of Vardhaman Mahavir at Pavapuri."
-      },
-      {
-        "id": 4,
-        "text": "The royal decree of Mauryan Emperor Ashoka."
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "During a severe famine in Magadh (303 BCE), many Jains migrated to Karnataka under the leadership of Bhadrabahu (forming the sky-clad Digambara sect), while those who stayed back in Magadh under Sthulabhadra became the white-clad Shvetambara sect."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "9. The First Jain Council was held in 298 BCE at Patliputra. Which Mauryan ruler patronized this council?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Chandragupta Maurya"
-      },
-      {
-        "id": 2,
-        "text": "Bindusara"
-      },
-      {
-        "id": 3,
-        "text": "Ashoka"
-      },
-      {
-        "id": 4,
-        "text": "Brihadratha"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The 1st Jain Council was held in 298 BCE at Patliputra under the leadership of Sthulabhadra and was patronized by the Mauryan king Bindusara."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "10. The famous statue of Gommateshwara (Bahubali), where the Mahamasthakabhisheka ceremony is held every 12 years, is located in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Rajasthan"
-      },
-      {
-        "id": 2,
-        "text": "Gujarat"
-      },
-      {
-        "id": 3,
-        "text": "Odisha"
-      },
-      {
-        "id": 4,
-        "text": "Karnataka"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "The colossal statue of Gommateshwara (Bahubali, son of the first Tirthankara Rishabhdev) is located at Shravanabelagola in Karnataka."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "11. The exquisite Dilwara Temples, a major pilgrimage site for Jains, were built by the Vastupala brothers. Where are these temples located?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Mount Abu, Rajasthan"
-      },
-      {
-        "id": 2,
-        "text": "Vallabhi, Gujarat"
-      },
-      {
-        "id": 3,
-        "text": "Udayagiri, Odisha"
-      },
-      {
-        "id": 4,
-        "text": "Pavapuri, Bihar"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The Dilwara Temples, known for their stunning marble architecture, are located at Mount Abu in Rajasthan."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "12. Gautam Buddha was born in 563 BCE in Lumbini. What was his childhood name?",
+    "text": "3. Gautam Buddha was born in 563 BCE in Lumbini. What was his childhood name?",
     "options": [
       {
         "id": 1,
@@ -2926,11 +2711,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Gautam Buddha's childhood name was Siddhartha. His father was Suddhodhana, and he belonged to the Shakya clan."
+    "explanation": "Gautam Buddha's childhood name was Siddhartha. His father was Suddhodhana, and he belonged to the Shakya clan.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "13. Who holds the distinction of being the first 'Bhikkhuni' (ordained female monastic) in Buddhism?",
+    "text": "4. Who holds the distinction of being the first 'Bhikkhuni' (ordained female monastic) in Buddhism?",
     "options": [
       {
         "id": 1,
@@ -2950,11 +2736,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Mahaprajapati Gautami, who was Buddha's stepmother (and maternal aunt), became the very first woman to request ordination from the Buddha and was the first Bhikkhuni."
+    "explanation": "Mahaprajapati Gautami, who was Buddha's stepmother (and maternal aunt), became the very first woman to request ordination from the Buddha and was the first Bhikkhuni.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "14. After leaving home at the age of 29, Gautam Buddha studied under two early teachers. Who were they?",
+    "text": "5. After leaving home at the age of 29, Gautam Buddha studied under two early teachers. Who were they?",
     "options": [
       {
         "id": 1,
@@ -2974,11 +2761,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Buddha's early spiritual teachers were Alara Kalama and Udraka Ramaputra. He eventually left them because their teachings did not lead to complete liberation."
+    "explanation": "Buddha's early spiritual teachers were Alara Kalama and Udraka Ramaputra. He eventually left them because their teachings did not lead to complete liberation.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "15. Gautam Buddha attained Nirvana under a Bodhi Tree at Bodh Gaya. On the banks of which river did this take place?",
+    "text": "6. Gautam Buddha attained Nirvana under a Bodhi Tree at Bodh Gaya. On the banks of which river did this take place?",
     "options": [
       {
         "id": 1,
@@ -2998,11 +2786,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Buddha attained enlightenment (Nirvana) at Bodh Gaya under a Bodhi tree on the banks of the river Niranjana. (Mahavira attained enlightenment on the banks of the Rajupalika river)."
+    "explanation": "Buddha attained enlightenment (Nirvana) at Bodh Gaya under a Bodhi tree on the banks of the river Niranjana. (Mahavira attained enlightenment on the banks of the Rajupalika river).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "16. In Buddhist iconography, what does the symbol of the 'Stupa' represent regarding the life of Gautam Buddha?",
+    "text": "7. In Buddhist iconography, what does the symbol of the 'Stupa' represent regarding the life of Gautam Buddha?",
     "options": [
       {
         "id": 1,
@@ -3022,11 +2811,12 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "In Buddhism, the Lotus/Elephant symbolizes Birth, the Bodhi Tree symbolizes Enlightenment, the Dharma Wheel symbolizes the First Sermon, and the Stupa symbolizes Death (Mahaparinirvana)."
+    "explanation": "In Buddhism, the Lotus/Elephant symbolizes Birth, the Bodhi Tree symbolizes Enlightenment, the Dharma Wheel symbolizes the First Sermon, and the Stupa symbolizes Death (Mahaparinirvana).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "17. The core philosophy of Buddhism revolves around the 'Four Noble Truths'. Which of the following is the second Noble Truth?",
+    "text": "8. The core philosophy of Buddhism revolves around the 'Four Noble Truths'. Which of the following is the second Noble Truth?",
     "options": [
       {
         "id": 1,
@@ -3046,11 +2836,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "The Four Noble Truths are sequentially: 1. Life is suffering (Dukkha), 2. The cause of suffering is desire (Tanha), 3. The end of suffering is possible (Nirodha), 4. The path to end suffering is the Eightfold Path."
+    "explanation": "The Four Noble Truths are sequentially: 1. Life is suffering (Dukkha), 2. The cause of suffering is desire (Tanha), 3. The end of suffering is possible (Nirodha), 4. The path to end suffering is the Eightfold Path.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "18. Match the Buddhist Council to the King who patronized it:\n1. First Council\n2. Second Council\n3. Third Council\n4. Fourth Council\n\n(A) Kalashoka\n(B) Kanishka\n(C) Ashoka\n(D) Ajatashatru",
+    "text": "9. Match the Buddhist Council to the King who patronized it:\n1. First Council\n2. Second Council\n3. Third Council\n4. Fourth Council\n\n(A) Kalashoka\n(B) Kanishka\n(C) Ashoka\n(D) Ajatashatru",
     "options": [
       {
         "id": 1,
@@ -3070,11 +2861,12 @@
       }
     ],
     "correctOptionId": 1,
-    "explanation": "The correct pairings are: 1st Council (Ajatashatru), 2nd Council (Kalashoka), 3rd Council (Ashoka), and 4th Council (Kanishka)."
+    "explanation": "The correct pairings are: 1st Council (Ajatashatru), 2nd Council (Kalashoka), 3rd Council (Ashoka), and 4th Council (Kanishka).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "19. The Fourth Buddhist Council (72 CE) was held in Kashmir under the patronage of Kanishka. Who presided over this historic council where Buddhism formally split into Hinayana and Mahayana?",
+    "text": "10. The Fourth Buddhist Council (72 CE) was held in Kashmir under the patronage of Kanishka. Who presided over this historic council where Buddhism formally split into Hinayana and Mahayana?",
     "options": [
       {
         "id": 1,
@@ -3094,11 +2886,12 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "Vasumitra served as the President of the 4th Buddhist Council in Kashmir, with Ashvaghosha acting as the vice-president. It was here that Buddhism officially divided into the Hinayana and Mahayana sects."
+    "explanation": "Vasumitra served as the President of the 4th Buddhist Council in Kashmir, with Ashvaghosha acting as the vice-president. It was here that Buddhism officially divided into the Hinayana and Mahayana sects.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "20. The 'Triratnas' (Three Jewels) of Buddhism that a follower takes refuge in are:",
+    "text": "11. The 'Triratnas' (Three Jewels) of Buddhism that a follower takes refuge in are:",
     "options": [
       {
         "id": 1,
@@ -3118,11 +2911,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "The Triratnas of Buddhism are the Buddha (the enlightened one), the Dhamma (his teachings), and the Sangha (the monastic community). Note that 'Right Knowledge, Faith, and Conduct' are the Triratnas of Jainism."
+    "explanation": "The Triratnas of Buddhism are the Buddha (the enlightened one), the Dhamma (his teachings), and the Sangha (the monastic community). Note that 'Right Knowledge, Faith, and Conduct' are the Triratnas of Jainism.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "21. In Buddhist art, the 'Bhumisparsha Mudra' is a significant hand gesture of the Buddha. What does it symbolize?",
+    "text": "12. In Buddhist art, the 'Bhumisparsha Mudra' is a significant hand gesture of the Buddha. What does it symbolize?",
     "options": [
       {
         "id": 1,
@@ -3142,11 +2936,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Bhumisparsha Mudra ('earth-touching' gesture) symbolizes the moment the Buddha attained enlightenment under the Bodhi tree, calling upon the earth goddess as a witness to his realization."
+    "explanation": "The Bhumisparsha Mudra ('earth-touching' gesture) symbolizes the moment the Buddha attained enlightenment under the Bodhi tree, calling upon the earth goddess as a witness to his realization.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "22. What event in Gautam Buddha's life is known as 'Dharmachakrapravartana'?",
+    "text": "13. What event in Gautam Buddha's life is known as 'Dharmachakrapravartana'?",
     "options": [
       {
         "id": 1,
@@ -3166,11 +2961,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Dharmachakrapravartana ('Turning of the Wheel of Law') refers to the event when Buddha delivered his first sermon to his five disciples at the Deer Park in Sarnath."
+    "explanation": "Dharmachakrapravartana ('Turning of the Wheel of Law') refers to the event when Buddha delivered his first sermon to his five disciples at the Deer Park in Sarnath.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "23. Which of the following statements correctly highlights a key difference between the Hinayana and Mahayana sects of Buddhism?",
+    "text": "14. Which of the following statements correctly highlights a key difference between the Hinayana and Mahayana sects of Buddhism?",
     "options": [
       {
         "id": 1,
@@ -3190,11 +2986,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Mahayana ('Great Vehicle') Buddhism embraces idol worship of the Buddha, uses Sanskrit texts, and believes in the rebirth of the Buddha (Bodhisattvas). Hinayana ('Lesser Vehicle') focuses on the original Pali texts, opposes idol worship, and treats Buddha as a human teacher, spreading primarily to Sri Lanka and South India."
+    "explanation": "Mahayana ('Great Vehicle') Buddhism embraces idol worship of the Buddha, uses Sanskrit texts, and believes in the rebirth of the Buddha (Bodhisattvas). Hinayana ('Lesser Vehicle') focuses on the original Pali texts, opposes idol worship, and treats Buddha as a human teacher, spreading primarily to Sri Lanka and South India.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "24. Where did Gautam Buddha pass away (attain Mahaparinirvana) in 483 BCE?",
+    "text": "15. Where did Gautam Buddha pass away (attain Mahaparinirvana) in 483 BCE?",
     "options": [
       {
         "id": 1,
@@ -3214,11 +3011,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Gautam Buddha died at the age of 80 in 483 BCE at Kushinagara, located in present-day Uttar Pradesh. This event is termed Mahaparinirvana."
+    "explanation": "Gautam Buddha died at the age of 80 in 483 BCE at Kushinagara, located in present-day Uttar Pradesh. This event is termed Mahaparinirvana.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "25. Which Mudra of the Buddha signifies 'Fearlessness' and granting of protection?",
+    "text": "16. Which Mudra of the Buddha signifies 'Fearlessness' and granting of protection?",
     "options": [
       {
         "id": 1,
@@ -3238,59 +3036,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "The Abhaya Mudra represents fearlessness, peace, protection, and the dispelling of fear. (Varada = Generosity, Dhyana = Meditation)."
+    "explanation": "The Abhaya Mudra represents fearlessness, peace, protection, and the dispelling of fear. (Varada = Generosity, Dhyana = Meditation).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "26. Vardhaman Mahavir gave his first sermon at which location?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Jambhikagrama"
-      },
-      {
-        "id": 2,
-        "text": "Sarnath"
-      },
-      {
-        "id": 3,
-        "text": "Pava"
-      },
-      {
-        "id": 4,
-        "text": "Vallabhi"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Vardhaman Mahavir delivered his first sermon at Pava (Pavapuri in Bihar), which is also the location where he eventually passed away."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "27. Who was the daughter of Vardhaman Mahavir, who later married Jamali (one of his first disciples)?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Yashodhara"
-      },
-      {
-        "id": 2,
-        "text": "Anoja"
-      },
-      {
-        "id": 3,
-        "text": "Trishala"
-      },
-      {
-        "id": 4,
-        "text": "Mahaprajapati"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Anoja (also known as Priyadarshini) was the daughter of Mahavira and his wife Yashoda. She married Jamali, who initially followed Mahavira but later caused the first schism in Jainism."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "28. The Second Buddhist Council was held in 383 BCE, exactly 100 years after the death of Buddha. Where was it convened?",
+    "text": "17. The Second Buddhist Council was held in 383 BCE, exactly 100 years after the death of Buddha. Where was it convened?",
     "options": [
       {
         "id": 1,
@@ -3310,83 +3061,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The 2nd Buddhist Council was convened at Vaishali in 383 BCE. It was patronized by King Kalashoka and presided over by Sabakami."
+    "explanation": "The 2nd Buddhist Council was convened at Vaishali in 383 BCE. It was patronized by King Kalashoka and presided over by Sabakami.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "29. The canonical texts of Jainism were finally compiled in written form during the Second Jain Council (512 CE). Where did this council take place?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Patliputra"
-      },
-      {
-        "id": 2,
-        "text": "Vallabhi"
-      },
-      {
-        "id": 3,
-        "text": "Kushinagara"
-      },
-      {
-        "id": 4,
-        "text": "Ujjain"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The 2nd Jain Council took place in Vallabhi (Gujarat) in 512 CE. It was during this council that the Jain canonical texts (Agamas) were finally compiled and written down."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "30. Which of the following is considered a core sacred text of Jainism?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Tripitaka"
-      },
-      {
-        "id": 2,
-        "text": "Mahavamsa"
-      },
-      {
-        "id": 3,
-        "text": "Kalpa Sutra"
-      },
-      {
-        "id": 4,
-        "text": "Jataka Tales"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "The Kalpa Sutra (along with Acaranga Sutra and Agama Sutras) is a foundational text in Jainism. The Tripitaka, Mahavamsa, and Jataka Tales are Buddhist texts."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "31. The term 'Kevalin' is associated with which ancient Indian religion?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Buddhism"
-      },
-      {
-        "id": 2,
-        "text": "Jainism"
-      },
-      {
-        "id": 3,
-        "text": "Ajivika"
-      },
-      {
-        "id": 4,
-        "text": "Brahmanism"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "In Jainism, a person who has attained 'Kaivalya' (supreme enlightenment or omniscience) is referred to as a 'Kevalin'."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "32. The Third Buddhist Council was convened in 250 BCE primarily to purify the Buddhist movement and compile the Abhidhamma Pitaka. Who presided over this council?",
+    "text": "18. The Third Buddhist Council was convened in 250 BCE primarily to purify the Buddhist movement and compile the Abhidhamma Pitaka. Who presided over this council?",
     "options": [
       {
         "id": 1,
@@ -3406,11 +3086,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Moggaliputta Tissa presided over the 3rd Buddhist Council at Pataliputra, which was heavily patronized by the Mauryan Emperor Ashoka."
+    "explanation": "Moggaliputta Tissa presided over the 3rd Buddhist Council at Pataliputra, which was heavily patronized by the Mauryan Emperor Ashoka.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "33. Which fundamental theological belief sharply distinguishes Jainism from Buddhism according to early philosophical texts?",
+    "text": "19. Which fundamental theological belief sharply distinguishes Jainism from Buddhism according to early philosophical texts?",
     "options": [
       {
         "id": 1,
@@ -3430,35 +3111,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "A major philosophical difference is that Jainism strongly believes in the existence of a soul (Jiva) in all living and non-living entities, whereas Buddhism formulated the doctrine of 'Anatta' (non-self), denying the existence of an eternal soul. Both rejected the Vedas and the rigid caste system, but Buddhism chose the Middle Path over Jainism's extreme asceticism."
+    "explanation": "A major philosophical difference is that Jainism strongly believes in the existence of a soul (Jiva) in all living and non-living entities, whereas Buddhism formulated the doctrine of 'Anatta' (non-self), denying the existence of an eternal soul. Both rejected the Vedas and the rigid caste system, but Buddhism chose the Middle Path over Jainism's extreme asceticism.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "34. King Kharavela, known from the famous Hathigumpha Inscription in Odisha, was a prominent patron of which religion?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Buddhism"
-      },
-      {
-        "id": 2,
-        "text": "Ajivika"
-      },
-      {
-        "id": 3,
-        "text": "Jainism"
-      },
-      {
-        "id": 4,
-        "text": "Shaivism"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "King Kharavela of the Chedi dynasty (ruling Kalinga/Odisha) was a major patron of Jainism. He carved the Hathigumpha and Udayagiri/Khandagiri caves for Jain monks."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "35. In the context of the Eightfold Path of Buddhism, what does 'Ashtangika Marga' essentially aim to achieve?",
+    "text": "20. In the context of the Eightfold Path of Buddhism, what does 'Ashtangika Marga' essentially aim to achieve?",
     "options": [
       {
         "id": 1,
@@ -3478,59 +3136,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "The Eightfold Path (Ashtangika Marga) represents the 4th Noble Truth. It is the 'Middle Path' designed to extinguish desire (Tanha), leading to the end of suffering (Nirodha) and the ultimate attainment of Nirvana."
-  },
-   {
-    "chapterId": "hist-anc-3",
-    "text": "36. The ethical code of Jainism is based on Five Vows (Anuvratas). What does the vow of 'Asteya' strictly mandate?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Non-violence"
-      },
-      {
-        "id": 2,
-        "text": "Chastity"
-      },
-      {
-        "id": 3,
-        "text": "Non-stealing"
-      },
-      {
-        "id": 4,
-        "text": "Truthfulness"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "In Jainism, the five vows are Ahimsa (Non-violence), Satya (Truth), Asteya (Non-stealing), Brahmacharya (Chastity), and Aparigraha (Non-possession)."
+    "explanation": "The Eightfold Path (Ashtangika Marga) represents the 4th Noble Truth. It is the 'Middle Path' designed to extinguish desire (Tanha), leading to the end of suffering (Nirodha) and the ultimate attainment of Nirvana.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "37. Among the Five Vows of Jainism, what does the principle of 'Aparigraha' refer to?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Non-possession or non-attachment to worldly things"
-      },
-      {
-        "id": 2,
-        "text": "Observing absolute silence for a day"
-      },
-      {
-        "id": 3,
-        "text": "Refraining from eating meat"
-      },
-      {
-        "id": 4,
-        "text": "Practicing celibacy"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Aparigraha translates to non-possession or non-attachment. It instructs followers to limit their material wealth and detach themselves from worldly desires."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "38. Who was the biological mother of Gautam Buddha?",
+    "text": "21. Who was the biological mother of Gautam Buddha?",
     "options": [
       {
         "id": 1,
@@ -3550,11 +3161,12 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "Mahamaya was the biological mother of Gautam Buddha. She passed away shortly after his birth, and he was raised by his stepmother/maternal aunt, Mahaprajapati Gautami."
+    "explanation": "Mahamaya was the biological mother of Gautam Buddha. She passed away shortly after his birth, and he was raised by his stepmother/maternal aunt, Mahaprajapati Gautami.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "39. What was the name of Gautam Buddha's wife?",
+    "text": "22. What was the name of Gautam Buddha's wife?",
     "options": [
       {
         "id": 1,
@@ -3574,11 +3186,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Gautam Buddha (Siddhartha) was married to Yashodhara. Note: Yashoda was the name of Vardhaman Mahavir's wife."
+    "explanation": "Gautam Buddha (Siddhartha) was married to Yashodhara. Note: Yashoda was the name of Vardhaman Mahavir's wife.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "40. Before renouncing his royal life, Gautam Buddha had a son. What was his son's name?",
+    "text": "23. Before renouncing his royal life, Gautam Buddha had a son. What was his son's name?",
     "options": [
       {
         "id": 1,
@@ -3598,11 +3211,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Rahula was the only son of Siddhartha (Buddha) and Yashodhara. The name Rahula translates to 'fetter' or 'bond', reflecting Siddhartha's view that his birth tied him to the material world."
+    "explanation": "Rahula was the only son of Siddhartha (Buddha) and Yashodhara. The name Rahula translates to 'fetter' or 'bond', reflecting Siddhartha's view that his birth tied him to the material world.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "41. When Gautam Buddha left his palace to seek spiritual truth (the Great Departure), he was accompanied by his loyal charioteer. What was the charioteer's name?",
+    "text": "24. When Gautam Buddha left his palace to seek spiritual truth (the Great Departure), he was accompanied by his loyal charioteer. What was the charioteer's name?",
     "options": [
       {
         "id": 1,
@@ -3622,11 +3236,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Channa was the royal charioteer who accompanied Siddhartha when he left his palace at the age of 29."
+    "explanation": "Channa was the royal charioteer who accompanied Siddhartha when he left his palace at the age of 29.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "42. At what age did Gautam Buddha leave his home and royal life in search of truth?",
+    "text": "25. At what age did Gautam Buddha leave his home and royal life in search of truth?",
     "options": [
       {
         "id": 1,
@@ -3646,11 +3261,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Gautam Buddha left his home at the age of 29. In comparison, Vardhaman Mahavir left his home at the age of 30."
+    "explanation": "Gautam Buddha left his home at the age of 29. In comparison, Vardhaman Mahavir left his home at the age of 30.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "43. In ancient Buddhist art and iconography, which symbol is used to represent the 'Birth' of Gautam Buddha?",
+    "text": "26. In ancient Buddhist art and iconography, which symbol is used to represent the 'Birth' of Gautam Buddha?",
     "options": [
       {
         "id": 1,
@@ -3670,11 +3286,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Lotus and the Elephant symbolize the birth of Gautam Buddha. According to legend, his mother dreamt of a white elephant entering her womb before his birth."
+    "explanation": "The Lotus and the Elephant symbolize the birth of Gautam Buddha. According to legend, his mother dreamt of a white elephant entering her womb before his birth.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "44. Which symbol is universally used in Buddhist art to depict the 'Enlightenment' (Nirvana) of the Buddha?",
+    "text": "27. Which symbol is universally used in Buddhist art to depict the 'Enlightenment' (Nirvana) of the Buddha?",
     "options": [
       {
         "id": 1,
@@ -3694,11 +3311,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "The Bodhi Tree symbolizes the Enlightenment of Buddha, which he attained under a Peepal tree (later known as the Bodhi Tree) at Bodh Gaya."
+    "explanation": "The Bodhi Tree symbolizes the Enlightenment of Buddha, which he attained under a Peepal tree (later known as the Bodhi Tree) at Bodh Gaya.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "45. The event of 'Dharmachakrapravartana' (the First Sermon) at Sarnath is represented by which symbol?",
+    "text": "28. The event of 'Dharmachakrapravartana' (the First Sermon) at Sarnath is represented by which symbol?",
     "options": [
       {
         "id": 1,
@@ -3718,11 +3336,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Dharma Wheel (Dharmachakra) symbolizes the Buddha's First Sermon at Sarnath, literally meaning 'Turning the Wheel of Law'."
+    "explanation": "The Dharma Wheel (Dharmachakra) symbolizes the Buddha's First Sermon at Sarnath, literally meaning 'Turning the Wheel of Law'.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "46. In Buddhist iconography, what does the 'Dharmachakra Mudra' (a specific hand gesture) signify?",
+    "text": "29. In Buddhist iconography, what does the 'Dharmachakra Mudra' (a specific hand gesture) signify?",
     "options": [
       {
         "id": 1,
@@ -3742,11 +3361,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Dharmachakra Mudra represents teaching and the preaching of the cosmic law, symbolizing the moment he delivered his first sermon."
+    "explanation": "The Dharmachakra Mudra represents teaching and the preaching of the cosmic law, symbolizing the moment he delivered his first sermon.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "47. Which hand gesture (Mudra) of the Buddha specifically signifies deep 'Meditation' and concentration?",
+    "text": "30. Which hand gesture (Mudra) of the Buddha specifically signifies deep 'Meditation' and concentration?",
     "options": [
       {
         "id": 1,
@@ -3766,11 +3386,12 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "The Dhyana Mudra is the gesture of meditation, usually depicted with both hands resting in the lap, palms facing upwards."
+    "explanation": "The Dhyana Mudra is the gesture of meditation, usually depicted with both hands resting in the lap, palms facing upwards.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "48. The 'Varada Mudra' is a common gesture seen in Buddhist and Hindu statues. What does it represent?",
+    "text": "31. The 'Varada Mudra' is a common gesture seen in Buddhist and Hindu statues. What does it represent?",
     "options": [
       {
         "id": 1,
@@ -3790,131 +3411,12 @@
       }
     ],
     "correctOptionId": 1,
-    "explanation": "The Varada Mudra is the gesture of generosity, charity, and granting of boons. It is typically depicted with the arm hanging downwards and the palm facing outward."
+    "explanation": "The Varada Mudra is the gesture of generosity, charity, and granting of boons. It is typically depicted with the arm hanging downwards and the palm facing outward.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "49. In ancient India, Jain monks lived in dedicated monastic establishments. What were these Jain monasteries called?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Viharas"
-      },
-      {
-        "id": 2,
-        "text": "Chaityas"
-      },
-      {
-        "id": 3,
-        "text": "Gasadis"
-      },
-      {
-        "id": 4,
-        "text": "Mathas"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "According to historical texts, Jain monasteries were known as Gasadis. (Viharas were the residential halls for Buddhist monks)."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "50. Who was the mother of Vardhaman Mahavir, the 24th Jain Tirthankara?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Mahamaya"
-      },
-      {
-        "id": 2,
-        "text": "Trishala"
-      },
-      {
-        "id": 3,
-        "text": "Yashoda"
-      },
-      {
-        "id": 4,
-        "text": "Anoja"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Trishala was the mother of Vardhaman Mahavir. She belonged to the Lichchhavi clan, linking Mahavir to a powerful royal lineage."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "51. What was the name of Vardhaman Mahavir's wife?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Yashodhara"
-      },
-      {
-        "id": 2,
-        "text": "Trishala"
-      },
-      {
-        "id": 3,
-        "text": "Yashoda"
-      },
-      {
-        "id": 4,
-        "text": "Priyadarshini"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Mahavir's wife was Yashoda, and they had a daughter named Anoja (also known as Priyadarshini). Do not confuse her with Yashodhara, who was Buddha's wife."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "52. Vardhaman Mahavir was born into a prominent Kshatriya clan. What was the name of his father, the head of the Janatrika clan?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Suddhodhana"
-      },
-      {
-        "id": 2,
-        "text": "Siddhartha"
-      },
-      {
-        "id": 3,
-        "text": "Bimbisara"
-      },
-      {
-        "id": 4,
-        "text": "Ashoka"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Mahavir's father was named Siddhartha, who was the head of the Janatrika clan. (Coincidentally, Siddhartha was also the childhood name of Gautam Buddha)."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "53. Before attaining supreme knowledge (Kaivalya), Vardhaman Mahavir was widely known by which title/name reflecting his origins?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Shakyamuni"
-      },
-      {
-        "id": 2,
-        "text": "Tathagata"
-      },
-      {
-        "id": 3,
-        "text": "Nagaputta"
-      },
-      {
-        "id": 4,
-        "text": "Bodhisattva"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Vardhaman Mahavir was known as Nagaputta (Nigantha Nataputta in Buddhist Pali texts) before he attained Kaivalya and became the 'Kevalin' or 'Jina' (conqueror)."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "54. Which famous Ashokan inscription explicitly confirms that Lumbini was the birthplace of Gautam Buddha and records the exemption of the village from standard taxes?",
+    "text": "32. Which famous Ashokan inscription explicitly confirms that Lumbini was the birthplace of Gautam Buddha and records the exemption of the village from standard taxes?",
     "options": [
       {
         "id": 1,
@@ -3934,11 +3436,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Rummindei (Lumbini) Pillar Inscription commemorates Ashoka's visit to Buddha's birthplace. Ashoka declared the village tax-free and reduced its revenue obligation to one-eighth."
+    "explanation": "The Rummindei (Lumbini) Pillar Inscription commemorates Ashoka's visit to Buddha's birthplace. Ashoka declared the village tax-free and reduced its revenue obligation to one-eighth.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "55. Who is the author of 'Buddhacharita', an epic Sanskrit poem detailing the life of Gautam Buddha?",
+    "text": "33. Who is the author of 'Buddhacharita', an epic Sanskrit poem detailing the life of Gautam Buddha?",
     "options": [
       {
         "id": 1,
@@ -3958,11 +3461,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Ashvaghosha, a philosopher and poet in the court of Kushan King Kanishka, authored the 'Buddhacharita'. He also served as the vice-president of the 4th Buddhist Council."
+    "explanation": "Ashvaghosha, a philosopher and poet in the court of Kushan King Kanishka, authored the 'Buddhacharita'. He also served as the vice-president of the 4th Buddhist Council.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "56. The famous ancient text 'Milindapanho' (Questions of Milinda) documents a philosophical dialogue that led the Indo-Greek King Menander to convert to Buddhism. Which Buddhist monk answered his questions?",
+    "text": "34. The famous ancient text 'Milindapanho' (Questions of Milinda) documents a philosophical dialogue that led the Indo-Greek King Menander to convert to Buddhism. Which Buddhist monk answered his questions?",
     "options": [
       {
         "id": 1,
@@ -3982,11 +3486,12 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "The monk Nagasena brilliantly answered the intricate philosophical questions of the Indo-Greek King Menander (Milinda), leading to the king's conversion to Buddhism."
+    "explanation": "The monk Nagasena brilliantly answered the intricate philosophical questions of the Indo-Greek King Menander (Milinda), leading to the king's conversion to Buddhism.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "57. Emperor Ashoka appointed special officials to spread the message of Buddhism and moral conduct across his empire. According to Major Rock Edict V, what were these officials called?",
+    "text": "35. Emperor Ashoka appointed special officials to spread the message of Buddhism and moral conduct across his empire. According to Major Rock Edict V, what were these officials called?",
     "options": [
       {
         "id": 1,
@@ -4006,11 +3511,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Ashoka created a new cadre of officials called 'Dhammamahamatras' (Dhamma Officers) specifically to propagate Dhamma (cultural/moral conquest) among the people."
+    "explanation": "Ashoka created a new cadre of officials called 'Dhammamahamatras' (Dhamma Officers) specifically to propagate Dhamma (cultural/moral conquest) among the people.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "58. The 'Bharhut Stupa' in Madhya Pradesh is famous for its intricate carvings depicting Buddhist Jataka tales. During which dynasty's rule was it primarily built/expanded?",
+    "text": "36. The 'Bharhut Stupa' in Madhya Pradesh is famous for its intricate carvings depicting Buddhist Jataka tales. During which dynasty's rule was it primarily built/expanded?",
     "options": [
       {
         "id": 1,
@@ -4030,11 +3536,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Although initially established by Ashoka, the Bharhut Stupa was massively expanded and beautifully decorated with stone railings and gateways depicting Jataka tales during the reign of the Sunga Dynasty (Pushyamitra Sunga)."
+    "explanation": "Although initially established by Ashoka, the Bharhut Stupa was massively expanded and beautifully decorated with stone railings and gateways depicting Jataka tales during the reign of the Sunga Dynasty (Pushyamitra Sunga).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "59. The Satavahana dynasty heavily patronized Buddhist rock-cut architecture in Maharashtra and Andhra Pradesh. Which of the following sites is NOT associated with Satavahana Buddhist architecture?",
+    "text": "37. The Satavahana dynasty heavily patronized Buddhist rock-cut architecture in Maharashtra and Andhra Pradesh. Which of the following sites is NOT associated with Satavahana Buddhist architecture?",
     "options": [
       {
         "id": 1,
@@ -4054,11 +3561,12 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "Amaravati, Nagarjunakonda, Nasik, Kanheri, and Karle are major Satavahana Buddhist sites. Udayagiri (and Khandagiri) caves in Odisha were carved out for Jain monks by King Kharavela."
+    "explanation": "Amaravati, Nagarjunakonda, Nasik, Kanheri, and Karle are major Satavahana Buddhist sites. Udayagiri (and Khandagiri) caves in Odisha were carved out for Jain monks by King Kharavela.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "60. The Mathura School of Art, which flourished under the Kushans, had distinct characteristics for its Buddha statues. Which of the following is a primary feature of the Mathura style?",
+    "text": "38. The Mathura School of Art, which flourished under the Kushans, had distinct characteristics for its Buddha statues. Which of the following is a primary feature of the Mathura style?",
     "options": [
       {
         "id": 1,
@@ -4078,11 +3586,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "The Mathura School was an indigenous style that predominantly used spotted red sandstone and featured a prominent, elaborately decorated halo behind the Buddha's head."
+    "explanation": "The Mathura School was an indigenous style that predominantly used spotted red sandstone and featured a prominent, elaborately decorated halo behind the Buddha's head.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "61. The Gandhara School of Art is known for its unique blend of Indian subjects and foreign artistic techniques. Which influence is most prominent in this style?",
+    "text": "39. The Gandhara School of Art is known for its unique blend of Indian subjects and foreign artistic techniques. Which influence is most prominent in this style?",
     "options": [
       {
         "id": 1,
@@ -4102,59 +3611,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Introduced initially by the Indo-Greeks and expanded by the Kushans, the Gandhara School is heavily influenced by Hellenistic (Greek) art, often depicting Buddha with wavy hair and draped garments resembling Apollo."
+    "explanation": "Introduced initially by the Indo-Greeks and expanded by the Kushans, the Gandhara School is heavily influenced by Hellenistic (Greek) art, often depicting Buddha with wavy hair and draped garments resembling Apollo.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "62. The 'Acaranga Sutra' and the 'Bhagavati Sutra' are fundamental canonical texts belonging to which religion?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Buddhism"
-      },
-      {
-        "id": 2,
-        "text": "Jainism"
-      },
-      {
-        "id": 3,
-        "text": "Ajivika Sect"
-      },
-      {
-        "id": 4,
-        "text": "Shaivism"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Acaranga Sutra (detailing rules for monks) and the Bhagavati Sutra are core Agama Sutras of Jainism, compiled finally during the 2nd Jain Council at Vallabhi."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "63. After the great famine in Magadh, the Jain community split. Who remained in Magadh and became the leader of the 'Shvetambara' (white-clad) sect?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bhadrabahu"
-      },
-      {
-        "id": 2,
-        "text": "Sthulabhadra"
-      },
-      {
-        "id": 3,
-        "text": "Makkhali Gosala"
-      },
-      {
-        "id": 4,
-        "text": "Jamali"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Sthulabhadra stayed back in Magadh and permitted his followers to wear white clothes (Shvetambara). Bhadrabahu led the group that migrated South and maintained the strict rule of nudity (Digambara)."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "64. The First Buddhist Council was convened immediately after the Mahaparinirvana of the Buddha in 483 BCE. Who presided over this council?",
+    "text": "40. The First Buddhist Council was convened immediately after the Mahaparinirvana of the Buddha in 483 BCE. Who presided over this council?",
     "options": [
       {
         "id": 1,
@@ -4174,11 +3636,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Mahakassapa (Maha Kassapa) presided over the First Buddhist Council held at the Sattapanni caves in Rajgriha, patronized by King Ajatashatru."
+    "explanation": "Mahakassapa (Maha Kassapa) presided over the First Buddhist Council held at the Sattapanni caves in Rajgriha, patronized by King Ajatashatru.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "65. Where was the First Buddhist Council held in 483 BCE?",
+    "text": "41. Where was the First Buddhist Council held in 483 BCE?",
     "options": [
       {
         "id": 1,
@@ -4198,11 +3661,12 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "The 1st Buddhist Council was held in Rajgriha (Rajgir) under the patronage of Haryanka dynasty king Ajatashatru."
+    "explanation": "The 1st Buddhist Council was held in Rajgriha (Rajgir) under the patronage of Haryanka dynasty king Ajatashatru.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "66. The Second Buddhist Council was held in 383 BCE at Vaishali to settle disputes regarding monastic discipline. Which ruler patronized this council?",
+    "text": "42. The Second Buddhist Council was held in 383 BCE at Vaishali to settle disputes regarding monastic discipline. Which ruler patronized this council?",
     "options": [
       {
         "id": 1,
@@ -4222,11 +3686,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "King Kalashoka of the Shishunaga dynasty patronized the 2nd Buddhist Council at Vaishali, which was presided over by Sabakami."
+    "explanation": "King Kalashoka of the Shishunaga dynasty patronized the 2nd Buddhist Council at Vaishali, which was presided over by Sabakami.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "67. The Third Buddhist Council was convened in 250 BCE at Pataliputra. Who was the powerful Mauryan emperor that patronized this gathering?",
+    "text": "43. The Third Buddhist Council was convened in 250 BCE at Pataliputra. Who was the powerful Mauryan emperor that patronized this gathering?",
     "options": [
       {
         "id": 1,
@@ -4246,11 +3711,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Emperor Ashoka patronized the 3rd Buddhist Council at his capital Pataliputra. It was presided over by Moggaliputta Tissa."
+    "explanation": "Emperor Ashoka patronized the 3rd Buddhist Council at his capital Pataliputra. It was presided over by Moggaliputta Tissa.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "68. The Fourth Buddhist Council, which witnessed the formal split of Buddhism into Mahayana and Hinayana sects, was held in 72 CE in which region?",
+    "text": "44. The Fourth Buddhist Council, which witnessed the formal split of Buddhism into Mahayana and Hinayana sects, was held in 72 CE in which region?",
     "options": [
       {
         "id": 1,
@@ -4270,11 +3736,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The 4th Buddhist Council was held at Kundalvana in Kashmir under the patronage of the Kushan King Kanishka."
+    "explanation": "The 4th Buddhist Council was held at Kundalvana in Kashmir under the patronage of the Kushan King Kanishka.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "69. Mahayana Buddhism spread extensively across East Asia. Which of the following countries is primarily associated with the spread of the Mahayana sect?",
+    "text": "45. Mahayana Buddhism spread extensively across East Asia. Which of the following countries is primarily associated with the spread of the Mahayana sect?",
     "options": [
       {
         "id": 1,
@@ -4294,11 +3761,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Mahayana ('Great Vehicle') Buddhism, which believed in idol worship and the rebirth of Buddha, spread primarily North and East to China, Japan, Korea, and Tibet."
+    "explanation": "Mahayana ('Great Vehicle') Buddhism, which believed in idol worship and the rebirth of Buddha, spread primarily North and East to China, Japan, Korea, and Tibet.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "70. Hinayana Buddhism relies strictly on the original Pali texts and does not worship idols. Which region saw the largest spread of the Hinayana sect?",
+    "text": "46. Hinayana Buddhism relies strictly on the original Pali texts and does not worship idols. Which region saw the largest spread of the Hinayana sect?",
     "options": [
       {
         "id": 1,
@@ -4318,11 +3786,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Hinayana ('Lesser Vehicle' or Theravada) spread predominantly southwards to Sri Lanka, South India, and Southeast Asia (Myanmar, Thailand, Cambodia)."
+    "explanation": "Hinayana ('Lesser Vehicle' or Theravada) spread predominantly southwards to Sri Lanka, South India, and Southeast Asia (Myanmar, Thailand, Cambodia).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "71. To spread the message of Buddhism abroad, Emperor Ashoka sent his son Mahendra and daughter Sanghamitra to which neighboring country?",
+    "text": "47. To spread the message of Buddhism abroad, Emperor Ashoka sent his son Mahendra and daughter Sanghamitra to which neighboring country?",
     "options": [
       {
         "id": 1,
@@ -4342,11 +3811,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Ashoka sent a special mission led by his son Mahendra and daughter Sanghamitra to Ceylon (Sri Lanka), carrying a branch of the original Bodhi tree, to successfully propagate Buddhism."
+    "explanation": "Ashoka sent a special mission led by his son Mahendra and daughter Sanghamitra to Ceylon (Sri Lanka), carrying a branch of the original Bodhi tree, to successfully propagate Buddhism.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "72. Which Mauryan ruler explicitly patronized the Ajivika sect by cutting the Barabar Hill Caves out of solid rock in Bihar for their ascetics?",
+    "text": "48. Which Mauryan ruler explicitly patronized the Ajivika sect by cutting the Barabar Hill Caves out of solid rock in Bihar for their ascetics?",
     "options": [
       {
         "id": 1,
@@ -4366,11 +3836,12 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Although Ashoka was a devout Buddhist, his policy of religious tolerance led him to carve out the Barabar Hill Caves for the monks of the Ajivika sect. (Bindusara merely patronized them; Ashoka built the caves)."
+    "explanation": "Although Ashoka was a devout Buddhist, his policy of religious tolerance led him to carve out the Barabar Hill Caves for the monks of the Ajivika sect. (Bindusara merely patronized them; Ashoka built the caves).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "73. Ashoka's grandson also followed his policy of religious tolerance and built the Nagarjuna Caves for the Ajivika sect. What was his name?",
+    "text": "49. Ashoka's grandson also followed his policy of religious tolerance and built the Nagarjuna Caves for the Ajivika sect. What was his name?",
     "options": [
       {
         "id": 1,
@@ -4390,11 +3861,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Dasharatha Maurya, the grandson of Ashoka, built the Nagarjuna Caves in the Barabar Hills region for the Ajivika ascetics."
+    "explanation": "Dasharatha Maurya, the grandson of Ashoka, built the Nagarjuna Caves in the Barabar Hills region for the Ajivika ascetics.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "74. Both Jainism and Buddhism are classified as 'heterodox' religions in the context of ancient Indian history. What does this mean?",
+    "text": "50. Both Jainism and Buddhism are classified as 'heterodox' religions in the context of ancient Indian history. What does this mean?",
     "options": [
       {
         "id": 1,
@@ -4414,35 +3886,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Heterodox (Nastika) schools of Indian philosophy are those that reject the authority of the Vedas. Both Buddhism and Jainism fall into this category, unlike the orthodox (Astika) schools."
+    "explanation": "Heterodox (Nastika) schools of Indian philosophy are those that reject the authority of the Vedas. Both Buddhism and Jainism fall into this category, unlike the orthodox (Astika) schools.",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "75. The colossal statue of Gommateshwara in Karnataka depicts Bahubali. According to Jain tradition, who was Bahubali's father?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Parshvanath"
-      },
-      {
-        "id": 2,
-        "text": "Vardhaman Mahavir"
-      },
-      {
-        "id": 3,
-        "text": "Rishabhdev"
-      },
-      {
-        "id": 4,
-        "text": "Ajitanatha"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Bahubali was the son of Rishabhdev, the 1st Jain Tirthankara. The massive monolithic statue was built by the Ganga dynasty minister Chavundaraya at Shravanabelagola."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "76. Gautam Buddha belonged to a small republic in ancient India. Which specific Kshatriya clan did he belong to?",
+    "text": "51. Gautam Buddha belonged to a small republic in ancient India. Which specific Kshatriya clan did he belong to?",
     "options": [
       {
         "id": 1,
@@ -4462,35 +3911,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Buddha's father Suddhodhana was the chief of the Shakya clan. Because of this, Buddha is often referred to as 'Shakyamuni' (the sage of the Shakyas)."
+    "explanation": "Buddha's father Suddhodhana was the chief of the Shakya clan. Because of this, Buddha is often referred to as 'Shakyamuni' (the sage of the Shakyas).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "77. At what age did Vardhaman Mahavir attain 'Kaivalya' (supreme enlightenment) under a Sal tree?",
-    "options": [
-      {
-        "id": 1,
-        "text": "35"
-      },
-      {
-        "id": 2,
-        "text": "42"
-      },
-      {
-        "id": 3,
-        "text": "45"
-      },
-      {
-        "id": 4,
-        "text": "72"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Mahavir left home at 30 and wandered as an ascetic for 12 years. He attained Kaivalya at the age of 42 at Jambhikagrama."
-  },
-  {
-    "chapterId": "hist-anc-3",
-    "text": "78. How old was Gautam Buddha when he attained Mahaparinirvana (passed away) at Kushinagara?",
+    "text": "52. How old was Gautam Buddha when he attained Mahaparinirvana (passed away) at Kushinagara?",
     "options": [
       {
         "id": 1,
@@ -4510,11 +3936,12 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Gautam Buddha was born in 563 BCE and passed away in 483 BCE, meaning he attained Mahaparinirvana at the age of 80. (Mahavir passed away at the age of 72)."
+    "explanation": "Gautam Buddha was born in 563 BCE and passed away in 483 BCE, meaning he attained Mahaparinirvana at the age of 80. (Mahavir passed away at the age of 72).",
+    "id": null
   },
   {
     "chapterId": "hist-anc-3",
-    "text": "79. The compilation of the 'Abhidhamma Pitaka', which deals with the philosophical analysis and systematization of the Buddha's teachings, took place during which Buddhist Council?",
+    "text": "53. The compilation of the 'Abhidhamma Pitaka', which deals with the philosophical analysis and systematization of the Buddha's teachings, took place during which Buddhist Council?",
     "options": [
       {
         "id": 1,
@@ -4534,33 +3961,10 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Third Buddhist Council, presided over by Moggaliputta Tissa at Pataliputra, resulted in the final compilation of the Tripitaka by adding the Abhidhamma Pitaka to the already existing Sutta and Vinaya Pitakas."
+    "explanation": "The Third Buddhist Council, presided over by Moggaliputta Tissa at Pataliputra, resulted in the final compilation of the Tripitaka by adding the Abhidhamma Pitaka to the already existing Sutta and Vinaya Pitakas.",
+    "id": null
   },
   {
-    "chapterId": "hist-anc-3",
-    "text": "80. What was the major historical outcome of the Second Jain Council held in 512 CE at Vallabhi?",
-    "options": [
-      {
-        "id": 1,
-        "text": "The formal split of Jainism into Digambara and Shvetambara sects."
-      },
-      {
-        "id": 2,
-        "text": "The final compilation of Jain canonical texts (Agamas) into written form."
-      },
-      {
-        "id": 3,
-        "text": "The mass migration of Jains to Karnataka."
-      },
-      {
-        "id": 4,
-        "text": "The conversion of the Mauryan Emperor to Jainism."
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "During the 2nd Jain Council at Vallabhi (Gujarat) in 512 CE, the scattered Jain teachings and canonical texts (Agamas) were finally organized, compiled, and recorded in written form."
-  },
-   {
     "chapterId": "hist-anc-4",
     "text": "1. Which ancient Sanskrit drama written by Vishakhadatta describes how Chandragupta Maurya overthrew the Nanda dynasty with the help of Chanakya?",
     "options": [

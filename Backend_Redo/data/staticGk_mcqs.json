@@ -11519,7 +11519,7 @@
     "correctOptionId": 1,
     "explanation": "Both statements are correct. The Reason (R) perfectly explains the Assertion (A). By removing middlemen and directly depositing funds into Aadhaar-linked bank accounts (the JAM trinity: Jan Dhan, Aadhaar, Mobile), DBT has successfully eliminated ghost beneficiaries and drastically reduced systemic leakages."
   },
-   {
+  {
     "chapterId": "gk-4",
     "text": "1. How many types of makeup (vaibhavam) are traditionally used for Kathakali dance artists?",
     "options": [
@@ -11541,35 +11541,35 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "There are exactly five types of makeup (vaibhavam) in Kathakali: Paccha (green), Kathi (knife), Thadi (beard), Kari (black), and Minukku (shining). Kathakali originated in the 17th century in Travancore, Kerala."
+    "explanation": "There are exactly five types of makeup (vaibhavam) in Kathakali: Paccha (green), Kathi (knife), Thadi (beard), Kari (black), and Minukku (shining) [53]. Each color represents a character's moral alignment and spiritual quality [53]. For example, Paccha represents noble and divine figures, while Kari is for demonesses [53]."
   },
   {
     "chapterId": "gk-4",
-    "text": "2. 'Kalasam' is a specific dance sequence belonging to which of the following classical dances of India?",
+    "text": "2. Which Indian classical dance form traces its origin directly to the ancient temple dance 'Sadir Attam'?",
     "options": [
       {
         "id": 1,
-        "text": "Manipuri"
+        "text": "Kathakali"
       },
       {
         "id": 2,
+        "text": "Kuchipudi"
+      },
+      {
+        "id": 3,
         "text": "Bharatanatyam"
       },
       {
-        "id": 3,
-        "text": "Kathak"
-      },
-      {
         "id": 4,
-        "text": "Kathakali"
+        "text": "Mohiniyattam"
       }
     ],
-    "correctOptionId": 4,
-    "explanation": "Kalasam is a part of complex patterns of foot movements and rhythm exclusively found in the Kathakali dance-drama style of Kerala."
+    "correctOptionId": 3,
+    "explanation": "Bharatanatyam, native to Tamil Nadu, evolved from 'Sadir Attam' (also known as Dasi Attam) [87, 98]. It was historically performed by Devadasis (temple dancers) and was subsequently renamed and revived in the early 20th century [87, 88]."
   },
   {
     "chapterId": "gk-4",
-    "text": "3. The famous play 'Nalacharitam', written by Unnayi Warrier, holds a great place in the literature of which Indian dance style?",
+    "text": "3. Which classical dance form traditionally concludes with a high-difficulty sequence called 'Tarangam' where the dancer balances on the rim of a brass plate?",
     "options": [
       {
         "id": 1,
@@ -11577,7 +11577,7 @@
       },
       {
         "id": 2,
-        "text": "Kathak"
+        "text": "Kuchipudi"
       },
       {
         "id": 3,
@@ -11588,40 +11588,40 @@
         "text": "Kathakali"
       }
     ],
-    "correctOptionId": 4,
-    "explanation": "'Nalacharitam' is divided into four parts and has a unique place in Malayalam literature. It is considered one of the most important plays enacted in Kathakali."
+    "correctOptionId": 2,
+    "explanation": "Tarangam is the defining climax of a Kuchipudi recital [108]. The dancer performs rapid rhythmic footwork while balancing on the sharp edge of a brass plate, often while carrying a water-pot on their head [6, 108]."
   },
   {
     "chapterId": "gk-4",
-    "text": "4. Alarmel Valli, who was honored with the Padma Bhushan award and is famous for Bharatanatyam, is also a highly recognized exponent of which of the following other classical dance styles?",
+    "text": "4. Which 15th-century saint-reformer is credited with founding the classical Sattriya dance of Assam as a medium of Vaishnavite devotion?",
     "options": [
       {
         "id": 1,
-        "text": "Odissi"
+        "text": "Madhavdev"
       },
       {
         "id": 2,
-        "text": "Kathakali"
+        "text": "Chaitanya Mahaprabhu"
       },
       {
         "id": 3,
-        "text": "Kuchipudi"
+        "text": "Srimanta Shankardev"
       },
       {
         "id": 4,
-        "text": "Kathak"
+        "text": "Kabir Das"
       }
     ],
-    "correctOptionId": 1,
-    "explanation": "Alarmel Valli is an Indian classical dancer and choreographer who mastered both Bharatanatyam (Pandanalur style) and Odissi. She founded the Dipashikha Dance Foundation in Chennai in 1984."
+    "correctOptionId": 3,
+    "explanation": "Sattriya was introduced in the 15th century by Srimanta Shankardev, who used it as an accompaniment to his 'Ankia Naat' plays in the Satras (monasteries) of Assam [103, 104, 107]."
   },
   {
     "chapterId": "gk-4",
-    "text": "5. Mrinalini Vikram Sarabhai, a famous personality of Bharatanatyam and founder of the Darpana Academy of Performing Arts, was also highly known for which of the following dance styles?",
+    "text": "5. The famous four-part play 'Nalacharitam', which holds a supreme place in classical Malayalam literature, is traditionally associated with which dance style?",
     "options": [
       {
         "id": 1,
-        "text": "Odissi"
+        "text": "Mohiniyattam"
       },
       {
         "id": 2,
@@ -11629,71 +11629,23 @@
       },
       {
         "id": 3,
-        "text": "Kuchipudi"
+        "text": "Kathakali"
       },
       {
         "id": 4,
-        "text": "Kathakali"
+        "text": "Odissi"
       }
     ],
-    "correctOptionId": 4,
-    "explanation": "Mrinalini Sarabhai (honored with the Padma Bhushan in 1992) was a master of both Bharatanatyam and Kathakali."
+    "correctOptionId": 3,
+    "explanation": "'Nalacharitam' was composed by the 18th-century writer Unnayi Warrier [54]. It is a masterpiece in Malayalam literature specifically written to be staged as a Kathakali dance-drama [54]."
   },
   {
     "chapterId": "gk-4",
-    "text": "6. 'Thumri' and other similar lyrical singing styles are an integral part of the traditional music of which classical dance?",
+    "text": "6. Which Indian classical dance form is historically performed to Hindustani classical music rather than Carnatic music?",
     "options": [
       {
         "id": 1,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 2,
         "text": "Sattriya"
-      },
-      {
-        "id": 3,
-        "text": "Kathakali"
-      },
-      {
-        "id": 4,
-        "text": "Kathak"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "Thumri music is a vital component of the Kathak dance style. It is considered a link between classical music and light classical music and originated significantly during the time of Wajid Ali Shah."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "7. The Mohiniyattam dance is primarily related to which of the following traditional dance styles or elements?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Chauk"
-      },
-      {
-        "id": 2,
-        "text": "Sampadam"
-      },
-      {
-        "id": 3,
-        "text": "Tribhanga"
-      },
-      {
-        "id": 4,
-        "text": "Lasya style"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "Mohiniyattam is characterized by the 'Lasya' style, where the dance is presented with delicate, graceful movements and a more feminine grace. It derives its name from Lord Vishnu's female avatar, 'Mohini'."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "8. Kanak Rele, who established the Nalanda Dance Research Centre and was honored with the Kalidas Samman and Padma Bhushan, was an acclaimed artist of which classical dance style?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Manipuri"
       },
       {
         "id": 2,
@@ -11701,19 +11653,43 @@
       },
       {
         "id": 3,
-        "text": "Kathak"
+        "text": "Kathakali"
       },
       {
         "id": 4,
-        "text": "Sattriya"
+        "text": "Kathak"
       }
     ],
-    "correctOptionId": 2,
-    "explanation": "Dr. Kanak Rele was a pioneering Mohiniyattam dancer who played a significant role in reviving the art form and established the Nalanda Dance Research Centre."
+    "correctOptionId": 4,
+    "explanation": "Kathak is the only classical dance native to Northern India and is set to Hindustani classical music [58]. It incorporates Persian elements and court aesthetics, while other southern dances rely on Carnatic music [58, 69]."
   },
   {
     "chapterId": "gk-4",
-    "text": "9. What are the two main parts in the Manipuri classical dance that perfectly correspond to the Lasya (feminine) and Tandava (masculine) elements?",
+    "text": "7. What does the term 'Mati-Akhora' refer to in the context of Indian classical dance training?",
+    "options": [
+      {
+        "id": 1,
+        "text": "A set of 64 ground exercises in Sattriya"
+      },
+      {
+        "id": 2,
+        "text": "The eye exercises in Kathakali"
+      },
+      {
+        "id": 3,
+        "text": "The footwork patterns of Kathak"
+      },
+      {
+        "id": 4,
+        "text": "The basic hand mudras of Bharatanatyam"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "'Mati-Akhora' (ground exercise) consists of 64 basic movements that prepare a dancer's body for the postures and geometry of Sattriya dance [106]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "8. What are the two main parts in Manipuri classical dance that correspond respectively to the feminine (Lasya) and masculine (Tandava) elements?",
     "options": [
       {
         "id": 1,
@@ -11733,35 +11709,107 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "In Manipuri dance, 'Jagoi' portrays the delicate and gentle Lasya elements representing Hindu Vaishnavism (Raslila), while 'Cholom' represents the vigorous Tandava aspect (Sankirtan)."
+    "explanation": "In Manipuri, Jagoi represents the graceful, circular, and feminine (Lasya) aspect, often depicting Rasleela [76, 77]. Cholom represents the powerful, athletic, and masculine (Tandava) drumming aspect [76, 77]."
   },
   {
     "chapterId": "gk-4",
-    "text": "10. Which of the following is recognized as the absolute oldest classical dance style rooted within the traditions of Manipur?",
+    "text": "9. Which of the following traditional dance forms is NOT a part of Odia culture, despite being a classical form of India?",
     "options": [
       {
         "id": 1,
-        "text": "Mohiniyattam"
+        "text": "Dalkhai"
       },
       {
         "id": 2,
-        "text": "Manipuri"
+        "text": "Kathakali"
       },
       {
         "id": 3,
-        "text": "Lai Haraoba"
+        "text": "Gotipua"
       },
       {
         "id": 4,
-        "text": "Daskathia"
+        "text": "Paika"
       }
     ],
-    "correctOptionId": 3,
-    "explanation": "‘Lai Haraoba’ is the oldest traditional root form of the classical dance style of Manipur. It is a special ritual dance celebrating local deities and is celebrated typically in the month of May."
+    "correctOptionId": 2,
+    "explanation": "Dalkhai is a folk dance of Odisha, Gotipua is a temple precursor of Odissi, and Paika is an Odia martial dance [52]. Kathakali belongs strictly to Kerala [52]."
   },
   {
     "chapterId": "gk-4",
-    "text": "11. The 'Pakhawaj' (Dhol) syllables and bols are traditionally used to conclude the performances of which major classical dance?",
+    "text": "10. The earliest detailed description of Mohiniyattam as a solo female temple dance is found in which 18th-century treatise?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Abhinaya Darpana"
+      },
+      {
+        "id": 2,
+        "text": "Vyavaharamala"
+      },
+      {
+        "id": 3,
+        "text": "Natya Shastra"
+      },
+      {
+        "id": 4,
+        "text": "Ghorarupama"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "The solo dance Mohiniyattam finds its earliest written mention in 'Vyavaharamala', composed in 1709 AD by Mazhamangalam Narayanan Namboodiri [75]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "11. Who was the pioneering Bharatanatyam exponent, theosophist, and first nominated female member of Rajya Sabha who founded the Kalakshetra Foundation in Chennai?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mrinalini Sarabhai"
+      },
+      {
+        "id": 2,
+        "text": "Rukmini Devi Arundale"
+      },
+      {
+        "id": 3,
+        "text": "Alarmel Valli"
+      },
+      {
+        "id": 4,
+        "text": "Yamini Krishnamurthy"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Rukmini Devi Arundale founded the Kalakshetra school in 1936 to preserve and clean Bharatanatyam's heritage [88, 89]. She was the first woman nominated to India's Rajya Sabha [89]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "12. The legendary classical dancer Mrinalini Vikram Sarabhai, honored on her 100th birthday with a Google Doodle, was a renowned exponent of which two dance styles?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kuchipudi and Bharatanatyam"
+      },
+      {
+        "id": 2,
+        "text": "Bharatanatyam and Kathakali"
+      },
+      {
+        "id": 3,
+        "text": "Yakshagana and Kathak"
+      },
+      {
+        "id": 4,
+        "text": "Odissi and Mohiniyattam"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Mrinalini Sarabhai mastered both Bharatanatyam and Kathakali [94]. With her husband Dr. Vikram Sarabhai, she founded the Darpana Academy of Performing Arts in Ahmedabad in 1949 [94, 95]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "13. In which of the following Indian classical dance forms are the rhythmic syllables ('bols') of the Pakhawaj drum primarily used to conclude the performance?",
     "options": [
       {
         "id": 1,
@@ -11781,59 +11829,83 @@
       }
     ],
     "correctOptionId": 4,
-    "explanation": "In Odissi dance, the Mangalacharan (prayer) and concluding sequences are heavily tied to the recitation of Pakhawaj bols."
+    "explanation": "In Odissi, the concluding part of the Mangalacharan (prayer of invocation/conclusion) utilizes the 'bols' of the Pakhawaj drum to synchronize the final dance movements [85, 86]."
   },
   {
     "chapterId": "gk-4",
-    "text": "12. Which classical dance features a unique solo presentation style known as ‘Ekahaarya’, where a single dancer performs multiple roles in one uninterrupted performance?",
+    "text": "14. The classical sequence of Bharatanatyam (Alarippu to Thillana) and its musical system were structured in the 19th century by which group of musicians?",
     "options": [
       {
         "id": 1,
-        "text": "Kathak"
+        "text": "The Trinity of Carnatic Music"
       },
       {
         "id": 2,
-        "text": "Bharatanatyam"
+        "text": "The Swathi Thirunal Court"
       },
       {
         "id": 3,
+        "text": "The Four Brothers of Tanjore"
+      },
+      {
+        "id": 4,
+        "text": "The Kalka-Bindadin lineage"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "The Tanjore Quartet—composed of four brothers: Ponnayya, Chinnayya, Shivanandam, and Vadivelu—systematized the modern repertoire and Carnatic musical background of Bharatanatyam [98, 99]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "15. Alarmel Valli, celebrated globally as a leading exponent of the Pandanallur style of Bharatanatyam, is also trained in which other classical dance form?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Odissi"
+      },
+      {
+        "id": 2,
         "text": "Kathakali"
       },
       {
-        "id": 4,
+        "id": 3,
         "text": "Kuchipudi"
+      },
+      {
+        "id": 4,
+        "text": "Kathak"
       }
     ],
-    "correctOptionId": 2,
-    "explanation": "Bharatanatyam is known for the 'Ekahaarya' style, where one single artist takes on the personas of multiple characters through rapid shifts in expression and posture without changing costumes."
+    "correctOptionId": 1,
+    "explanation": "Alarmel Valli is an Indian classical dancer who excels in Bharatanatyam (Pandanallur school) but is also trained as an exponent of Odissi [55, 56]."
   },
   {
     "chapterId": "gk-4",
-    "text": "13. Who among the following legendary dancers established the 'Kalakshetra Foundation' in Chennai, which became a significant global center for the study and performance of fine arts?",
+    "text": "16. What does the term 'Kalasam' refer to in the context of Kathakali performance grammar?",
     "options": [
       {
         "id": 1,
-        "text": "Saroja Vaidyanathan"
+        "text": "A sacred pot balanced on the head"
       },
       {
         "id": 2,
-        "text": "Sonal Mansingh"
+        "text": "A pure-dance sequence of foot movements and rhythm"
       },
       {
         "id": 3,
-        "text": "Mallika Sarabhai"
+        "text": "The white beard makeup of divine characters"
       },
       {
         "id": 4,
-        "text": "Rukmini Devi Arundale"
+        "text": "The opening call of the drums"
       }
     ],
-    "correctOptionId": 4,
-    "explanation": "Rukmini Devi Arundale, a visionary Bharatanatyam dancer, established Kalakshetra in 1936. She is credited with reviving Bharatanatyam and making it respectable in modern society."
+    "correctOptionId": 2,
+    "explanation": "Kalasam is a pure, abstract technical dance sequence in Kathakali that acts as a rhythmic bridge between dramatic passages [53]. Ashtakalasam includes 8 types of Kalasam [53, 54]."
   },
   {
     "chapterId": "gk-4",
-    "text": "14. Which ancient Sanskrit text by Acharya Nandikeshvara serves as the primary manual and definitive source for the study of the Bharatanatyam dance form?",
+    "text": "17. Which ancient Sanskrit text, composed by Acharya Nandikeshvara, serves as a primary source manual for studying the mudras and postures of Bharatanatyam?",
     "options": [
       {
         "id": 1,
@@ -11853,11 +11925,155 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "The 'Abhinaya Darpanam' (The Mirror of Gesture) by Nandikeshvara is the foundational ancient text outlining the mudras and expressions specifically used in Bharatanatyam."
+    "explanation": "'Abhinaya Darpanam' by Acharya Nandikeshvara is considered the primary, most authoritative guide for study of gestures, expressions (abhinaya), and hand mudras in Bharatanatyam [97, 98]."
   },
   {
     "chapterId": "gk-4",
-    "text": "15. 'Borgeet' are traditional, highly spiritual devotional songs. They are intrinsically related to which Indian classical dance style?",
+    "text": "18. Which of the following classical dancers of India is NOT an exponent of the Odissi dance form?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Mayadhar Raut"
+      },
+      {
+        "id": 2,
+        "text": "Geetanjali Lal"
+      },
+      {
+        "id": 3,
+        "text": "Kumkum Mohanty"
+      },
+      {
+        "id": 4,
+        "text": "Kiran Segal"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Mayadhar Raut, Kumkum Mohanty, and Kiran Segal are celebrated Odissi exponents [124]. Geetanjali Lal is a renowned Kathak dancer of the Jaipur Gharana [124, 125]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "19. Which world-renowned Mohiniyattam dancer was the focus of Vinod Mankara's acclaimed documentary 'Mohiniyattathinte Amma'?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jayaprabha Menon"
+      },
+      {
+        "id": 2,
+        "text": "P. Madhuri"
+      },
+      {
+        "id": 3,
+        "text": "Sunanda Nair"
+      },
+      {
+        "id": 4,
+        "text": "Kalamandalam Kalyanikutty Amma"
+      }
+    ],
+    "correctOptionId": 4,
+    "explanation": "The documentary 'Mohiniyattathinte Amma' is based on the life of Kalamandalam Kalyanikutty Amma, who is universally regarded as the mother/pioneer of modern Mohiniyattam [72, 73]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "20. In which year did the Sangeet Natak Akademi officially recognize Sattriya as one of India's classical dances, making it the first addition in the 21st century?",
+    "options": [
+      {
+        "id": 1,
+        "text": "1995"
+      },
+      {
+        "id": 2,
+        "text": "2000"
+      },
+      {
+        "id": 3,
+        "text": "2005"
+      },
+      {
+        "id": 4,
+        "text": "2010"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Sattriya of Assam was formally recognized as the 8th classical dance form of India by the Sangeet Natak Akademi in November 2000 [103, 104, 106]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "21. The classical vocal style 'Thumri', traditionally used to express romantic and emotional themes, originated and flourished in the court of which Nawab?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Asaf-ud-Daula"
+      },
+      {
+        "id": 2,
+        "text": "Wajid Ali Shah"
+      },
+      {
+        "id": 3,
+        "text": "Siraj-ud-Daula"
+      },
+      {
+        "id": 4,
+        "text": "Mir Qasim"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Thumri music originated during the reign of Nawab Wajid Ali Shah, the last Nawab of Awadh, and is intimately tied to the expressive choreography of Kathak [68, 69]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "22. Which ancient Sanskrit temple-theatre tradition of Kerala, performed by the Chakyar and Nambiar communities, was inscribed by UNESCO on its Intangible Cultural Heritage list in 2008?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Yakshagana"
+      },
+      {
+        "id": 2,
+        "text": "Koodiyattam"
+      },
+      {
+        "id": 3,
+        "text": "Kathakali"
+      },
+      {
+        "id": 4,
+        "text": "Chavittukali"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Koodiyattam is Kerala's ancient Sanskrit theatre, performed inside temple auditoriums ('Koothambalams') by Chakyars and Nambiars, and recognized by UNESCO in 2008 [110, 111]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "23. Who among the following received her Kathak training from Pandit Birju Maharaj and has been honored with the Padma Shri for her contribution?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Saroja Vaidyanathan"
+      },
+      {
+        "id": 2,
+        "text": "Shobhana Narayan"
+      },
+      {
+        "id": 3,
+        "text": "Swapanasundari"
+      },
+      {
+        "id": 4,
+        "text": "Rohini Bhate"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Shobhana Narayan, a premier Kathak exponent and retired IAS officer, received her rigorous classical training directly from Pandit Birju Maharaj [60]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "24. The spiritual and classical songs known as 'Borgeet' are a unique vocal composition composed by Srimanta Shankardev and Madhavdev for which classical dance form?",
     "options": [
       {
         "id": 1,
@@ -11877,207 +12093,207 @@
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Borgeet songs were composed by Mahapurusha Srimanta Shankardev and his disciple Madhavdev. They are sung in specific ragas and form the musical backbone of the Sattriya dance of Assam."
+    "explanation": "Borgeet sangeet consists of highly structured classical songs composed in Brajavali by Srimanta Shankardev and Madhavdev, used in Sattriya dance [105]."
   },
   {
     "chapterId": "gk-4",
-    "text": "16. Sattriya, a major classical dance of India, originated in the 15th-century Bhakti movement. Who is credited with introducing and structuring this dance form?",
+    "text": "25. Yamini Krishnamurthy, honored with major national awards, is celebrated as a leading master of which two classical dance styles?",
     "options": [
       {
         "id": 1,
-        "text": "Chaitanya Mahaprabhu"
+        "text": "Kuchipudi and Mohiniyattam"
       },
       {
         "id": 2,
-        "text": "Guru Vempati Chinna Satyam"
+        "text": "Kuchipudi and Odissi"
       },
       {
         "id": 3,
-        "text": "Vallabhacharya"
+        "text": "Kuchipudi and Kathak"
       },
       {
         "id": 4,
-        "text": "Srimanta Shankardev"
+        "text": "Kuchipudi and Bharatanatyam"
       }
     ],
     "correctOptionId": 4,
-    "explanation": "Sattriya was introduced by the Vaishnava saint and scholar Srimanta Shankardev in Assam. It was initially created as an accompaniment to his one-act plays called 'Ankia Naat'."
+    "explanation": "Yamini Krishnamurthy holds the rare distinction of being a top-tier performer and pioneer in both Kuchipudi and Bharatanatyam [58, 102, 103]."
   },
   {
     "chapterId": "gk-4",
-    "text": "17. Which of the following is a traditional folk dance art performance originating from Odisha that is uniquely presented by a duo of men in the form of storytelling?",
+    "text": "26. Who was the legendary Carnatic classical singer and the first musician to receive India's highest civilian honor, the 'Bharat Ratna'?",
     "options": [
       {
         "id": 1,
-        "text": "Daskathia"
+        "text": "M.S. Subbulakshmi"
       },
       {
         "id": 2,
-        "text": "Padayani"
+        "text": "Gangubai Hangal"
       },
       {
         "id": 3,
-        "text": "Khuallam"
+        "text": "Shubha Mudgal"
       },
       {
         "id": 4,
-        "text": "Chang"
+        "text": "Girija Devi"
       }
     ],
     "correctOptionId": 1,
-    "explanation": "Daskathia is a famous folk art of Odisha performed by two men who depict historical and mythological stories, utilizing an instrument called the Daskathi."
+    "explanation": "M.S. Subbulakshmi, celebrated as the 'Queen of Songs' by Nehru and national leaders, became the first musician to be awarded the Bharat Ratna in 1998 [123]."
   },
   {
     "chapterId": "gk-4",
-    "text": "18. The 'Bihu' folk dance is the most vibrant cultural asset of Assam. Which specific tribal community is historically credited with starting this dance?",
+    "text": "27. The famous 'Tippani' folk dance, which mimics roof-compaction manual labor using long wooden sticks, is native to which region?",
     "options": [
       {
         "id": 1,
-        "text": "Kamar tribe"
+        "text": "Araku Valley, Andhra Pradesh"
       },
       {
         "id": 2,
-        "text": "Lepcha tribe"
+        "text": "Chorwad, Saurashtra (Gujarat)"
       },
       {
         "id": 3,
-        "text": "Bodo-Kachari tribal community"
+        "text": "Bastar, Chhattisgarh"
       },
       {
         "id": 4,
-        "text": "Garo tribe"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "The Bihu dance was originated by the indigenous Bodo-Kachari tribal community of Assam. The term Bihu means to pray for blessings or prosperity."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "19. Which prominent folk dance from Mizoram is literally translated as the 'dance of the guests' and involves dancers wearing a traditional striped dress called 'Pundum'?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Cheraw"
-      },
-      {
-        "id": 2,
-        "text": "Khuallam"
-      },
-      {
-        "id": 3,
-        "text": "Chailam"
-      },
-      {
-        "id": 4,
-        "text": "Thang Ta"
+        "text": "Shekhawati, Rajasthan"
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Khuallam is a famous dance of Mizoram performed by local artists on a special occasion called 'Khuangchawi'. The word Khuallam itself means the dance of the guests."
+    "explanation": "Tippani originated from Chorwad in the Saurashtra region of Gujarat [117]. It was danced by women who struck long wooden poles (Tippanis) on the ground while singing [117]."
   },
   {
     "chapterId": "gk-4",
-    "text": "20. The birthplace of the 'Terah Taali' folk dance is considered to be the Padarla village. To which state does this famous folk dance belong?",
+    "text": "28. The 'Raut Nacha' is a traditional devotional stick-dance performed during Diwali by the Yadav (Gwala) community of which state?",
     "options": [
       {
         "id": 1,
-        "text": "Haryana"
+        "text": "Punjab"
       },
       {
         "id": 2,
-        "text": "Rajasthan"
-      },
-      {
-        "id": 3,
         "text": "Assam"
       },
       {
+        "id": 3,
+        "text": "Gujarat"
+      },
+      {
         "id": 4,
-        "text": "Madhya Pradesh"
+        "text": "Chhattisgarh"
       }
     ],
-    "correctOptionId": 2,
-    "explanation": "Terah Taali is a famous folk dance of Rajasthan performed primarily by the Kamar tribe. Women dancers tie 13 brass cymbals (manjiras) to various parts of their body during the performance."
+    "correctOptionId": 4,
+    "explanation": "Raut Nacha is a traditional dance of the Yadav herding community of Chhattisgarh, performed during Diwali to reenact Lord Krishna's victories [116]."
   },
   {
     "chapterId": "gk-4",
-    "text": "21. Which traditional folk dance of Kerala is an ancient ritual performed in Bhagavathy temples, uniquely characterized by dancers adorned with massive masks and trained in Kalaripayattu?",
+    "text": "29. The spectacular folk-theatre tradition 'Yakshagana', characterized by vibrant makeup, elaborate costumes, and loud drumming, is native to which state?",
     "options": [
       {
         "id": 1,
-        "text": "Theyyam"
+        "text": "Bihar"
       },
       {
         "id": 2,
-        "text": "Padayani"
+        "text": "Manipur"
       },
       {
         "id": 3,
-        "text": "Oppana"
+        "text": "Kerala"
       },
       {
         "id": 4,
-        "text": "Margamkali"
+        "text": "Karnataka"
       }
     ],
-    "correctOptionId": 2,
-    "explanation": "Padayani is an ancient martial and ritualistic folk dance of Kerala adorned with huge masks. It is performed by men who are highly trained in the martial art form Kalaripayattu."
+    "correctOptionId": 4,
+    "explanation": "Yakshagana is a highly stylized, traditional theatre form that originated in the 16th century in coastal Karnataka [114]."
   },
   {
     "chapterId": "gk-4",
-    "text": "22. The 'Chu-Faat' folk dance is performed during the Pang Lhabsol festival to worship the snow-capped mountains. In which state is it celebrated?",
+    "text": "30. The spectacular 'Gaur Maria' ritual dance, where men wear magnificent headgears made of bison horns and cowrie shells, is performed by the Maria tribe of which state?",
     "options": [
       {
         "id": 1,
-        "text": "Uttarakhand"
+        "text": "Telangana"
       },
       {
         "id": 2,
-        "text": "Himachal Pradesh"
+        "text": "Chhattisgarh"
       },
       {
         "id": 3,
-        "text": "Sikkim"
+        "text": "Rajasthan"
       },
       {
         "id": 4,
-        "text": "Arunachal Pradesh"
+        "text": "Odisha"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Gaur Maria is a powerful, energetic tribal hunt-dance of the Bison Horn Maria (Gond) tribe in Bastar, Chhattisgarh [114]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "31. In which fast-paced, acrobatic folk dance of Chhattisgarh do Satnami community artists build magnificent human pyramids to honor Guru Ghasidas?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Karma"
+      },
+      {
+        "id": 2,
+        "text": "Pali"
+      },
+      {
+        "id": 3,
+        "text": "Panthi"
+      },
+      {
+        "id": 4,
+        "text": "Diwari"
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Chu-Faat is performed by the Lepcha tribe in Sikkim. The word literally translates to the 'worship of snow-capped mountains' (specifically Mt. Kanchenjunga)."
+    "explanation": "Panthi is a highly energetic, fast-paced acrobatic dance of the Satnami community [121]. Radheshyam Barle was awarded the Padma Shri in 2021 for his mastery of Panthi [121]."
   },
   {
     "chapterId": "gk-4",
-    "text": "23. 'Langvir Nritya' is an acrobatic folk dance traditionally performed strictly by men, where they balance on a long bamboo pole. To which region does it belong?",
+    "text": "32. Which famous indigenous dance of Mizoram involves clashing crossed bamboo poles on the ground while dancers step in and out of the shifting grids?",
     "options": [
       {
         "id": 1,
-        "text": "Tehri Garhwal region of Uttarakhand"
+        "text": "Khuallam"
       },
       {
         "id": 2,
-        "text": "Malwa region of Madhya Pradesh"
+        "text": "Cheraw"
       },
       {
         "id": 3,
-        "text": "Kutch region of Gujarat"
+        "text": "Laho"
       },
       {
         "id": 4,
-        "text": "Rohtak region of Haryana"
+        "text": "Chu-Faat"
       }
     ],
-    "correctOptionId": 1,
-    "explanation": "Langvir Nritya is mainly performed in the Tehri Garhwal region of Uttarakhand. Other prominent folk dances from Uttarakhand include Chholiya, Chanchari, and Hudka."
+    "correctOptionId": 2,
+    "explanation": "Cheraw (popularly known as the Bamboo Dance) is a historic dance of Mizoram [113]. It set a Guinness World Record for the largest number of bamboo dancers [113]."
   },
   {
     "chapterId": "gk-4",
-    "text": "24. Chhau is a major semi-classical dance prevalent in Eastern India. How many major recognized styles (sub-types) of Chhau dance exist?",
+    "text": "33. How many major regional styles of the semi-classical martial dance 'Chhau' exist in eastern India?",
     "options": [
       {
         "id": 1,
-        "text": "2"
+        "text": "5"
       },
       {
         "id": 2,
@@ -12085,307 +12301,19 @@
       },
       {
         "id": 3,
-        "text": "4"
+        "text": "9"
       },
       {
         "id": 4,
-        "text": "5"
+        "text": "7"
       }
     ],
     "correctOptionId": 2,
-    "explanation": "There are three specific types of Chhau dance: Seraikella Chhau (Jharkhand), Mayurbhanj Chhau (Odisha), and Purulia Chhau (West Bengal)."
+    "explanation": "There are exactly three major styles of Chhau dance: Seraikella Chhau (Jharkhand), Purulia Chhau (West Bengal), and Mayurbhanj Chhau (Odisha) [118]. Mayurbhanj is unique as it uses no masks [118]."
   },
   {
     "chapterId": "gk-4",
-    "text": "25. 'Gugga' is a famous ritual dance performed in processions taken out in memory of a local saint. To which state does this dance primarily belong?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Haryana"
-      },
-      {
-        "id": 2,
-        "text": "Puducherry"
-      },
-      {
-        "id": 3,
-        "text": "Uttar Pradesh"
-      },
-      {
-        "id": 4,
-        "text": "Jammu and Kashmir"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The Gugga folk dance is performed mainly by men in Haryana on the birthday of Gugga Pir during the months of August-September."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "26. In which state is the 'Chang dance' highly popular, particularly in regions like Churu, Jhunjhunu, Sikar, and Bikaner?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Tripura"
-      },
-      {
-        "id": 2,
-        "text": "Bihar"
-      },
-      {
-        "id": 3,
-        "text": "Rajasthan"
-      },
-      {
-        "id": 4,
-        "text": "Goa"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Chang dance is named after the percussion musical instrument 'Chang' and is performed during Holi festivities primarily in the Shekhawati and Bikaner regions of Rajasthan."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "27. Consider the following statements about the folk dance 'Rauf' (Based on exact SSC CGL 2025 PYQ):\n1. It is a women's group dance of Kashmir usually performed during Eid and spring festivals.\n2. Dancers align in two facing rows executing specific toe-heel footwork called 'ras'.\nWhich of the above is/are correct?",
-    "options": [
-      {
-        "id": 1,
-        "text": "1 only"
-      },
-      {
-        "id": 2,
-        "text": "2 only"
-      },
-      {
-        "id": 3,
-        "text": "Both 1 and 2"
-      },
-      {
-        "id": 4,
-        "text": "Neither 1 nor 2"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Both statements are correct. Rauf is a highly rhythmic traditional dance of Jammu & Kashmir where women form rows facing each other and perform a characteristic toe-and-heel movement known as 'ras'."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "28. Arrange the performance segments of the traditional 'Paika Nritya' of Odisha in their correct chronological order as tested in CGL 2025:\n1. Blowing the war conch (shankha)\n2. Shield-sword sparring drills\n3. Acrobatic somersaults\n4. Group victory shout of “Jai Jagannath”",
-    "options": [
-      {
-        "id": 1,
-        "text": "1, 2, 3, 4"
-      },
-      {
-        "id": 2,
-        "text": "4, 3, 2, 1"
-      },
-      {
-        "id": 3,
-        "text": "2, 1, 3, 4"
-      },
-      {
-        "id": 4,
-        "text": "1, 3, 2, 4"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Paika is a martial folk dance performed by the Khandayat warrior caste. The sequence strictly follows: 1) Initial blowing of the conch, 2) Mock sparring with shields and swords, 3) Acrobatic leaps, and 4) Concluding with a victory cry of 'Jai Jagannath'."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "29. Consider the following statements regarding 'Perini Shivatandavam' (Based on exact SSC CGL 2025 PYQ):\n1. It is a vigorous warrior dance that was revived in modern times.\n2. It originated from the court of the Chola kings of Tamil Nadu.\nWhich of the above statements is/are correct?",
-    "options": [
-      {
-        "id": 1,
-        "text": "1 only"
-      },
-      {
-        "id": 2,
-        "text": "2 only"
-      },
-      {
-        "id": 3,
-        "text": "Both 1 and 2"
-      },
-      {
-        "id": 4,
-        "text": "Neither 1 nor 2"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Statement 1 is correct. Statement 2 is incorrect because the Perini Shivatandavam (Dance of Warriors) originated during the Kakatiya Dynasty in Telangana, not the Chola dynasty of Tamil Nadu."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "30. Match the dominant folk dance with its core tribe/community correctly based on recent TCS patterns:\n1. Kalbelia -> A. Satnami (Chhattisgarh)\n2. Panthi -> B. Nomadic snake-charmers of Rajasthan\n3. Dangi Nritya -> C. Khandayat warrior caste of Odisha\n4. Paika -> D. Dang district Bhil-origin tribes",
-    "options": [
-      {
-        "id": 1,
-        "text": "1-B, 2-A, 3-D, 4-C"
-      },
-      {
-        "id": 2,
-        "text": "1-A, 2-B, 3-C, 4-D"
-      },
-      {
-        "id": 3,
-        "text": "1-C, 2-D, 3-B, 4-A"
-      },
-      {
-        "id": 4,
-        "text": "1-D, 2-A, 3-C, 4-B"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Correct Matching: Kalbelia is performed by the snake-charmer tribe of Rajasthan. Panthi is the dance of the Satnami community of Chhattisgarh. Dangi Nritya is by Bhil tribes of Dang (Gujarat). Paika is by the Khandayat warriors of Odisha."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "31. In which of the following classical/folk dance forms do female dancers predominantly wear a distinctive traditional two-piece costume known as 'Mekhela Sador'?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odissi and Gotipua"
-      },
-      {
-        "id": 2,
-        "text": "Sattriya and Bihu"
-      },
-      {
-        "id": 3,
-        "text": "Manipuri and Thang Ta"
-      },
-      {
-        "id": 4,
-        "text": "Kathak and Chholiya"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The 'Mekhela Sador' (or Mekhla Chadar) is the traditional indigenous dress worn by women in Assam, prominently featured during both the Bihu folk dance and the Sattriya classical dance."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "32. Ammannur Madhava Chakyar was highly honored with the Padma Shri for his immense, life-long contribution to which of the following ancient theatrical dance styles?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 2,
-        "text": "Yakshagana"
-      },
-      {
-        "id": 3,
-        "text": "Koodiyattam"
-      },
-      {
-        "id": 4,
-        "text": "Kathakali"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Ammannur Madhava Chakyar was a legendary exponent of 'Koodiyattam', one of the oldest traditional theatrical arts of Kerala, which UNESCO recognized as a masterpiece of global ancient art."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "33. Darshana Javeri, who was awarded the Padma Shri, is an internationally acclaimed exponent belonging to the 'Javeri Sisters' quartet. Which dance form are they famous for?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kathakali"
-      },
-      {
-        "id": 2,
-        "text": "Manipuri"
-      },
-      {
-        "id": 3,
-        "text": "Kathak"
-      },
-      {
-        "id": 4,
-        "text": "Mohiniyattam"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Javeri Sisters (Nayna, Suverna, Ranjana, and Darshana) are globally renowned for their instrumental role in bringing Manipuri classical dance to the international stage."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "34. Thiyam Suryamukhi Devi received the Sangeet Natak Akademi Award for her contribution to presenting rich cultural heritage to the world. Which dance form did she master?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gotipua Dance"
-      },
-      {
-        "id": 2,
-        "text": "Kathak Dance"
-      },
-      {
-        "id": 3,
-        "text": "Odissi Dance"
-      },
-      {
-        "id": 4,
-        "text": "Manipuri Dance"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "Thiyam Suryamukhi Devi was a legendary Manipuri dancer who notably represented India in a cultural program in the erstwhile USSR, showcasing the Manipuri dance tradition."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "35. Jatin Goswami was honored with the Padma Shri in the year 2008. He is widely known as one of the leading choreographers and exponents of which classical dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 2,
-        "text": "Kathakali"
-      },
-      {
-        "id": 3,
-        "text": "Sattriya"
-      },
-      {
-        "id": 4,
-        "text": "Bharatanatyam"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Jatin Goswami is a legendary name associated with Sattriya dance. His efforts were pivotal in getting Sattriya recognized on national and global platforms."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "36. In the traditional repertoire of a Bharatanatyam performance, which of the following represents the correct chronological sequence from the beginning to the concluding piece?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Alarippu, Jatiswaram, Shabdam, Varnam, Padam, Tillana"
-      },
-      {
-        "id": 2,
-        "text": "Jatiswaram, Alarippu, Varnam, Shabdam, Tillana, Padam"
-      },
-      {
-        "id": 3,
-        "text": "Shabdam, Tillana, Jatiswaram, Padam, Varnam, Alarippu"
-      },
-      {
-        "id": 4,
-        "text": "Alarippu, Varnam, Padam, Jatiswaram, Shabdam, Tillana"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The traditional Bharatanatyam Margam (repertoire) was codified by the Tanjore Quartet. It strictly follows the sequence: Alarippu (invocation), Jatiswaram (pure dance), Shabdam (melody with expressions), Varnam (the central, most complex piece), Padam (expressional dance), and concludes with Tillana (rhythmic finale)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "37. 'Tarangam' is a highly specialized and captivating element of which Indian classical dance, where the dancer balances a pot of water on their head while executing complex footwork on the edges of a brass plate?",
+    "text": "34. Which ancient ritual festival, celebrated by the Meitei community to please the gods, is considered the oldest precursor to Manipuri classical dance?",
     "options": [
       {
         "id": 1,
@@ -12393,2555 +12321,347 @@
       },
       {
         "id": 2,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 3,
-        "text": "Odissi"
-      },
-      {
-        "id": 4,
-        "text": "Kathak"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Tarangam is a unique signature feature of the Kuchipudi dance of Andhra Pradesh. The dancer performs intricate rhythmic patterns while balancing on the rim of a brass plate, often balancing a pitcher of water on the head."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "38. Which legendary dancer and choreographer is widely credited with the revival and global popularization of Odissi dance in the 20th century, and was the first person from Odisha to receive the Padma Vibhushan?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Birju Maharaj"
-      },
-      {
-        "id": 2,
-        "text": "Kelucharan Mohapatra"
-      },
-      {
-        "id": 3,
-        "text": "Uday Shankar"
-      },
-      {
-        "id": 4,
-        "text": "Vempati Chinna Satyam"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Guru Kelucharan Mohapatra (1926-2004) played a monumental role in reconstructing and popularizing Odissi. He trained iconic dancers like Sanjukta Panigrahi and Sonal Mansingh and became the first Odia to receive the Padma Vibhushan (2000)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "39. Consider the following statements about the 'Chhau' dance:\n1. It is a semi-classical dance with martial, tribal, and folk origins.\n2. Seraikella Chhau is performed in Jharkhand.\n3. Mayurbhanj Chhau, native to Odisha, strictly avoids the use of masks.\nWhich of the above statements is/are correct?",
-    "options": [
-      {
-        "id": 1,
-        "text": "1 and 2 only"
-      },
-      {
-        "id": 2,
-        "text": "2 and 3 only"
-      },
-      {
-        "id": 3,
-        "text": "1 and 3 only"
-      },
-      {
-        "id": 4,
-        "text": "1, 2, and 3"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "All three statements are correct. Chhau has three distinct styles: Seraikella (Jharkhand) and Purulia (West Bengal), which use elaborate masks, and Mayurbhanj (Odisha), which uniquely does not use masks."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "40. The 'Pandavani' folk art form involves the narration of tales from the Mahabharata with musical accompaniment. Who among the following is the most celebrated exponent of Pandavani, having won the Padma Vibhushan?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gulabo Sapera"
-      },
-      {
-        "id": 2,
-        "text": "Teejan Bai"
-      },
-      {
-        "id": 3,
-        "text": "Ileana Citaristi"
-      },
-      {
-        "id": 4,
-        "text": "Sita Devi"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Teejan Bai is a renowned exponent of Pandavani, a traditional performing art form from Chhattisgarh. She uses a single stringed instrument (Ektara) during her powerful narrations of the Mahabharata."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "41. Which of the following folk dances was included in the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2010, and is famously associated with the dancer Gulabo Sapera?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Ghoomar"
-      },
-      {
-        "id": 2,
-        "text": "Kalbelia"
-      },
-      {
-        "id": 3,
-        "text": "Bhavai"
-      },
-      {
-        "id": 4,
-        "text": "Chari"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Kalbelia dance of Rajasthan, performed by the nomadic snake-charmer tribe, was inscribed in the UNESCO Intangible Cultural Heritage list in 2010. Gulabo Sapera is its most legendary exponent."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "42. The 'Gotipua' dance tradition was historically performed by young boys dressed as women to praise Lord Jagannath and Krishna. It is widely considered the direct precursor to which major classical dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kathak"
-      },
-      {
-        "id": 2,
         "text": "Manipuri"
       },
       {
         "id": 3,
-        "text": "Sattriya"
+        "text": "Lai Haraoba"
       },
       {
         "id": 4,
-        "text": "Odissi"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "Gotipua is a traditional dance form of Odisha. When the Devadasi (Mahari) tradition declined, young boys known as Gotipuas continued the art form, laying the foundational roots for the modern revival of Odissi."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "43. Sonal Mansingh, a prominent Indian classical dancer who became the youngest recipient of the Padma Bhushan (1992) and Padma Vibhushan (2003), specializes primarily in which two dance forms?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kathak and Kuchipudi"
-      },
-      {
-        "id": 2,
-        "text": "Bharatanatyam and Odissi"
-      },
-      {
-        "id": 3,
-        "text": "Manipuri and Kathakali"
-      },
-      {
-        "id": 4,
-        "text": "Mohiniyattam and Sattriya"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Dr. Sonal Mansingh is a globally acclaimed maestro who masters both Bharatanatyam and Odissi. She founded the Centre for Indian Classical Dances (CICD) in New Delhi in 1977."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "44. Read the following statements marked as Assertion (A) and Reason (R). Choose the correct option:\nAssertion (A): Sattriya was officially recognized as a classical dance by the Sangeet Natak Akademi in the year 2000.\nReason (R): Sattriya dance was introduced in the 15th century by the great Vaishnava saint Mahapurush Srimanta Sankardev in Assam.",
-    "options": [
-      {
-        "id": 1,
-        "text": "Both A and R are true, and R is the correct explanation of A"
-      },
-      {
-        "id": 2,
-        "text": "Both A and R are true, but R is not the correct explanation of A"
-      },
-      {
-        "id": 3,
-        "text": "A is true, but R is false"
-      },
-      {
-        "id": 4,
-        "text": "A is false, but R is true"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Both statements are factually correct. Sattriya got classical status in 2000 and was created by Sankardev. However, its creation in the 15th century is not the specific 'reason' it was recognized in 2000 (which was due to modern advocacy and documentation)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "45. The 'Pung Cholom' is a highly energetic and acrobatic dance where performers jump, spin, and dance while simultaneously playing a hand-beaten drum. This is an essential component of which classical dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Sattriya"
-      },
-      {
-        "id": 2,
-        "text": "Kathakali"
-      },
-      {
-        "id": 3,
-        "text": "Manipuri"
-      },
-      {
-        "id": 4,
-        "text": "Odissi"
+        "text": "Gotipua"
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Pung Cholom (Roar of the Drum) is the soul of Manipuri Sankirtana music and classical dance. Performers play the Pung (a type of drum) while performing complex acrobatic choreography."
+    "explanation": "'Lai Haraoba' (meaning the merrymaking of the gods) is a Meitei festival in Manipur that forms the oldest root of Manipuri dance [77, 78]."
   },
   {
     "chapterId": "gk-4",
-    "text": "46. Which classical dance traces its origins to the traveling bards of northern India known as 'Katha-kaars', and is characterized by intricate footwork (tatkar) and rapid spins (chakkars)?",
+    "text": "35. The traditional female temple performance styles Tevitichiyam, Nangai Natakam, and Dasiyattam are early developmental forms of which classical dance?",
     "options": [
       {
         "id": 1,
-        "text": "Kathak"
-      },
-      {
-        "id": 2,
-        "text": "Kathakali"
-      },
-      {
-        "id": 3,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 4,
         "text": "Bharatanatyam"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Kathak derives from the Sanskrit word 'Katha' (story). The Kathakas were wandering storytellers. It is the only classical dance of North India and exhibits distinct Hindu and Islamic (Mughal) cultural synthesis."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "47. The 'Kalka-Bindadin' Gharana of Lucknow is famous for its expressive and emotionally rich style. Which legendary artist, awarded the Padma Vibhushan in 1986, was the leading exponent of this Gharana?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Lacchu Maharaj"
       },
       {
         "id": 2,
-        "text": "Pandit Birju Maharaj"
+        "text": "Mohiniyattam"
       },
       {
         "id": 3,
-        "text": "Sitara Devi"
+        "text": "Kathakali"
       },
       {
         "id": 4,
-        "text": "Shovana Narayan"
+        "text": "Sattriya"
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Pandit Birju Maharaj was a legendary exponent of the Lucknow Kalka-Bindadin Gharana of Kathak. He took the art form to new heights and was a master of rhythm and expression."
+    "explanation": "These early, solo ritual dances performed by women within temples are historically linked to the evolution of Mohiniyattam in Kerala [73]."
   },
   {
     "chapterId": "gk-4",
-    "text": "48. The 'Hojagiri' dance is a stunning performance where women balance earthen pitchers on their heads along with a bottle carrying a lighted lamp. To which specific state and tribe does this dance belong?",
+    "text": "36. Which of the following classical dancers of India is NOT an exponent of the Kuchipudi dance form?",
     "options": [
       {
         "id": 1,
-        "text": "Reang tribe of Tripura"
+        "text": "Raja and Radha Reddy"
       },
       {
         "id": 2,
-        "text": "Khasi tribe of Meghalaya"
+        "text": "Shobha Naidu"
       },
       {
         "id": 3,
-        "text": "Bodo tribe of Assam"
+        "text": "Vedantam Satyanarayana Sarma"
       },
       {
         "id": 4,
-        "text": "Santhal tribe of Jharkhand"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Hojagiri is a traditional folk dance performed by the women of the Reang (Bru) clan of Tripura. The dancers do not move their upper bodies, executing all movements with their hips and feet while balancing props."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "49. The 'Bagurumba' is a mesmerizing traditional spring dance characterized by movements resembling fluttering butterflies. It is predominantly performed by the Bodo tribe in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Nagaland"
-      },
-      {
-        "id": 2,
-        "text": "Manipur"
-      },
-      {
-        "id": 3,
-        "text": "Assam"
-      },
-      {
-        "id": 4,
-        "text": "Arunachal Pradesh"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Bagurumba is performed by the Bodo women of Assam. It is often called the 'butterfly dance' due to the distinctive sweeping movements of their colorful traditional attire (Dokhona)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "50. 'Cheraw' is an iconic and highly rhythmic dance where male performers rhythmically clap long bamboo staves together, while female dancers step in and out of the shifting bamboo blocks. It is the pride of which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Sikkim"
-      },
-      {
-        "id": 2,
-        "text": "Mizoram"
-      },
-      {
-        "id": 3,
-        "text": "Chhattisgarh"
-      },
-      {
-        "id": 4,
-        "text": "Odisha"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Cheraw is the traditional 'Bamboo Dance' of Mizoram. It is considered one of the oldest dances of the state and is performed on almost all festive occasions."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "51. In 2015, the 'Nati' dance entered the Guinness Book of World Records as the largest folk dance in the world. Which Indian state does the Nati dance originate from?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Uttarakhand"
-      },
-      {
-        "id": 2,
-        "text": "Himachal Pradesh"
-      },
-      {
-        "id": 3,
-        "text": "Punjab"
-      },
-      {
-        "id": 4,
-        "text": "Haryana"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Nati is the most famous folk dance of Himachal Pradesh, typically performed during festivals like Kullu Dussehra. It holds the Guinness World Record for the largest group participation."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "52. The 'Bhavai' dance is a thrilling and difficult folk art involving dancers balancing a series of up to 7 to 9 brass pitchers on their heads while dancing on the edges of swords or broken glass. Which state is most famous for this dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gujarat"
-      },
-      {
-        "id": 2,
-        "text": "Maharashtra"
-      },
-      {
-        "id": 3,
-        "text": "Madhya Pradesh"
-      },
-      {
-        "id": 4,
-        "text": "Rajasthan"
+        "text": "Kalamandalam Krishnan Nair"
       }
     ],
     "correctOptionId": 4,
-    "explanation": "While Bhavai originated as a theatre form in Gujarat, the 'Bhavai Dance'—the specific stunt-based art involving balancing pots on swords/glass—is predominantly associated with Rajasthan."
+    "explanation": "Raja/Radha Reddy, Shobha Naidu, and Vedantam Sarma are iconic Kuchipudi exponents [57, 58]. Kalamandalam Krishnan Nair is a doyen of Kathakali in Kerala [54, 55]."
   },
   {
     "chapterId": "gk-4",
-    "text": "53. The 'Dhimsa' dance is a vibrant tribal dance characterized by dancers forming a human chain and moving in circles to the beats of Mori and Thudum. It is primarily performed by the Porja caste in which state?",
+    "text": "37. Which traditional folk-play dance of Bihar, based on the mythological story of a brother and sister, is performed during Kartik Shukla Paksha?",
     "options": [
       {
         "id": 1,
-        "text": "Odisha"
+        "text": "Jhijhiya"
       },
       {
         "id": 2,
-        "text": "Andhra Pradesh"
+        "text": "Launda Naach"
       },
       {
         "id": 3,
-        "text": "Jharkhand"
+        "text": "Sama Chakeva"
       },
       {
         "id": 4,
-        "text": "Telangana"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Dhimsa is the official tribal dance of the Araku Valley in Andhra Pradesh. It is performed predominantly by the Porja, Kondadora, and Valmiki tribes to foster village harmony."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "54. The 'Raut Nacha' is a joyful dance performed strictly by men holding sticks in their hands, depicting the victory of good over evil. It is primarily performed immediately after Diwali by the Yadava community of which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bihar"
-      },
-      {
-        "id": 2,
-        "text": "Chhattisgarh"
-      },
-      {
-        "id": 3,
-        "text": "Uttar Pradesh"
-      },
-      {
-        "id": 4,
-        "text": "Jharkhand"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Raut Nacha is the traditional dance of the cowherd (Yadava) community in Chhattisgarh. It is essentially a devotional dance honoring Lord Krishna."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "55. Which of the following is an ancient folk theatre form from Jammu and Kashmir that combines acting, dance, and music, usually performing satires on social situations?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Maanch"
-      },
-      {
-        "id": 2,
-        "text": "Bhand Pather"
-      },
-      {
-        "id": 3,
-        "text": "Dashavatar"
-      },
-      {
-        "id": 4,
-        "text": "Nautanki"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Bhand Pather is the traditional folk theatre of Kashmir, combining play, music, and dance. The performers are known as Bhands, and they often use sarcasm and humor to highlight social issues."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "56. Consider the following statements about the 'Yakshagana' art form:\n1. It is a traditional theatre form combining dance, music, dialogue, and heavy makeup.\n2. It predominantly flourished in the coastal districts of Karnataka.\n3. It is traditionally performed exclusively by women.\nWhich of the above statements is/are correct?",
-    "options": [
-      {
-        "id": 1,
-        "text": "1 and 2 only"
-      },
-      {
-        "id": 2,
-        "text": "2 and 3 only"
-      },
-      {
-        "id": 3,
-        "text": "1 and 3 only"
-      },
-      {
-        "id": 4,
-        "text": "1, 2, and 3"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Statements 1 and 2 are correct. Yakshagana is a massive cultural symbol of Karnataka. Statement 3 is incorrect because traditionally, Yakshagana was performed exclusively by *men*, who also played female roles (though women do participate in modern times)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "57. 'Dollu Kunitha' is a major popular drum dance known for its rigorous and energetic performances. To which state does this dynamic dance belong?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Tamil Nadu"
-      },
-      {
-        "id": 2,
-        "text": "Kerala"
-      },
-      {
-        "id": 3,
-        "text": "Karnataka"
-      },
-      {
-        "id": 4,
-        "text": "Andhra Pradesh"
+        "text": "Bidesiya"
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Dollu Kunitha is an energetic drum dance of Karnataka, typically performed by the men of the Kuruba community to honor their deity, Beeralingeswara."
+    "explanation": "Sama Chakeva is a beautiful clay-toy and performance festival in Mithila (Bihar), celebrating the pure bond between siblings [113]."
   },
   {
     "chapterId": "gk-4",
-    "text": "58. The 'Singhi Chham' or Snow Lion Dance is a traditional masked dance deeply rooted in the folklore of the Himalayas. Which state officially associates with this dance?",
+    "text": "38. The 'Kamala' folk dance, which mimics the rowing of boats and netting of fish, is performed exclusively by the fishermen of which region?",
     "options": [
       {
         "id": 1,
-        "text": "Uttarakhand"
+        "text": "West Coast of Goa"
       },
       {
         "id": 2,
-        "text": "Sikkim"
+        "text": "Kumaon Hills of Uttarakhand"
       },
       {
         "id": 3,
-        "text": "Assam"
-      },
-      {
-        "id": 4,
-        "text": "Himachal Pradesh"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Singhi Chham is performed by the Bhutia people of Sikkim. Performers wear furry costumes resembling the mythical snow lion, a cultural symbol of the state and Mount Kanchenjunga."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "59. The 'Jat-Jatin' dance is a popular folk dance typically performed by a pair of men and women, exploring the sweet quarrels, love, and sorrow of a married couple. It is most popular in which region?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Mewar region of Rajasthan"
-      },
-      {
-        "id": 2,
         "text": "Mithila region of Bihar"
       },
       {
-        "id": 3,
-        "text": "Malwa region of Madhya Pradesh"
-      },
-      {
         "id": 4,
-        "text": "Awadh region of Uttar Pradesh"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Jat-Jatin is one of the most celebrated folk dances of North Bihar, especially in the Mithila and Koshi regions. It is traditionally performed on moonlit nights during the monsoon season."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "60. 'Matki' is a solo dance where women balance multiple earthen pots (matkis) on their heads. It is performed predominantly during weddings and festivals in which specific geographic plateau region?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Chota Nagpur Plateau"
-      },
-      {
-        "id": 2,
-        "text": "Deccan Plateau"
-      },
-      {
-        "id": 3,
-        "text": "Malwa Plateau (Madhya Pradesh)"
-      },
-      {
-        "id": 4,
-        "text": "Shillong Plateau"
+        "text": "Backwaters of Kerala"
       }
     ],
     "correctOptionId": 3,
-    "explanation": "The Matki dance is the signature folk dance of the Malwa region in Madhya Pradesh. It is usually performed by a solitary woman balancing a 'matki' (small pitcher) to the beat of a drum called 'Dhol'."
+    "explanation": "Kamala is an energetic, agricultural-mimicry dance performed by fishermen communities in the Mithila region of Bihar [115]."
   },
   {
     "chapterId": "gk-4",
-    "text": "61. Which ancient martial art of Manipur seamlessly translates into a spectacular performing art form, utilizing real swords and spears during the dance?",
+    "text": "39. Sangeeta Mazumdar was honored with the prestigious Casa de la, Spain in 2019 for her outstanding contribution to which Indian classical dance form?",
     "options": [
       {
         "id": 1,
-        "text": "Kalaripayattu"
+        "text": "Mohiniyattam"
       },
       {
         "id": 2,
-        "text": "Gatka"
+        "text": "Bharatanatyam"
       },
       {
         "id": 3,
-        "text": "Silambam"
+        "text": "Kuchipudi"
       },
       {
         "id": 4,
-        "text": "Thang-Ta"
+        "text": "Kathak"
       }
     ],
     "correctOptionId": 4,
-    "explanation": "Thang-Ta (sword and spear) is the popular name for the ancient Manipuri martial art known as Huyen Langlon. It is performed both as a combat technique and a graceful ritual dance."
+    "explanation": "Sangeeta Mazumdar is a prominent young Kathak artist who won the international Spanish honor for her cross-cultural dance representations [60, 61]."
   },
   {
     "chapterId": "gk-4",
-    "text": "62. Consider the classical dance 'Kuchipudi'. Which of the following statements is INCORRECT regarding this dance form?",
+    "text": "40. The traditional satirical solo dance-theatre 'Chakyar Koothu', where a single performer tells stories from the Epics using heavy narration, belongs to which state?",
     "options": [
       {
         "id": 1,
-        "text": "It originated in the Kuchelapuram village of Andhra Pradesh."
+        "text": "Tamil Nadu"
       },
       {
         "id": 2,
-        "text": "Siddhendra Yogi is highly credited with formalizing and systematizing the dance."
+        "text": "Kerala"
       },
       {
         "id": 3,
-        "text": "It is heavily characterized by the 'Ekahaarya' style, completely avoiding any group performances or drama."
+        "text": "Karnataka"
       },
       {
         "id": 4,
-        "text": "The performance typically begins with invocatory pieces like 'Ganesha Vandana'."
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Statement 3 is incorrect. While Kuchipudi does feature solo items today, it originally evolved strictly as a *dance-drama* (Bhagavata Mela Natakam) performed by a group of male actors, opposite to the pure 'Ekahaarya' solo style of traditional Bharatanatyam."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "63. The 'Nongkrem' dance is an essential religious festival dance offered to the all-powerful Goddess Ka Blei Synshar for a rich bumper harvest. It is performed by which tribe?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Garo tribe of Meghalaya"
-      },
-      {
-        "id": 2,
-        "text": "Khasi tribe of Meghalaya"
-      },
-      {
-        "id": 3,
-        "text": "Angami tribe of Nagaland"
-      },
-      {
-        "id": 4,
-        "text": "Munda tribe of Jharkhand"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Nongkrem dance is deeply associated with the Khasi tribe of Meghalaya. It is a five-day religious festival held annually in November at Smit, the cultural center of the Khasi Hills."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "64. Which globally recognized Indian folk dance was officially inscribed onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in the year 2023?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bhangra"
-      },
-      {
-        "id": 2,
-        "text": "Garba"
-      },
-      {
-        "id": 3,
-        "text": "Bihu"
-      },
-      {
-        "id": 4,
-        "text": "Lavani"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "In December 2023, the 'Garba of Gujarat' was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity, recognizing its role in fostering social equality."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "65. The 'Fugdi' dance is an incredibly fast-paced traditional dance where women spin continuously in circles until they are exhausted. It is a hallmark folk dance of which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Goa"
-      },
-      {
-        "id": 2,
-        "text": "Odisha"
-      },
-      {
-        "id": 3,
-        "text": "Punjab"
-      },
-      {
-        "id": 4,
-        "text": "Haryana"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Fugdi is an agricultural folk dance from the Konkan region, highly popular in Goa. Women perform it during festivals like Ganesh Chaturthi, making a blowing sound ('foo') while spinning rapidly."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "66. 'Karakattam' is an ancient folk dance of Tamil Nadu performed in praise of the rain goddess Mariamman. What is the central physical prop balanced by the dancers in this performance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "A large wooden wooden mask"
-      },
-      {
-        "id": 2,
-        "text": "A decorated brass or mud pot on the head"
-      },
-      {
-        "id": 3,
-        "text": "A long bamboo stave"
-      },
-      {
-        "id": 4,
-        "text": "A flaming torch on the palm"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "In Karakattam, performers balance an intricately decorated brass or mud pot ('Karakam') on their heads without touching it, while dancing to the tunes of Nadhaswaram and Thavil."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "67. Shovana Narayan, honored with the Padma Shri, is a globally recognized exponent. Under which legendary guru did she primarily train, and what dance form does she perform?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Trained under Kelucharan Mohapatra in Odissi"
-      },
-      {
-        "id": 2,
-        "text": "Trained under Birju Maharaj in Kathak"
-      },
-      {
-        "id": 3,
-        "text": "Trained under Vempati Chinna Satyam in Kuchipudi"
-      },
-      {
-        "id": 4,
-        "text": "Trained under Rukmini Devi Arundale in Bharatanatyam"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Shovana Narayan is an acclaimed Kathak maestro who was a disciple of the legendary Pandit Birju Maharaj. She served as an Indian Audit and Accounts Service officer alongside her illustrious dance career."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "68. 'Jhoomar' (not to be confused with Ghoomar) is a lively traditional dance often called the 'Bhangra of the Balochis'. It is predominantly performed by the men of which state during the harvest season?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Rajasthan"
-      },
-      {
-        "id": 2,
-        "text": "Haryana"
-      },
-      {
-        "id": 3,
-        "text": "Punjab"
-      },
-      {
-        "id": 4,
-        "text": "Gujarat"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Jhoomar is a traditional male folk dance of Punjab. Unlike the high-energy Bhangra, Jhoomar is slower, more rhythmic, and focuses on the graceful movement of the arms."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "69. 'Alkap' is an agrarian rural dance-drama performance that usually features a group of 10-12 dancers and singers. It is historically prominent in the rural districts of which two adjoining states?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Punjab and Haryana"
-      },
-      {
-        "id": 2,
-        "text": "Gujarat and Rajasthan"
-      },
-      {
-        "id": 3,
-        "text": "Jharkhand and West Bengal"
-      },
-      {
-        "id": 4,
-        "text": "Maharashtra and Goa"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Alkap is a popular rural folk dance-drama prevalent mainly in the Rajmahal hills of Jharkhand and the Murshidabad/Malda districts of West Bengal, combining dialogue, dance, and music."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "70. 'Giddha' is a popular folk dance characterized by clapping and singing traditional 'bolis'. Which demographic specifically performs the Giddha dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "The men of Punjab"
-      },
-      {
-        "id": 2,
-        "text": "The women of Punjab"
-      },
-      {
-        "id": 3,
-        "text": "The martial tribes of Haryana"
-      },
-      {
-        "id": 4,
-        "text": "The nomadic tribes of Rajasthan"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Giddha is the quintessential folk dance of women in Punjab. It is the female counterpart to the male-dominated Bhangra, showcasing the joyous energy of Punjabi women through clapping and rhythmic verses."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "71. Match the folk dance with its prime social/religious context, as asked in the exact SSC CGL 2025 Tier-1 exam:\n1. Rauf\n2. Karma\n3. Tamasha\n4. Jhumar\n\nA. Eid & spring-wedding festivities\nB. Bhadra Ekadashi agrarian ritual\nC. Night-long folk-theatre in Shimga season\nD. Post-monsoon tea-garden recreations",
-    "options": [
-      {
-        "id": 1,
-        "text": "1-A, 2-B, 3-C, 4-D"
-      },
-      {
-        "id": 2,
-        "text": "1-B, 2-A, 3-D, 4-C"
-      },
-      {
-        "id": 3,
-        "text": "1-C, 2-D, 3-A, 4-B"
-      },
-      {
-        "id": 4,
-        "text": "1-D, 2-C, 3-B, 4-A"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "This is an exact match from the recent TCS pattern: Rauf is performed during Eid in J&K. Karma is a Bhadra Ekadashi agrarian ritual in Central India. Tamasha is a night-long folk-theatre performed during the Shimga season in Maharashtra. Jhumar is a post-monsoon recreation of the tea-garden tribes in Assam/Bengal."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "72. Consider the following statements about the Kalbelia dance (Based on exact SSC CGL 2025 PYQ):\n1. Female costumes are black swirling skirts richly mirror-embroidered.\n2. It entered the UNESCO Representative List in 2010.\nWhich of the above statements is/are correct?",
-    "options": [
-      {
-        "id": 1,
-        "text": "1 only"
-      },
-      {
-        "id": 2,
-        "text": "2 only"
-      },
-      {
-        "id": 3,
-        "text": "Both 1 and 2"
-      },
-      {
-        "id": 4,
-        "text": "Neither 1 nor 2"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Both statements are correct. Kalbelia, the sensuous snake-charmer dance of Rajasthan, is known for its distinct black, mirror-embroidered flowing skirts that swirl like a serpent. It was internationally recognized by UNESCO in 2010."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "73. Which Kodava harvest festival is celebrated with the chants of 'Poli, Poli, Deva' and a ceremonial paddy harvest, in which Lord Iguthappa is invoked? (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "Ugadi"
-      },
-      {
-        "id": 2,
-        "text": "Puthari (Huttari)"
-      },
-      {
-        "id": 3,
-        "text": "Vishu"
-      },
-      {
-        "id": 4,
-        "text": "Kambala"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Puthari (or Huttari) is the traditional harvest festival of the Kodava community in Coorg (Karnataka). It is marked by the ceremonial cutting of the first paddy crop and vibrant traditional dances like Kolata."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "74. The 'Tusu' festival is primarily celebrated in the tribal regions of Jharkhand, particularly in the area between _____, Tamar, and Raydih. (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "Dumka"
-      },
-      {
-        "id": 2,
-        "text": "Deoghar"
-      },
-      {
-        "id": 3,
-        "text": "Bundu"
-      },
-      {
-        "id": 4,
-        "text": "Bokaro"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Tusu is a harvest festival celebrated in the Chota Nagpur plateau region (especially the Panch Pargana area between Bundu, Tamar, and Raydih in Jharkhand). It concludes on Makar Sankranti and involves vibrant singing and dancing."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "75. During the Solung festival celebrated by the Adi tribe of Arunachal Pradesh, which traditional drink is shared to promote social bonding? (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "Lugdi"
-      },
-      {
-        "id": 2,
-        "text": "Apong"
-      },
-      {
-        "id": 3,
-        "text": "Handia"
-      },
-      {
-        "id": 4,
-        "text": "Feni"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Apong is an indigenous rice beer traditionally brewed by the Adi, Nyishi, and Mising tribes of Arunachal Pradesh and Assam. It plays a central role in social bonding and rituals during the Solung festival, often accompanied by the Ponung dance."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "76. The Pongtu Festival, primarily observed to seek blessings before millet harvesting, is celebrated by which specific tribe of Arunachal Pradesh? (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "Tutsa tribe"
-      },
-      {
-        "id": 2,
-        "text": "Apatani tribe"
-      },
-      {
-        "id": 3,
-        "text": "Monpa tribe"
-      },
-      {
-        "id": 4,
-        "text": "Nyishi tribe"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The Pongtu festival is the most significant agricultural festival of the Tutsa tribe in the Changlang district of Arunachal Pradesh. They perform vibrant dances to invoke the supreme deity, Rangkathok, for a bumper millet harvest."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "77. The hornbill bird, after which the famous Naga festival is named, symbolizes boldness and _____ in Naga folklore. (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "Beauty"
-      },
-      {
-        "id": 2,
-        "text": "Alertness"
-      },
-      {
-        "id": 3,
-        "text": "Wisdom"
-      },
-      {
-        "id": 4,
-        "text": "Purity"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "In Naga folklore, the Indian Hornbill is highly revered and its feathers are used to decorate traditional headgears during tribal dances. It fundamentally symbolizes 'boldness and alertness'."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "78. 'Bidesia' is a popular form of folk dance-drama native to the Bhojpuri-speaking regions of Bihar. Who is credited with creating and popularizing this art form?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Vidyapati"
-      },
-      {
-        "id": 2,
-        "text": "Ramdhari Singh Dinkar"
-      },
-      {
-        "id": 3,
-        "text": "Bhikhari Thakur"
-      },
-      {
-        "id": 4,
-        "text": "Ustad Bismillah Khan"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Bhikhari Thakur, often called the 'Shakespeare of Bhojpuri', created the Bidesia folk theatre. It deals with social issues, migration, and the pain of separation between a rural woman and her husband working in a distant city."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "79. Which eminent dancer and choreographer, often called the Father of Modern Indian Dance, established a unique India Culture Centre in Almora to blend classical and folk traditions?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Birju Maharaj"
-      },
-      {
-        "id": 2,
-        "text": "Uday Shankar"
-      },
-      {
-        "id": 3,
-        "text": "Ram Gopal"
-      },
-      {
-        "id": 4,
-        "text": "Guru Gopinath"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Uday Shankar (brother of Ravi Shankar) is the pioneer of modern dance in India. He adapted European theatrical techniques to Indian classical dance and established his dance centre in Almora, Uttarakhand, in 1938."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "80. 'Jatra', a vibrant open-air theatrical dance-drama performance, is deeply rooted in the Bhakti movement and Chaitanya Mahaprabhu’s teachings. In which state is it most prominently performed?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odisha"
-      },
-      {
-        "id": 2,
-        "text": "Bihar"
-      },
-      {
-        "id": 3,
-        "text": "West Bengal"
-      },
-      {
-        "id": 4,
-        "text": "Assam"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Jatra is a popular folk-theatre form of West Bengal (and parts of Odisha). It involves loud, dramatic dialogues, singing, and exaggerated acting, traditionally depicting episodes from the lives of Krishna and Rama."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "81. The 'Gaur Maria' or Bison Horn dance is a spectacular tribal dance characterized by men wearing elaborate headgears adorned with bison horns. Which tribe predominantly performs it?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Santhal tribe of Jharkhand"
-      },
-      {
-        "id": 2,
-        "text": "Muria tribe of Chhattisgarh"
-      },
-      {
-        "id": 3,
-        "text": "Bhil tribe of Rajasthan"
-      },
-      {
-        "id": 4,
-        "text": "Garo tribe of Meghalaya"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Bison Horn Maria dance is a joyous community dance performed by the Muria/Maria Gonds of the Bastar region in Chhattisgarh, typically to invoke blessings for a good hunt and harvest."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "82. 'Suwa Naach' or the Parrot Dance is traditionally performed by women who sing and dance around a wooden parrot. It is a vital cultural expression of the Baiga and Gond tribes in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odisha"
-      },
-      {
-        "id": 2,
         "text": "Andhra Pradesh"
-      },
-      {
-        "id": 3,
-        "text": "Chhattisgarh"
-      },
-      {
-        "id": 4,
-        "text": "Madhya Pradesh"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Suwa Naach is the famous Parrot Dance of Chhattisgarh. Women perform this symbolic dance during the month of Diwali, expressing their sorrows and joys, believing the parrot will carry their messages to their loved ones."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "83. The famous 'Bihu' dance of Assam is celebrated three times a year. Which specific Bihu marks the Assamese New Year and the onset of the spring sowing season?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kongali (Kati) Bihu"
-      },
-      {
-        "id": 2,
-        "text": "Bhogali (Magh) Bihu"
-      },
-      {
-        "id": 3,
-        "text": "Rongali (Bohag) Bihu"
-      },
-      {
-        "id": 4,
-        "text": "Kati Bihu"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Rongali (or Bohag) Bihu is the most important of the three, marking the Assamese New Year in mid-April. It is characterized by vibrant and energetic Bihu dances. Kongali is the sombre harvest-protection period, and Bhogali is the feast post-harvest."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "84. 'Mudiyettu' is a traditional ritual theatre and folk dance drama from Kerala that enacts the mythological tale of a battle between two specific figures. Who are they?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Lord Shiva and Andhakasura"
-      },
-      {
-        "id": 2,
-        "text": "Goddess Kali and the demon Darika"
-      },
-      {
-        "id": 3,
-        "text": "Lord Rama and Ravana"
-      },
-      {
-        "id": 4,
-        "text": "Lord Krishna and Kamsa"
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Recognized by UNESCO as an Intangible Cultural Heritage, Mudiyettu is a ritual dance-drama from Kerala performed in Bhagavati temples, depicting the fierce mythological battle between Goddess Kali and the demon Darika."
+    "explanation": "Chakyar Koothu is an ancient, solo temple performance in Kerala where a Chakyar artist recites Sanskrit stories with witty social satire [113]."
   },
   {
     "chapterId": "gk-4",
-    "text": "85. 'Pulikali' is a recreational folk art where performers paint themselves to resemble tigers and hunters, dancing to the beats of instruments like the Udukku. During which major festival is it prominently performed in Kerala?",
+    "text": "41. How many basic talas (talams) form the structural foundation of Indian classical Carnatic music?",
     "options": [
       {
         "id": 1,
-        "text": "Onam"
+        "text": "37"
       },
       {
         "id": 2,
-        "text": "Vishu"
+        "text": "7"
       },
       {
         "id": 3,
-        "text": "Thrissur Pooram"
+        "text": "21"
       },
       {
         "id": 4,
-        "text": "Makaravilakku"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Pulikali (Tiger Dance) is a vibrant street spectacle performed primarily in Thrissur, Kerala, on the fourth day of the Onam festival. Performers with painted bellies mimicking tigers entertain the massive crowds."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "86. 'Tippani' dance originated as a work-dance among the Koli and Kharvi women of the Saurashtra region in Gujarat. What activity does this dance rhythmically mimic?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Harvesting and thrashing wheat"
-      },
-      {
-        "id": 2,
-        "text": "Churning butter in large pots"
-      },
-      {
-        "id": 3,
-        "text": "Beating the floor with wooden mallets to level it"
-      },
-      {
-        "id": 4,
-        "text": "Rowing boats in the Arabian sea"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Tippani essentially means 'to strike'. The dance evolved from the physical labor of women who used long wooden sticks with flat blocks (Tippani) to beat and level the lime plaster floors of houses, singing to relieve their fatigue."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "87. 'Dalkhai' is a highly energetic folk dance usually performed during the Dussehra and Bhaijiuntia festivals to propitiate Goddess Samaleswari. It is the pride of which specific region?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Malwa region of Madhya Pradesh"
-      },
-      {
-        "id": 2,
-        "text": "Kutch region of Gujarat"
-      },
-      {
-        "id": 3,
-        "text": "Sambalpur region of Odisha"
-      },
-      {
-        "id": 4,
-        "text": "Awadh region of Uttar Pradesh"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Dalkhai is the most popular folk dance of Western Odisha (especially Sambalpur). Young women dance in semi-circles while men accompany them with traditional drums like Dhol and Nisan."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "88. 'Ali-Aye-Ligang' is a lively spring festival associated with agriculture, accompanied by traditional 'Gumrag' dances. It is the most colorful festival of which indigenous tribe of Assam?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bodo tribe"
-      },
-      {
-        "id": 2,
-        "text": "Karbi tribe"
-      },
-      {
-        "id": 3,
-        "text": "Mising tribe"
-      },
-      {
-        "id": 4,
-        "text": "Dimasa tribe"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Ali-Aye-Ligang marks the onset of sowing seeds. It is uniquely celebrated by the Mising (Miri) tribe of Assam, characterized by the rhythmic Gumrag dance performed by both young men and women."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "89. The 'Wangala' festival, famous for its rhythmic dance and also known as the Festival of Hundred Drums, is a post-harvest celebration belonging to which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Nagaland"
-      },
-      {
-        "id": 2,
-        "text": "Meghalaya"
-      },
-      {
-        "id": 3,
-        "text": "Manipur"
-      },
-      {
-        "id": 4,
-        "text": "Mizoram"
+        "text": "11"
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Wangala is the most important festival of the Garo tribe in Meghalaya. It is a thanksgiving ceremony to Misi Saljong (the Sun God) for a rich harvest, culminating with the spectacular dance of a hundred drummers."
+    "explanation": "There are exactly 7 basic talas in Carnatic music: Dhruva, Matya, Rupaka, Jhampa, Triputa, Ata, and Eka [130]."
   },
   {
     "chapterId": "gk-4",
-    "text": "90. 'Garadi' is a prominent folk dance deeply connected to the epic Ramayana, traditionally performed to celebrate the victory of Lord Rama over Ravana. Where is it predominantly performed?",
+    "text": "42. Which legendary musicologist is credited with organizing and classifying the immense array of Hindustani classical ragas into ten standard parent scales ('Thaats')?",
     "options": [
       {
         "id": 1,
-        "text": "Puducherry"
+        "text": "Ustad Alauddin Khan"
       },
       {
         "id": 2,
-        "text": "Goa"
+        "text": "Pandit Vishnu Narayan Bhatkhande"
       },
       {
         "id": 3,
-        "text": "Lakshadweep"
+        "text": "Ustad Abdul Karim Khan"
       },
       {
         "id": 4,
-        "text": "Andaman & Nicobar"
+        "text": "Pandit Vishnu Digambar Paluskar"
       }
     ],
-    "correctOptionId": 1,
-    "explanation": "Garadi is the most famous folk dance of Puducherry. Dancers wear iron rings called 'Anjali' on their legs, which produce a rhythmic sound, mimicking the vanara (monkey) army of Lord Rama."
+    "correctOptionId": 2,
+    "explanation": "Pandit V.N. Bhatkhande revolutionized Hindustani classical music by codifying the raga notation system and organizing them into ten standardized parent scales (Thaats) [129, 130]."
   },
   {
     "chapterId": "gk-4",
-    "text": "91. 'Bardo Chham' is an elaborate masked dance depicting the triumph of good over evil forces. It is an important cultural feature of the Sherdukpen tribe located in which state?",
+    "text": "43. In which Mizo folk dance do performers wear the handwoven 'Pundum' shawl and welcome visitors during high-status feasts?",
     "options": [
       {
         "id": 1,
-        "text": "Sikkim"
+        "text": "Khuallam"
       },
       {
         "id": 2,
+        "text": "Cheraw"
+      },
+      {
+        "id": 3,
+        "text": "Laho"
+      },
+      {
+        "id": 4,
+        "text": "Chu-Faat"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Khuallam (meaning the dance of the guests) is performed by guests arriving at agricultural festivals in Mizoram, wearing traditional handwoven attire [118]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "44. The devotional folk-dance 'Chu-Faat' is performed by the Lepcha tribe of Sikkim during the Pang Lhabsol festival to worship what?",
+    "options": [
+      {
+        "id": 1,
+        "text": "The monsoon rain gods"
+      },
+      {
+        "id": 2,
+        "text": "The sacred snow-capped peaks of Mount Kanchenjunga"
+      },
+      {
+        "id": 3,
+        "text": "The river waters of Teesta"
+      },
+      {
+        "id": 4,
+        "text": "The forest trees"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Chu-Faat is performed with butter lamps and green bamboo branches by Lepchas to pay homage to the protective mountain peaks, especially Mount Kanchenjunga [118]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "45. Which of the following classical dancers is NOT associated with the Odissi dance form?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Sonal Mansingh"
+      },
+      {
+        "id": 2,
+        "text": "Kumkum Mohanty"
+      },
+      {
+        "id": 3,
+        "text": "Anita Ratnam"
+      },
+      {
+        "id": 4,
+        "text": "Pratima Bedi"
+      }
+    ],
+    "correctOptionId": 3,
+    "explanation": "Sonal Mansingh, Kumkum Mohanty, and Pratima Bedi are highly celebrated Odissi exponents [81]. Anita Ratnam is a contemporary dancer trained in Bharatanatyam and Mohiniyattam [81, 82]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "46. Who among the following classical dancers of India is a renowned exponent of Sattriya and received the Padma Shri in 2008?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Jatin Goswami"
+      },
+      {
+        "id": 2,
+        "text": "Kalamandalam Krishnan Nair"
+      },
+      {
+        "id": 3,
+        "text": "Rohini Bhate"
+      },
+      {
+        "id": 4,
+        "text": "Vedantam Satyanarayana Sarma"
+      }
+    ],
+    "correctOptionId": 1,
+    "explanation": "Jatin Goswami is a legendary pioneer and choreographer of Sattriya, honored with the Padma Shri in 2008 for his lifelong contributions [104, 105]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "47. The famous santoor player Pandit Shiv Kumar Sharma is originally a resident of which state/union territory?",
+    "options": [
+      {
+        "id": 1,
         "text": "Himachal Pradesh"
       },
       {
-        "id": 3,
-        "text": "Arunachal Pradesh"
-      },
-      {
-        "id": 4,
-        "text": "Ladakh"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Bardo Chham is performed by the Monpa and Sherdukpen tribes of Arunachal Pradesh. Dancers wear masks representing twelve different animals to depict stories based on Buddhist mythology."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "92. 'Hikat' is a playful folk dance performed without any musical instruments, where young girls hold hands, lean back, and spin around rapidly. To which region does it belong?",
-    "options": [
-      {
-        "id": 1,
+        "id": 2,
         "text": "Jammu & Kashmir"
       },
       {
-        "id": 2,
+        "id": 3,
         "text": "Punjab"
       },
       {
-        "id": 3,
+        "id": 4,
         "text": "Uttarakhand"
-      },
-      {
-        "id": 4,
-        "text": "Haryana"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Hikat is a popular folk dance of the Kashmir valley performed by groups of young girls. The momentum of the spinning is maintained by their own singing without the need for external instruments."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "93. 'Lavani', the traditional song and dance of Maharashtra, has two main branches. The branch that deals with spiritual, philosophical, and devotional themes is known as:",
-    "options": [
-      {
-        "id": 1,
-        "text": "Shringari Lavani"
-      },
-      {
-        "id": 2,
-        "text": "Nirguni Lavani"
-      },
-      {
-        "id": 3,
-        "text": "Baithakichi Lavani"
-      },
-      {
-        "id": 4,
-        "text": "Phadachi Lavani"
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Lavani is divided into two distinct forms: Nirguni Lavani, which deals with philosophy and devotion, and Shringari Lavani, which is highly erotic and romantic, dealing with love and separation."
+    "explanation": "Pandit Shiv Kumar Sharma, who revolutionized the Kashmiri folk instrument Santoor into a mainstream Indian classical instrument, hails from Jammu & Kashmir [135]."
   },
   {
     "chapterId": "gk-4",
-    "text": "94. Which of the following string instruments is played with a bow and is fundamentally associated with the Manganiyar community's folk music and dance performances in Rajasthan?",
+    "text": "48. Which of the following classical dance forms usually begins with the invocation dance 'Alarippu' and concludes with the energetic 'Thillana'?",
     "options": [
       {
         "id": 1,
-        "text": "Ravanahatha"
-      },
-      {
-        "id": 2,
-        "text": "Kamaicha"
-      },
-      {
-        "id": 3,
-        "text": "Sarangi"
-      },
-      {
-        "id": 4,
-        "text": "Ektara"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Kamaicha is one of the oldest bowed lute instruments in the world, carved from a single piece of mango wood. It is the signature instrument of the Manganiyar folk musicians of Western Rajasthan."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "95. The classical text 'Hastalakshana Deepika' meticulously details 24 basic mudras (hand gestures). This specific text serves as the primary manual for which Indian classical dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odissi"
-      },
-      {
-        "id": 2,
-        "text": "Kathak"
-      },
-      {
-        "id": 3,
         "text": "Kathakali"
       },
       {
-        "id": 4,
-        "text": "Manipuri"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "While Bharatanatyam relies heavily on the Abhinaya Darpanam, the Kathakali dance-drama of Kerala uses the Hastalakshana Deepika as its foundational grammar for its highly expressive 24 basic hand mudras."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "96. In the context of Indian classical dance costumes, which dance style is visually defined by the female dancer wearing a white or off-white Kasavu saree adorned with a golden brocade border?",
-    "options": [
-      {
-        "id": 1,
+        "id": 2,
         "text": "Bharatanatyam"
       },
       {
-        "id": 2,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 3,
-        "text": "Sattriya"
-      },
-      {
-        "id": 4,
-        "text": "Mohiniyattam"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "The costume of Mohiniyattam (Kerala) is iconic for its simplicity and elegance, strictly utilizing the traditional white or ivory-colored Kasavu saree with a distinct gold laced border."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "97. 'Dappu' is a lively dance where performers rhythmically beat a tambourine-like percussion instrument while making synchronized circular movements. It is immensely popular in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kerala"
-      },
-      {
-        "id": 2,
-        "text": "Andhra Pradesh"
-      },
-      {
-        "id": 3,
-        "text": "Tamil Nadu"
-      },
-      {
-        "id": 4,
-        "text": "Karnataka"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Dappu dance is a hallmark of Andhra Pradesh's coastal regions. Performers hold the Dappu (a shallow drum) in their left hand, beating it rhythmically with two sticks as they dance."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "98. 'Kamsale' is a unique folk art performed exclusively by the devotees of Male Mahadeshwara. It involves the rhythmic clanging of heavy bronze cymbals. Which state is famous for Kamsale?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Karnataka"
-      },
-      {
-        "id": 2,
-        "text": "Andhra Pradesh"
-      },
-      {
-        "id": 3,
-        "text": "Maharashtra"
-      },
-      {
-        "id": 4,
-        "text": "Goa"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Kamsale is a vigorous brass-cymbal dance closely tied to Shaiva traditions. It is performed predominantly in the Mysore, Nanjanagudu, and Kollegal regions of Karnataka."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "99. 'Thapetta Gullu' is a devotional dance where male dancers hang tin drums on their chests and beat them rhythmically to honor Goddess Kanaka Mahalakshmi. It is associated with which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Tamil Nadu"
-      },
-      {
-        "id": 2,
-        "text": "Telangana"
-      },
-      {
-        "id": 3,
-        "text": "Kerala"
-      },
-      {
-        "id": 4,
-        "text": "Andhra Pradesh"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "Thapetta Gullu is a popular rhythmic folk dance from the Srikakulam district of Andhra Pradesh, performed by agricultural communities wearing ghungroos and chest drums."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "100. The 'Lambadi' or Banjara dance is an expressive folk dance performed by nomadic tribal women adorned in heavy mirror-work jewelry, bone bangles, and brass anklets. It is native to which region?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gujarat and Rajasthan"
-      },
-      {
-        "id": 2,
-        "text": "Telangana and Andhra Pradesh"
-      },
-      {
-        "id": 3,
-        "text": "Madhya Pradesh and Chhattisgarh"
-      },
-      {
-        "id": 4,
-        "text": "Jharkhand and West Bengal"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Lambadi dance is associated with the semi-nomadic Banjara tribes of Telangana and Andhra Pradesh. Women perform it to seek a good harvest and blessing for their community."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "101. Which of the following is the classical dance form of Assam that was historically performed exclusively by male monks called 'Bhokots' in the sanctum sanctorum of local monasteries?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Ojapali"
-      },
-      {
-        "id": 2,
-        "text": "Sattriya"
-      },
-      {
-        "id": 3,
-        "text": "Ankia Naat"
-      },
-      {
-        "id": 4,
-        "text": "Borgeet"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Sattriya dance originated in the Sattras (Vaishnava monasteries) of Assam. For centuries, it was preserved and performed solely by celibate male monks known as Bhokots before transitioning to the modern stage."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "102. 'Chhau' dance incorporates highly energetic martial arts, mock combat, and acrobatics. The name 'Chhau' is generally believed to be derived from the Sanskrit word 'Chhaya'. What does 'Chhaya' translate to?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Warrior"
-      },
-      {
-        "id": 2,
-        "text": "Sword"
-      },
-      {
-        "id": 3,
-        "text": "Mask/Shadow"
-      },
-      {
-        "id": 4,
-        "text": "Leap"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "The word Chhau is derived from the Sanskrit word 'Chhaya', meaning shadow, image, or mask, which directly aligns with the heavy reliance on elaborate masks in the Seraikella and Purulia variants of the dance."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "103. 'Mayilattam' is a stunning artistic dance performed in the Hindu temple courtyards of South India, where dancers dress head-to-toe to resemble a specific bird. Which bird is it?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Swan"
-      },
-      {
-        "id": 2,
-        "text": "Eagle"
-      },
-      {
-        "id": 3,
-        "text": "Peacock"
-      },
-      {
-        "id": 4,
-        "text": "Parrot"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Mayilattam (Mayil means Peacock, Attam means Dance) is a traditional dance of Tamil Nadu performed in reverence to Lord Murugan, where artists wear a peacock costume complete with a beak and tail feathers."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "104. In the traditional repertoire of Odissi, the very first invocatory item performed by the dancer to seek the blessings of Lord Jagannath, Mother Earth, and the Guru is known as:",
-    "options": [
-      {
-        "id": 1,
-        "text": "Batu Nritya"
-      },
-      {
-        "id": 2,
-        "text": "Pallavi"
-      },
-      {
-        "id": 3,
-        "text": "Mangalacharan"
-      },
-      {
-        "id": 4,
-        "text": "Moksha"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "An Odissi performance strictly begins with Mangalacharan (an invocation), followed by Batu Nritya (pure dance), Pallavi (elaboration of raga), Abhinaya (expression), and concludes with Moksha (spiritual liberation)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "105. 'Ghoomar' is the most iconic folk dance of Rajasthan, famous for its graceful pirouettes. Originally, which specific tribe developed Ghoomar to worship Goddess Saraswati before it was embraced by Rajput royalty?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bhil tribe"
-      },
-      {
-        "id": 2,
-        "text": "Meena tribe"
-      },
-      {
-        "id": 3,
-        "text": "Sahariya tribe"
-      },
-      {
-        "id": 4,
-        "text": "Garasia tribe"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Ghoomar was traditionally developed by the indigenous Bhil tribe of Rajasthan. It was later patronized and highly refined by the Rajput kings, becoming the signature dance of royal Rajasthani women."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "106. Which of the following ritual dances is specifically performed during the Mopin Festival to drive away evil spirits? (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bihu"
-      },
-      {
-        "id": 2,
-        "text": "Popir"
-      },
-      {
-        "id": 3,
-        "text": "Sangpangtu"
-      },
-      {
-        "id": 4,
-        "text": "Ponung"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The 'Popir' dance is an elegant, highly rhythmic ritual dance performed by the women of the Galo tribe in Arunachal Pradesh during the Mopin festival to drive away evil spirits and pray for a good harvest."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "107. The Wancho tribe of Arunachal Pradesh performs a fierce and rhythmic war dance during which of the following festivals? (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "Hornbill"
-      },
-      {
-        "id": 2,
-        "text": "Chalo Loku"
-      },
-      {
-        "id": 3,
-        "text": "Oriah"
-      },
-      {
-        "id": 4,
-        "text": "Ojiyele"
-      }
-    ],
-    "correctOptionId": 4,
-    "explanation": "The Wancho tribe celebrates the 'Ojiyele' (or Oriah) festival during the spring season. A major highlight is their traditional war dance, performed by men wearing traditional headgear and holding swords/spears."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "108. In the traditional 'Jhora' dance of the Kumaon region, how do the participants physically connect with one another during the performance? (Based on exact SSC CGL 2025 PYQ)",
-    "options": [
-      {
-        "id": 1,
-        "text": "They hold each other by the arms."
-      },
-      {
-        "id": 2,
-        "text": "They hold a single long bamboo pole."
-      },
-      {
-        "id": 3,
-        "text": "They hold each other by the waist."
-      },
-      {
-        "id": 4,
-        "text": "They do not touch; they clap hands facing each other."
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Jhora is a famous community dance of Uttarakhand (Kumaon region) performed during spring. Men and women dance together in a circle, holding each other by the arms and moving in synchronized steps."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "109. 'Garudi Gombe' is a spectacular folk dance featuring performers wearing giant, hollow, papier-mâché doll-suits weighing up to 40 kg. It is native to which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Karnataka"
-      },
-      {
-        "id": 2,
-        "text": "Maharashtra"
-      },
-      {
-        "id": 3,
-        "text": "Kerala"
-      },
-      {
-        "id": 4,
-        "text": "Tamil Nadu"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Garudi Gombe (Magical Dolls) is a popular folk dance of Karnataka, usually performed during major festivals like Mysore Dasara. Dancers wear massive, colorful doll-suits representing mythological characters."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "110. 'Gowri Habba' is a significant festival celebrated a day before Ganesh Chaturthi. It features traditional rituals and folk performances honoring Goddess Gowri in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odisha"
-      },
-      {
-        "id": 2,
-        "text": "Karnataka"
-      },
-      {
-        "id": 3,
-        "text": "Gujarat"
-      },
-      {
-        "id": 4,
-        "text": "West Bengal"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Gowri Habba is widely celebrated in Karnataka (and parts of Andhra/Tamil Nadu). Married women fast and perform rituals, often accompanied by traditional folk songs and dances, seeking blessings from Goddess Gowri."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "111. 'Ashtami Rohini' is the regional name for Janmashtami. It is celebrated with grand processions, tiger dances (Pulikali), and cultural performances predominantly in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kerala"
-      },
-      {
-        "id": 2,
-        "text": "Assam"
-      },
-      {
-        "id": 3,
-        "text": "Madhya Pradesh"
-      },
-      {
-        "id": 4,
-        "text": "Rajasthan"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "In Kerala, Krishna Janmashtami is celebrated as Ashtami Rohini. It is marked by special temple rituals, Uriyadi (pot-breaking), and cultural folk displays like Pulikali."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "112. The 'Oppana' is a vibrant form of social entertainment dance performed exclusively by women, typically bridesmaids clapping and singing around a bride. To which specific community does it belong?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Parsi community of Maharashtra"
-      },
-      {
-        "id": 2,
-        "text": "Mappila Muslim community of Kerala"
-      },
-      {
-        "id": 3,
-        "text": "Kodava community of Karnataka"
-      },
-      {
-        "id": 4,
-        "text": "Santhal community of Jharkhand"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Oppana is the traditional bridal dance of the Mappila (Moplah) Muslim community of the Malabar region in Kerala. The bridesmaids sing rhythmic songs and clap their hands while moving around the bride."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "113. 'Margamkali' is an ancient traditional group dance that incorporates martial art elements and rhythmic clapping. It is predominantly performed by which community?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Jain community of Gujarat"
-      },
-      {
-        "id": 2,
-        "text": "Syrian Christian community of Kerala"
-      },
-      {
-        "id": 3,
-        "text": "Buddhists of Ladakh"
-      },
-      {
-        "id": 4,
-        "text": "Ahir community of Uttar Pradesh"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Margamkali is a highly rhythmic and martial-art-inspired group dance performed by the St. Thomas Syrian Christians of Kerala, typically during weddings and church feasts."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "114. The 'Dumhal' is a famous devotional dance performed by men wearing long, colorful robes and tall, conical caps studded with beads and shells. It belongs to which specific tribe?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bhutia tribe of Sikkim"
-      },
-      {
-        "id": 2,
-        "text": "Garo tribe of Meghalaya"
-      },
-      {
-        "id": 3,
-        "text": "Wattal tribe of Jammu & Kashmir"
-      },
-      {
-        "id": 4,
-        "text": "Bhil tribe of Rajasthan"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Dumhal is a classical folk dance of Kashmir, performed exclusively by the men of the Wattal tribe on specific occasions. It is distinct for its elaborate, tall, beaded headgear."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "115. Which traditional dance of Rajasthan features men riding dummy horses made of bamboo and papier-mâché, often performing mock fights to the beat of dhol and tasha?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gair"
-      },
-      {
-        "id": 2,
-        "text": "Kacchi Ghodi"
-      },
-      {
-        "id": 3,
-        "text": "Bhavai"
-      },
-      {
-        "id": 4,
-        "text": "Chari"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Kacchi Ghodi (Dummy Horse dance) originated in the Shekhawati region of Rajasthan. Dancers in vibrant costumes wear a dummy horse structure around their waists and perform mock sword fights detailing the tales of local bandits."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "116. The 'Chari' dance involves women performing graceful movements while balancing brass pots with burning cotton seeds on their heads. It is the traditional dance of which community?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gujjar community of Rajasthan"
-      },
-      {
-        "id": 2,
-        "text": "Manganiyar community of Rajasthan"
-      },
-      {
-        "id": 3,
-        "text": "Yadava community of Bihar"
-      },
-      {
-        "id": 4,
-        "text": "Satnami community of Chhattisgarh"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Chari is a highly attractive folk dance from the Kishangarh region of Rajasthan. It is performed by women of the Gujjar community to celebrate marriage or the birth of a male child, symbolizing the joy of collecting water."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "117. The 'Siddi Dhamal' dance is characterized by its distinct African origins, energetic drumming, and fire-breathing stunts. In which Indian state does the Siddi community primarily perform this?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gujarat"
-      },
-      {
-        "id": 2,
-        "text": "Assam"
-      },
-      {
-        "id": 3,
-        "text": "Punjab"
-      },
-      {
-        "id": 4,
-        "text": "Haryana"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The Siddi community, descendants of East Africans who migrated to India centuries ago, resides primarily in the Saurashtra region of Gujarat. Their 'Dhamal' dance is famous for its tribal African beats and acrobatics."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "118. Which dance form from the Kalahandi district of Odisha derives its name from a pitcher-shaped drum and was originally performed as a war dance to boost the morale of soldiers?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gotipua"
-      },
-      {
-        "id": 2,
-        "text": "Bagurumba"
-      },
-      {
-        "id": 3,
-        "text": "Ghumura"
-      },
-      {
-        "id": 4,
-        "text": "Ranappa"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Ghumura is a folk dance of the Kalahandi district of Odisha. It features a unique pitcher-shaped drum (Ghumura) strapped to the dancers' chests. Once a martial dance, it is now performed for cultural and social occasions."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "119. 'Kummi' is a popular folk dance of Tamil Nadu and Kerala. What is the most distinguishing feature of this dance regarding musical accompaniment?",
-    "options": [
-      {
-        "id": 1,
-        "text": "It relies exclusively on the heavy beats of the Pakhawaj."
-      },
-      {
-        "id": 2,
-        "text": "It is performed without any musical instruments; rhythm is maintained by the clapping of hands."
-      },
-      {
-        "id": 3,
-        "text": "It uses a massive 15-foot long wind instrument."
-      },
-      {
-        "id": 4,
-        "text": "It is performed to the modern electric synthesizer."
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Kummi is a simple and elegant folk dance performed by women in circles. It originated before musical instruments were invented; thus, the dancers maintain the beat purely by clapping their hands and singing."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "120. 'Kavadi Aattam' is a ceremonial sacrifice and dance offering characterized by dancers carrying a decorated wooden or bamboo arch on their shoulders. It is performed to worship which principal deity in Tamil Nadu?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Lord Murugan"
-      },
-      {
-        "id": 2,
-        "text": "Lord Shiva"
-      },
-      {
-        "id": 3,
-        "text": "Goddess Meenakshi"
-      },
-      {
-        "id": 4,
-        "text": "Lord Vishnu"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Kavadi Aattam is a burden-dance performed during the Thaipusam festival. Devotees carry a 'Kavadi' (a physical burden/canopy) on their shoulders to the shrines of Lord Murugan, demonstrating their devotion and penance."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "121. The 'Loor' dance is a traditional folk dance performed exclusively by girls. During which specific agricultural and festive season is it primarily performed in Haryana?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Winter season around Diwali"
-      },
-      {
-        "id": 2,
-        "text": "Spring season, particularly around Holi"
-      },
-      {
-        "id": 3,
-        "text": "Monsoon season around Teej"
-      },
-      {
-        "id": 4,
-        "text": "Autumn season around Dussehra"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Loor dance is very popular in the Bangar and Deswali areas of Haryana. It is performed by girls during the month of Phalgun (Spring/Holi) to mark the sowing of the Rabi crop, utilizing a question-and-answer singing format."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "122. Which traditional Goan folk dance is performed by women in the winter month of Pausha, characterized by intertwining their arms and singing eco-feminist songs to protect their households?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Dhalo"
-      },
-      {
-        "id": 2,
-        "text": "Fugdi"
-      },
-      {
-        "id": 3,
-        "text": "Dekhni"
-      },
-      {
-        "id": 4,
-        "text": "Tarangamel"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Dhalo is one of the most popular rural dances of Goa. Women assemble in a sacred space (Mand) in the village, interlock their arms, and sing traditional songs to seek divine protection for their families."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "123. 'Dekhni' is a captivating folk dance of Goa that uniquely blends Indian melodies with Western rhythms. The central theme of the dance usually revolves around the life of a:",
-    "options": [
-      {
-        "id": 1,
-        "text": "Fisherwoman"
-      },
-      {
-        "id": 2,
-        "text": "Devadasi (Temple dancer)"
-      },
-      {
-        "id": 3,
-        "text": "Christian bride"
-      },
-      {
-        "id": 4,
-        "text": "Warrior queen"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Dekhni means 'bewitching beauty' in Konkani. It is a semi-classical Goan dance featuring Christian girls portraying the role of a Devadasi (Hindu temple dancer) seeking to cross a river, blending Indian themes with Western musical instruments."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "124. The 'Tarangamel' is a highly energetic youth dance of Goa where performers wave colorful flags and streamers to the beat of Dhol and Rommel. It is most prominently performed during which two major festivals?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Dussehra and Holi"
-      },
-      {
-        "id": 2,
-        "text": "Diwali and Navratri"
-      },
-      {
-        "id": 3,
-        "text": "Christmas and Easter"
-      },
-      {
-        "id": 4,
-        "text": "Makar Sankranti and Pongal"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Tarangamel is the energetic festival dance of Goa, predominantly performed by exuberant youths wielding colorful flags/streamers (Tarangs) during the festive seasons of Dussehra and Shigmo (Holi)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "125. 'Bhaona' is a traditional presentation of the Ankia Naat (one-act plays) involving dance, dialogue, and music, deeply connected to Vaishnavism. Who created this art form in Assam?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Chaitanya Mahaprabhu"
-      },
-      {
-        "id": 2,
-        "text": "Mahapurush Srimanta Sankardeva"
-      },
-      {
-        "id": 3,
-        "text": "Guru Vempati Chinna Satyam"
-      },
-      {
-        "id": 4,
-        "text": "Lacchu Maharaj"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Srimanta Sankardeva created Bhaona in the 15th/16th century in Assam to spread religious messages to the masses. The performers of Bhaona are called 'Bhaoriya', and the plays usually depict the lives of Krishna and Rama."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "126. The 'Ranappa' dance of Odisha is a unique and physically challenging folk dance representing the childhood pranks of Lord Krishna. What physical prop is absolutely essential for the performers during this dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "A flaming sword"
-      },
-      {
-        "id": 2,
-        "text": "Long wooden stilts"
-      },
-      {
-        "id": 3,
-        "text": "A large earthen pot on the head"
-      },
-      {
-        "id": 4,
-        "text": "Heavy iron chains on the ankles"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Ranappa literally translates to 'a stilt'. Performers stand on long wooden stilts and dance to the rhythm of Dhol and Mahuri, singing songs relating to the childhood of Lord Krishna."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "127. The 'Phulpati' dance is an exclusive performance by unmarried girls to celebrate nature, wearing highly colorful traditional attire. It is widely popular in which specific geographic region?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Malwa region of Madhya Pradesh"
-      },
-      {
-        "id": 2,
-        "text": "Kutch region of Gujarat"
-      },
-      {
-        "id": 3,
-        "text": "Garo Hills of Meghalaya"
-      },
-      {
-        "id": 4,
-        "text": "Konkan Coast of Maharashtra"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Phulpati is a famous dance of the Malwa region in Madhya Pradesh. It is performed predominantly by the unmarried girls of the Banjara and Kanjar communities during the Holi festival to celebrate nature."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "128. 'Grida' is a vibrant folk dance of Madhya Pradesh performed to express the joy of a successful harvest. What is the primary agricultural occasion for performing the Grida dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Before sowing the Kharif crop"
-      },
-      {
-        "id": 2,
-        "text": "When the Rabi crop is ready for harvest in winter"
-      },
-      {
-        "id": 3,
-        "text": "During the peak monsoon season"
-      },
-      {
-        "id": 4,
-        "text": "After the destruction of crops by pests"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Grida dance is performed in Madhya Pradesh specifically when the Rabi crop is swaying in the fields, ready to be harvested. Villages gather to celebrate their hard work and impending prosperity."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "129. In the traditional 'Bacha Nagma' folk dance of Jammu and Kashmir, which is performed heavily during harvest season and weddings, who are the primary performers?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Elderly village headmen"
-      },
-      {
-        "id": 2,
-        "text": "Young girls holding earthen pots"
-      },
-      {
-        "id": 3,
-        "text": "Young boys dressed in female attire"
-      },
-      {
-        "id": 4,
-        "text": "Armed soldiers of the Dogra regiment"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Bacha Nagma (literally meaning 'adolescent boy's dance') is popular in Kashmir. Due to historical restrictions on female public performers, young boys dressed as women execute the graceful, spinning dance moves to entertain crowds."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "130. The 'Khoria' dance is an exclusive all-female dance from Haryana characterized by swift movements and rustic banter. On what specific occasion is it traditionally performed?",
-    "options": [
-      {
-        "id": 1,
-        "text": "During the cremation of a village elder"
-      },
-      {
-        "id": 2,
-        "text": "At the groom's house after the men have left to bring the bride"
-      },
-      {
-        "id": 3,
-        "text": "To inaugurate a newly built temple"
-      },
-      {
-        "id": 4,
-        "text": "During a lunar eclipse"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Khoria is a highly energetic all-women dance of Haryana. It is traditionally performed late at night in the groom's house after the men (baraat) have departed for the bride's house, allowing women to celebrate freely."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "131. Which vigorous dance, steeped in martial traditions, is performed by the Ahir community of Haryana specifically on moonlit nights during the month of Phalgun?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Gugga"
-      },
-      {
-        "id": 2,
-        "text": "Phag"
-      },
-      {
-        "id": 3,
-        "text": "Dhamal"
-      },
-      {
-        "id": 4,
-        "text": "Daph"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "The Dhamal dance is highly popular among the Ahirs of the Gurugram/Jhajjar region. Men perform this robust dance outdoors on moonlit nights in Phalgun, carrying large Dafs (tambourines) decorated with frills."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "132. The 'Gair' dance is a joyful circle dance performed using sticks, often confused with Dandiya but featuring sweeping, martial-style skirt movements. Which indigenous tribe of Rajasthan is famously associated with this dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bhil tribe"
-      },
-      {
-        "id": 2,
-        "text": "Meena tribe"
-      },
-      {
-        "id": 3,
-        "text": "Sahariya tribe"
-      },
-      {
-        "id": 4,
-        "text": "Kamar tribe"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The Gair dance is an iconic male-dominated stick dance belonging primarily to the Bhil community of the Mewar and Marwar regions of Rajasthan. It is performed specifically during the month of Holi."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "133. 'Chhapeli' is a traditional courtship dance from Uttarakhand characterized by its romantic and fast-paced rhythm. What two specific props do the male and female dancers hold respectively during the performance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "A sword and a shield"
-      },
-      {
-        "id": 2,
-        "text": "A mirror and a colorful handkerchief"
-      },
-      {
-        "id": 3,
-        "text": "A flute and a lotus flower"
-      },
-      {
-        "id": 4,
-        "text": "A brass pot and a burning lamp"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "In the Chhapeli dance of Kumaon (Uttarakhand), couples dance together. The female dancer typically holds a mirror in one hand and a colorful handkerchief in the other, symbolizing romance and beauty."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "134. The 'Kajri' is a famous folk song and dance heavily prevalent in Eastern Uttar Pradesh and Bihar. What is the central emotional theme and season associated with Kajri?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Victory in war during the winter"
-      },
-      {
-        "id": 2,
-        "text": "Longing for a lover or husband during the monsoon season"
-      },
-      {
-        "id": 3,
-        "text": "Worship of the Sun God during the summer"
-      },
-      {
-        "id": 4,
-        "text": "Harvesting of wheat during the spring"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Kajri is a semi-classical folk style. It is sung and danced to by women in Uttar Pradesh (especially Mirzapur and Varanasi) during the rainy season (monsoon), often expressing the pain of separation from their lovers."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "135. In the classical dance of Bharatanatyam, the 'Varnam' is considered the core and most demanding piece of the repertoire. What two fundamental elements of Indian classical dance does the Varnam uniquely combine?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Lasya (grace) and Tandava (vigor)"
-      },
-      {
-        "id": 2,
-        "text": "Nritta (pure rhythmic dance) and Nritya (expressive storytelling dance)"
-      },
-      {
-        "id": 3,
-        "text": "Hindustani music and Carnatic music"
-      },
-      {
-        "id": 4,
-        "text": "Natya (drama) and Rasa (flavor)"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Varnam is the longest and most complex item in Bharatanatyam. It requires the dancer to flawlessly alternate between 'Nritta' (pure, abstract rhythmic footwork) and 'Nritya' (Abhinaya or expressive facial acting)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "136. The 'Jaipur Gharana' of Kathak is celebrated for its highly complex footwork, rapid spins, and martial art influences. Who is historically credited as the founder of this prominent Gharana?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Janakiprasad"
-      },
-      {
-        "id": 2,
-        "text": "Ishwari Prasad"
-      },
-      {
-        "id": 3,
-        "text": "Bhanuji"
-      },
-      {
-        "id": 4,
-        "text": "Wajid Ali Shah"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "The Jaipur Gharana of Kathak traces its roots to Bhanuji, a devotee of Lord Shiva. Unlike the Lucknow Gharana which focuses on graceful expression (Nazakat), the Jaipur Gharana emphasizes robust footwork (Tatkar) and multiple spins (Chakkars)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "137. The 'Banaras Gharana' of Kathak places a heavy emphasis on Natwari dance, the exclusive use of the tabla (over pakhawaj), and the use of the floor (Thaat). Who established this classical Gharana?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Sitara Devi"
-      },
-      {
-        "id": 2,
-        "text": "Bhanuji"
-      },
-      {
-        "id": 3,
-        "text": "Janakiprasad"
-      },
-      {
-        "id": 4,
-        "text": "Lacchu Maharaj"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "The Banaras Gharana was developed by Janakiprasad. It is unique for its use of the 'Natwari' bols (syllables mimicking Lord Krishna's dance) and its pure, spiritual approach to Kathak."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "138. Guru Vempati Chinna Satyam, who was honored with the Padma Bhushan in 1998, is a monumental figure credited with systematizing and establishing a global training academy for which classical dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 2,
-        "text": "Kathakali"
-      },
-      {
         "id": 3,
         "text": "Odissi"
-      },
-      {
-        "id": 4,
-        "text": "Manipuri"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Guru Vempati Chinna Satyam founded the Kuchipudi Art Academy in Chennai in 1963. He is widely credited with refining Kuchipudi, creating a distinct solo repertoire, and elevating it to global classical status."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "139. Shambhu Maharaj, a legendary figure who received the Padma Shri in 1956, belonged to the illustrious Maharaj family of which classical dance Gharana?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Banaras Gharana of Kathak"
-      },
-      {
-        "id": 2,
-        "text": "Lucknow Gharana of Kathak"
-      },
-      {
-        "id": 3,
-        "text": "Jaipur Gharana of Kathak"
-      },
-      {
-        "id": 4,
-        "text": "Raigarh Gharana of Kathak"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Shambhu Maharaj (uncle of Pandit Birju Maharaj) was a stalwart of the Lucknow Kalka-Bindadin Gharana of Kathak. He was famous for his unparalleled mastery over 'Bhav' (emotional expression) and Thumri singing."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "140. The 'Dandiya Raas' is an energetic, stick-clashing dance from Gujarat performed during Navratri. It is essentially a dramatized, rhythmic re-enactment of a mythological battle between which two figures?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Lord Rama and Ravana"
-      },
-      {
-        "id": 2,
-        "text": "Lord Krishna and Kamsa"
-      },
-      {
-        "id": 3,
-        "text": "Goddess Durga and the demon Mahishasura"
-      },
-      {
-        "id": 4,
-        "text": "Lord Shiva and Andhakasura"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Dandiya Raas is the traditional folk dance of Gujarat. The dance is a stylized mock-fight representing the fierce battle between Goddess Durga and the mighty buffalo-demon Mahishasura, with the sticks (dandiyas) representing the swords of Durga."
-  },
-   {
-    "chapterId": "gk-4",
-    "text": "141. The 'Chholiya' dance is a vigorous martial dance involving rhythmic, synchronized movements with swords and shields. It is a traditional art form belonging to the Rajput communities of which region?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Mewar region of Rajasthan"
-      },
-      {
-        "id": 2,
-        "text": "Kumaon region of Uttarakhand"
-      },
-      {
-        "id": 3,
-        "text": "Malwa region of Madhya Pradesh"
-      },
-      {
-        "id": 4,
-        "text": "Kangra region of Himachal Pradesh"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Chholiya is a famous sword dance from the Kumaon region of Uttarakhand. It has martial origins but is now primarily performed during marriage processions (baraats) to ward off evil spirits."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "142. 'Gatka' is a traditional martial art form that involves highly choreographed, dance-like sparring using wooden sticks. It is famously associated with the Nihang warriors of which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Haryana"
-      },
-      {
-        "id": 2,
-        "text": "Punjab"
-      },
-      {
-        "id": 3,
-        "text": "Maharashtra"
-      },
-      {
-        "id": 4,
-        "text": "Gujarat"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Gatka is a traditional martial art of Punjab, deeply embedded in Sikh history. It is performed extensively during festivals like Baisakhi and Hola Mohalla, blending combat techniques with rhythmic footwork."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "143. Indian classical dances are accompanied by either Hindustani or Carnatic classical music systems. Which of the following classical dances is the ONLY one to exclusively use the Hindustani music system?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odissi"
-      },
-      {
-        "id": 2,
-        "text": "Kathak"
-      },
-      {
-        "id": 3,
-        "text": "Bharatanatyam"
       },
       {
         "id": 4,
@@ -14949,35 +12669,11 @@
       }
     ],
     "correctOptionId": 2,
-    "explanation": "Kathak, being the only classical dance from North India, relies entirely on the Hindustani classical music system (including Thumri, Tarana, and Ghazal), whereas South Indian dances (Bharatanatyam, Kuchipudi, etc.) use the Carnatic system."
+    "explanation": "Bharatanatyam recitals systematically unfold in six stages, starting with 'Alarippu' (invocation) and ending with 'Thillana' (fast-paced rhythmic finale) [99, 100]."
   },
   {
     "chapterId": "gk-4",
-    "text": "144. 'Thumri' is a semi-classical vocal music style characterized by its romantic and emotional appeal. Its evolution and integration into dance were most heavily promoted by the Lucknow Gharana of which classical dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kathak"
-      },
-      {
-        "id": 2,
-        "text": "Mohiniyattam"
-      },
-      {
-        "id": 3,
-        "text": "Odissi"
-      },
-      {
-        "id": 4,
-        "text": "Manipuri"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Thumri was integrated into the Kathak repertoire primarily during the 19th-century reign of Nawab Wajid Ali Shah of Awadh. The Lucknow Gharana of Kathak is especially famous for 'Bhav' (expression) performed to Thumri lyrics."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "145. Kumudini Lakhia, a Padma Shri and Padma Bhushan awardee, is widely celebrated for revolutionizing the group choreography of Kathak. Which famous dance institution did she establish in Ahmedabad?",
+    "text": "49. Guru Vempati Chinna Satyam, honored with the Padma Bhushan in 1998, founded which premier institution in Madras in 1963 to promote Kuchipudi?",
     "options": [
       {
         "id": 1,
@@ -14985,379 +12681,43 @@
       },
       {
         "id": 2,
+        "text": "Kuchipudi Kala Akademi"
+      },
+      {
+        "id": 3,
         "text": "Darpana Academy"
       },
       {
+        "id": 4,
+        "text": "Shiladheesh Sansthan"
+      }
+    ],
+    "correctOptionId": 2,
+    "explanation": "Guru Vempati Chinna Satyam established the Kuchipudi Kala Akademi in Madras in 1963 to systematically train and popularize Kuchipudi outside Andhra Pradesh [107, 108]."
+  },
+  {
+    "chapterId": "gk-4",
+    "text": "50. For an Indian dance form to be granted 'Classical' status by the Sangeet Natak Akademi, it must rigidly adhere to the rules, mudras, and expressions of which ancient text?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Abhinaya Darpana"
+      },
+      {
+        "id": 2,
+        "text": "Rig Veda"
+      },
+      {
         "id": 3,
-        "text": "Kadamb Centre for Dance"
+        "text": "Natya Shastra"
       },
       {
         "id": 4,
-        "text": "Nalanda Dance Research Centre"
+        "text": "Gitagovinda"
       }
     ],
     "correctOptionId": 3,
-    "explanation": "Kumudini Lakhia founded the Kadamb Centre for Dance and Music in Ahmedabad in 1967. She is credited with taking Kathak away from solely solo formats and introducing modern, multi-person choreographies."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "146. Guru Bipin Singh, who was honored with the Sangeet Natak Akademi Award, is regarded as one of the greatest directors and teachers of which Indian classical dance form?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Sattriya"
-      },
-      {
-        "id": 2,
-        "text": "Manipuri"
-      },
-      {
-        "id": 3,
-        "text": "Kathakali"
-      },
-      {
-        "id": 4,
-        "text": "Odissi"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "Guru Bipin Singh was a legendary exponent, choreographer, and scholar of Manipuri dance. He played a massive role in standardizing its repertoire and training iconic dancers like the Jhaveri Sisters."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "147. While the Sangeet Natak Akademi (SNA) officially recognizes 8 classical dances in India, the Indian Ministry of Culture recognizes 9. Which dance form constitutes the 9th addition by the Ministry?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Yakshagana"
-      },
-      {
-        "id": 2,
-        "text": "Chhau"
-      },
-      {
-        "id": 3,
-        "text": "Bhavai"
-      },
-      {
-        "id": 4,
-        "text": "Kalbelia"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Sangeet Natak Akademi recognizes exactly 8 classical dances. However, the Ministry of Culture, Government of India, includes the 'Chhau' dance of Eastern India as the 9th classical dance form on its official list."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "148. The 'Sangeet Natak Akademi', which dictates the recognition and national patronage of classical performing arts in India, was established by the Government of India in which year?",
-    "options": [
-      {
-        "id": 1,
-        "text": "1947"
-      },
-      {
-        "id": 2,
-        "text": "1953"
-      },
-      {
-        "id": 3,
-        "text": "1965"
-      },
-      {
-        "id": 4,
-        "text": "1972"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Sangeet Natak Akademi (National Academy of Music, Dance and Drama) was set up by the Indian Ministry of Education and was inaugurated in 1953 by Dr. Rajendra Prasad to preserve and promote the vast intangible heritage of India."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "149. 'Jhijhiya' is a cultural folk dance performed exclusively by women who balance earthen pitchers with holes and a lamp inside on their heads. It is performed during Navratri to invoke Goddess Durga in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Bihar"
-      },
-      {
-        "id": 2,
-        "text": "Gujarat"
-      },
-      {
-        "id": 3,
-        "text": "Rajasthan"
-      },
-      {
-        "id": 4,
-        "text": "Haryana"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Jhijhiya is a famous folk dance of the Mithila region of Bihar. Women sing devotional songs to Goddess Durga and perform this intricate balancing dance to protect their families from evil spells."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "150. The 'Goff' (or Gomph) dance is an intricate ribbon dance where participants weave complex braids using colorful cords hung from a central pole. It is a traditional peasant dance of which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odisha"
-      },
-      {
-        "id": 2,
-        "text": "Goa"
-      },
-      {
-        "id": 3,
-        "text": "Assam"
-      },
-      {
-        "id": 4,
-        "text": "Kerala"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Goff dance is a highly synchronized group dance of Goa, performed during the Shigmo festival. The dancers move rhythmically to weave the ribbons into a single braid, and then reverse their steps to unweave it."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "151. Every classical dance relies heavily on a specific percussion instrument. Which of the following two-sided drums is absolutely indispensable to the performance of the Sattriya dance of Assam?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Mridangam"
-      },
-      {
-        "id": 2,
-        "text": "Khol"
-      },
-      {
-        "id": 3,
-        "text": "Tabla"
-      },
-      {
-        "id": 4,
-        "text": "Pakhawaj"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The 'Khol' (or Mridanga) is a terracotta, two-sided drum that is the soul of Sattriya music and dance. It was popularized by Srimanta Sankardeva in Assam for use in Vaishnavite congregational singing and Bhaona performances."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "152. Similarly, which classical percussion instrument provides the primary rhythmic backbone and bol recitations (Ukutas) for the Odissi classical dance?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Dholak"
-      },
-      {
-        "id": 2,
-        "text": "Mardala (Pakhawaj)"
-      },
-      {
-        "id": 3,
-        "text": "Ghatam"
-      },
-      {
-        "id": 4,
-        "text": "Chenda"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Odissi Mardala (a variant of the Pakhawaj) is the exclusive percussion instrument used in Odissi dance. The intricate footwork of the dancer directly corresponds to the rhythmic syllables (Ukutas) played on the Mardala."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "153. In Kathak, the concluding rhythmic piece characterized by an extremely fast tempo and the recitation of rhythmic syllables (bols) without semantic meaning is called:",
-    "options": [
-      {
-        "id": 1,
-        "text": "Tillana"
-      },
-      {
-        "id": 2,
-        "text": "Tarana"
-      },
-      {
-        "id": 3,
-        "text": "Varnam"
-      },
-      {
-        "id": 4,
-        "text": "Thaat"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "While 'Tillana' is the fast-paced concluding piece of South Indian dances like Bharatanatyam, 'Tarana' is its equivalent in Hindustani music and Kathak dance, consisting of fast rhythmic syllables meant to display mastery of speed and timing."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "154. 'Laho' is a cheerful and elegant folk dance where groups of men and women link arms and dance in a circle. It is traditionally performed during the Behdienkhlam festival in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Nagaland"
-      },
-      {
-        "id": 2,
-        "text": "Meghalaya"
-      },
-      {
-        "id": 3,
-        "text": "Mizoram"
-      },
-      {
-        "id": 4,
-        "text": "Tripura"
-      }
-    ],
-    "correctOptionId": 2,
-    "explanation": "The Laho dance is performed by the Pnar (Jaintia) community of Meghalaya. It is characterized by a woman dancing in the middle, flanked by two men, all linking arms to celebrate their cultural heritage."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "155. 'Garia' is a prominent religious and cultural dance performed to invoke the deity of livestock and wealth. It is celebrated by the indigenous tripuri people in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Tripura"
-      },
-      {
-        "id": 2,
-        "text": "Sikkim"
-      },
-      {
-        "id": 3,
-        "text": "Assam"
-      },
-      {
-        "id": 4,
-        "text": "Jharkhand"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The Garia dance is an essential part of the Garia Puja festival in Tripura, held in the month of Chaitra. The tribes perform this dance to appease Lord Garia for peace, prosperity, and a good harvest."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "156. Which highly stylized classical dance of South India borrows heavily from the ancient martial art form 'Kalaripayattu' for its rigorous physical training, massive leaps, and basic stances (Mandalams)?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Mohiniyattam"
-      },
-      {
-        "id": 2,
-        "text": "Bharatanatyam"
-      },
-      {
-        "id": 3,
-        "text": "Kathakali"
-      },
-      {
-        "id": 4,
-        "text": "Kuchipudi"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "Kathakali's physical vocabulary, including its deep, wide-legged stances and rigorous massage-based training regimens, is directly derived from Kalaripayattu, the ancient martial art of Kerala."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "157. Vedantam Satyanarayana Sarma, a recipient of the Padma Shri and Sangeet Natak Akademi Award, was legendary for his unmatched ability to portray female characters (Stree Vesham). Which classical dance did he master?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Kuchipudi"
-      },
-      {
-        "id": 2,
-        "text": "Kathakali"
-      },
-      {
-        "id": 3,
-        "text": "Sattriya"
-      },
-      {
-        "id": 4,
-        "text": "Odissi"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Vedantam Satyanarayana Sarma was a stalwart of the Kuchipudi dance. In traditional Kuchipudi (which was performed exclusively by men), he became globally famous for flawlessly enacting female roles like Usha and Satyabhama."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "158. The 'Madai' festival is an ancient, ecstatic celebration where tribal communities gather to worship the local goddess Kesharpal Kesharpalin Devi with vibrant dances. In which state is it primarily celebrated?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Chhattisgarh"
-      },
-      {
-        "id": 2,
-        "text": "Uttar Pradesh"
-      },
-      {
-        "id": 3,
-        "text": "Haryana"
-      },
-      {
-        "id": 4,
-        "text": "Punjab"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "The Madai festival is celebrated by the Gond and Muria tribes of the Bastar region in Chhattisgarh. It involves a massive procession of local deities followed by night-long tribal singing and dancing."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "159. 'Bhortal' is a fast-paced and highly energetic group dance that involves performers executing rapid footwork while clashing heavy brass cymbals. It was developed by Narahari Burha Bhakat in which state?",
-    "options": [
-      {
-        "id": 1,
-        "text": "Odisha"
-      },
-      {
-        "id": 2,
-        "text": "West Bengal"
-      },
-      {
-        "id": 3,
-        "text": "Assam"
-      },
-      {
-        "id": 4,
-        "text": "Karnataka"
-      }
-    ],
-    "correctOptionId": 3,
-    "explanation": "The Bhortal dance is a modern addition to the cultural landscape of Assam. It was developed by Narahari Burha Bhakat (a Sattriya artist) and involves 6 to 10 dancers performing acrobatic movements with large cymbals (Bhortals)."
-  },
-  {
-    "chapterId": "gk-4",
-    "text": "160. Read the following statements marked as Assertion (A) and Reason (R). Choose the correct option:\nAssertion (A): The Sangeet Natak Akademi designates certain Indian dances as 'Classical' based on strict artistic criteria.\nReason (R): To be recognized as classical, the dance form must rigidly adhere to the principles, grammar, and expressions laid down in the ancient Sanskrit text 'Natya Shastra' by Bharata Muni.",
-    "options": [
-      {
-        "id": 1,
-        "text": "Both A and R are true, and R is the correct explanation of A"
-      },
-      {
-        "id": 2,
-        "text": "Both A and R are true, but R is not the correct explanation of A"
-      },
-      {
-        "id": 3,
-        "text": "A is true, but R is false"
-      },
-      {
-        "id": 4,
-        "text": "A is false, but R is true"
-      }
-    ],
-    "correctOptionId": 1,
-    "explanation": "Both statements are absolutely correct. The primary qualifying criterion for an Indian dance form to be granted 'Classical' status by the Sangeet Natak Akademi is its strict adherence to the theoretical rules, mudras, and aesthetics outlined in Bharata Muni's Natya Shastra."
+    "explanation": "Adherence to the grammar, mudras, and aesthetic principles laid down in Bharata Muni's ancient 'Natya Shastra' is the fundamental criterion for classical recognition [51]."
   },
   {
     "chapterId": "gk-5",
