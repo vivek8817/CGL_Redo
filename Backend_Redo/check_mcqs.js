@@ -44,8 +44,10 @@ function countMcqsInFile(filePath) {
 }
 
 countMcqsInFile(path.join(dataDir, 'biology_mcqs.json'));
+countMcqsInFile(path.join(dataDir, 'economics_mcqs.json'));
 countMcqsInFile(path.join(dataDir, 'geography_mcqs.json'));
 countMcqsInFile(path.join(dataDir, 'polity_mcqs.json'));
+countMcqsInFile(path.join(dataDir, 'staticGk_mcqs.json'));
 countMcqsInFile(path.join(historyDir, 'ancient_mcqs.json'));
 countMcqsInFile(path.join(historyDir, 'medieval_mcqs.json'));
 countMcqsInFile(path.join(historyDir, 'modern_mcqs.json'));
